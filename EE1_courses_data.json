@@ -1,0 +1,511 @@
+{
+    "1": [
+        {
+            "code": "ELL101",
+            "name": "Introduction to Electrical Engineering",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Elements in an Electrical circuit: R, L, C, Diode, Voltage and current sources (independent and dependent/controlled sources). DC circuits, KCL, KVL, Network theorems, Mesh and nodal analysis. Step response in RL, RC, RLC circuits. Phasor analysis of AC circuits. Single phase and 3-phase circuits. Two port network, BJT: CE and small signal model, Operational amplifiers: Model and applications, Introduction to Digital circuits. Magnetic circuits, Transformers: Modeling and analysis, parameter determination. Energy in magnetic field. Electromechanical energy conversion principles with examples. Principles of measurement of voltage, current and power."
+        },
+        {
+            "code": "ELP101",
+            "name": "Introduction to Electrical Engineering",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project."
+        },
+        {
+            "code": "MCP100",
+            "name": "Introduction to Engineering Visualization",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Sketching of engineering objects and interpretation of drawings as a visualisation and communication tool. Creating 3D components through the use of a CAD package. Simple assemblies, generation of assembly views from part drawings, animation of simple assemblies."
+        },
+        {
+            "code": "PYL101",
+            "name": "Electromagnetism & Quantum Mechanics",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Electromagnetism: Vector analysis, Electric and magnetic fields in media, Susceptibility and ohmic Conductivity, Maxwell\u2019s relations, interface conditions, EM wave equation, plane wave solutions, polarization of EM waves, Poynting vector and intensity, wave packets, phase and group velocities, reflection and refraction at dielectric interfaces, Brewster\u2019s angle, and total internal reflection. Quantum Mechanics: Wave-particle duality, de-Brogile waves, quantum mechanical operators, Schrodinger equation, wave function, statistical interpretation, superposition principle, continuity equation for probability density, stationary states, bound states, free-particle solution, 1-D infinite potential well, expectation values and uncertainty relations, 1-D finite potential well, and quantum mechanical tunnelling and alpha-decay."
+        },
+        {
+            "code": "MTL100",
+            "name": "Calculus",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Review of limit, continuity and differentiability, uniform continuity. Mean value theorems and applications, Taylor\u2019s theorem, maxima and minima. Sequences and series, limsup, liminf, convergence of sequences and series of real numbers, absolute and conditional convergence. Riemann integral, fundamental theorem of integral calculus, applications of definite integrals, improper integrals, beta and gamma functions. Functions of several variables, limit and continuity, partial derivatives and differentiability, gradient, directional derivatives, chain rule, Taylor\u2019s theorem, maxima and minima and the method of Lagrange multipliers. Double and triple integration, Jacobian and change of variables formula. Parameterization of curves and surfaces, vector fields, divergence and curl. Line integrals, Green\u2019s theorem, surface integral, Gauss and Stokes\u2019 theorems with applications."
+        },
+        {
+            "code": "PYP100",
+            "name": "Physics Laboratory",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines."
+        },
+        {
+            "code": "MCP101",
+            "name": "Product Realization through Manufacturing",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams."
+        }
+    ],
+    "2": [
+        {
+            "code": "APL100",
+            "name": "Engineering Mechanics",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Kinematics, Statics, Equations of Motion, Rigid body dynamics, Introduction to variational mechanics."
+        },
+        {
+            "code": "COL100",
+            "name": "Introduction to Computer Science",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 2
+            },
+            "description": "organization of Computing Systems. Concept of an algorithm; termination and correctness. Algorithms to programs: specification, top-down development and stepwise refinement. Problem solving using a functional style; Correctness issues in programming; Efficiency issues in programming; Time and space measures. Procedures, functions. Data types, representational invariants. Encapsulation, abstractions, interaction and modularity. Identifying and exploiting inherent concurrency. Structured style of imperative programming. Introduction to numerical methods. At least one example of large program development."
+        },
+        {
+            "code": "CML101",
+            "name": "Introduction to Chemistry",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Basics of rate laws; Complex reactions: consecutive and parallel reactions; Temperature dependence of reaction rates; Reaction mechanisms: steady-state approximation, pre-equilibria, unimolecular reactions; Catalysis; Atomic structure: Schr\u00f6dinger equation, the hydrogen atom; The chemical bond: simplest molecules H2 + and H2; Vibration of diatomics: harmonic oscillator and Morse potential Stability of organometallic compounds; Metal carbonyls: structure and bonding; Important reactions of organometallic compounds; Homogeneous catalysis; Applications of crystal field theory; An overview of metals in biology; Functions of metalloproteins R/S-Nomenclature; Projection formulas; Mo approaches for the stereochemical outcome of the reactions; Determination of reaction mechanism; Kinetic versus thermodynamic control of the reaction; Trapping of reactive intermediates; Spectroscopic methods of structure determination."
+        },
+        {
+            "code": "MTL101",
+            "name": "Linear Algebra and Differential Equations",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Vector spaces over Q, R and C, subspaces, linear independence, linear span of a set of vectors, basis and dimension of a vector space, sum and direct sum. Systems of linear (homogeneous and non-homogeneous) equations, matrices and Gauss elimination, elementary row operations, row space, column space, null space and rank of a matrix. Linear transformation, rank-nullity theorem and its applications, matrix representation of a linear transformation, change of basis and similarity. Eigenvalues and eigenvectors, characteristic and minimal polynomials, Cayley-Hamilton theorem (without proof) and applications. Review of first order differential equations, Picard\u2019s theorem, linear dependence and Wronskian. Dimensionality of space of solutions, linear ODE with constant coefficients of second and higher order, Cauchy-Euler equations, Method of undetermined coefficients and method of variation of parameters. Boundary Value Problems: Sturm- Liouville eigenvalue problems. System of linear differential equations with constant coefficients, fundamental matrix, matrix methods. Power Series and its convergence, power series method, Fourier series, Laplace Transform Method."
+        },
+        {
+            "code": "CMP100",
+            "name": "Chemistry Laboratory",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Experiments involve the following: Titrations, Surface Tension and Viscosity, Potentiometery, Conductometry, Preparation of metal complexes and important organic compounds, Kinetics, Chromatography, Qualitative and quantitative estimation of organic compounds."
+        }
+    ],
+    "3": [
+        {
+            "code": "ELL205",
+            "name": "Signals and Systems",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Motivation & orientation, Classifications of signals & systems, Dynamic representation of LTI systems (discrete & continuous-time systems), Fourier analysis of continuous-time signals & systems, Fourier analysis of discrete-time signals & systems, Nyquist sampling theorem, Laplace transform, The z-transform, Introduction to probability, random variables and stochastic processes."
+        },
+        {
+            "code": "ELL202",
+            "name": "Circuit Theory",
+            "prereqs": "[ELL101]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "overview of network analysis techniques, network theorems, transient and steady-state sinusoidal response. Network graphs and their applications in network analysis. Tellegen\u2019s theorem, two-port networks, Z, Y, h, g, and transmission matrices. Combining two ports in various configurations. Analysis of transmission lines to motivate the scattering matrix. Scattering matrix and its applications in network analysis. Network functions, positive real functions, and network synthesis. Butterworth and Chebyshev approximations. Synthesis of lossless two-port networks. Synthesis of lattice all-pass filters."
+        },
+        {
+            "code": "COL106",
+            "name": "Data Structures & Algorithms",
+            "prereqs": "[COL100]",
+            "overlap": "",
+            "credits": 5.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Introduction to object-oriented programming through stacks queues and linked lists. Dictionaries; skip-lists, hashing, analysis of collision resolution techniques. Trees, traversals, binary search trees, optimal and average BSTs. Balanced BST: AVL Trees, 2-4 trees, red-black trees, B-trees. Tries and suffix trees. Priority queues and binary heaps. Sorting: merge, quick, radix, selection and heap sort, Graphs: Breadth first search and connected components. Depth first search in directed and undirected graphs. Disjkra\u2019s algorithm, directed acyclic graphs and topological sort. Some geometric data-structures."
+        },
+        {
+            "code": "ELL203",
+            "name": "Electromechanics",
+            "prereqs": "[ELL101]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Review: AC Circuits, Complex representation and Power Measurement. Magnetic Circuits: Simple magnetic circuit, analogy between magnetic circuits and electrical circuits, linear and nonlinear magnetic circuits, hysteresis and eddy current losses, permanent magnet materials. Transformers: Single-phase and three-phase, analysis, equivalent circuit, Tests on transformers, phasor diagram regulation and efficiency, auto-transformer and instrument transformers (PT/CT). Electro-mechanical energy conversion principles: Force and EMF production in a rotating machine. DC machines: Types, construction, working principle, characteristics and applications. 3-phase induction machines: Types, construction, Introduction to windings and winding factor, production of revolving magnetic field, working principle on 3-phase induction machine, equivalent circuit, characteristics, phasor diagram and applications. 3-phase synchronous machines: Types, construction, working i  principle, equivalent circuit, characteristics, phasor diagram and applications. Fractional-HP and Special Machines."
+        },
+        {
+            "code": "ELL211",
+            "name": "Physical Electronics",
+            "prereqs": "[ELL101 && PYL101]",
+            "overlap": "ELL732, ELL231, EPL336, EPL439 , PHL653,",
+            "credits": 3.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "PHL704, PHL705, PHL727, PHL793 Semiconductor materials , crystal structure, carriers in semiconductors, band structure, density of states, excitons, doping and carrier statistics, carrier transport, recombination and generation, p-n junction physics: built-in potential, forward and reverse bias, capacitance, diode currents, breakdown, tunnel effects; metal- semiconductor junctions; BJTs: current gain/Gummel plots, transistor models, breakdown;MoSFET physics: MoS capacitors, inversion, depletion, accumulation, flatband, threshold voltage, long-channel model, saturation, short-channel models, sub-threshold conduction, SPICE models for MoSFETs; optoelectronic device physics, LEDs/ oLEDs, lasers, photodetectors, solar cells."
+        }
+    ],
+    "4": [
+        {
+            "code": "MTL106",
+            "name": "Probability and Stochastic Processes",
+            "prereqs": "[]",
+            "overlap": "MTL108",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Axioms of probability, Probability space, Conditional probability, Independence, Bayes\u2019 rule, Random variable, Some common discrete and continuous distributions, Distribution of Functions of Random Variable, Moments, Generating functions, Two and higher dimensional distributions, Functions of random variables, order statistics, Conditional distributions, Covariance, Correlation coefficient, conditional expectation, Modes of convergences, Laws of large numbers, Central limit theorem, Definition of Stochastic process, Classification and properties of stochastic processes, Simple Markovian stochastic processes, Gaussian processes, Stationary processes, Discrete and continuous time Markov chains, Classification of states, Limiting distribution, Birth and death process, Poisson process, Steady state and transient distributions, Simple Markovian queuing models (M/M/1, M/M/1/N, M/M/c/N, M/M/N/N, M/M/\u221e)."
+        },
+        {
+            "code": "ELL225",
+            "name": "Control Engineering",
+            "prereqs": "[ELL205]",
+            "overlap": "MCL212, CLL261",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Introduction to the control problem, Control System Components: Sensors, Actuators, Computational blocks. Mathematical representation of systems, state variable model, linearization, transfer function model. Transfer function and state variable models of suitable mechanical, electrical, thermal and pneumatic systems. Closed loop systems, Block diagram and signal flow analysis, Basic Characteristics of feedback control systems: stability, steady-state accuracy, transient accuracy, disturbance rejection, sensitivity analysis and robustness. Basic modes of feedback control: Proportional, Integral, Derivative. Concept of stability, Stability criteria: Routh stability criterion, Mikhailov\u2019s criterion, Kharitonov theorem. Time response of 2nd order system, steady state error analysis. Performance specifications in the  time domain. Root locus method of design. Nyquist stability criterion. Frequency response analysis: Nyquist plots, Bode plots, Nichols Charts, Performance specifications in frequency domain, Frequency domain methods of design. Lead lag compensation."
+        },
+        {
+            "code": "ELL201",
+            "name": "Digital Electronics",
+            "prereqs": "[ELL101]",
+            "overlap": "",
+            "credits": 4.5,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 3
+            },
+            "description": "Gates, binary number systems, arithmetic operations. Minimization using K-maps, reduced K-maps, tabular methods; design using multiplexers, decoders, and ROMs. Latches, flip-flops, registers and counters. Asynchronous, synchronous counters. Finite state machines, implementations thereof. Mealy, Moore machines. Clock period computation. Memories. Partitioning and pipelining. VHDL/Verilog, the register-transfer-level description style. Switch level introduction to logic families, CMoS logic, static, pre-charge and clocked logic. Asynchronous circuits and design styles."
+        },
+        {
+            "code": "ELL212",
+            "name": "Electromagnetics",
+            "prereqs": "[PYL101]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Review of Maxwell\u2019s equations, wave propagations in unbounded medium. Boundary conditions, reflection and refraction of plane waves. Evanescent waves and surface plasmons. Waveguides: parallel-plane guide, TE, TM and TEM waves, rectangular and cylindrical waveguides, resonators. Dielectric guides and optical fibres. Transmission Lines: distributed parameter circuits, traveling and standing waves, impedance matching, Smith chart, analogy with plane waves. Planar transmission lines: stripline, micro stripline. Radiation: retarded potentials, Hertzian dipole, short loop, antenna parameters. Numerical techniques in electromagnetics."
+        },
+        {
+            "code": "ELP203",
+            "name": "Electromechanics Laboratory",
+            "prereqs": "[ELL101]",
+            "overlap": "",
+            "credits": 1.5,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 3
+            },
+            "description": ""
+        },
+        {
+            "code": "SBL100",
+            "name": "Introductory Biology for Engineers",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 2
+            },
+            "description": "Darwinian evolution & molecular perspective; Introduction to phylogeny - Classification systems in biology and relationships; Cellular assemblies \u2013 From single cell to multi-cellular organisms: Geometry, Structure and Energetics; Comparing natural vs. humanmade machines; Infection, disease and evolution \u2013 synergy and antagonism; Immunology \u2013 An example of permutations and combinations in biology; Cancer biology \u2013 Control and regulation; Stem cells \u2013 Degeneracy in biological systems; Engineering designs inspired by biology \u2013 Micro- to Macro- scales. Laboratory: Biosafety; Buffers in biology - Measuring microlitres, Preparation of standard biological buffers, buffering capacity and pKa of buffers, response of cells and plant tissues in different buffering conditions; observing cell surface and intracellular contents using light and fluorescence microscopy, measuring cellular motion using real-time video microscopy; Measuring and visualizing intracellular molecular components - Proteins and Genomic DNA"
+        }
+    ],
+    "5": [
+        {
+            "code": "CVL100",
+            "name": "Environmental Science",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 2,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "Pollutant sources and control in air and water, solid waste management, noise pollution and control, cleaner production and life cycle analysis, reuse, recovery, source reduction and raw material substitution, basics of environmental impact assessment, environmental risk assessment and environmental audit, emerging technologies for sustainable environmental management, identification and evaluation of emerging environmental issues with air, water, wastewater and solid wastes."
+        },
+        {
+            "code": "ELL302",
+            "name": "Power Electronics",
+            "prereqs": "[ELL231 || ELL211]",
+            "overlap": "",
+            "credits": 3.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "Introduction to Power Electronics devices and protection: Thyristor family devices, principle of operation, IGBT operation, principles and ratings. Snubber designs, selection and protection, Firing circuits. AC-DC converters: uncontrolled, semi-controlled, fully controlled and dual converters in single-phase and three-phase configurations, design, phase control, harmonic analysis, firing circuits and their designs. Improved power quality AC-DC converters. Choppers: Introduction to dc-dc conversion, various topologies, buck, boost, buck-boost converters, High frequency isolated dc-dc converters: design problems, PWM control and operation. Inverters: Basics of dc to ac conversion, inverter circuit configurations and principle of operation, VSI and CSI, single and three-phase configurations, Square wave and sinusoidal PWM control methods and harmonic control. Design problems. AC voltage controllers: Introduction to ac to ac conversion, single- phase and three-phase ac voltage controller circuit configurations, applications, advantages, harmonic analysis, control, design problems. Cyclo-converters: single-phase to single-phase, three-phase to single- phase, three-phase to three-phase and single-phase to three-phase circuit configurations thyristors and triacs."
+        },
+        {
+            "code": "ELL311",
+            "name": "Communication Engineering",
+            "prereqs": "[ELL205]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Review of Fourier Series and Transforms. Hilbert Transforms, BandpassSignal and System Representation. Random Processes, Stationarity, Power Spectral Density, Gaussian Process, Noise. Amplitude Modulation, DSBSC, SSB, VSB: Signal Representation, Generation and Demodulation. Frequency Modulation: Signal Representation, Generation and Demodulation. Mixing, Superheterodyne Receiver, Phase Recovery with PLLs. Noise: in AM Receivers using Coherent Detection, in AM Receivers using Envelope Detection, in FM Receivers. Sampling, Pulse-Amplitude Modulation. Quantization, Pulse-Code Modulation. Noise considerations in PCM, Time Division Multiplexing, Delta Modulation. Intersymbol Interference, Introduction to Information Theory: concepts of Entropy and Source-Coding"
+        },
+        {
+            "code": "ELL305",
+            "name": "Computer Architecture",
+            "prereqs": "[ELL201]",
+            "overlap": "CSL211",
+            "credits": 3.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "Introduction: Performance measurement, Instruction Set Architecture, Computer Arithmetic, Processor: ALu design, Control design, Pipelining, Memory Hierarchy, I/o management, Multicores, Multiprocessors, Clusters, GPu."
+        },
+        {
+            "code": "ELP225",
+            "name": "Control Engineering Laboratory",
+            "prereqs": "[ELL225]",
+            "overlap": "",
+            "credits": 1.5,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 3
+            },
+            "description": "Basics of Sensors and Actuators, Study of AC and DC Motors, Linear Systems, Analog and Digital Motors, Synchros, Temperature Control."
+        },
+        {
+            "code": "ELL304",
+            "name": "Analog Electronics",
+            "prereqs": "[ELL101 && ELL202 && (ELL211 || ELL231)]",
+            "overlap": "",
+            "credits": 5.5,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 3
+            },
+            "description": "Review of working of BJT and MoSFET, large signal and small signal models, biasing schemes, analysis and design of various single stage amplifier configuration, low and high frequency analysis of single stage amplifiers, frequency compensation, current mirrors, multistage amplifiers; differential and operational amplifiers, negative and positive feedback, oscillators and power amplifiers."
+        },
+        {
+            "code": "ELP212",
+            "name": "Electromagnetics Laboratory",
+            "prereqs": "[ELL212]",
+            "overlap": "",
+            "credits": 1.5,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 3
+            },
+            "description": ""
+        }
+    ],
+    "6": [
+        {
+            "code": "PYL102",
+            "name": "Principles of Electronic Materials",
+            "prereqs": "[PYL101]",
+            "overlap": "",
+            "credits": 3.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "(Program Linked Course: Not available to B.Tech. (Engineering Physics) students) Energy bands in solids(KP model), Classification of electronic materials: metals, semiconductors and insulators. Free electron model, Conductivity in metals and Concepts of Fermi level, effective mass and holes, Concept of phonons, Thermoelectricity, Intrinsic, extrinsic and degenerate semiconductors, Fermi level variation by carrier concentration and temperature, Metal-semiconductor junction, p-n junction, Diffusion and drift transport, carrier life time and diffusion length; Direct and indirect band gaps, optical transitions, photon absorption, Exciton, photovoltaic effect, Dielectrics and electrical polarization, Depolarization field, Clausius- Mossotti relation; Drude model, Electronic polarization and its mechanisms, Dielectric breakdown; Piezoelectricity, Pyroelectricity and Ferroelectricity; Magnetism in materials \u2013 types of interactions, Magnetic susceptibility, Curie and Neel temperatures; Domains, Magnetic anisotropies, Spin-orbit interaction."
+        },
+        {
+            "code": "MCL142",
+            "name": "Thermal Science for Electrical Engineers",
+            "prereqs": "[]",
+            "overlap": "MCL140, MCL141, CLL121",
+            "credits": 3.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "Introduction to applications. Basic concepts and definitions \u2013 system, boundary, equilibrium, steady state and others. Thermodynamic properties of a pure substance \u2013 saturated and other states. Work and heat \u2013 definition and applications. 1st Law \u2013 internal energy and enthalpy, applications to non-flow/closed and flow/open systems (SSSF and uSuF). 2nd Law \u2013 corollaries, Clausius inequality, entropy. Carnot cycle. Basics of gas-vapor mixtures. Vapor power cycles \u2013 Rankine cycle and its modifications. Steam generation and its use \u2013 power plants, co-generation, combined cycles. Introduction to various equipment in thermal power plant. Introduction to transport phenomena: various modes of transport of momentum and energy - diffusion and advective transport. Modes of heat transfer in various applications. Conduction: Heat diffusion equation, 1-D steady state conduction in extended surfaces, infinite and semi-infinite walls, heat generation, lumped capacitance. Convection: Forced and free convection - mass, momentum and energy conservation equations, non-dimensional numbers, hydrodynamic and thermal boundary layers, basics of heat transfer in external and internal laminar and turbulent flows, and use of co- relations. Radiation: properties, Laws, 3-surface network for diffuse- gray surfaces. Familiarization with heat exchangers. Application area example: cooling of electronics."
+        },
+        {
+            "code": "ELL303",
+            "name": "Power Engineering-I",
+            "prereqs": "[ELL101 && ELL203]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Introduction to the basic structure of power system along with various power generation technologies. Modeling of generators, transformers  and transmission line for power system analysis. per unit system. Power flow analysis. Fault analysis in power systems. Power system stability studies. Transients in power system and travelling waves. Introduction to power system relaying and brief idea of over current, differentia and impedance based protection. Basic concepts of Power system operation and control. Introduction to HVDC and FACTS."
+        },
+        {
+            "code": "ELP311",
+            "name": "Communication Engineering Laboratory",
+            "prereqs": "[ELL311]",
+            "overlap": "",
+            "credits": 0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "1 Credit (0-0-2) Laboratory experiments on analog, pulse, and basic digital modulation and demodulation techniques."
+        },
+        {
+            "code": "ELP302",
+            "name": "Power Electronics Laboratory",
+            "prereqs": "[ELL302]",
+            "overlap": "",
+            "credits": 1.5,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 3
+            },
+            "description": ""
+        },
+        {
+            "code": "ELP305",
+            "name": "Design and System Laboratory",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 1.5,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 3
+            },
+            "description": ""
+        }
+    ],
+    "7": [
+        {
+            "code": "ELD411",
+            "name": "B.Tech. Project-I",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 3.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 6
+            },
+            "description": ""
+        },
+        {
+            "code": "ELP303",
+            "name": "Power Engineering Laboratory",
+            "prereqs": "[ELL303]",
+            "overlap": "",
+            "credits": 1.5,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 3
+            },
+            "description": "Experiments will be conducted on 3-phase alternators and transformers for measuring their sequence impedance. Directional, overcurrent and differential protection relays will be studied. Computer simulation for power flow, short circuit and stability studies of interconnected power systems. Numerical relays and synchrophasors will be introduced. FACTS devices will be experimented."
+        }
+    ],
+    "8": []
+}
