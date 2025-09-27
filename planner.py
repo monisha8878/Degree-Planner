@@ -1,5 +1,5 @@
 import json
-from dept_file import Electrical  # import your dept dictionary
+from dept import Electrical  # import your dept dictionary
 
 # 1️⃣ Load master data JSON
 with open("data.json", "r") as f:
