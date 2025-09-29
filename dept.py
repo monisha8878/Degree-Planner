@@ -5,7 +5,7 @@ Electrical={
     "credits": {
         "BS": 24,
         "EAS": 19,
-        "Hul": 15,
+        "HUL": 15,
         "PL": 15.0,
         "DC": 60.0,
         "DE": 10.0,
@@ -72,7 +72,8 @@ Electrical={
             "ELL758",
             "ELL765",
             "ELS310"
-        ]
+        ],
+       
     },
     "recommended": [ #list of lists
         [
@@ -117,7 +118,7 @@ Electrical={
             "ELP212"
         ],
         [
-            "DE1",
+            "DE",
             "PYL102",
             "MCL142",
             "ELL303",
@@ -128,14 +129,14 @@ Electrical={
         ],
         [
             "ELD411",
-            "DE2",
+            "DE",
             "ELP303",
             "OC1",
             "HUL2XX"
         ],
         [
             "HUL3XX",
-            "DE3",
+            "DE",
             "OC2",
             "OC3"
         ]
