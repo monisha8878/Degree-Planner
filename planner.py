@@ -175,8 +175,8 @@ for (sem, code), var in course_vars.items():
                             # Add constraint: prereq must happen in an earlier semester
                             model.Add(sem_p * prereq_var < sem * var)
                             break
-                if prereq_found:
-                    break
+                    if prereq_found:
+                        break
                  
 
 
