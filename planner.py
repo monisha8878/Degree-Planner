@@ -142,28 +142,57 @@ print(f"✅ Prerequisites parsed for all courses")
 
 
 
-user1= UserData(name="Monisha",current_semester=3,EE_courses=selected_courses)
-user1.print_summary()
-courses_left = {}
+user= UserData(name="Monisha",current_semester=4,EE_courses=selected_courses)
+user.print_summary()
 #making a list of remaining courses 
 
+courses_left = {}
 
 for sem, courses in selected_courses.items():
-    remaining = []
+    # Keep track of which HUL/DE groups have been added in this semester
+    hul_groups_added = set()
+    de_groups_added = set()
+
     for course in courses:
         code = course["code"]
-        course_type = course.get("type", "")
-        
-        # Skip if already completed
-        if ((course_type == "Core" and code in getattr(user1, "completed_corecourses", [])) or
-            (course_type.startswith("HUL") and code in getattr(user1, "completed_hul", [])) or
-            (course_type == "DE" and code in getattr(user1, "completed_DE", []))):
+        ctype = course.get("type", "")
+
+        # Skip already completed courses
+        if ((ctype == "Core" and code in getattr(user, "completed_corecourses", [])) or
+            (ctype.startswith("HUL") and code in getattr(user, "completed_hul", [])) or
+            (ctype == "DE" and code in getattr(user, "completed_DE", []))):
             continue
-        
-        remaining.append(course)
-    
-    if remaining!=[]:
-        courses_left[sem] = remaining
+
+        # Skip duplicate HULs in the same semester
+        if ctype.startswith("HUL"):
+            group = ctype[:5]  # HUL2XX or HUL3XX
+            if group in hul_groups_added:
+                continue
+            hul_groups_added.add(group)
+
+        # Skip duplicate DEs in the same semester
+        if ctype.startswith("DE"):
+            group = ctype[:4]  # DE1, DE2, etc.
+            if group in de_groups_added:
+                continue
+            de_groups_added.add(group)
+
+        # Decide target semester (shift past semester courses to current semester)
+        target_sem = sem
+        if sem < user.current_semester:
+            target_sem = user.current_semester
+
+        # Add course to courses_left
+        courses_left.setdefault(target_sem, []).append(course)
+
+# Save to JSON for verification
+import json
+output_file = "courses_left.json"
+with open(output_file, "w") as f:
+    json.dump(courses_left, f, indent=4)
+
+print(f"✅ Courses left after cleaning and shifting saved to '{output_file}'")
+
 
 model = cp_model.CpModel()
 course_vars = {}
@@ -183,8 +212,8 @@ for sem, courses in courses_left.items():
         total_credits += course_vars[(sem, code)] *int(course["credits"]*CONFIG["CREDIT_SCALE"]) #scale since model doesnt directly support float
     
     # Hard constraints for semester credits
-    model.Add(total_credits >= user1.min_credits*CONFIG["CREDIT_SCALE"])
-    model.Add(total_credits <= user1.max_credits*CONFIG["CREDIT_SCALE"])
+    model.Add(total_credits >= user.min_credits*CONFIG["CREDIT_SCALE"])
+    model.Add(total_credits <= user.max_credits*CONFIG["CREDIT_SCALE"])
 
 #total credits condition = should be 150 
 # Total target credits for EE degree
@@ -194,11 +223,11 @@ total_target_credits = CONFIG["TOTAL_TARGET_CREDITS"]
 
 # Compute credits already completed
 credits_done = 0
-for sem, courses in user1.EE_courses.items(): #EE_courses is the selected courses- means EE1 me net courses
+for sem, courses in user.EE_courses.items(): #EE_courses is the selected courses- means EE1 me net courses
     for course in courses:
         code = course["code"]
         # Only count if the student has completed it
-        if code in user1.completed_corecourses or code in user1.completed_hul or code in user1.completed_DE:
+        if code in user.completed_corecourses or code in user.completed_hul or code in user.completed_DE:
             credits_done += course["credits"]
 
 
@@ -256,9 +285,9 @@ for (sem, code), var in course_vars.items():
         
         for prereq_code in prereq_path:
             # Check if prereq is already completed
-            if (prereq_code in user1.completed_corecourses or 
-                prereq_code in user1.completed_hul or 
-                prereq_code in user1.completed_DE):
+            if (prereq_code in user.completed_corecourses or 
+                prereq_code in user.completed_hul or 
+                prereq_code in user.completed_DE):
                 # Prereq already done - automatically satisfied
                 continue
             

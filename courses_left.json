@@ -1,0 +1,525 @@
+{
+    "4": [
+        {
+            "code": "HUL211",
+            "name": "Introduction to Economics",
+            "prereqs": "[NLN101]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Current economic problems. Alternative economic systems. An overview of the economy. The market mechanism. National product and income. Consumption, savings and investment. Determination of national income. Aggregate demand and supply. Fiscal policy. The nature of money and monetary policy. Inflation and unemployment. Basic concepts of price theory. Determination of price by supply and demand. Elasticity of demand and supply. Theory of production. Theory of costs. Pricing in competitive and monopoly markets. The gains from international trade. Theory of exchange rates. Balance of payments. Economic growth, and development. Inequality and poverty.",
+            "prereqs_parsed": [
+                [
+                    "NLN101"
+                ]
+            ],
+            "type": "HUL2XX"
+        },
+        {
+            "code": "MTL106",
+            "name": "Probability and Stochastic Processes",
+            "prereqs": "[]",
+            "overlap": "MTL108",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Axioms of probability, Probability space, Conditional probability, Independence, Bayes\u2019 rule, Random variable, Some common discrete and continuous distributions, Distribution of Functions of Random Variable, Moments, Generating functions, Two and higher dimensional distributions, Functions of random variables, order statistics, Conditional distributions, Covariance, Correlation coefficient, conditional expectation, Modes of convergences, Laws of large numbers, Central limit theorem, Definition of Stochastic process, Classification and properties of stochastic processes, Simple Markovian stochastic processes, Gaussian processes, Stationary processes, Discrete and continuous time Markov chains, Classification of states, Limiting distribution, Birth and death process, Poisson process, Steady state and transient distributions, Simple Markovian queuing models (M/M/1, M/M/1/N, M/M/c/N, M/M/N/N, M/M/\u221e).",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "ELL225",
+            "name": "Control Engineering",
+            "prereqs": "[ELL205]",
+            "overlap": "MCL212, CLL261",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Introduction to the control problem, Control System Components: Sensors, Actuators, Computational blocks. Mathematical representation of systems, state variable model, linearization, transfer function model. Transfer function and state variable models of suitable mechanical, electrical, thermal and pneumatic systems. Closed loop systems, Block diagram and signal flow analysis, Basic Characteristics of feedback control systems: stability, steady-state accuracy, transient accuracy, disturbance rejection, sensitivity analysis and robustness. Basic modes of feedback control: Proportional, Integral, Derivative. Concept of stability, Stability criteria: Routh stability criterion, Mikhailov\u2019s criterion, Kharitonov theorem. Time response of 2nd order system, steady state error analysis. Performance specifications in the  time domain. Root locus method of design. Nyquist stability criterion. Frequency response analysis: Nyquist plots, Bode plots, Nichols Charts, Performance specifications in frequency domain, Frequency domain methods of design. Lead lag compensation.",
+            "prereqs_parsed": [
+                [
+                    "ELL205"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "ELL201",
+            "name": "Digital Electronics",
+            "prereqs": "[ELL101]",
+            "overlap": "",
+            "credits": 4.5,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 3
+            },
+            "description": "Gates, binary number systems, arithmetic operations. Minimization using K-maps, reduced K-maps, tabular methods; design using multiplexers, decoders, and ROMs. Latches, flip-flops, registers and counters. Asynchronous, synchronous counters. Finite state machines, implementations thereof. Mealy, Moore machines. Clock period computation. Memories. Partitioning and pipelining. VHDL/Verilog, the register-transfer-level description style. Switch level introduction to logic families, CMoS logic, static, pre-charge and clocked logic. Asynchronous circuits and design styles.",
+            "prereqs_parsed": [
+                [
+                    "ELL101"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "ELL212",
+            "name": "Electromagnetics",
+            "prereqs": "[PYL101]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Review of Maxwell\u2019s equations, wave propagations in unbounded medium. Boundary conditions, reflection and refraction of plane waves. Evanescent waves and surface plasmons. Waveguides: parallel-plane guide, TE, TM and TEM waves, rectangular and cylindrical waveguides, resonators. Dielectric guides and optical fibres. Transmission Lines: distributed parameter circuits, traveling and standing waves, impedance matching, Smith chart, analogy with plane waves. Planar transmission lines: stripline, micro stripline. Radiation: retarded potentials, Hertzian dipole, short loop, antenna parameters. Numerical techniques in electromagnetics.",
+            "prereqs_parsed": [
+                [
+                    "PYL101"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "ELP203",
+            "name": "Electromechanics Laboratory",
+            "prereqs": "[ELL101]",
+            "overlap": "",
+            "credits": 1.5,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 3
+            },
+            "description": "",
+            "prereqs_parsed": [
+                [
+                    "ELL101"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "SBL100",
+            "name": "Introductory Biology for Engineers",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 2
+            },
+            "description": "Darwinian evolution & molecular perspective; Introduction to phylogeny - Classification systems in biology and relationships; Cellular assemblies \u2013 From single cell to multi-cellular organisms: Geometry, Structure and Energetics; Comparing natural vs. humanmade machines; Infection, disease and evolution \u2013 synergy and antagonism; Immunology \u2013 An example of permutations and combinations in biology; Cancer biology \u2013 Control and regulation; Stem cells \u2013 Degeneracy in biological systems; Engineering designs inspired by biology \u2013 Micro- to Macro- scales. Laboratory: Biosafety; Buffers in biology - Measuring microlitres, Preparation of standard biological buffers, buffering capacity and pKa of buffers, response of cells and plant tissues in different buffering conditions; observing cell surface and intracellular contents using light and fluorescence microscopy, measuring cellular motion using real-time video microscopy; Measuring and visualizing intracellular molecular components - Proteins and Genomic DNA",
+            "prereqs_parsed": [],
+            "type": "Core"
+        }
+    ],
+    "5": [
+        {
+            "code": "CVL100",
+            "name": "Environmental Science",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 2,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "Pollutant sources and control in air and water, solid waste management, noise pollution and control, cleaner production and life cycle analysis, reuse, recovery, source reduction and raw material substitution, basics of environmental impact assessment, environmental risk assessment and environmental audit, emerging technologies for sustainable environmental management, identification and evaluation of emerging environmental issues with air, water, wastewater and solid wastes.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "ELL302",
+            "name": "Power Electronics",
+            "prereqs": "[ELL231 or ELL211]",
+            "overlap": "",
+            "credits": 3.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "Introduction to Power Electronics devices and protection: Thyristor family devices, principle of operation, IGBT operation, principles and ratings. Snubber designs, selection and protection, Firing circuits. AC-DC converters: uncontrolled, semi-controlled, fully controlled and dual converters in single-phase and three-phase configurations, design, phase control, harmonic analysis, firing circuits and their designs. Improved power quality AC-DC converters. Choppers: Introduction to dc-dc conversion, various topologies, buck, boost, buck-boost converters, High frequency isolated dc-dc converters: design problems, PWM control and operation. Inverters: Basics of dc to ac conversion, inverter circuit configurations and principle of operation, VSI and CSI, single and three-phase configurations, Square wave and sinusoidal PWM control methods and harmonic control. Design problems. AC voltage controllers: Introduction to ac to ac conversion, single- phase and three-phase ac voltage controller circuit configurations, applications, advantages, harmonic analysis, control, design problems. Cyclo-converters: single-phase to single-phase, three-phase to single- phase, three-phase to three-phase and single-phase to three-phase circuit configurations thyristors and triacs.",
+            "prereqs_parsed": [
+                [
+                    "ELL231",
+                    "ELL211"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "ELL311",
+            "name": "Communication Engineering",
+            "prereqs": "[ELL205]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Review of Fourier Series and Transforms. Hilbert Transforms, BandpassSignal and System Representation. Random Processes, Stationarity, Power Spectral Density, Gaussian Process, Noise. Amplitude Modulation, DSBSC, SSB, VSB: Signal Representation, Generation and Demodulation. Frequency Modulation: Signal Representation, Generation and Demodulation. Mixing, Superheterodyne Receiver, Phase Recovery with PLLs. Noise: in AM Receivers using Coherent Detection, in AM Receivers using Envelope Detection, in FM Receivers. Sampling, Pulse-Amplitude Modulation. Quantization, Pulse-Code Modulation. Noise considerations in PCM, Time Division Multiplexing, Delta Modulation. Intersymbol Interference, Introduction to Information Theory: concepts of Entropy and Source-Coding",
+            "prereqs_parsed": [
+                [
+                    "ELL205"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "ELL305",
+            "name": "Computer Architecture",
+            "prereqs": "[ELL201]",
+            "overlap": "CSL211",
+            "credits": 3.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "Introduction: Performance measurement, Instruction Set Architecture, Computer Arithmetic, Processor: ALu design, Control design, Pipelining, Memory Hierarchy, I/o management, Multicores, Multiprocessors, Clusters, GPu.",
+            "prereqs_parsed": [
+                [
+                    "ELL201"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "ELP225",
+            "name": "Control Engineering Laboratory",
+            "prereqs": "[ELL225]",
+            "overlap": "",
+            "credits": 1.5,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 3
+            },
+            "description": "Basics of Sensors and Actuators, Study of AC and DC Motors, Linear Systems, Analog and Digital Motors, Synchros, Temperature Control.",
+            "prereqs_parsed": [
+                [
+                    "ELL225"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "ELL304",
+            "name": "Analog Electronics",
+            "prereqs": "[ELL101 and ELL202 and (ELL211 or ELL231)]",
+            "overlap": "",
+            "credits": 5.5,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 3
+            },
+            "description": "Review of working of BJT and MoSFET, large signal and small signal models, biasing schemes, analysis and design of various single stage amplifier configuration, low and high frequency analysis of single stage amplifiers, frequency compensation, current mirrors, multistage amplifiers; differential and operational amplifiers, negative and positive feedback, oscillators and power amplifiers.",
+            "prereqs_parsed": [
+                [
+                    "ELL101",
+                    "ELL202",
+                    "ELL211"
+                ],
+                [
+                    "ELL101",
+                    "ELL202",
+                    "ELL231"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "ELP212",
+            "name": "Electromagnetics Laboratory",
+            "prereqs": "[ELL212]",
+            "overlap": "",
+            "credits": 1.5,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 3
+            },
+            "description": "",
+            "prereqs_parsed": [
+                [
+                    "ELL212"
+                ]
+            ],
+            "type": "Core"
+        }
+    ],
+    "6": [
+        {
+            "code": "ELL301",
+            "name": "Electrical and Electronics Instrumentation",
+            "prereqs": "[ELL101]",
+            "overlap": "",
+            "credits": 3.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "Basics of Measurement and Instrumentation, Instrument Examples: Galvanometer, Accelerometer etc; calibration methods, Voltage and Current Measurements; Theory, calibration, application, Errors and compensation. Power and Energy Measurement and its errors, Methods of correction, LPF wattmeter, Phantom loading, Induction type KWH meter; Calibration of wattmeter, energy meter. Potentiometer and Instrument Transformer :DC and AC potentiometer, C.T. and V.T. construction, theory, operation, characteristics. Digital Instrumentation.",
+            "prereqs_parsed": [
+                [
+                    "ELL101"
+                ]
+            ],
+            "type": "DE"
+        },
+        {
+            "code": "PYL102",
+            "name": "Principles of Electronic Materials",
+            "prereqs": "[PYL101]",
+            "overlap": "",
+            "credits": 3.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "(Program Linked Course: Not available to B.Tech. (Engineering Physics) students) Energy bands in solids(KP model), Classification of electronic materials: metals, semiconductors and insulators. Free electron model, Conductivity in metals and Concepts of Fermi level, effective mass and holes, Concept of phonons, Thermoelectricity, Intrinsic, extrinsic and degenerate semiconductors, Fermi level variation by carrier concentration and temperature, Metal-semiconductor junction, p-n junction, Diffusion and drift transport, carrier life time and diffusion length; Direct and indirect band gaps, optical transitions, photon absorption, Exciton, photovoltaic effect, Dielectrics and electrical polarization, Depolarization field, Clausius- Mossotti relation; Drude model, Electronic polarization and its mechanisms, Dielectric breakdown; Piezoelectricity, Pyroelectricity and Ferroelectricity; Magnetism in materials \u2013 types of interactions, Magnetic susceptibility, Curie and Neel temperatures; Domains, Magnetic anisotropies, Spin-orbit interaction.",
+            "prereqs_parsed": [
+                [
+                    "PYL101"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "MCL142",
+            "name": "Thermal Science for Electrical Engineers",
+            "prereqs": "[]",
+            "overlap": "MCL140, MCL141, CLL121",
+            "credits": 3.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "Introduction to applications. Basic concepts and definitions \u2013 system, boundary, equilibrium, steady state and others. Thermodynamic properties of a pure substance \u2013 saturated and other states. Work and heat \u2013 definition and applications. 1st Law \u2013 internal energy and enthalpy, applications to non-flow/closed and flow/open systems (SSSF and uSuF). 2nd Law \u2013 corollaries, Clausius inequality, entropy. Carnot cycle. Basics of gas-vapor mixtures. Vapor power cycles \u2013 Rankine cycle and its modifications. Steam generation and its use \u2013 power plants, co-generation, combined cycles. Introduction to various equipment in thermal power plant. Introduction to transport phenomena: various modes of transport of momentum and energy - diffusion and advective transport. Modes of heat transfer in various applications. Conduction: Heat diffusion equation, 1-D steady state conduction in extended surfaces, infinite and semi-infinite walls, heat generation, lumped capacitance. Convection: Forced and free convection - mass, momentum and energy conservation equations, non-dimensional numbers, hydrodynamic and thermal boundary layers, basics of heat transfer in external and internal laminar and turbulent flows, and use of co- relations. Radiation: properties, Laws, 3-surface network for diffuse- gray surfaces. Familiarization with heat exchangers. Application area example: cooling of electronics.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "ELL303",
+            "name": "Power Engineering-I",
+            "prereqs": "[ELL101 and ELL203]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Introduction to the basic structure of power system along with various power generation technologies. Modeling of generators, transformers  and transmission line for power system analysis. per unit system. Power flow analysis. Fault analysis in power systems. Power system stability studies. Transients in power system and travelling waves. Introduction to power system relaying and brief idea of over current, differentia and impedance based protection. Basic concepts of Power system operation and control. Introduction to HVDC and FACTS.",
+            "prereqs_parsed": [
+                [
+                    "ELL101",
+                    "ELL203"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "ELP311",
+            "name": "Communication Engineering Laboratory",
+            "prereqs": "[ELL311]",
+            "overlap": "",
+            "credits": 0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "1 Credit (0-0-2) Laboratory experiments on analog, pulse, and basic digital modulation and demodulation techniques.",
+            "prereqs_parsed": [
+                [
+                    "ELL311"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "HUL211",
+            "name": "Introduction to Economics",
+            "prereqs": "[NLN101]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Current economic problems. Alternative economic systems. An overview of the economy. The market mechanism. National product and income. Consumption, savings and investment. Determination of national income. Aggregate demand and supply. Fiscal policy. The nature of money and monetary policy. Inflation and unemployment. Basic concepts of price theory. Determination of price by supply and demand. Elasticity of demand and supply. Theory of production. Theory of costs. Pricing in competitive and monopoly markets. The gains from international trade. Theory of exchange rates. Balance of payments. Economic growth, and development. Inequality and poverty.",
+            "prereqs_parsed": [
+                [
+                    "NLN101"
+                ]
+            ],
+            "type": "HUL2XX"
+        },
+        {
+            "code": "ELP302",
+            "name": "Power Electronics Laboratory",
+            "prereqs": "[ELL302]",
+            "overlap": "",
+            "credits": 1.5,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 3
+            },
+            "description": "",
+            "prereqs_parsed": [
+                [
+                    "ELL302"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "ELP305",
+            "name": "Design and System Laboratory",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 1.5,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 3
+            },
+            "description": "",
+            "prereqs_parsed": [],
+            "type": "Core"
+        }
+    ],
+    "7": [
+        {
+            "code": "ELD411",
+            "name": "B.Tech. Project-I",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 3.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 6
+            },
+            "description": "",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "ELL301",
+            "name": "Electrical and Electronics Instrumentation",
+            "prereqs": "[ELL101]",
+            "overlap": "",
+            "credits": 3.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "Basics of Measurement and Instrumentation, Instrument Examples: Galvanometer, Accelerometer etc; calibration methods, Voltage and Current Measurements; Theory, calibration, application, Errors and compensation. Power and Energy Measurement and its errors, Methods of correction, LPF wattmeter, Phantom loading, Induction type KWH meter; Calibration of wattmeter, energy meter. Potentiometer and Instrument Transformer :DC and AC potentiometer, C.T. and V.T. construction, theory, operation, characteristics. Digital Instrumentation.",
+            "prereqs_parsed": [
+                [
+                    "ELL101"
+                ]
+            ],
+            "type": "DE"
+        },
+        {
+            "code": "ELP303",
+            "name": "Power Engineering Laboratory",
+            "prereqs": "[ELL303]",
+            "overlap": "",
+            "credits": 1.5,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 3
+            },
+            "description": "Experiments will be conducted on 3-phase alternators and transformers for measuring their sequence impedance. Directional, overcurrent and differential protection relays will be studied. Computer simulation for power flow, short circuit and stability studies of interconnected power systems. Numerical relays and synchrophasors will be introduced. FACTS devices will be experimented.",
+            "prereqs_parsed": [
+                [
+                    "ELL303"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "HUL211",
+            "name": "Introduction to Economics",
+            "prereqs": "[NLN101]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Current economic problems. Alternative economic systems. An overview of the economy. The market mechanism. National product and income. Consumption, savings and investment. Determination of national income. Aggregate demand and supply. Fiscal policy. The nature of money and monetary policy. Inflation and unemployment. Basic concepts of price theory. Determination of price by supply and demand. Elasticity of demand and supply. Theory of production. Theory of costs. Pricing in competitive and monopoly markets. The gains from international trade. Theory of exchange rates. Balance of payments. Economic growth, and development. Inequality and poverty.",
+            "prereqs_parsed": [
+                [
+                    "NLN101"
+                ]
+            ],
+            "type": "HUL2XX"
+        }
+    ],
+    "8": [
+        {
+            "code": "HUL310",
+            "name": "Selected Topics in Policy Studies",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 3.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "Allocation Preferences : HUL281, HUL289, HUL290 The course will introduce students to selected topics in Policy Studies as decided by the instructor.",
+            "prereqs_parsed": [],
+            "type": "HUL3XX"
+        },
+        {
+            "code": "ELL301",
+            "name": "Electrical and Electronics Instrumentation",
+            "prereqs": "[ELL101]",
+            "overlap": "",
+            "credits": 3.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "Basics of Measurement and Instrumentation, Instrument Examples: Galvanometer, Accelerometer etc; calibration methods, Voltage and Current Measurements; Theory, calibration, application, Errors and compensation. Power and Energy Measurement and its errors, Methods of correction, LPF wattmeter, Phantom loading, Induction type KWH meter; Calibration of wattmeter, energy meter. Potentiometer and Instrument Transformer :DC and AC potentiometer, C.T. and V.T. construction, theory, operation, characteristics. Digital Instrumentation.",
+            "prereqs_parsed": [
+                [
+                    "ELL101"
+                ]
+            ],
+            "type": "DE"
+        }
+    ]
+}

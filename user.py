@@ -1,6 +1,6 @@
 class UserData:
     def __init__(self, name="Student",dept= "EE1", current_semester=1,EE_courses=None, completed_corecourses=None,completed_hul=None,completed_DE=None, num_semesters=8, 
-                 min_credits=15, max_credits=24, preferences=None):#preference is a dictionary that stores course vs interest for user 
+                 min_credits=15, max_credits=24, preferences=None,completed_hul_sem=None,completed_DE_sem=None):#preference is a dictionary that stores course vs interest for user 
         self.name = name
         self.dept= dept
         self.current_semester = current_semester
@@ -11,6 +11,8 @@ class UserData:
         self.EE_courses = EE_courses if EE_courses else {} 
         self.completed_hul=completed_hul if completed_hul else[]
         self.completed_DE=completed_DE if completed_DE else[]
+        self.completed_hul_sem=completed_hul_sem if completed_hul_sem else {}
+        self.completed_DE_sem=completed_DE_sem if completed_DE_sem else {}
          # Optional course preferences else use empty dictionary
 
         # Populate completed_courses
@@ -37,16 +39,19 @@ class UserData:
             self.completed_corecourses.remove(course_code)
 
 
-    def add_completed_hulcourse(self, course_code):
+    def add_completed_hulcourse(self, course_code,sem):
         if course_code not in self.completed_hul:
             self.completed_hul.append(course_code)
+            self.completed_hul_sem.setdefault(sem, []).append(course_code)
+
     def remove_completed_hulcourse(self, course_code):
         if course_code in self.completed_hul:
             self.completed_hul.remove(course_code)
-
-    def add_completed_DEcourse(self, course_code):
+            
+    def add_completed_DEcourse(self, course_code,sem):
         if course_code not in self.completed_DE:
             self.completed_DE.append(course_code)
+            self.completed_DE_sem.setdefault(sem, []).append(course_code)
     
     def remove_completed_DEcourse(self, course_code):
         if course_code in self.completed_DE:
