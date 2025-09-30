@@ -184,6 +184,29 @@ for (sem, code), var in course_vars.items():
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #solver : dont edit below this line 
 solver = cp_model.CpSolver()
 status = solver.Solve(model)

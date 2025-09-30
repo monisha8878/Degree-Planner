@@ -231,7 +231,7 @@
         {
             "code": "ELL211",
             "name": "Physical Electronics",
-            "prereqs": "[ELL101 && PYL101]",
+            "prereqs": "[ELL101 and PYL101]",
             "overlap": "ELL732, ELL231, EPL336, EPL439 , PHL653,",
             "credits": 3.0,
             "hours": {
@@ -753,7 +753,7 @@
         {
             "code": "ELL302",
             "name": "Power Electronics",
-            "prereqs": "[ELL231 || ELL211]",
+            "prereqs": "[ELL231 or ELL211]",
             "overlap": "",
             "credits": 3.0,
             "hours": {
@@ -809,7 +809,7 @@
         {
             "code": "ELL304",
             "name": "Analog Electronics",
-            "prereqs": "[ELL101 && ELL202 && (ELL211 || ELL231)]",
+            "prereqs": "[ELL101 and ELL202 and (ELL211 or ELL231)]",
             "overlap": "",
             "credits": 5.5,
             "hours": {
@@ -881,7 +881,7 @@
         {
             "code": "ELL315",
             "name": "Introduction to Analog Integrated Circuits",
-            "prereqs": "[ELL204 && ELL202]",
+            "prereqs": "[ELL204 and ELL202]",
             "overlap": "",
             "credits": 3.0,
             "hours": {
@@ -1049,7 +1049,7 @@
         {
             "code": "ELL409",
             "name": "Machine Intelligence and Learning",
-            "prereqs": "[MTL106 && COL106]",
+            "prereqs": "[MTL106 and COL106]",
             "overlap": "ELL784, ELL789, COL341/COL774",
             "credits": 4.0,
             "hours": {
@@ -1091,7 +1091,7 @@
         {
             "code": "ELL703",
             "name": "Optimal Control Theory",
-            "prereqs": "[ELL700 || ELL333]",
+            "prereqs": "[ELL700 or ELL333]",
             "overlap": "",
             "credits": 3.0,
             "hours": {
@@ -1203,7 +1203,7 @@
         {
             "code": "ELL740",
             "name": "Compact Modeling of Semiconductor Devices",
-            "prereqs": "[(MoS || Microelectronics) && any]",
+            "prereqs": "[(MoS or Microelectronics) and any]",
             "overlap": "",
             "credits": 3.0,
             "hours": {
@@ -1287,7 +1287,7 @@
         {
             "code": "ELL303",
             "name": "Power Engineering-I",
-            "prereqs": "[ELL101 && ELL203]",
+            "prereqs": "[ELL101 and ELL203]",
             "overlap": "",
             "credits": 4.0,
             "hours": {
@@ -1807,7 +1807,7 @@
         {
             "code": "ELL315",
             "name": "Introduction to Analog Integrated Circuits",
-            "prereqs": "[ELL204 && ELL202]",
+            "prereqs": "[ELL204 and ELL202]",
             "overlap": "",
             "credits": 3.0,
             "hours": {
@@ -1975,7 +1975,7 @@
         {
             "code": "ELL409",
             "name": "Machine Intelligence and Learning",
-            "prereqs": "[MTL106 && COL106]",
+            "prereqs": "[MTL106 and COL106]",
             "overlap": "ELL784, ELL789, COL341/COL774",
             "credits": 4.0,
             "hours": {
@@ -2017,7 +2017,7 @@
         {
             "code": "ELL703",
             "name": "Optimal Control Theory",
-            "prereqs": "[ELL700 || ELL333]",
+            "prereqs": "[ELL700 or ELL333]",
             "overlap": "",
             "credits": 3.0,
             "hours": {
@@ -2129,7 +2129,7 @@
         {
             "code": "ELL740",
             "name": "Compact Modeling of Semiconductor Devices",
-            "prereqs": "[(MoS || Microelectronics) && any]",
+            "prereqs": "[(MoS or Microelectronics) and any]",
             "overlap": "",
             "credits": 3.0,
             "hours": {
@@ -3153,7 +3153,7 @@
         {
             "code": "HUL379",
             "name": "Sociological Perspectives on Organisations",
-            "prereqs": "[(HUL2XX[0] && HUL2XX[1]) || (HUL3XX[0] && HUL3XX[1]) || ...]",
+            "prereqs": "[(HUL2XX[0] and HUL2XX[1]) or (HUL3XX[0] and HUL3XX[1]) or ...]",
             "overlap": "",
             "credits": 3.0,
             "hours": {
@@ -3251,7 +3251,7 @@
         {
             "code": "ELL315",
             "name": "Introduction to Analog Integrated Circuits",
-            "prereqs": "[ELL204 && ELL202]",
+            "prereqs": "[ELL204 and ELL202]",
             "overlap": "",
             "credits": 3.0,
             "hours": {
@@ -3419,7 +3419,7 @@
         {
             "code": "ELL409",
             "name": "Machine Intelligence and Learning",
-            "prereqs": "[MTL106 && COL106]",
+            "prereqs": "[MTL106 and COL106]",
             "overlap": "ELL784, ELL789, COL341/COL774",
             "credits": 4.0,
             "hours": {
@@ -3461,7 +3461,7 @@
         {
             "code": "ELL703",
             "name": "Optimal Control Theory",
-            "prereqs": "[ELL700 || ELL333]",
+            "prereqs": "[ELL700 or ELL333]",
             "overlap": "",
             "credits": 3.0,
             "hours": {
@@ -3573,7 +3573,7 @@
         {
             "code": "ELL740",
             "name": "Compact Modeling of Semiconductor Devices",
-            "prereqs": "[(MoS || Microelectronics) && any]",
+            "prereqs": "[(MoS or Microelectronics) and any]",
             "overlap": "",
             "credits": 3.0,
             "hours": {

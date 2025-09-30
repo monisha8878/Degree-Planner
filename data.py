@@ -132,7 +132,7 @@ courses={
     "APL205": {
         "code": "APL205",
         "name": "Basics of Computer Aided Design",
-        "prereqs": "[APL106 && MTL107]",
+        "prereqs": "[APL106 and MTL107]",
         "overlap": "",
         "credits": 2.0,
         "hours": {
@@ -171,7 +171,7 @@ courses={
     "APL300": {
         "code": "APL300",
         "name": "Computational Mechanics",
-        "prereqs": "[(APL104 && APL105 && APL106 && APL107 && APL108)]",
+        "prereqs": "[(APL104 and APL105 and APL106 and APL107 and APL108)]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -197,7 +197,7 @@ courses={
     "APV303": {
         "code": "APV303",
         "name": "Mechanics of Cricket",
-        "prereqs": "[APL100 && APL104 && APL106]",
+        "prereqs": "[APL100 and APL104 and APL106]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -236,7 +236,7 @@ courses={
     "APL310": {
         "code": "APL310",
         "name": "Constitutive Modeling",
-        "prereqs": "[(APL104 || APL105 || APL108) && EC50]",
+        "prereqs": "[(APL104 or APL105 or APL108) and EC50]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -249,7 +249,7 @@ courses={
     "APD311": {
         "code": "APD311",
         "name": "Project",
-        "prereqs": "[EC50 && (MinorAreaInComputational || 12)]",
+        "prereqs": "[EC50 and (MinorAreaInComputational or 12)]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -275,7 +275,7 @@ courses={
     "APL321": {
         "code": "APL321",
         "name": "Introduction to Computational Fluid Dynamics",
-        "prereqs": "[APL106 && MTL107]",
+        "prereqs": "[APL106 and MTL107]",
         "overlap": "APL720, CLL768, MCL813",
         "credits": 4.0,
         "hours": {
@@ -288,7 +288,7 @@ courses={
     "APL331": {
         "code": "APL331",
         "name": "Advanced Mechanics of Solids",
-        "prereqs": "[(APL104 || APL105 || APL108) && EC50]",
+        "prereqs": "[(APL104 or APL105 or APL108) and EC50]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -301,7 +301,7 @@ courses={
     "APL340": {
         "code": "APL340",
         "name": "Chaos",
-        "prereqs": "[APL100 && EC50]",
+        "prereqs": "[APL100 and EC50]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -314,7 +314,7 @@ courses={
     "APL360": {
         "code": "APL360",
         "name": "Engineering Fluid Flow",
-        "prereqs": "[APL100 && EC50]",
+        "prereqs": "[APL100 and EC50]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -340,7 +340,7 @@ courses={
     "APL380": {
         "code": "APL380",
         "name": "Biomechanics",
-        "prereqs": "[APL100 && EC50]",
+        "prereqs": "[APL100 and EC50]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -366,7 +366,7 @@ courses={
     "APL402": {
         "code": "APL402",
         "name": "Fluid Structure Interaction",
-        "prereqs": "[APL104 || APL106]",
+        "prereqs": "[APL104 or APL106]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -431,7 +431,7 @@ courses={
     "APL415": {
         "code": "APL415",
         "name": "Composite Mechanics and Structures",
-        "prereqs": "[APL311 && APL331]",
+        "prereqs": "[APL311 and APL331]",
         "overlap": "APL835",
         "credits": 3.0,
         "hours": {
@@ -457,7 +457,7 @@ courses={
     "APL422": {
         "code": "APL422",
         "name": "Advanced Computational Fluid Mechanics",
-        "prereqs": "[APL106 && APL321]",
+        "prereqs": "[APL106 and APL321]",
         "overlap": "APL720, CLL768, MCL813",
         "credits": 3.0,
         "hours": {
@@ -483,7 +483,7 @@ courses={
     "APL431": {
         "code": "APL431",
         "name": "Aircraft Structures",
-        "prereqs": "[APL100 && APL104]",
+        "prereqs": "[APL100 and APL104]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -496,7 +496,7 @@ courses={
     "APL432": {
         "code": "APL432",
         "name": "Aeroelasticity",
-        "prereqs": "[APL104 && APL106]",
+        "prereqs": "[APL104 and APL106]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -535,7 +535,7 @@ courses={
     "APL435": {
         "code": "APL435",
         "name": "Impact Mechanics and Crash Worthiness",
-        "prereqs": "[APL311 && APL331]",
+        "prereqs": "[APL311 and APL331]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -561,7 +561,7 @@ courses={
     "APL450": {
         "code": "APL450",
         "name": "Introduction to Soft Robotics",
-        "prereqs": "[APL104 || EC50]",
+        "prereqs": "[APL104 or EC50]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -574,7 +574,7 @@ courses={
     "APL452": {
         "code": "APL452",
         "name": "Introduction to Digital Twins",
-        "prereqs": "[MTL107 && APL203 && COL100]",
+        "prereqs": "[MTL107 and APL203 and COL100]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -938,7 +938,7 @@ courses={
     "APL744": {
         "code": "APL744",
         "name": "Probabilistic Machine Learning for Mechanics",
-        "prereqs": "[(APL703 || APL101 || MTL106 || MTL108)]",
+        "prereqs": "[(APL703 or APL101 or MTL106 or MTL108)]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -964,7 +964,7 @@ courses={
     "APL746": {
         "code": "APL746",
         "name": "Environmental Fluid Dynamics",
-        "prereqs": "[(APL105 || APL106 || APL107 || CLL231)]",
+        "prereqs": "[(APL105 or APL106 or APL107 or CLL231)]",
         "overlap": "ASL734, ASL823, ASL737",
         "credits": 3.0,
         "hours": {
@@ -977,7 +977,7 @@ courses={
     "APL747": {
         "code": "APL747",
         "name": "Uncertainty Quantification and Propagation",
-        "prereqs": "[(APL101 || MTL106 || MTL108)]",
+        "prereqs": "[(APL101 or MTL106 or MTL108)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -1380,7 +1380,7 @@ courses={
     "APL821": {
         "code": "APL821",
         "name": "Spectral Methods for Fluid Flow Computations",
-        "prereqs": "[(MTL100 || MTL101 || APL703) && (MTL100 || MTL101 || APL703) || APL703]",
+        "prereqs": "[(MTL100 or MTL101 or APL703) and (MTL100 or MTL101 or APL703) or APL703]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -1458,7 +1458,7 @@ courses={
     "AML836": {
         "code": "AML836",
         "name": "Non-linear Vibration and Chaos",
-        "prereqs": "[(AML701 || AML734 || CEL719 || MEL733)]",
+        "prereqs": "[(AML701 or AML734 or CEL719 or MEL733)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -1640,7 +1640,7 @@ courses={
     "BBL231": {
         "code": "BBL231",
         "name": "Molecular Biology and Genetics",
-        "prereqs": "[BBL131 && BBL132]",
+        "prereqs": "[BBL131 and BBL132]",
         "overlap": "",
         "credits": 4.5,
         "hours": {
@@ -1653,7 +1653,7 @@ courses={
     "BBL331": {
         "code": "BBL331",
         "name": "Bioprocess Engineering",
-        "prereqs": "[BBL132 && BBL133]",
+        "prereqs": "[BBL132 and BBL133]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -1666,7 +1666,7 @@ courses={
     "BBP332": {
         "code": "BBP332",
         "name": "Bioprocess Engineering Laboratory",
-        "prereqs": "[BBL131 && BBL132]",
+        "prereqs": "[BBL131 and BBL132]",
         "overlap": "",
         "credits": 1.5,
         "hours": {
@@ -1679,7 +1679,7 @@ courses={
     "BBL341": {
         "code": "BBL341",
         "name": "Environmental Biotechnology",
-        "prereqs": "[CVL100 && EC80]",
+        "prereqs": "[CVL100 and EC80]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -1705,7 +1705,7 @@ courses={
     "BBL343": {
         "code": "BBL343",
         "name": "Carbohydrates and Lipids in Biotechnology",
-        "prereqs": "[BBL131 && EC60]",
+        "prereqs": "[BBL131 and EC60]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -1783,7 +1783,7 @@ courses={
     "BBL434": {
         "code": "BBL434",
         "name": "Bioinformatics",
-        "prereqs": "[BBL131 && BBL132]",
+        "prereqs": "[BBL131 and BBL132]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -1809,7 +1809,7 @@ courses={
     "BBL442": {
         "code": "BBL442",
         "name": "Immunology",
-        "prereqs": "[BBL131 && BBL132 && BBL231]",
+        "prereqs": "[BBL131 and BBL132 and BBL231]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -1861,7 +1861,7 @@ courses={
     "BBL446": {
         "code": "BBL446",
         "name": "Biophysics",
-        "prereqs": "[PYL101 && BBL131]",
+        "prereqs": "[PYL101 and BBL131]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -1874,7 +1874,7 @@ courses={
     "BBL447": {
         "code": "BBL447",
         "name": "Enzyme Catalyzed Organic Synthesis",
-        "prereqs": "[BBL131 && EC90]",
+        "prereqs": "[BBL131 and EC90]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -1913,7 +1913,7 @@ courses={
     "BBL731": {
         "code": "BBL731",
         "name": "Bioseparation Engineering",
-        "prereqs": "[BBL331 && BBL432 && BBL433]",
+        "prereqs": "[BBL331 and BBL432 and BBL433]",
         "overlap": "",
         "credits": 4.5,
         "hours": {
@@ -1926,7 +1926,7 @@ courses={
     "BBL732": {
         "code": "BBL732",
         "name": "Bioprocess Plant Design",
-        "prereqs": "[APL100 && CLL251 && CLL252 && BBL331 && BBL432]",
+        "prereqs": "[APL100 and CLL251 and CLL252 and BBL331 and BBL432]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -1939,7 +1939,7 @@ courses={
     "BBL733": {
         "code": "BBL733",
         "name": "Recombinant DNA Technology",
-        "prereqs": "[(BBL131 && BBL132 && BBL231)]",
+        "prereqs": "[(BBL131 and BBL132 and BBL231)]",
         "overlap": "",
         "credits": 3.5,
         "hours": {
@@ -1952,7 +1952,7 @@ courses={
     "BBL734": {
         "code": "BBL734",
         "name": "Metabolic Regulation and Engineering",
-        "prereqs": "[BBL331 && BBL431]",
+        "prereqs": "[BBL331 and BBL431]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -1965,7 +1965,7 @@ courses={
     "BBL735": {
         "code": "BBL735",
         "name": "Genomics and Proteomics",
-        "prereqs": "[BBL231 && BBL733]",
+        "prereqs": "[BBL231 and BBL733]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -1978,7 +1978,7 @@ courses={
     "BBL736": {
         "code": "BBL736",
         "name": "Dynamics of Microbial Systems",
-        "prereqs": "[BBL331 && BBL432 && BBL433]",
+        "prereqs": "[BBL331 and BBL432 and BBL433]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -2017,7 +2017,7 @@ courses={
     "BBL741": {
         "code": "BBL741",
         "name": "Protein Science and Engineering",
-        "prereqs": "[BBL131 && BBL231 || Master]",
+        "prereqs": "[BBL131 and BBL231 or Master]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -2030,7 +2030,7 @@ courses={
     "BBL742": {
         "code": "BBL742",
         "name": "Biological Waste Treatment",
-        "prereqs": "[BBL132 && BBL331]",
+        "prereqs": "[BBL132 and BBL331]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -2043,7 +2043,7 @@ courses={
     "BBL743": {
         "code": "BBL743",
         "name": "High Resolution Methods in Biotechnology",
-        "prereqs": "[BBL131 && BBL331]",
+        "prereqs": "[BBL131 and BBL331]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -2082,7 +2082,7 @@ courses={
     "BBL746": {
         "code": "BBL746",
         "name": "Current Topics in Biochemical Engineering and",
-        "prereqs": "[BBL131 && BBL331]",
+        "prereqs": "[BBL131 and BBL331]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -2095,7 +2095,7 @@ courses={
     "BBL747": {
         "code": "BBL747",
         "name": "Bionanotechnology",
-        "prereqs": "[BBL131 || (Bioscience && Master)]",
+        "prereqs": "[BBL131 or (Bioscience and Master)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -2108,7 +2108,7 @@ courses={
     "BBL748": {
         "code": "BBL748",
         "name": "Data Analysis for DNA Microarrays",
-        "prereqs": "[BBL131 && BBL231 && BBL733]",
+        "prereqs": "[BBL131 and BBL231 and BBL733]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -2121,7 +2121,7 @@ courses={
     "BBL749": {
         "code": "BBL749",
         "name": "Cancer Cell Biology",
-        "prereqs": "[BBL131 && BBL132 && BBL231]",
+        "prereqs": "[BBL131 and BBL132 and BBL231]",
         "overlap": "",
         "credits": 4.5,
         "hours": {
@@ -2212,7 +2212,7 @@ courses={
     "BBV750": {
         "code": "BBV750",
         "name": "Bioreaction Engineering",
-        "prereqs": "[(Biochem || MScBiochem) && (Undergraduate || MSc)]",
+        "prereqs": "[(Biochem or MScBiochem) and (Undergraduate or MSc)]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -2225,7 +2225,7 @@ courses={
     "BBL771": {
         "code": "BBL771",
         "name": "Microbial Biochemistry and Molecular Biology",
-        "prereqs": "[EC10 || EC11 || EC12 || EC13 || EC14 || EC15 || EC16 || EC17 || EC18 || EC19 || EC20 || EC21 || EC22 || EC23 || EC24 || EC25 || EC26 || EC27 || EC28 || EC29 || EC30 || EC31 || EC32 || EC33 || EC34 || EC35 || EC36 || EC37 || EC38 || EC39 || EC40 || EC41 || EC42 || EC43 || EC44 || EC45 || EC46 || EC47 || EC48 || EC49 || EC50 || EC51 || EC52 || EC53 || EC54 || EC55 || EC56 || EC57 || EC58 || EC59 || EC60 || EC61 || EC62 || EC63 || EC64 || EC65 || EC66 || EC67 || EC68 || EC69 || EC70 || EC71 || EC72 || EC73 || EC74 || EC75 || EC76 || EC77 || EC78 || EC79 || EC80 || EC81 || EC82 || EC83 || EC84 || EC85 || EC86 || EC87 || EC88 || EC89 || EC90 || EC91 || EC92 || EC93 || EC94 || EC95 || EC96 || EC97 || EC98 || EC99 || EC100 || EC101 || EC102 || EC103 || EC104 || EC105 || EC106 || EC107 || EC108 || EC109 || EC110 || EC111 || EC112 || EC113 || EC114 || EC115 || EC116 || EC117 || EC118 || EC119 || EC120 || EC121 || EC122 || EC123 || EC124 || EC125 || EC126 || EC127 || EC128 || EC129 || EC",
+        "prereqs": "[EC10 or EC11 or EC12 or EC13 or EC14 or EC15 or EC16 or EC17 or EC18 or EC19 or EC20 or EC21 or EC22 or EC23 or EC24 or EC25 or EC26 or EC27 or EC28 or EC29 or EC30 or EC31 or EC32 or EC33 or EC34 or EC35 or EC36 or EC37 or EC38 or EC39 or EC40 or EC41 or EC42 or EC43 or EC44 or EC45 or EC46 or EC47 or EC48 or EC49 or EC50 or EC51 or EC52 or EC53 or EC54 or EC55 or EC56 or EC57 or EC58 or EC59 or EC60 or EC61 or EC62 or EC63 or EC64 or EC65 or EC66 or EC67 or EC68 or EC69 or EC70 or EC71 or EC72 or EC73 or EC74 or EC75 or EC76 or EC77 or EC78 or EC79 or EC80 or EC81 or EC82 or EC83 or EC84 or EC85 or EC86 or EC87 or EC88 or EC89 or EC90 or EC91 or EC92 or EC93 or EC94 or EC95 or EC96 or EC97 or EC98 or EC99 or EC100 or EC101 or EC102 or EC103 or EC104 or EC105 or EC106 or EC107 or EC108 or EC109 or EC110 or EC111 or EC112 or EC113 or EC114 or EC115 or EC116 or EC117 or EC118 or EC119 or EC120 or EC121 or EC122 or EC123 or EC124 or EC125 or EC126 or EC127 or EC128 or EC129 or EC",
         "overlap": "BBL131, BBL231, BBL830, SBL751",
         "credits": 4.0,
         "hours": {
@@ -2277,7 +2277,7 @@ courses={
     "BBL775": {
         "code": "BBL775",
         "name": "Bioreaction Engineering",
-        "prereqs": "[BBL773 && BBL772]",
+        "prereqs": "[BBL773 and BBL772]",
         "overlap": "",
         "credits": 4.5,
         "hours": {
@@ -2498,7 +2498,7 @@ courses={
     "CLL261": {
         "code": "CLL261",
         "name": "Process Dynamics and Control",
-        "prereqs": "[MTL100 && CLL111]",
+        "prereqs": "[MTL100 and CLL111]",
         "overlap": "MCL212, ELL225, ELL205",
         "credits": 4.0,
         "hours": {
@@ -2537,7 +2537,7 @@ courses={
     "CLP301": {
         "code": "CLP301",
         "name": "Chemical Engineering Laboratory I",
-        "prereqs": "[CLL231 && CLL251]",
+        "prereqs": "[CLL231 and CLL251]",
         "overlap": "",
         "credits": 1.5,
         "hours": {
@@ -2550,7 +2550,7 @@ courses={
     "CLP302": {
         "code": "CLP302",
         "name": "Chemical Engineering Laboratory II",
-        "prereqs": "[CLL331 && CLL252]",
+        "prereqs": "[CLL331 and CLL252]",
         "overlap": "",
         "credits": 1.5,
         "hours": {
@@ -2563,7 +2563,7 @@ courses={
     "CLP303": {
         "code": "CLP303",
         "name": "Chemical Engineering Laboratory III",
-        "prereqs": "[CLL121 && CLL122 && CLL222]",
+        "prereqs": "[CLL121 and CLL122 and CLL222]",
         "overlap": "",
         "credits": 1.5,
         "hours": {
@@ -2576,7 +2576,7 @@ courses={
     "CLL331": {
         "code": "CLL331",
         "name": "Fluid-Particle Mechanics",
-        "prereqs": "[CLL110 && CLL231]",
+        "prereqs": "[CLL110 and CLL231]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -2615,7 +2615,7 @@ courses={
     "CLL371": {
         "code": "CLL371",
         "name": "Chemical Process Technology and Economics",
-        "prereqs": "[CLL252 && CLL122]",
+        "prereqs": "[CLL252 and CLL122]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -2797,7 +2797,7 @@ courses={
     "CLL705": {
         "code": "CLL705",
         "name": "Petroleum Reservoir Engineering",
-        "prereqs": "[CLL110 && CLL121]",
+        "prereqs": "[CLL110 and CLL121]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -2810,7 +2810,7 @@ courses={
     "CLL706": {
         "code": "CLL706",
         "name": "Petroleum Production Engineering",
-        "prereqs": "[CLL231 && CLL121]",
+        "prereqs": "[CLL231 and CLL121]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -2823,7 +2823,7 @@ courses={
     "CLL707": {
         "code": "CLL707",
         "name": "Population Balance Modeling",
-        "prereqs": "[MTL101 && CLL331 && CLL352]",
+        "prereqs": "[MTL101 and CLL331 and CLL352]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -2953,7 +2953,7 @@ courses={
     "CLL729": {
         "code": "CLL729",
         "name": "Colloids and Aerosols",
-        "prereqs": "[CLL231 && CLL331]",
+        "prereqs": "[CLL231 and CLL331]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -3005,7 +3005,7 @@ courses={
     "CLL733": {
         "code": "CLL733",
         "name": "Industrial Multiphase Reactors",
-        "prereqs": "[CLL122 && CLL222]",
+        "prereqs": "[CLL122 and CLL222]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -3018,7 +3018,7 @@ courses={
     "CLL734": {
         "code": "CLL734",
         "name": "Process Intensification and Novel Reactors",
-        "prereqs": "[CLL122 && CLL222]",
+        "prereqs": "[CLL122 and CLL222]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -3044,7 +3044,7 @@ courses={
     "CLL736": {
         "code": "CLL736",
         "name": "Experimental Characterization of Multiphase",
-        "prereqs": "[CLL122 && CLL222]",
+        "prereqs": "[CLL122 and CLL222]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -3057,7 +3057,7 @@ courses={
     "CLL742": {
         "code": "CLL742",
         "name": "Experimental Characterization of",
-        "prereqs": "[CLL141 && CLL271]",
+        "prereqs": "[CLL141 and CLL271]",
         "overlap": "MLL723",
         "credits": 3.0,
         "hours": {
@@ -3083,7 +3083,7 @@ courses={
     "CLL760": {
         "code": "CLL760",
         "name": "Crystal Engineering and Design",
-        "prereqs": "[CLL110 && CLL121]",
+        "prereqs": "[CLL110 and CLL121]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -3096,7 +3096,7 @@ courses={
     "CLL761": {
         "code": "CLL761",
         "name": "Chemical Engineering Mathematics",
-        "prereqs": "[MTL101 && CLL110]",
+        "prereqs": "[MTL101 and CLL110]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -3122,7 +3122,7 @@ courses={
     "CLL766": {
         "code": "CLL766",
         "name": "Interfacial Engineering",
-        "prereqs": "[CLL110 && CLL121]",
+        "prereqs": "[CLL110 and CLL121]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -3148,7 +3148,7 @@ courses={
     "CLL768": {
         "code": "CLL768",
         "name": "Fundamentals of Computational Fluid Dynamics",
-        "prereqs": "[CLL113 && CLL110]",
+        "prereqs": "[CLL113 and CLL110]",
         "overlap": "AML410, MEL807",
         "credits": 3.0,
         "hours": {
@@ -3369,7 +3369,7 @@ courses={
     "CLL782": {
         "code": "CLL782",
         "name": "Process Optimization",
-        "prereqs": "[CLL222 && CLL352]",
+        "prereqs": "[CLL222 and CLL352]",
         "overlap": "MTL103, MTL625, MTL704, APL771, MCL742",
         "credits": 3.0,
         "hours": {
@@ -3395,7 +3395,7 @@ courses={
     "CLL784": {
         "code": "CLL784",
         "name": "Process Modeling and Simulation",
-        "prereqs": "[CLL222 && CLL352]",
+        "prereqs": "[CLL222 and CLL352]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -3499,7 +3499,7 @@ courses={
     "CLL793": {
         "code": "CLL793",
         "name": "Membrane Science and Engineering",
-        "prereqs": "[CLL110 && CLL252]",
+        "prereqs": "[CLL110 and CLL252]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -3512,7 +3512,7 @@ courses={
     "CLL794": {
         "code": "CLL794",
         "name": "Petroleum Refinery Engineering",
-        "prereqs": "[CLL222 && CLL352]",
+        "prereqs": "[CLL222 and CLL352]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -4344,7 +4344,7 @@ courses={
     "CML760": {
         "code": "CML760",
         "name": "Computational Quantum Chemistry",
-        "prereqs": "[(CML511 || PYL555 || PYL556) && (CML511 || PYL555 || PYL556 || \"some other equivalent\")]",
+        "prereqs": "[(CML511 or PYL555 or PYL556) and (CML511 or PYL555 or PYL556 or \"some other equivalent\")]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -4448,7 +4448,7 @@ courses={
     "CVP121": {
         "code": "CVP121",
         "name": "Engineering Geology Lab",
-        "prereqs": "[CVL121 || CVL121c]",
+        "prereqs": "[CVL121 or CVL121c]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -4500,7 +4500,7 @@ courses={
     "CVP222": {
         "code": "CVP222",
         "name": "Soil Mechanics Lab",
-        "prereqs": "[CVL222 || CVL222c]",
+        "prereqs": "[CVL222 or CVL222c]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -4526,7 +4526,7 @@ courses={
     "CVP242": {
         "code": "CVP242",
         "name": "Structural Analysis Lab",
-        "prereqs": "[CVL242 || CVL242c]",
+        "prereqs": "[CVL242 or CVL242c]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -4604,7 +4604,7 @@ courses={
     "CVP261": {
         "code": "CVP261",
         "name": "Transportation Engineering Lab",
-        "prereqs": "[CVL261 || CVL261c]",
+        "prereqs": "[CVL261 or CVL261c]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -4630,7 +4630,7 @@ courses={
     "CVP281": {
         "code": "CVP281",
         "name": "Hydraulics Lab",
-        "prereqs": "[CVL281 || CVL281c]",
+        "prereqs": "[CVL281 or CVL281c]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -4721,7 +4721,7 @@ courses={
     "CVP321": {
         "code": "CVP321",
         "name": "Geotechnical Engineering Lab",
-        "prereqs": "[CVL321 || CVL321c]",
+        "prereqs": "[CVL321 or CVL321c]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -4799,7 +4799,7 @@ courses={
     "CVL381": {
         "code": "CVL381",
         "name": "Design of Hydraulic Structures",
-        "prereqs": "[CVL281 && CVL282]",
+        "prereqs": "[CVL281 and CVL282]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -4812,7 +4812,7 @@ courses={
     "CVL382": {
         "code": "CVL382",
         "name": "Groundwater",
-        "prereqs": "[CVL282 || EC75]",
+        "prereqs": "[CVL282 or EC75]",
         "overlap": "",
         "credits": 2.0,
         "hours": {
@@ -4838,7 +4838,7 @@ courses={
     "CVL384": {
         "code": "CVL384",
         "name": "Urban Hydrology",
-        "prereqs": "[CVL282 || EC75]",
+        "prereqs": "[CVL282 or EC75]",
         "overlap": "",
         "credits": 2.0,
         "hours": {
@@ -5020,7 +5020,7 @@ courses={
     "CVL441": {
         "code": "CVL441",
         "name": "Structural Design",
-        "prereqs": "[CVL241 && CVL243 && CVL342]",
+        "prereqs": "[CVL241 and CVL243 and CVL342]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -5033,7 +5033,7 @@ courses={
     "CVP441": {
         "code": "CVP441",
         "name": "Structural Design & Detailing",
-        "prereqs": "[CVL243 && CVL342]",
+        "prereqs": "[CVL243 and CVL342]",
         "overlap": "",
         "credits": 1.5,
         "hours": {
@@ -5059,7 +5059,7 @@ courses={
     "CVL443": {
         "code": "CVL443",
         "name": "Prestressed Concrete & Industrial Structures",
-        "prereqs": "[CVL241 && CVL243 && CVL341]",
+        "prereqs": "[CVL241 and CVL243 and CVL341]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -5098,7 +5098,7 @@ courses={
     "CVL481": {
         "code": "CVL481",
         "name": "Water Resources Management",
-        "prereqs": "[CVL282 && EC100]",
+        "prereqs": "[CVL282 and EC100]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -5111,7 +5111,7 @@ courses={
     "CVL482": {
         "code": "CVL482",
         "name": "Water Power Engineering",
-        "prereqs": "[CVL281 && EC100]",
+        "prereqs": "[CVL281 and EC100]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -5124,7 +5124,7 @@ courses={
     "CVL483": {
         "code": "CVL483",
         "name": "Groundwater & Surface-water Pollution",
-        "prereqs": "[CVL282 && EC100]",
+        "prereqs": "[CVL282 and EC100]",
         "overlap": "",
         "credits": 2.0,
         "hours": {
@@ -5137,7 +5137,7 @@ courses={
     "CVP484": {
         "code": "CVP484",
         "name": "Computational Aspects in Water Resources",
-        "prereqs": "[CVL281 && EC100]",
+        "prereqs": "[CVL281 and EC100]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -5150,7 +5150,7 @@ courses={
     "CVL485": {
         "code": "CVL485",
         "name": "River Mechanics",
-        "prereqs": "[CVL281 && EC100]",
+        "prereqs": "[CVL281 and EC100]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -6593,7 +6593,7 @@ courses={
     "CVL811": {
         "code": "CVL811",
         "name": "Numerical and Computer Methods in",
-        "prereqs": "[CVL704 || Equivalent]",
+        "prereqs": "[CVL704 or Equivalent]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -6983,7 +6983,7 @@ courses={
     "CVL842": {
         "code": "CVL842",
         "name": "Geometric Design of Roads",
-        "prereqs": "[(M.Tech && (CVL741 && CVL742)) || (B.Tech && CVL261)]",
+        "prereqs": "[(M.Tech and (CVL741 and CVL742)) or (B.Tech and CVL261)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -6996,7 +6996,7 @@ courses={
     "CVL844": {
         "code": "CVL844",
         "name": "Transportation Infrastructure Management",
-        "prereqs": "[(M.Tech && CVL740) || (B.Tech && [])]",
+        "prereqs": "[(M.Tech and CVL740) or (B.Tech and [])]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -7009,7 +7009,7 @@ courses={
     "CVL845": {
         "code": "CVL845",
         "name": "Viscoelastic Behavior of Bituminous Materials",
-        "prereqs": "[(M.Tech && CVL740) || (B.Tech && [])]",
+        "prereqs": "[(M.Tech and CVL740) or (B.Tech and [])]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -7022,7 +7022,7 @@ courses={
     "CVL846": {
         "code": "CVL846",
         "name": "Transportation System Management",
-        "prereqs": "[(CVL741 && CVL742) || (CVL741 || CVL742)]",
+        "prereqs": "[(CVL741 and CVL742) or (CVL741 or CVL742)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -7048,7 +7048,7 @@ courses={
     "CVL848": {
         "code": "CVL848",
         "name": "Discrete Choice Methods for Travel Demand",
-        "prereqs": "[(CVL741 && CVL748)]",
+        "prereqs": "[(CVL741 and CVL748)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -7087,7 +7087,7 @@ courses={
     "CVL851": {
         "code": "CVL851",
         "name": "Special Topics in Transportation Engineering",
-        "prereqs": "[CVL740 || CVL741 || CVL742]",
+        "prereqs": "[CVL740 or CVL741 or CVL742]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -7100,7 +7100,7 @@ courses={
     "CVS852": {
         "code": "CVS852",
         "name": "Advanced Topics in Transportation Engineering",
-        "prereqs": "[CVL740 && CVL741 && CVL742]",
+        "prereqs": "[CVL740 and CVL741 and CVL742]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -7113,7 +7113,7 @@ courses={
     "CVD853": {
         "code": "CVD853",
         "name": "Major Project Part-I",
-        "prereqs": "[CVL740 && CVL741 && CVL742]",
+        "prereqs": "[CVL740 and CVL741 and CVL742]",
         "overlap": "",
         "credits": 9.0,
         "hours": {
@@ -7126,7 +7126,7 @@ courses={
     "CVD854": {
         "code": "CVD854",
         "name": "Major Project Part-II",
-        "prereqs": "[CVL740 && CVL741 && CVL742]",
+        "prereqs": "[CVL740 and CVL741 and CVL742]",
         "overlap": "",
         "credits": 12.0,
         "hours": {
@@ -7282,7 +7282,7 @@ courses={
     "CVL869": {
         "code": "CVL869",
         "name": "Probabilistic Structural Dynamics",
-        "prereqs": "[(CVL759 || AML733 || APL734)]",
+        "prereqs": "[(CVL759 or AML733 or APL734)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -7425,7 +7425,7 @@ courses={
     "COL215": {
         "code": "COL215",
         "name": "Digital Logic & System Design",
-        "prereqs": "[COL100 && ELL101]",
+        "prereqs": "[COL100 and ELL101]",
         "overlap": "ELL201",
         "credits": 5.0,
         "hours": {
@@ -7529,7 +7529,7 @@ courses={
     "COP315": {
         "code": "COP315",
         "name": "Embedded System Design Project",
-        "prereqs": "[(COL215 || COL216) && (COL215e || COL216e)]",
+        "prereqs": "[(COL215 or COL216) and (COL215e or COL216e)]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -7542,7 +7542,7 @@ courses={
     "COL331": {
         "code": "COL331",
         "name": "Operating Systems",
-        "prereqs": "[COL106 && COP290]",
+        "prereqs": "[COL106 and COP290]",
         "overlap": "ELL405",
         "credits": 5.0,
         "hours": {
@@ -7568,7 +7568,7 @@ courses={
     "COL334": {
         "code": "COL334",
         "name": "Computer Networks",
-        "prereqs": "[COL106 && COL216]",
+        "prereqs": "[COL106 and COL216]",
         "overlap": "ELL402",
         "credits": 4.0,
         "hours": {
@@ -7581,7 +7581,7 @@ courses={
     "COL341": {
         "code": "COL341",
         "name": "Fundamentals of Machine Learning",
-        "prereqs": "[COL106 && MTL106]",
+        "prereqs": "[COL106 and MTL106]",
         "overlap": "ELL409, ELL784",
         "credits": 4.0,
         "hours": {
@@ -7633,7 +7633,7 @@ courses={
     "COL380": {
         "code": "COL380",
         "name": "Introduction to Parallel & Distributed",
-        "prereqs": "[COL106 && COL351 && COL331]",
+        "prereqs": "[COL106 and COL351 and COL331]",
         "overlap": "COL730",
         "credits": 3.0,
         "hours": {
@@ -7711,7 +7711,7 @@ courses={
     "COL707": {
         "code": "COL707",
         "name": "Introduction to Ethical Issues in Computer",
-        "prereqs": "[COL351 || COL702]",
+        "prereqs": "[COL351 or COL702]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -7750,7 +7750,7 @@ courses={
     "COL720": {
         "code": "COL720",
         "name": "Real Time Systems",
-        "prereqs": "[COL331 && COL216]",
+        "prereqs": "[COL331 and COL216]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -7815,7 +7815,7 @@ courses={
     "COL728": {
         "code": "COL728",
         "name": "Compiler Design",
-        "prereqs": "[COL216 || COL226]",
+        "prereqs": "[COL216 or COL226]",
         "overlap": "",
         "credits": 4.5,
         "hours": {
@@ -7828,7 +7828,7 @@ courses={
     "COL729": {
         "code": "COL729",
         "name": "Compiler Optimization",
-        "prereqs": "[COL216 || COL226]",
+        "prereqs": "[COL216 or COL226]",
         "overlap": "",
         "credits": 4.5,
         "hours": {
@@ -7841,7 +7841,7 @@ courses={
     "COL730": {
         "code": "COL730",
         "name": "Parallel Programming",
-        "prereqs": "[COL106 && COL331]",
+        "prereqs": "[COL106 and COL331]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -7854,7 +7854,7 @@ courses={
     "COL731": {
         "code": "COL731",
         "name": "Advanced Compiler Techniques for Optimization,",
-        "prereqs": "[COL729 || COL729e]",
+        "prereqs": "[COL729 or COL729e]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -7893,7 +7893,7 @@ courses={
     "COL740": {
         "code": "COL740",
         "name": "Software Engineering",
-        "prereqs": "[COL106 && COL226]",
+        "prereqs": "[COL106 and COL226]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -7932,7 +7932,7 @@ courses={
     "COL750": {
         "code": "COL750",
         "name": "Foundations of Automatic Verification",
-        "prereqs": "[COL226 && COL352]",
+        "prereqs": "[COL226 and COL352]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -8049,7 +8049,7 @@ courses={
     "COL759": {
         "code": "COL759",
         "name": "Cryptography & Computer Security",
-        "prereqs": "[COL351 && MTL106]",
+        "prereqs": "[COL351 and MTL106]",
         "overlap": "MTL730",
         "credits": 3.0,
         "hours": {
@@ -8179,7 +8179,7 @@ courses={
     "COL775": {
         "code": "COL775",
         "name": "Deep Learning",
-        "prereqs": "[(ELL409 || ELL774 || COL341 || COL) && !ELL774 && !COL]",
+        "prereqs": "[(ELL409 or ELL774 or COL341 or COL) and !ELL774 and !COL]",
         "overlap": "AIL721, APL745",
         "credits": 4.0,
         "hours": {
@@ -8205,7 +8205,7 @@ courses={
     "COL777": {
         "code": "COL777",
         "name": "Deep Reinforcement Learning",
-        "prereqs": "[(EEL409 || EEL784 || COL774 || COL341)]",
+        "prereqs": "[(EEL409 or EEL784 or COL774 or COL341)]",
         "overlap": "AIL722, ELL729",
         "credits": 4.0,
         "hours": {
@@ -8218,7 +8218,7 @@ courses={
     "COL778": {
         "code": "COL778",
         "name": "Principles of Autonomous Systems",
-        "prereqs": "[(COL333 || COL774 || ELL784)]",
+        "prereqs": "[(COL333 or COL774 or ELL784)]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -8257,7 +8257,7 @@ courses={
     "COL783": {
         "code": "COL783",
         "name": "Digital Image Analysis",
-        "prereqs": "[COL106 && ELL205]",
+        "prereqs": "[COL106 and ELL205]",
         "overlap": "ELL715",
         "credits": 4.5,
         "hours": {
@@ -8296,7 +8296,7 @@ courses={
     "COL788": {
         "code": "COL788",
         "name": "Advanced Topics in Embedded Computing",
-        "prereqs": "[COL216 || COL331]",
+        "prereqs": "[COL216 or COL331]",
         "overlap": "ELL782",
         "credits": 3.0,
         "hours": {
@@ -8335,7 +8335,7 @@ courses={
     "COL818": {
         "code": "COL818",
         "name": "Principles of Multiprocessor Systems",
-        "prereqs": "[(COL216 && COL351 && COL331) || (COL216 && COL331 && ECXXX) || (COL351 && COL331 && ECXXX)]",
+        "prereqs": "[(COL216 and COL351 and COL331) or (COL216 and COL331 and ECXXX) or (COL351 and COL331 and ECXXX)]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -8348,7 +8348,7 @@ courses={
     "COL819": {
         "code": "COL819",
         "name": "Advanced Distributed Systems",
-        "prereqs": "[(COL331 && COL334 && COL380) || (COL331 && COL334 && ECXXX) || (COL331 && ECXXX && COL380) || (ECXXX && COL334 && COL380)]",
+        "prereqs": "[(COL331 and COL334 and COL380) or (COL331 and COL334 and ECXXX) or (COL331 and ECXXX and COL380) or (ECXXX and COL334 and COL380)]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -8387,7 +8387,7 @@ courses={
     "COL828": {
         "code": "COL828",
         "name": "Advanced Computer Vision",
-        "prereqs": "[(COL780 || COL783 || ELL793 || ELL715)]",
+        "prereqs": "[(COL780 or COL783 or ELL793 or ELL715)]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -8426,7 +8426,7 @@ courses={
     "COL831": {
         "code": "COL831",
         "name": "Semantics of Programming Languages",
-        "prereqs": "[COL226 && COL352]",
+        "prereqs": "[COL226 and COL352]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -8439,7 +8439,7 @@ courses={
     "COL832": {
         "code": "COL832",
         "name": "Proofs and Types",
-        "prereqs": "[COL226 && COL352]",
+        "prereqs": "[COL226 and COL352]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -8465,7 +8465,7 @@ courses={
     "COL852": {
         "code": "COL852",
         "name": "Special Topics in COMPILER DESIGN",
-        "prereqs": "[COL728 || COL729]",
+        "prereqs": "[COL728 or COL729]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -8530,7 +8530,7 @@ courses={
     "COL864": {
         "code": "COL864",
         "name": "Special Topics in Artificial Intelligence",
-        "prereqs": "[COL333 || COL671]",
+        "prereqs": "[COL333 or COL671]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -8569,7 +8569,7 @@ courses={
     "COL867": {
         "code": "COL867",
         "name": "Special Topics in High Speed Networks",
-        "prereqs": "[COL334 || COL672]",
+        "prereqs": "[COL334 or COL672]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -8582,7 +8582,7 @@ courses={
     "COL868": {
         "code": "COL868",
         "name": "Special topics in Database Systems",
-        "prereqs": "[COL334 || COL672]",
+        "prereqs": "[COL334 or COL672]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -8621,7 +8621,7 @@ courses={
     "COL871": {
         "code": "COL871",
         "name": "Special Topics in Programming Languages",
-        "prereqs": "[COL765 || (COL226 && COL202)]",
+        "prereqs": "[COL765 or (COL226 and COL202)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -8660,7 +8660,7 @@ courses={
     "COL874": {
         "code": "COL874",
         "name": "Special Topics in Compilers and Language",
-        "prereqs": "[COL765 || (COL226 && COL202)]",
+        "prereqs": "[COL765 or (COL226 and COL202)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -8673,7 +8673,7 @@ courses={
     "COL876": {
         "code": "COL876",
         "name": "Special Topics in Formal Methods",
-        "prereqs": "[COL765 || (COL703 && COL226)]",
+        "prereqs": "[COL765 or (COL703 and COL226)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -8790,7 +8790,7 @@ courses={
     "COV883": {
         "code": "COV883",
         "name": "Special Module in Theoretical Computer Science",
-        "prereqs": "[COL351 || COL351e]",
+        "prereqs": "[COL351 or COL351e]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -8803,7 +8803,7 @@ courses={
     "COV884": {
         "code": "COV884",
         "name": "Special Module in Artificial Intelligence",
-        "prereqs": "[COL333 || COL671]",
+        "prereqs": "[COL333 or COL671]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -8842,7 +8842,7 @@ courses={
     "COV887": {
         "code": "COV887",
         "name": "Special Module in High Speed Networks",
-        "prereqs": "[COL334 || COL672]",
+        "prereqs": "[COL334 or COL672]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -8855,7 +8855,7 @@ courses={
     "COV888": {
         "code": "COV888",
         "name": "Special Module in Database Systems",
-        "prereqs": "[COL362 || COL632]",
+        "prereqs": "[COL362 or COL632]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -9284,7 +9284,7 @@ courses={
     "DDL228": {
         "code": "DDL228",
         "name": "Exhibition and Space Design",
-        "prereqs": "[DDL111 && DDL116 && DDL125]",
+        "prereqs": "[DDL111 and DDL116 and DDL125]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -9375,7 +9375,7 @@ courses={
     "DDD320": {
         "code": "DDD320",
         "name": "Design Project-2 (Simple Product Design)",
-        "prereqs": "[DDL111 && DDL116 && DDL125 && DDL121 && DDL211]",
+        "prereqs": "[DDL111 and DDL116 and DDL125 and DDL121 and DDL211]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -9388,7 +9388,7 @@ courses={
     "DDL321": {
         "code": "DDL321",
         "name": "Model Making",
-        "prereqs": "[DDL211 && DDL213]",
+        "prereqs": "[DDL211 and DDL213]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -9583,7 +9583,7 @@ courses={
     "DDL725": {
         "code": "DDL725",
         "name": "Information Design & Data Visualization",
-        "prereqs": "[DDP731 || (DDL111 && DDL116 && DDL125)]",
+        "prereqs": "[DDP731 or (DDL111 and DDL116 and DDL125)]",
         "overlap": "MSL814",
         "credits": 3.0,
         "hours": {
@@ -9986,7 +9986,7 @@ courses={
     "DDL752": {
         "code": "DDL752",
         "name": "Design for Industry 4.0",
-        "prereqs": "[Materials_and_Prototyping && Prototyping_in]",
+        "prereqs": "[Materials_and_Prototyping and Prototyping_in]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -10090,7 +10090,7 @@ courses={
     "ELL211": {
         "code": "ELL211",
         "name": "Physical Electronics",
-        "prereqs": "[ELL101 && PYL101]",
+        "prereqs": "[ELL101 and PYL101]",
         "overlap": "ELL732, ELL231, EPL336, EPL439 , PHL653,",
         "credits": 3.0,
         "hours": {
@@ -10181,7 +10181,7 @@ courses={
     "ELL302": {
         "code": "ELL302",
         "name": "Power Electronics",
-        "prereqs": "[ELL231 || ELL211]",
+        "prereqs": "[ELL231 or ELL211]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -10207,7 +10207,7 @@ courses={
     "ELL303": {
         "code": "ELL303",
         "name": "Power Engineering-I",
-        "prereqs": "[ELL101 && ELL203]",
+        "prereqs": "[ELL101 and ELL203]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -10233,7 +10233,7 @@ courses={
     "ELL304": {
         "code": "ELL304",
         "name": "Analog Electronics",
-        "prereqs": "[ELL101 && ELL202 && (ELL211 || ELL231)]",
+        "prereqs": "[ELL101 and ELL202 and (ELL211 or ELL231)]",
         "overlap": "",
         "credits": 5.5,
         "hours": {
@@ -10337,7 +10337,7 @@ courses={
     "ELL315": {
         "code": "ELL315",
         "name": "Introduction to Analog Integrated Circuits",
-        "prereqs": "[ELL204 && ELL202]",
+        "prereqs": "[ELL204 and ELL202]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -10441,7 +10441,7 @@ courses={
     "ELL334": {
         "code": "ELL334",
         "name": "DSP Based Control of Drives",
-        "prereqs": "[ELL203 && ELL332]",
+        "prereqs": "[ELL203 and ELL332]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -10571,7 +10571,7 @@ courses={
     "ELL409": {
         "code": "ELL409",
         "name": "Machine Intelligence and Learning",
-        "prereqs": "[MTL106 && COL106]",
+        "prereqs": "[MTL106 and COL106]",
         "overlap": "ELL784, ELL789, COL341/COL774",
         "credits": 4.0,
         "hours": {
@@ -10961,7 +10961,7 @@ courses={
     "ELD459": {
         "code": "ELD459",
         "name": "BTP Part-II",
-        "prereqs": "[ELD411 && ELD431]",
+        "prereqs": "[ELD411 and ELD431]",
         "overlap": "",
         "credits": 8.0,
         "hours": {
@@ -11052,7 +11052,7 @@ courses={
     "ELL703": {
         "code": "ELL703",
         "name": "Optimal Control Theory",
-        "prereqs": "[ELL700 || ELL333]",
+        "prereqs": "[ELL700 or ELL333]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -11078,7 +11078,7 @@ courses={
     "ELL705": {
         "code": "ELL705",
         "name": "Stochastic Filtering and Identification",
-        "prereqs": "[ELL701 || ELL333]",
+        "prereqs": "[ELL701 or ELL333]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -11169,7 +11169,7 @@ courses={
     "ELL711": {
         "code": "ELL711",
         "name": "Signal Theory",
-        "prereqs": "[ELL205 && ELL311]",
+        "prereqs": "[ELL205 and ELL311]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -11351,7 +11351,7 @@ courses={
     "ELL721": {
         "code": "ELL721",
         "name": "Introduction to Telecommunication Systems",
-        "prereqs": "[MBA && BhartiSchool && Audit]",
+        "prereqs": "[MBA and BhartiSchool and Audit]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -11598,7 +11598,7 @@ courses={
     "ELL736": {
         "code": "ELL736",
         "name": "Solid State Imaging Sensors",
-        "prereqs": "[ELL304 && ELL782]",
+        "prereqs": "[ELL304 and ELL782]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -11624,7 +11624,7 @@ courses={
     "ELL737": {
         "code": "ELL737",
         "name": "Flexible Electronics",
-        "prereqs": "[(ELL218 && ELL111) || ELL732]",
+        "prereqs": "[(ELL218 and ELL111) or ELL732]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -11663,7 +11663,7 @@ courses={
     "ELL740": {
         "code": "ELL740",
         "name": "Compact Modeling of Semiconductor Devices",
-        "prereqs": "[(MoS || Microelectronics) && any]",
+        "prereqs": "[(MoS or Microelectronics) and any]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -11702,7 +11702,7 @@ courses={
     "ELL743": {
         "code": "ELL743",
         "name": "Photovoltaics",
-        "prereqs": "[ELL218 && (ELL111 || ELL732)]",
+        "prereqs": "[ELL218 and (ELL111 or ELL732)]",
         "overlap": "ELL739",
         "credits": 3.0,
         "hours": {
@@ -11754,7 +11754,7 @@ courses={
     "ELL747": {
         "code": "ELL747",
         "name": "Active and Passive Filter Design",
-        "prereqs": "[ELL202 || circuit_theory]",
+        "prereqs": "[ELL202 or circuit_theory]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -11819,7 +11819,7 @@ courses={
     "ELL751": {
         "code": "ELL751",
         "name": "Appliance Systems",
-        "prereqs": "[ELL203 && ELL332 && ELL365]",
+        "prereqs": "[ELL203 and ELL332 and ELL365]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -12053,7 +12053,7 @@ courses={
     "ELL766": {
         "code": "ELL766",
         "name": "Appliance Systems",
-        "prereqs": "[ELL203 && ELL332 && ELL365]",
+        "prereqs": "[ELL203 and ELL332 and ELL365]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -12378,7 +12378,7 @@ courses={
     "ELL785": {
         "code": "ELL785",
         "name": "Computer Communication Networks",
-        "prereqs": "[MTL106 || ELL711]",
+        "prereqs": "[MTL106 or ELL711]",
         "overlap": "CSL374, CSL672 (20%)",
         "credits": 3.0,
         "hours": {
@@ -12495,7 +12495,7 @@ courses={
     "ELL793": {
         "code": "ELL793",
         "name": "Computer Vision",
-        "prereqs": "[ELL715 && ELL784]",
+        "prereqs": "[ELL715 and ELL784]",
         "overlap": "COL780",
         "credits": 3.0,
         "hours": {
@@ -12573,7 +12573,7 @@ courses={
     "ELL799": {
         "code": "ELL799",
         "name": "Natural Computing",
-        "prereqs": "[COL106 && MTL106]",
+        "prereqs": "[COL106 and MTL106]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -14120,7 +14120,7 @@ courses={
     "ESL262": {
         "code": "ESL262",
         "name": "Electrical Machines",
-        "prereqs": "[ELL100 && ESL260]",
+        "prereqs": "[ELL100 and ESL260]",
         "overlap": "Some overlap with ELL401, ELL756",
         "credits": 3.0,
         "hours": {
@@ -14133,7 +14133,7 @@ courses={
     "ESL263": {
         "code": "ESL263",
         "name": "Power Electronics and Drives for Energy",
-        "prereqs": "[ELL100 && ESL260]",
+        "prereqs": "[ELL100 and ESL260]",
         "overlap": "Some overlap with ELL231, ELL302, ELL332",
         "credits": 3.0,
         "hours": {
@@ -14172,7 +14172,7 @@ courses={
     "ESP300": {
         "code": "ESP300",
         "name": "Energy Innovation Laboratory",
-        "prereqs": "[ESP260 && ESL280]",
+        "prereqs": "[ESP260 and ESL280]",
         "overlap": "",
         "credits": 1.5,
         "hours": {
@@ -14341,7 +14341,7 @@ courses={
     "ESL370": {
         "code": "ESL370",
         "name": "Control Systems and Automation",
-        "prereqs": "[ELL100 && ESL260]",
+        "prereqs": "[ELL100 and ESL260]",
         "overlap": "Some overlap with ELL225, MCL212, CLL261",
         "credits": 3.0,
         "hours": {
@@ -14354,7 +14354,7 @@ courses={
     "ESL371": {
         "code": "ESL371",
         "name": "Design of Energy Systems",
-        "prereqs": "[MCL140 && (APL106 || APL105) && ESL200 && ESL262]",
+        "prereqs": "[MCL140 and (APL106 or APL105) and ESL200 and ESL262]",
         "overlap": "Some overlap with ESL743",
         "credits": 4.0,
         "hours": {
@@ -14380,7 +14380,7 @@ courses={
     "ESL373": {
         "code": "ESL373",
         "name": "Computational Methods for Energy Systems",
-        "prereqs": "[(MCL141 || MCL142) && (MCL140 && MCL242)]",
+        "prereqs": "[(MCL141 or MCL142) and (MCL140 and MCL242)]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -16785,7 +16785,7 @@ courses={
     "HUL379": {
         "code": "HUL379",
         "name": "Sociological Perspectives on Organisations",
-        "prereqs": "[(HUL2XX[0] && HUL2XX[1]) || (HUL3XX[0] && HUL3XX[1]) || ...]",
+        "prereqs": "[(HUL2XX[0] and HUL2XX[1]) or (HUL3XX[0] and HUL3XX[1]) or ...]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17266,7 +17266,7 @@ courses={
     "HUL712": {
         "code": "HUL712",
         "name": "Microeconomics",
-        "prereqs": "[(For uG students) && (HUL212 && HUL311)]",
+        "prereqs": "[(For uG students) and (HUL212 and HUL311)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17305,7 +17305,7 @@ courses={
     "HUL715": {
         "code": "HUL715",
         "name": "Time Series Econometrics and Forecasting",
-        "prereqs": "[(HUL315 || HUL215) && is_undergraduate]",
+        "prereqs": "[(HUL315 or HUL215) and is_undergraduate]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17318,7 +17318,7 @@ courses={
     "HUL716": {
         "code": "HUL716",
         "name": "Industrial Economics",
-        "prereqs": "[(HUL212 && HUL311) && (Undergraduate)]",
+        "prereqs": "[(HUL212 and HUL311) and (Undergraduate)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17331,7 +17331,7 @@ courses={
     "HUL717": {
         "code": "HUL717",
         "name": "Perspectives on Indian Economy",
-        "prereqs": "[(HUL211 || HUL212 || HUL213)]",
+        "prereqs": "[(HUL211 or HUL212 or HUL213)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17344,7 +17344,7 @@ courses={
     "HUL718": {
         "code": "HUL718",
         "name": "Political Economy of Development",
-        "prereqs": "[(HUL211 || HUL212 || HUL213)]",
+        "prereqs": "[(HUL211 or HUL212 or HUL213)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17357,7 +17357,7 @@ courses={
     "HUL719": {
         "code": "HUL719",
         "name": "Advanced Econometrics",
-        "prereqs": "[(HUL315 || HUL215) && is_undergraduate]",
+        "prereqs": "[(HUL315 or HUL215) and is_undergraduate]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17396,7 +17396,7 @@ courses={
     "HSL722": {
         "code": "HSL722",
         "name": "Data Analysis for Behavioral Research using R",
-        "prereqs": "[(HUL242 && HSL745) || (!HuSS && (!UG || HSL745))]",
+        "prereqs": "[(HUL242 and HSL745) or (!HuSS and (!UG or HSL745))]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -17513,7 +17513,7 @@ courses={
     "HUL735": {
         "code": "HUL735",
         "name": "Research Methods in Economics",
-        "prereqs": "[(HUL701 || HUL707 || HUL736)]",
+        "prereqs": "[(HUL701 or HUL707 or HUL736)]",
         "overlap": "",
         "credits": 2.0,
         "hours": {
@@ -17552,7 +17552,7 @@ courses={
     "HUL737": {
         "code": "HUL737",
         "name": "Advanced Economic Growth Theory",
-        "prereqs": "[(HUL736 || HUL738 || HUL755)]",
+        "prereqs": "[(HUL736 or HUL738 or HUL755)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17578,7 +17578,7 @@ courses={
     "HUL741": {
         "code": "HUL741",
         "name": "Sociolinguistics: Language Variation, Culture",
-        "prereqs": "[(HUL234 && HUL242 && HUL350) || (UG && Prior)]",
+        "prereqs": "[(HUL234 and HUL242 and HUL350) or (UG and Prior)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17591,7 +17591,7 @@ courses={
     "HUL742": {
         "code": "HUL742",
         "name": "Transformational Theories of Language",
-        "prereqs": "[(HUL234 && HUL242 && HUL350) && (Undergraduate)]",
+        "prereqs": "[(HUL234 and HUL242 and HUL350) and (Undergraduate)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17630,7 +17630,7 @@ courses={
     "HUL746": {
         "code": "HUL746",
         "name": "Phonological Markedness",
-        "prereqs": "[(HUL234 && HUL242 && HUL350) && (Undergraduate)]",
+        "prereqs": "[(HUL234 and HUL242 and HUL350) and (Undergraduate)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17643,7 +17643,7 @@ courses={
     "HSL747": {
         "code": "HSL747",
         "name": "Language Computations and Mental Architecture",
-        "prereqs": "[HSL521 && HSL541]",
+        "prereqs": "[HSL521 and HSL541]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17669,7 +17669,7 @@ courses={
     "HSL748": {
         "code": "HSL748",
         "name": "Natural Language Understanding",
-        "prereqs": "[HSL522 || (similar programming course)]",
+        "prereqs": "[HSL522 or (similar programming course)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17682,7 +17682,7 @@ courses={
     "HSL749": {
         "code": "HSL749",
         "name": "Optimality Theory and Harmonic Grammar",
-        "prereqs": "[(HUL242 && HUL350 && HUL381) && (UG)]",
+        "prereqs": "[(HUL242 and HUL350 and HUL381) and (UG)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17864,7 +17864,7 @@ courses={
     "HSL766": {
         "code": "HSL766",
         "name": "Advances in Social Cognition",
-        "prereqs": "[HSL661 && (MSc && Cognitive Science)]",
+        "prereqs": "[HSL661 and (MSc and Cognitive Science)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17890,7 +17890,7 @@ courses={
     "HSL768": {
         "code": "HSL768",
         "name": "Judgment and Decision Making",
-        "prereqs": "[(MSc && Cognitive) && (Cognitive || Neuroscience)]",
+        "prereqs": "[(MSc and Cognitive) and (Cognitive or Neuroscience)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -17903,7 +17903,7 @@ courses={
     "HSL769": {
         "code": "HSL769",
         "name": "Number Cognition",
-        "prereqs": "[HSL661 && (MSc && Cognitive Science)]",
+        "prereqs": "[HSL661 and (MSc and Cognitive Science)]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -17981,7 +17981,7 @@ courses={
     "HUL775": {
         "code": "HUL775",
         "name": "Agrarian Societies and Rural Development",
-        "prereqs": "[(HUL101 || HUL102 || HUL103 || HUL104 || HUL105 || HUL106 || HUL107 || HUL108 || HUL109 || HUL110) && (APL106 || APL105)]",
+        "prereqs": "[(HUL101 or HUL102 or HUL103 or HUL104 or HUL105 or HUL106 or HUL107 or HUL108 or HUL109 or HUL110) and (APL106 or APL105)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -18046,7 +18046,7 @@ courses={
     "HSL780": {
         "code": "HSL780",
         "name": "Social and Cultural Construction of Emotions",
-        "prereqs": "[HSL661 && (MSc && Cognitive Science)]",
+        "prereqs": "[HSL661 and (MSc and Cognitive Science)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -18072,7 +18072,7 @@ courses={
     "HUL782": {
         "code": "HUL782",
         "name": "Perspectives on Development in India",
-        "prereqs": "[(HUL212 || HUL213 || HUL214) && (NOT (M.Tech || Masters))]",
+        "prereqs": "[(HUL212 or HUL213 or HUL214) and (NOT (M.Tech or Masters))]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -18098,7 +18098,7 @@ courses={
     "HSL784": {
         "code": "HSL784",
         "name": "Working with Humanities Data",
-        "prereqs": "[COL100 || COL100e]",
+        "prereqs": "[COL100 or COL100e]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -18189,7 +18189,7 @@ courses={
     "HUL814": {
         "code": "HUL814",
         "name": "Research Methods in Economics",
-        "prereqs": "[(HUL712[0] && ~HUL712[1]) || (HUL712[0] && HUL712[1]) || (~HUL712[0] && HUL712[1]) || (~HUL712[0] && ~HUL712[1])]",
+        "prereqs": "[(HUL712[0] and ~HUL712[1]) or (HUL712[0] and HUL712[1]) or (~HUL712[0] and HUL712[1]) or (~HUL712[0] and ~HUL712[1])]",
         "overlap": "",
         "credits": 2.0,
         "hours": {
@@ -18423,7 +18423,7 @@ courses={
     "HUL842": {
         "code": "HUL842",
         "name": "Prosodic Morphology",
-        "prereqs": "[(HUL234 && HUL242 && HUL350) && (Undergraduate)]",
+        "prereqs": "[(HUL234 and HUL242 and HUL350) and (Undergraduate)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -18449,7 +18449,7 @@ courses={
     "HSL844": {
         "code": "HSL844",
         "name": "Computational Models of Meaning",
-        "prereqs": "[(HSL522 || HSL541) && (HUL242 || HSL748)]",
+        "prereqs": "[(HSL522 or HSL541) and (HUL242 or HSL748)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -18969,7 +18969,7 @@ courses={
     "HUV748": {
         "code": "HUV748",
         "name": "Data Analysis for Psycholinguistics using R",
-        "prereqs": "[HUL242 && HUL381]",
+        "prereqs": "[HUL242 and HUL381]",
         "overlap": "",
         "credits": 2.0,
         "hours": {
@@ -19034,7 +19034,7 @@ courses={
     "HUV887": {
         "code": "HUV887",
         "name": "Special Module on Econometric Tools",
-        "prereqs": "[(HUL || SML700) && (HUL || SML800)]",
+        "prereqs": "[(HUL or SML700) and (HUL or SML800)]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -19125,7 +19125,7 @@ courses={
     "MSL307": {
         "code": "MSL307",
         "name": "Venture Financing & Teaming",
-        "prereqs": "[MSL305 && MSL306]",
+        "prereqs": "[MSL305 and MSL306]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -19138,7 +19138,7 @@ courses={
     "MSD308": {
         "code": "MSD308",
         "name": "Product Viability & Market Traction",
-        "prereqs": "[MSL305 && MSL306 && MSL307]",
+        "prereqs": "[MSL305 and MSL306 and MSL307]",
         "overlap": "",
         "credits": 1.5,
         "hours": {
@@ -19151,7 +19151,7 @@ courses={
     "MSD309": {
         "code": "MSD309",
         "name": "Business Plan & Funding",
-        "prereqs": "[MSL305 && MSL306 && MSL307 && MSD308]",
+        "prereqs": "[MSL305 and MSL306 and MSL307 and MSD308]",
         "overlap": "",
         "credits": 1.5,
         "hours": {
@@ -19411,7 +19411,7 @@ courses={
     "MSL709": {
         "code": "MSL709",
         "name": "Business Research Methods",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -19450,7 +19450,7 @@ courses={
     "MSL712": {
         "code": "MSL712",
         "name": "Ethics & Values Based Leadership",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -19463,7 +19463,7 @@ courses={
     "MSL713": {
         "code": "MSL713",
         "name": "Information Systems Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -19476,7 +19476,7 @@ courses={
     "MSL714": {
         "code": "MSL714",
         "name": "Organizational Dynamics and Environment",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -19489,7 +19489,7 @@ courses={
     "MSL715": {
         "code": "MSL715",
         "name": "Quality and Environment Management Systems",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -19515,7 +19515,7 @@ courses={
     "MSL717": {
         "code": "MSL717",
         "name": "Business Systems Analysis & Design",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -19541,7 +19541,7 @@ courses={
     "MSL719": {
         "code": "MSL719",
         "name": "Statistics for Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -19554,7 +19554,7 @@ courses={
     "MSL720": {
         "code": "MSL720",
         "name": "Macroeconomic Environment of Business",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -19567,7 +19567,7 @@ courses={
     "MSL721": {
         "code": "MSL721",
         "name": "Econometrics",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -19606,7 +19606,7 @@ courses={
     "MSL724": {
         "code": "MSL724",
         "name": "Business Communication",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -19619,7 +19619,7 @@ courses={
     "MSL725": {
         "code": "MSL725",
         "name": "Business Negotiations",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -19632,7 +19632,7 @@ courses={
     "MSL726": {
         "code": "MSL726",
         "name": "Telecom Systems Analysis, Planning and Design",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -19645,7 +19645,7 @@ courses={
     "MSL727": {
         "code": "MSL727",
         "name": "Interpersonal Behavior & Team Dynamics",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -19671,7 +19671,7 @@ courses={
     "MSL729": {
         "code": "MSL729",
         "name": "Individual Behavior in Organization",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -19684,7 +19684,7 @@ courses={
     "MSL730": {
         "code": "MSL730",
         "name": "Managing With Power",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -19697,7 +19697,7 @@ courses={
     "MSL731": {
         "code": "MSL731",
         "name": "Developing Self Awareness",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -19710,7 +19710,7 @@ courses={
     "MSL733": {
         "code": "MSL733",
         "name": "Organization Theory",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -19723,7 +19723,7 @@ courses={
     "MSL734": {
         "code": "MSL734",
         "name": "Management of Small & Medium Scale",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -19749,7 +19749,7 @@ courses={
     "MSL740": {
         "code": "MSL740",
         "name": "Quantitative Methods in Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -19788,7 +19788,7 @@ courses={
     "MSL780": {
         "code": "MSL780",
         "name": "Managerial Economics",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -19905,7 +19905,7 @@ courses={
     "MDL802": {
         "code": "MDL802",
         "name": "Entrepreneurial Finance",
-        "prereqs": "[MSL707 && MSL708 && MSL302]",
+        "prereqs": "[MSL707 and MSL708 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -19918,7 +19918,7 @@ courses={
     "MDL803": {
         "code": "MDL803",
         "name": "Fixed Income Securities",
-        "prereqs": "[MSL708 && (MSL302 || !MSL708)]",
+        "prereqs": "[MSL708 and (MSL302 or !MSL708)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -19931,7 +19931,7 @@ courses={
     "MDL804": {
         "code": "MDL804",
         "name": "Behavioural Science",
-        "prereqs": "[MSL302 || MSL708]",
+        "prereqs": "[MSL302 or MSL708]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -19944,7 +19944,7 @@ courses={
     "MDL805": {
         "code": "MDL805",
         "name": "Financial Technology",
-        "prereqs": "[MSL302 || MSL708]",
+        "prereqs": "[MSL302 or MSL708]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -20009,7 +20009,7 @@ courses={
     "MSL802": {
         "code": "MSL802",
         "name": "Management of Intellectual Property Rights",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20074,7 +20074,7 @@ courses={
     "MSL804": {
         "code": "MSL804",
         "name": "Procurement Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20100,7 +20100,7 @@ courses={
     "MSL805": {
         "code": "MSL805",
         "name": "Services Operations Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20126,7 +20126,7 @@ courses={
     "MDL806": {
         "code": "MDL806",
         "name": "Derivatives",
-        "prereqs": "[MSL708 && (MSL302 || B.Tech)]",
+        "prereqs": "[MSL708 and (MSL302 or B.Tech)]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -20191,7 +20191,7 @@ courses={
     "MSL809": {
         "code": "MSL809",
         "name": "Cyber Security: Managing Risks",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20204,7 +20204,7 @@ courses={
     "MSL810": {
         "code": "MSL810",
         "name": "Advanced Data Mining for Business Decisions",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -20217,7 +20217,7 @@ courses={
     "MSL811": {
         "code": "MSL811",
         "name": "Management Control Systems",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20256,7 +20256,7 @@ courses={
     "MSL814": {
         "code": "MSL814",
         "name": "Data Visualization",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -20269,7 +20269,7 @@ courses={
     "MSL815": {
         "code": "MSL815",
         "name": "Decision Support and Expert Systems",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20295,7 +20295,7 @@ courses={
     "MSL816": {
         "code": "MSL816",
         "name": "Total Quality Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20347,7 +20347,7 @@ courses={
     "MSL818": {
         "code": "MSL818",
         "name": "Industrial Waste Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20451,7 +20451,7 @@ courses={
     "MSL822": {
         "code": "MSL822",
         "name": "International Business",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20620,7 +20620,7 @@ courses={
     "MSL830": {
         "code": "MSL830",
         "name": "Organizational Structure and Processes",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20633,7 +20633,7 @@ courses={
     "MSL831": {
         "code": "MSL831",
         "name": "Management of Change",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20646,7 +20646,7 @@ courses={
     "MSL832": {
         "code": "MSL832",
         "name": "Managing Innovation for Organizational",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20672,7 +20672,7 @@ courses={
     "MSL833": {
         "code": "MSL833",
         "name": "Organizational Development",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20685,7 +20685,7 @@ courses={
     "MSL834": {
         "code": "MSL834",
         "name": "Managing Diversity at Workplace",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -20698,7 +20698,7 @@ courses={
     "MSL835": {
         "code": "MSL835",
         "name": "Labor Legislation and Industrial Relations",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20711,7 +20711,7 @@ courses={
     "MSL836": {
         "code": "MSL836",
         "name": "International Human Resources Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -20724,7 +20724,7 @@ courses={
     "MSL839": {
         "code": "MSL839",
         "name": "Current and Emerging Issues in Organizational",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20737,7 +20737,7 @@ courses={
     "MSL840": {
         "code": "MSL840",
         "name": "Manufacturing Strategy",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20750,7 +20750,7 @@ courses={
     "MSL841": {
         "code": "MSL841",
         "name": "Supply Chain Analytics",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20763,7 +20763,7 @@ courses={
     "MSL842": {
         "code": "MSL842",
         "name": "Supply Chain Modeling",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20776,7 +20776,7 @@ courses={
     "MSL843": {
         "code": "MSL843",
         "name": "Supply Chain Logistics Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20789,7 +20789,7 @@ courses={
     "MSL844": {
         "code": "MSL844",
         "name": "Systems Reliability, Safety and Maintenance",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20802,7 +20802,7 @@ courses={
     "MSL845": {
         "code": "MSL845",
         "name": "Total Project Systems Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20815,7 +20815,7 @@ courses={
     "MSL846": {
         "code": "MSL846",
         "name": "Total Productivity Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20828,7 +20828,7 @@ courses={
     "MSL847": {
         "code": "MSL847",
         "name": "Advanced Methods for Management Research",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20841,7 +20841,7 @@ courses={
     "MSL848": {
         "code": "MSL848",
         "name": "Applied Operations Research",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20854,7 +20854,7 @@ courses={
     "MSL849": {
         "code": "MSL849",
         "name": "Current and Emerging Issues in Manufacturing",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20867,7 +20867,7 @@ courses={
     "MSL850": {
         "code": "MSL850",
         "name": "Management of Information Technology",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20893,7 +20893,7 @@ courses={
     "MSL852": {
         "code": "MSL852",
         "name": "Network System: Applications and Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20906,7 +20906,7 @@ courses={
     "MSL853": {
         "code": "MSL853",
         "name": "Software Project Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20919,7 +20919,7 @@ courses={
     "MSL854": {
         "code": "MSL854",
         "name": "Big Data Analytics & Data Science",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -20932,7 +20932,7 @@ courses={
     "MSL855": {
         "code": "MSL855",
         "name": "Electronic Commerce",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20945,7 +20945,7 @@ courses={
     "MSL856": {
         "code": "MSL856",
         "name": "Business Intelligence",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20958,7 +20958,7 @@ courses={
     "MSL858": {
         "code": "MSL858",
         "name": "Business Process Management with IT",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -20971,7 +20971,7 @@ courses={
     "MSL859": {
         "code": "MSL859",
         "name": "Current and Emerging Issues in IT Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20984,7 +20984,7 @@ courses={
     "MSL861": {
         "code": "MSL861",
         "name": "Market Research",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -20997,7 +20997,7 @@ courses={
     "MSL862": {
         "code": "MSL862",
         "name": "Product Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21010,7 +21010,7 @@ courses={
     "MSL863": {
         "code": "MSL863",
         "name": "Advertising and Sales Promotion Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21023,7 +21023,7 @@ courses={
     "MSL864": {
         "code": "MSL864",
         "name": "Corporate Communication",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21036,7 +21036,7 @@ courses={
     "MSL865": {
         "code": "MSL865",
         "name": "Sales Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21049,7 +21049,7 @@ courses={
     "MSL866": {
         "code": "MSL866",
         "name": "International Marketing",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21062,7 +21062,7 @@ courses={
     "MSL867": {
         "code": "MSL867",
         "name": "Industrial Marketing Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21075,7 +21075,7 @@ courses={
     "MSL868": {
         "code": "MSL868",
         "name": "Digital Research Methods",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -21088,7 +21088,7 @@ courses={
     "MSL869": {
         "code": "MSL869",
         "name": "Current and Emerging Issues in Marketing",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21101,7 +21101,7 @@ courses={
     "MSL870": {
         "code": "MSL870",
         "name": "Corporate Governance",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -21114,7 +21114,7 @@ courses={
     "MSL871": {
         "code": "MSL871",
         "name": "Banking and Financial Services",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -21127,7 +21127,7 @@ courses={
     "MSL872": {
         "code": "MSL872",
         "name": "Working Capital Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21140,7 +21140,7 @@ courses={
     "MSL873": {
         "code": "MSL873",
         "name": "Security Analysis & Portfolio Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21153,7 +21153,7 @@ courses={
     "MSL874": {
         "code": "MSL874",
         "name": "Indian Financial System",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -21166,7 +21166,7 @@ courses={
     "MSL875": {
         "code": "MSL875",
         "name": "International Financial Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21179,7 +21179,7 @@ courses={
     "MSL876": {
         "code": "MSL876",
         "name": "Economics of Digital Business",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -21192,7 +21192,7 @@ courses={
     "MSL877": {
         "code": "MSL877",
         "name": "Electronic Government",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -21205,7 +21205,7 @@ courses={
     "MSL878": {
         "code": "MSL878",
         "name": "Electronic Payments",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -21218,7 +21218,7 @@ courses={
     "MSL879": {
         "code": "MSL879",
         "name": "Current and Emerging Issues in Finance",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21231,7 +21231,7 @@ courses={
     "MSL880": {
         "code": "MSL880",
         "name": "Selected Topics in Management Methodology",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21244,7 +21244,7 @@ courses={
     "MSL881": {
         "code": "MSL881",
         "name": "Management of Public Sector Enterprises in India",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21257,7 +21257,7 @@ courses={
     "MSL882": {
         "code": "MSL882",
         "name": "Enterprise Cloud Computing",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -21270,7 +21270,7 @@ courses={
     "MSL883": {
         "code": "MSL883",
         "name": "ICTs, Development and Business",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21283,7 +21283,7 @@ courses={
     "MSL884": {
         "code": "MSL884",
         "name": "Information System Strategy",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21296,7 +21296,7 @@ courses={
     "MSL885": {
         "code": "MSL885",
         "name": "Digital Marketing-Analytics & Optimization",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21309,7 +21309,7 @@ courses={
     "MSL886": {
         "code": "MSL886",
         "name": "IT Consulting & Practice",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21322,7 +21322,7 @@ courses={
     "MSL887": {
         "code": "MSL887",
         "name": "Mobile Commerce",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21335,7 +21335,7 @@ courses={
     "MSL888": {
         "code": "MSL888",
         "name": "Data Warehousing for Business Decisions",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -21348,7 +21348,7 @@ courses={
     "MSL889": {
         "code": "MSL889",
         "name": "Current and Emerging Issues in Public Sector",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21361,7 +21361,7 @@ courses={
     "MSL890": {
         "code": "MSL890",
         "name": "Financial Engineering",
-        "prereqs": "[MSL708 && (MSL302 || !MSL708)]",
+        "prereqs": "[MSL708 and (MSL302 or !MSL708)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21374,7 +21374,7 @@ courses={
     "MSL891": {
         "code": "MSL891",
         "name": "Data Analytics using SP S S",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -21387,7 +21387,7 @@ courses={
     "MSL892": {
         "code": "MSL892",
         "name": "Predictive Analytics",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -21400,7 +21400,7 @@ courses={
     "MSL895": {
         "code": "MSL895",
         "name": "Advance Data Analysis for Management",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21413,7 +21413,7 @@ courses={
     "MSL896": {
         "code": "MSL896",
         "name": "International Economic Policy",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21426,7 +21426,7 @@ courses={
     "MSL897": {
         "code": "MSL897",
         "name": "Consultancy Process and Skills",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21439,7 +21439,7 @@ courses={
     "MSL898": {
         "code": "MSL898",
         "name": "Consultancy Professional Practice",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21452,7 +21452,7 @@ courses={
     "MSL899": {
         "code": "MSL899",
         "name": "Current and Emerging Issues in Consultancy",
-        "prereqs": "[MSL301 && MSL302]",
+        "prereqs": "[MSL301 and MSL302]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21608,7 +21608,7 @@ courses={
     "MLL213": {
         "code": "MLL213",
         "name": "Materials Modelling",
-        "prereqs": "[COL100 && MTL107]",
+        "prereqs": "[COL100 and MTL107]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -21660,7 +21660,7 @@ courses={
     "MLL262": {
         "code": "MLL262",
         "name": "Principles of Metal Extraction",
-        "prereqs": "[CLL110 && MLL103]",
+        "prereqs": "[CLL110 and MLL103]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -21868,7 +21868,7 @@ courses={
     "MLL371": {
         "code": "MLL371",
         "name": "Materials Processing",
-        "prereqs": "[MLL103 && MLL202]",
+        "prereqs": "[MLL103 and MLL202]",
         "overlap": "MCL131",
         "credits": 3.0,
         "hours": {
@@ -21881,7 +21881,7 @@ courses={
     "MLL372": {
         "code": "MLL372",
         "name": "Materials Selection and Design",
-        "prereqs": "[MLL251 && MLL253]",
+        "prereqs": "[MLL251 and MLL253]",
         "overlap": "MLL712",
         "credits": 3.0,
         "hours": {
@@ -22180,7 +22180,7 @@ courses={
     "MLL730": {
         "code": "MLL730",
         "name": "Diffusion and Kinetics",
-        "prereqs": "[(MLL702 && PG) || MLL103 && !PG]",
+        "prereqs": "[(MLL702 and PG) or MLL103 and !PG]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -22232,7 +22232,7 @@ courses={
     "MLL734": {
         "code": "MLL734",
         "name": "Texture and Grain Boundary Engineering in",
-        "prereqs": "[MLL701 && PG] || [MLL102 && !PG]",
+        "prereqs": "[MLL701 and PG] or [MLL102 and !PG]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -22284,7 +22284,7 @@ courses={
     "MLL738": {
         "code": "MLL738",
         "name": "Electronic Devices and Characterization",
-        "prereqs": "[PYL100 && MLL211]",
+        "prereqs": "[PYL100 and MLL211]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -22401,7 +22401,7 @@ courses={
     "MLL752": {
         "code": "MLL752",
         "name": "Creep and Superplasticity of Materials",
-        "prereqs": "[MLL101 && MLL202 && MLL251 && (PYL114 || MLL251)]",
+        "prereqs": "[MLL101 and MLL202 and MLL251 and (PYL114 or MLL251)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -22414,7 +22414,7 @@ courses={
     "MLL760": {
         "code": "MLL760",
         "name": "Materials Simulation Methods using High",
-        "prereqs": "[(UG && (MLL213 || MLL212))]",
+        "prereqs": "[(UG and (MLL213 or MLL212))]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -22752,7 +22752,7 @@ courses={
     "MTL260": {
         "code": "MTL260",
         "name": "Boundary Value Problems",
-        "prereqs": "[MTL100 && MTL101]",
+        "prereqs": "[MTL100 and MTL101]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -22843,7 +22843,7 @@ courses={
     "MTL411": {
         "code": "MTL411",
         "name": "Functional Analysis",
-        "prereqs": "[MTL104 && MTL122]",
+        "prereqs": "[MTL104 and MTL122]",
         "overlap": "MTL602",
         "credits": 3.0,
         "hours": {
@@ -23116,7 +23116,7 @@ courses={
     "MTL704": {
         "code": "MTL704",
         "name": "Numerical Optimization",
-        "prereqs": "[(MTL103 || MTL508) && !MTL103]",
+        "prereqs": "[(MTL103 or MTL508) and !MTL103]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -23129,7 +23129,7 @@ courses={
     "MTL712": {
         "code": "MTL712",
         "name": "Computational Methods for Differential",
-        "prereqs": "[(MTL107 || MTL509)]",
+        "prereqs": "[(MTL107 or MTL509)]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -23233,7 +23233,7 @@ courses={
     "MTL732": {
         "code": "MTL732",
         "name": "Financial Mathematics",
-        "prereqs": "[(MTL103 || MTL508) && !MTL103]",
+        "prereqs": "[(MTL103 or MTL508) and !MTL103]",
         "overlap": "MCL363/MSL873",
         "credits": 3.0,
         "hours": {
@@ -23246,7 +23246,7 @@ courses={
     "MTL733": {
         "code": "MTL733",
         "name": "Stochastic of Finance",
-        "prereqs": "[MTL106 || MTL601]",
+        "prereqs": "[MTL106 or MTL601]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -23285,7 +23285,7 @@ courses={
     "MTL736": {
         "code": "MTL736",
         "name": "Analytic Number Theory",
-        "prereqs": "[MTLI22 || MTL506]",
+        "prereqs": "[MTLI22 or MTL506]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -23311,7 +23311,7 @@ courses={
     "MTL738": {
         "code": "MTL738",
         "name": "Commutative Algebra",
-        "prereqs": "[MTL105 && MTL501]",
+        "prereqs": "[MTL105 and MTL501]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -23324,7 +23324,7 @@ courses={
     "MTL739": {
         "code": "MTL739",
         "name": "Representation of Finite Groups",
-        "prereqs": "[MTL105 && MTL501]",
+        "prereqs": "[MTL105 and MTL501]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -23350,7 +23350,7 @@ courses={
     "MTL742": {
         "code": "MTL742",
         "name": "Operator Theory",
-        "prereqs": "[(MTL411 || MTL602)]",
+        "prereqs": "[(MTL411 or MTL602)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -23363,7 +23363,7 @@ courses={
     "MTL743": {
         "code": "MTL743",
         "name": "Fourier Analysis",
-        "prereqs": "[(MTL122 || MTL503)]",
+        "prereqs": "[(MTL122 or MTL503)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -23376,7 +23376,7 @@ courses={
     "MTL744": {
         "code": "MTL744",
         "name": "Mathematical Theory of Coding",
-        "prereqs": "[MTL105 && MTL501]",
+        "prereqs": "[MTL105 and MTL501]",
         "overlap": "ELL710",
         "credits": 3.0,
         "hours": {
@@ -23480,7 +23480,7 @@ courses={
     "MTL755": {
         "code": "MTL755",
         "name": "Algebraic Geometry",
-        "prereqs": "[MTL105 && MTL501]",
+        "prereqs": "[MTL105 and MTL501]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -23493,7 +23493,7 @@ courses={
     "MTL756": {
         "code": "MTL756",
         "name": "Lie Algebras and Lie Groups",
-        "prereqs": "[MTL105 && MTL501]",
+        "prereqs": "[MTL105 and MTL501]",
         "overlap": "MTL856",
         "credits": 3.0,
         "hours": {
@@ -23506,7 +23506,7 @@ courses={
     "MTL757": {
         "code": "MTL757",
         "name": "Introduction to Algebraic Topology",
-        "prereqs": "[(MTL122 || MTL507) && !MTL122]",
+        "prereqs": "[(MTL122 or MTL507) and !MTL122]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -23571,7 +23571,7 @@ courses={
     "MTL766": {
         "code": "MTL766",
         "name": "Multivariate Statistical Methods",
-        "prereqs": "[MTL390 || MTL601]",
+        "prereqs": "[MTL390 or MTL601]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -23597,7 +23597,7 @@ courses={
     "MTL773": {
         "code": "MTL773",
         "name": "Wavelets and Applications",
-        "prereqs": "[(MTL411 || MTL602)]",
+        "prereqs": "[(MTL411 or MTL602)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -23623,7 +23623,7 @@ courses={
     "MTL780": {
         "code": "MTL780",
         "name": "Parameterized Algorithms for NP-hard",
-        "prereqs": "[MTL342 || COL351]",
+        "prereqs": "[MTL342 or COL351]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -23636,7 +23636,7 @@ courses={
     "MTL781": {
         "code": "MTL781",
         "name": "Finite Element Theory and Applications",
-        "prereqs": "[(MTL107 || MTL509) && (MTL411 || MTL602)]",
+        "prereqs": "[(MTL107 or MTL509) and (MTL411 or MTL602)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -23701,7 +23701,7 @@ courses={
     "MTL792": {
         "code": "MTL792",
         "name": "Modern Methods in Partial Differential equations",
-        "prereqs": "[(MTL411 || MTL602)]",
+        "prereqs": "[(MTL411 or MTL602)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -23779,7 +23779,7 @@ courses={
     "MTL799": {
         "code": "MTL799",
         "name": "Mathematical Analysis in Learning Theory",
-        "prereqs": "[(UC || UG) && (UC.length + UG.length >= 90)]",
+        "prereqs": "[(UC or UG) and (UC.length + UG.length >= 90)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -23792,7 +23792,7 @@ courses={
     "MTL843": {
         "code": "MTL843",
         "name": "Mathematical Modeling of Credit Risk",
-        "prereqs": "[MTL106 || MTL601]",
+        "prereqs": "[MTL106 or MTL601]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -24104,7 +24104,7 @@ courses={
     "MCL211": {
         "code": "MCL211",
         "name": "Design of Machines",
-        "prereqs": "[APL104 && MCL100 && MCL201]",
+        "prereqs": "[APL104 and MCL100 and MCL201]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -24117,7 +24117,7 @@ courses={
     "MCL212": {
         "code": "MCL212",
         "name": "Control Theory and Applications",
-        "prereqs": "[MTL100 && MTL101]",
+        "prereqs": "[MTL100 and MTL101]",
         "overlap": "50-60% with ELL225 and CLL261",
         "credits": 4.0,
         "hours": {
@@ -24156,7 +24156,7 @@ courses={
     "MCP232": {
         "code": "MCP232",
         "name": "Production Engineering Laboratory-I",
-        "prereqs": "[MCL132 && MCL133 && MCL134]",
+        "prereqs": "[MCL132 and MCL133 and MCL134]",
         "overlap": "MCP231 (60%)",
         "credits": 0,
         "hours": {
@@ -24182,7 +24182,7 @@ courses={
     "MCL242": {
         "code": "MCL242",
         "name": "Heat and Mass Transfer",
-        "prereqs": "[MCL140 && APL106]",
+        "prereqs": "[MCL140 and APL106]",
         "overlap": "CLL251",
         "credits": 4.0,
         "hours": {
@@ -24208,7 +24208,7 @@ courses={
     "MCP261": {
         "code": "MCP261",
         "name": "Industrial Engineering Laboratory-I",
-        "prereqs": "[MCL261 && MCL262]",
+        "prereqs": "[MCL261 and MCL262]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -24234,7 +24234,7 @@ courses={
     "MCP301": {
         "code": "MCP301",
         "name": "Mechanical Engineering Laboratory-I",
-        "prereqs": "[APL104 && APL106 && MCL111 && MCL140 && MCL241]",
+        "prereqs": "[APL104 and APL106 and MCL111 and MCL140 and MCL241]",
         "overlap": "",
         "credits": 1.5,
         "hours": {
@@ -24247,7 +24247,7 @@ courses={
     "MCL311": {
         "code": "MCL311",
         "name": "CAD and Finite Element Analysis",
-        "prereqs": "[APL104 && MCL211]",
+        "prereqs": "[APL104 and MCL211]",
         "overlap": "AML705, 706, 710 (course should be mutually",
         "credits": 4.0,
         "hours": {
@@ -24325,7 +24325,7 @@ courses={
     "MCL331": {
         "code": "MCL331",
         "name": "Micro and Nano Manufacturing",
-        "prereqs": "[(MCL131 && MCL231) || (MCL136)]",
+        "prereqs": "[(MCL131 and MCL231) or (MCL136)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -24338,7 +24338,7 @@ courses={
     "MCP331": {
         "code": "MCP331",
         "name": "Manufacturing Laboratory-II",
-        "prereqs": "[(MCL131 && MCL231) || (MCL136)]",
+        "prereqs": "[(MCL131 and MCL231) or (MCL136)]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -24351,7 +24351,7 @@ courses={
     "MCP332": {
         "code": "MCP332",
         "name": "Production Engineering Laboratory-II",
-        "prereqs": "[MCL135 && MCL136 && MCP232]",
+        "prereqs": "[MCL135 and MCL136 and MCP232]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -24364,7 +24364,7 @@ courses={
     "MCL334": {
         "code": "MCL334",
         "name": "Industrial Automation",
-        "prereqs": "[ELL101 && (APL106 || MCL141)]",
+        "prereqs": "[ELL101 and (APL106 or MCL141)]",
         "overlap": "5% with MEL312",
         "credits": 4.0,
         "hours": {
@@ -24377,7 +24377,7 @@ courses={
     "MCL336": {
         "code": "MCL336",
         "name": "Advances in Welding",
-        "prereqs": "[MCL131 || MCL135]",
+        "prereqs": "[MCL131 or MCL135]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -24416,7 +24416,7 @@ courses={
     "MCL341": {
         "code": "MCL341",
         "name": "Gas Dynamics and Propulsion",
-        "prereqs": "[MCL140 && MCL241]",
+        "prereqs": "[MCL140 and MCL241]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -24429,7 +24429,7 @@ courses={
     "MCL343": {
         "code": "MCL343",
         "name": "Introduction to Combustion",
-        "prereqs": "[(MCL140 && MCL242) || MCL141]",
+        "prereqs": "[(MCL140 and MCL242) or MCL141]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -24442,7 +24442,7 @@ courses={
     "MCL344": {
         "code": "MCL344",
         "name": "Refrigeration and Air-conditioning",
-        "prereqs": "[(MCL140 && MCL242) || MCL141]",
+        "prereqs": "[(MCL140 and MCL242) or MCL141]",
         "overlap": "ESL850",
         "credits": 4.0,
         "hours": {
@@ -24455,7 +24455,7 @@ courses={
     "MCL345": {
         "code": "MCL345",
         "name": "Reciprocating Internal Combustion Engines",
-        "prereqs": "[MCL140 || MCL141]",
+        "prereqs": "[MCL140 or MCL141]",
         "overlap": "<10% with PG I.C. Engine course",
         "credits": 4.0,
         "hours": {
@@ -24468,7 +24468,7 @@ courses={
     "MCL347": {
         "code": "MCL347",
         "name": "Intermediate Heat Transfer",
-        "prereqs": "[MTL100 && MTL101 && MCL242]",
+        "prereqs": "[MTL100 and MTL101 and MCL242]",
         "overlap": "MCL441 (~20%)",
         "credits": 3.0,
         "hours": {
@@ -24481,7 +24481,7 @@ courses={
     "MCL348": {
         "code": "MCL348",
         "name": "Thermal Management of Electronics",
-        "prereqs": "[APL106 && (MCL242 || MCL141)]",
+        "prereqs": "[APL106 and (MCL242 or MCL141)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -24507,7 +24507,7 @@ courses={
     "MCL361": {
         "code": "MCL361",
         "name": "Manufacturing System Design",
-        "prereqs": "[MTL108 && MCL261]",
+        "prereqs": "[MTL108 and MCL261]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -24520,7 +24520,7 @@ courses={
     "MCP361": {
         "code": "MCP361",
         "name": "Industrial Engineering Laboratory-II",
-        "prereqs": "[MCP261 && MCL361]",
+        "prereqs": "[MCP261 and MCL361]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -24533,7 +24533,7 @@ courses={
     "MCL363": {
         "code": "MCL363",
         "name": "Investment Planning",
-        "prereqs": "[MCL261 && MCL262]",
+        "prereqs": "[MCL261 and MCL262]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -24598,7 +24598,7 @@ courses={
     "MCL380": {
         "code": "MCL380",
         "name": "Special Topics in Mechanical Engineering",
-        "prereqs": "[instructor_specified_courses && EC50]",
+        "prereqs": "[instructor_specified_courses and EC50]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -24611,7 +24611,7 @@ courses={
     "MCV390": {
         "code": "MCV390",
         "name": "Refrigeration and Air Conditioning Product",
-        "prereqs": "[(Thermodynamics && HeatTransfer) && Energy]",
+        "prereqs": "[(Thermodynamics and HeatTransfer) and Energy]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -24624,7 +24624,7 @@ courses={
     "MCP401": {
         "code": "MCP401",
         "name": "Mechanical Engineering Laboratory-II",
-        "prereqs": "[MCL211 && MCL212 && MCL242 && MCP301]",
+        "prereqs": "[MCL211 and MCL212 and MCL242 and MCP301]",
         "overlap": "",
         "credits": 2.0,
         "hours": {
@@ -24663,7 +24663,7 @@ courses={
     "MCL421": {
         "code": "MCL421",
         "name": "Automotive Structural Design",
-        "prereqs": "[MCL211 && MCL321]",
+        "prereqs": "[MCL211 and MCL321]",
         "overlap": "MEL736 (40% - Students should be allowed to",
         "credits": 3.0,
         "hours": {
@@ -24676,7 +24676,7 @@ courses={
     "MCL422": {
         "code": "MCL422",
         "name": "Design of Brake Systems",
-        "prereqs": "[APL104 && MCL111 && MCL321]",
+        "prereqs": "[APL104 and MCL111 and MCL321]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -24689,7 +24689,7 @@ courses={
     "MCL431": {
         "code": "MCL431",
         "name": "CAM and Automation",
-        "prereqs": "[MCL131 && MCL231]",
+        "prereqs": "[MCL131 and MCL231]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -24702,7 +24702,7 @@ courses={
     "MCL441": {
         "code": "MCL441",
         "name": "Modelling and Experiments in Heat Transfer",
-        "prereqs": "[(MCL242 || MCL141) && MCP301]",
+        "prereqs": "[(MCL242 or MCL141) and MCP301]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -24715,7 +24715,7 @@ courses={
     "MCL442": {
         "code": "MCL442",
         "name": "Thermofluid Analysis of Biosystems",
-        "prereqs": "[APL106 && (MCL140 && MCL242 || MCL141)]",
+        "prereqs": "[APL106 and (MCL140 and MCL242 or MCL141)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -24728,7 +24728,7 @@ courses={
     "MCL443": {
         "code": "MCL443",
         "name": "Electrochemical Energy Systems",
-        "prereqs": "[(MCL140 && MCL242) || (MCL141 && EC80)]",
+        "prereqs": "[(MCL140 and MCL242) or (MCL141 and EC80)]",
         "overlap": "CLL722 (30%), CLL720 (10%), CLL721 (15%)",
         "credits": 3.0,
         "hours": {
@@ -24832,7 +24832,7 @@ courses={
     "MCL711": {
         "code": "MCL711",
         "name": "Fracture Mechanics in Design",
-        "prereqs": "[(APL100 && APL104 && MCL211) && (ME1 || ME2)]",
+        "prereqs": "[(APL100 and APL104 and MCL211) and (ME1 or ME2)]",
         "overlap": "APL765 and MLL714",
         "credits": 3.0,
         "hours": {
@@ -24845,7 +24845,7 @@ courses={
     "MCL712": {
         "code": "MCL712",
         "name": "Engineering Acoustics",
-        "prereqs": "[APL100 && APL104 && MCL211]",
+        "prereqs": "[APL100 and APL104 and MCL211]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -24871,7 +24871,7 @@ courses={
     "MCL716": {
         "code": "MCL716",
         "name": "Mechatronics Product Design",
-        "prereqs": "[MCL212 && ELL100]",
+        "prereqs": "[MCL212 and ELL100]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -25027,7 +25027,7 @@ courses={
     "MCL732": {
         "code": "MCL732",
         "name": "Air Pollution: Sources and Apportionment",
-        "prereqs": "[MTL101 && APL106 && (Undergraduate)]",
+        "prereqs": "[MTL101 and APL106 and (Undergraduate)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -25157,7 +25157,7 @@ courses={
     "MCL747": {
         "code": "MCL747",
         "name": "Design of Precision Machines",
-        "prereqs": "[(AML140 && MCL111 && MCL211) && (Undergraduate)]",
+        "prereqs": "[(AML140 and MCL111 and MCL211) and (Undergraduate)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -25430,7 +25430,7 @@ courses={
     "MCL776": {
         "code": "MCL776",
         "name": "Advances in Metal Forming",
-        "prereqs": "[(MCL131 || MCL132) && (MCL769 && !isPG)]",
+        "prereqs": "[(MCL131 or MCL132) and (MCL769 and !isPG)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -25612,7 +25612,7 @@ courses={
     "MCL795": {
         "code": "MCL795",
         "name": "Laser Processing of Materials",
-        "prereqs": "[(MCL231 || MCL131) && (Undergraduate)]",
+        "prereqs": "[(MCL231 or MCL131) and (Undergraduate)]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -25638,7 +25638,7 @@ courses={
     "MCL797": {
         "code": "MCL797",
         "name": "Freedom and Constraints in Design",
-        "prereqs": "[(AML140 && MCL111) || !ME]",
+        "prereqs": "[(AML140 and MCL111) or !ME]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -25924,7 +25924,7 @@ courses={
     "MCL826": {
         "code": "MCL826",
         "name": "Introduction to Microfluidics",
-        "prereqs": "[APL106 && (MCL242 || equivalent)]",
+        "prereqs": "[APL106 and (MCL242 or equivalent)]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -26860,7 +26860,7 @@ courses={
     "PYL433": {
         "code": "PYL433",
         "name": "Introduction to Gauge Field Theories",
-        "prereqs": "[PYL205 && PYL122]",
+        "prereqs": "[PYL205 and PYL122]",
         "overlap": "",
         "credits": 2.0,
         "hours": {
@@ -26873,7 +26873,7 @@ courses={
     "PYL434": {
         "code": "PYL434",
         "name": "Particle Accelerators",
-        "prereqs": "[PYL205 && PYL122]",
+        "prereqs": "[PYL205 and PYL122]",
         "overlap": "",
         "credits": 2.0,
         "hours": {
@@ -26886,7 +26886,7 @@ courses={
     "PYL435": {
         "code": "PYL435",
         "name": "Advanced Computational Physics",
-        "prereqs": "[PYL204 && PYL202]",
+        "prereqs": "[PYL204 and PYL202]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -27172,7 +27172,7 @@ courses={
     "PYL653": {
         "code": "PYL653",
         "name": "Semiconductor Electronics",
-        "prereqs": "[PYL563 || PYL563e]",
+        "prereqs": "[PYL563 or PYL563e]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -27354,7 +27354,7 @@ courses={
     "PYL707": {
         "code": "PYL707",
         "name": "Characterization Techniques for Materials",
-        "prereqs": "[(MSc && PYL563) || (uG && PYL114)]",
+        "prereqs": "[(MSc and PYL563) or (uG and PYL114)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -27367,7 +27367,7 @@ courses={
     "PYL711": {
         "code": "PYL711",
         "name": "Introduction to Nonlinear Dynamics",
-        "prereqs": "[(PYL127 && PYL121) || (PYL551 && PYL553)]",
+        "prereqs": "[(PYL127 and PYL121) or (PYL551 and PYL553)]",
         "overlap": "APL340, ESL300, AML836",
         "credits": 4.0,
         "hours": {
@@ -27471,7 +27471,7 @@ courses={
     "PYL739": {
         "code": "PYL739",
         "name": "Computational Techniques for Solid State",
-        "prereqs": "[PYL563 || PYL114]",
+        "prereqs": "[PYL563 or PYL114]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -27484,7 +27484,7 @@ courses={
     "PYL740": {
         "code": "PYL740",
         "name": "Advanced Condensed Matter Theory",
-        "prereqs": "[PYL563 || PYL114]",
+        "prereqs": "[PYL563 or PYL114]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -27549,7 +27549,7 @@ courses={
     "PYL745": {
         "code": "PYL745",
         "name": "Advanced Statistical Mechanics",
-        "prereqs": "[(PYL558 || PYL202)]",
+        "prereqs": "[(PYL558 or PYL202)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -27562,7 +27562,7 @@ courses={
     "PYL746": {
         "code": "PYL746",
         "name": "Non-equilibrium Statistical Mechanics with",
-        "prereqs": "[(PYL558 || PYL202)]",
+        "prereqs": "[(PYL558 or PYL202)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -27588,7 +27588,7 @@ courses={
     "PYL748": {
         "code": "PYL748",
         "name": "Quantum Optics",
-        "prereqs": "[(PYL556 || PYL122)]",
+        "prereqs": "[(PYL556 or PYL122)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -27614,7 +27614,7 @@ courses={
     "PYL750": {
         "code": "PYL750",
         "name": "Topology in Condensed Matter Physics",
-        "prereqs": "[SSP && QM]",
+        "prereqs": "[SSP and QM]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28199,7 +28199,7 @@ courses={
     "PYL891": {
         "code": "PYL891",
         "name": "Fiber Optic Components and Devices",
-        "prereqs": "[(PYL413 || PYL650 || PYL791)]",
+        "prereqs": "[(PYL413 or PYL650 or PYL791)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28212,7 +28212,7 @@ courses={
     "PYL892": {
         "code": "PYL892",
         "name": "Guided Wave Photonic Sensors",
-        "prereqs": "[(PYL413 || PYL650 || PYL790 || PYL791)]",
+        "prereqs": "[(PYL413 or PYL650 or PYL790 or PYL791)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28251,7 +28251,7 @@ courses={
     "TXL211": {
         "code": "TXL211",
         "name": "Structure and Physical Properties of Fibres",
-        "prereqs": "[TXL130 || TXL111]",
+        "prereqs": "[TXL130 or TXL111]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28264,7 +28264,7 @@ courses={
     "TXL212": {
         "code": "TXL212",
         "name": "Manufactured Fibre Technology",
-        "prereqs": "[TXL211 || TXL111]",
+        "prereqs": "[TXL211 or TXL111]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28277,7 +28277,7 @@ courses={
     "TXP212": {
         "code": "TXP212",
         "name": "Manufactured Fibre Technology Lab",
-        "prereqs": "[TXL212 && TXL211]",
+        "prereqs": "[TXL212 and TXL211]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -28290,7 +28290,7 @@ courses={
     "TXL221": {
         "code": "TXL221",
         "name": "Yarn Manufacture-I",
-        "prereqs": "[TXL111 || TXL130]",
+        "prereqs": "[TXL111 or TXL130]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28303,7 +28303,7 @@ courses={
     "TXP221": {
         "code": "TXP221",
         "name": "Yarn Manufacture Laboratory-I",
-        "prereqs": "[TXL111 || TXL130]",
+        "prereqs": "[TXL111 or TXL130]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -28316,7 +28316,7 @@ courses={
     "TXL222": {
         "code": "TXL222",
         "name": "Yarn Manufacture-II",
-        "prereqs": "[(TXL221 || TXP221)]",
+        "prereqs": "[(TXL221 or TXP221)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28329,7 +28329,7 @@ courses={
     "TXP222": {
         "code": "TXP222",
         "name": "Yarn Manufacture Laboratory-II",
-        "prereqs": "[TXP221 || TXL221]",
+        "prereqs": "[TXP221 or TXL221]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -28342,7 +28342,7 @@ courses={
     "TXL231": {
         "code": "TXL231",
         "name": "Fabric Manufacture-I",
-        "prereqs": "[TXL111 || TXL130]",
+        "prereqs": "[TXL111 or TXL130]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28355,7 +28355,7 @@ courses={
     "TXP231": {
         "code": "TXP231",
         "name": "Fabric Manufacture Laboratory-I",
-        "prereqs": "[TXL111 || TXL130]",
+        "prereqs": "[TXL111 or TXL130]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -28368,7 +28368,7 @@ courses={
     "TXL232": {
         "code": "TXL232",
         "name": "Fabric Manufacture-II",
-        "prereqs": "[TXL231 || TXP231]",
+        "prereqs": "[TXL231 or TXP231]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28381,7 +28381,7 @@ courses={
     "TXP232": {
         "code": "TXP232",
         "name": "Fabric Manufacture Laboratory-II",
-        "prereqs": "[TXP231 || TXL231]",
+        "prereqs": "[TXP231 or TXL231]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -28394,7 +28394,7 @@ courses={
     "TXL241": {
         "code": "TXL241",
         "name": "Technology of Textile Preparation & Finishing",
-        "prereqs": "[TXL111 || TXL130]",
+        "prereqs": "[TXL111 or TXL130]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28407,7 +28407,7 @@ courses={
     "TXP241": {
         "code": "TXP241",
         "name": "Technology of Textile Preparation & Finishing Lab",
-        "prereqs": "[TXL111 || TXL130]",
+        "prereqs": "[TXL111 or TXL130]",
         "overlap": "",
         "credits": 1.5,
         "hours": {
@@ -28420,7 +28420,7 @@ courses={
     "TXL242": {
         "code": "TXL242",
         "name": "Technology of Textile Coloration",
-        "prereqs": "[(TXL241 || TXL111 || TXL130)]",
+        "prereqs": "[(TXL241 or TXL111 or TXL130)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28433,7 +28433,7 @@ courses={
     "TXP242": {
         "code": "TXP242",
         "name": "Technology of Textile Coloration Lab",
-        "prereqs": "[(TXL241 || TXL111 || TXL130)]",
+        "prereqs": "[(TXL241 or TXL111 or TXL130)]",
         "overlap": "",
         "credits": 1.5,
         "hours": {
@@ -28446,7 +28446,7 @@ courses={
     "TXD301": {
         "code": "TXD301",
         "name": "Mini Project",
-        "prereqs": "[(TXL211 || TXL221 || TXL222 || TXL231 || TXL232)]",
+        "prereqs": "[(TXL211 or TXL221 or TXL222 or TXL231 or TXL232)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28459,7 +28459,7 @@ courses={
     "TXR301": {
         "code": "TXR301",
         "name": "Professional Practices",
-        "prereqs": "[(TXL211 || TXL221 || TXL222 || TXL231 || TXL232)]",
+        "prereqs": "[(TXL211 or TXL221 or TXL222 or TXL231 or TXL232)]",
         "overlap": "",
         "credits": 2.0,
         "hours": {
@@ -28511,7 +28511,7 @@ courses={
     "TXL361": {
         "code": "TXL361",
         "name": "Evaluation of Textile Materials",
-        "prereqs": "[TXL222 && TXL232]",
+        "prereqs": "[TXL222 and TXL232]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28524,7 +28524,7 @@ courses={
     "TXP361": {
         "code": "TXP361",
         "name": "Evaluation of Textiles Lab",
-        "prereqs": "[(TXL222 || TXL221) && (TXL232 || TXL231)]",
+        "prereqs": "[(TXL222 or TXL221) and (TXL232 or TXL231)]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -28537,7 +28537,7 @@ courses={
     "TXL371": {
         "code": "TXL371",
         "name": "Theory of Textile Structures",
-        "prereqs": "[TXL222 && TXL232]",
+        "prereqs": "[TXL222 and TXL232]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -28550,7 +28550,7 @@ courses={
     "TXL372": {
         "code": "TXL372",
         "name": "Speciality Yarns and Fabrics",
-        "prereqs": "[TXL222 && TXL232]",
+        "prereqs": "[TXL222 and TXL232]",
         "overlap": "",
         "credits": 2.0,
         "hours": {
@@ -28589,7 +28589,7 @@ courses={
     "TXD401": {
         "code": "TXD401",
         "name": "Major Project Part I",
-        "prereqs": "[(TXL361 || TXP361 || TXL371 || TXL372) && EC100i]",
+        "prereqs": "[(TXL361 or TXP361 or TXL371 or TXL372) and EC100i]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -28602,7 +28602,7 @@ courses={
     "TXD402": {
         "code": "TXD402",
         "name": "Major Project Part II",
-        "prereqs": "[EC100 && TXD401 >= B]",
+        "prereqs": "[EC100 and TXD401 >= B]",
         "overlap": "",
         "credits": 8.0,
         "hours": {
@@ -28628,7 +28628,7 @@ courses={
     "TXL700": {
         "code": "TXL700",
         "name": "Modelling and Simulation in Fibrous Assemblies",
-        "prereqs": "[TXL232 && EC75]",
+        "prereqs": "[TXL232 and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28641,7 +28641,7 @@ courses={
     "TXV701": {
         "code": "TXV701",
         "name": "Process Cont. and Econ. in Manmade Fibre Prod.",
-        "prereqs": "[(TXL211 || TXL221 || TXL222 || TXL231 || TXL232)]",
+        "prereqs": "[(TXL211 or TXL221 or TXL222 or TXL231 or TXL232)]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -28654,7 +28654,7 @@ courses={
     "TXV702": {
         "code": "TXV702",
         "name": "Management of Textile Business",
-        "prereqs": "[(TXL222 || TXL232) && EC75]",
+        "prereqs": "[(TXL222 or TXL232) and EC75]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -28667,7 +28667,7 @@ courses={
     "TXV703": {
         "code": "TXV703",
         "name": "Special Module in Textile Technology",
-        "prereqs": "[(TTXL222 || TXL232) && EC75]",
+        "prereqs": "[(TTXL222 or TXL232) and EC75]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -28680,7 +28680,7 @@ courses={
     "TXV704": {
         "code": "TXV704",
         "name": "Special Module in Yarn Manufacture",
-        "prereqs": "[TXL222 && EC75]",
+        "prereqs": "[TXL222 and EC75]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -28693,7 +28693,7 @@ courses={
     "TXV705": {
         "code": "TXV705",
         "name": "Special Module in Fabric Manufacture",
-        "prereqs": "[TXL232 && EC75]",
+        "prereqs": "[TXL232 and EC75]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -28706,7 +28706,7 @@ courses={
     "TXV706": {
         "code": "TXV706",
         "name": "Special Module in Fibre Science",
-        "prereqs": "[(TXL211 || TXL221 || TXL222 || TXL231 || TXL232)]",
+        "prereqs": "[(TXL211 or TXL221 or TXL222 or TXL231 or TXL232)]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -28719,7 +28719,7 @@ courses={
     "TXV707": {
         "code": "TXV707",
         "name": "Special Module in Textile Chemical Processing",
-        "prereqs": "[TXL241 || TXL242]",
+        "prereqs": "[TXL241 or TXL242]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -28732,7 +28732,7 @@ courses={
     "TXL710": {
         "code": "TXL710",
         "name": "High Performance and Specialty Fibres",
-        "prereqs": "[TXL212 && EC75]",
+        "prereqs": "[TXL212 and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28823,7 +28823,7 @@ courses={
     "TXL715": {
         "code": "TXL715",
         "name": "Technology of Solution Spun Fibres",
-        "prereqs": "[TXL711 || TXL713]",
+        "prereqs": "[TXL711 or TXL713]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28849,7 +28849,7 @@ courses={
     "TXL719": {
         "code": "TXL719",
         "name": "Functional and Smart Textiles",
-        "prereqs": "[(TXL212 || TXL221 || TXL231) && EC75]",
+        "prereqs": "[(TXL212 or TXL221 or TXL231) and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28888,7 +28888,7 @@ courses={
     "TXL724": {
         "code": "TXL724",
         "name": "Textured Yarn Technology",
-        "prereqs": "[(TXL221 || TXL222) && EC75]",
+        "prereqs": "[(TXL221 or TXL222) and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28953,7 +28953,7 @@ courses={
     "TXL734": {
         "code": "TXL734",
         "name": "Nonwoven Processes and Products",
-        "prereqs": "[TXL232 && EC75]",
+        "prereqs": "[TXL232 and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28966,7 +28966,7 @@ courses={
     "TXL740": {
         "code": "TXL740",
         "name": "Science & App. of Nanotechnology in Textiles",
-        "prereqs": "[EC75 && !EC75i]",
+        "prereqs": "[EC75 and !EC75i]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -28979,7 +28979,7 @@ courses={
     "TXL741": {
         "code": "TXL741",
         "name": "Env. Manag. in Textile and Allied Industries",
-        "prereqs": "[(TXL221 || TXL222 || TXL231 || TXL232)]",
+        "prereqs": "[(TXL221 or TXL222 or TXL231 or TXL232)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -29018,7 +29018,7 @@ courses={
     "TXL750": {
         "code": "TXL750",
         "name": "Science of Clothing Comfort",
-        "prereqs": "[TXL361 && EC75]",
+        "prereqs": "[TXL361 and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -29044,7 +29044,7 @@ courses={
     "TXL752": {
         "code": "TXL752",
         "name": "Design of Functional Clothing",
-        "prereqs": "[TXL241 && TXL242]",
+        "prereqs": "[TXL241 and TXL242]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -29083,7 +29083,7 @@ courses={
     "TXL755": {
         "code": "TXL755",
         "name": "Textile Wet Processing Machines: Automation",
-        "prereqs": "[TXL241 && TXL242]",
+        "prereqs": "[TXL241 and TXL242]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -29122,7 +29122,7 @@ courses={
     "TXL766": {
         "code": "TXL766",
         "name": "Design and Manufacturing of Textile Structural",
-        "prereqs": "[(TXL222 || TXL232) && EC75]",
+        "prereqs": "[(TXL222 or TXL232) and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -29174,7 +29174,7 @@ courses={
     "TXL774": {
         "code": "TXL774",
         "name": "Process Control in Yarn & Fabric Manufacturing",
-        "prereqs": "[(TXL222 || TXL232) && EC75]",
+        "prereqs": "[(TXL222 or TXL232) and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -29187,7 +29187,7 @@ courses={
     "TXL775": {
         "code": "TXL775",
         "name": "Technical Textiles",
-        "prereqs": "[(TXL222 || TXL232) && EC75]",
+        "prereqs": "[(TXL222 or TXL232) and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -29200,7 +29200,7 @@ courses={
     "TXL777": {
         "code": "TXL777",
         "name": "Product Design and Development",
-        "prereqs": "[(TXL222 || TXL232) && EC75]",
+        "prereqs": "[(TXL222 or TXL232) and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -29213,7 +29213,7 @@ courses={
     "TXL780": {
         "code": "TXL780",
         "name": "Principles of Characterization of Functional and",
-        "prereqs": "[EC75 && TT1]",
+        "prereqs": "[EC75 and TT1]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -29226,7 +29226,7 @@ courses={
     "TXL781": {
         "code": "TXL781",
         "name": "Project Appraisal and Finance",
-        "prereqs": "[(TXL222 || TXL232) && EC75]",
+        "prereqs": "[(TXL222 or TXL232) and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -29239,7 +29239,7 @@ courses={
     "TXL782": {
         "code": "TXL782",
         "name": "Prod. & Operations Management in Textile",
-        "prereqs": "[(TXL222 || TXL232) && EC75]",
+        "prereqs": "[(TXL222 or TXL232) and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -29278,7 +29278,7 @@ courses={
     "TXL785": {
         "code": "TXL785",
         "name": "Heat and Mass Transport in Fibrous Materials",
-        "prereqs": "[(UG && (TXL111 || TXL221)) && (TXL111 || TXL221)]",
+        "prereqs": "[(UG and (TXL111 or TXL221)) and (TXL111 or TXL221)]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -29291,7 +29291,7 @@ courses={
     "TXL786": {
         "code": "TXL786",
         "name": "Technology of Textile Coating and Lamination",
-        "prereqs": "[(TXL747 || TXL753 || TXL749)]",
+        "prereqs": "[(TXL747 or TXL753 or TXL749)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -30240,7 +30240,7 @@ courses={
     "ASL765": {
         "code": "ASL765",
         "name": "Impacts of Climate Change and Air Pollution",
-        "prereqs": "[ASL320 || ASL340]",
+        "prereqs": "[ASL320 or ASL340]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -30318,7 +30318,7 @@ courses={
     "ASL824": {
         "code": "ASL824",
         "name": "Parameterization of Physical Processes",
-        "prereqs": "[ASL733 || ASL734]",
+        "prereqs": "[ASL733 or ASL734]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -30357,7 +30357,7 @@ courses={
     "ASL827": {
         "code": "ASL827",
         "name": "Advanced Dynamic Oceanography",
-        "prereqs": "[ASL734 || ASL737]",
+        "prereqs": "[ASL734 or ASL737]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -31059,7 +31059,7 @@ courses={
     "BML300": {
         "code": "BML300",
         "name": "Introduction To Healthcare Engineering",
-        "prereqs": "[APL100 && ELL101 && MCP100]",
+        "prereqs": "[APL100 and ELL101 and MCP100]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -31202,7 +31202,7 @@ courses={
     "BML713": {
         "code": "BML713",
         "name": "Pharmaceuticals, Efficacy and Delivery",
-        "prereqs": "[CBME_OUTSIDE_STUDENTS && CBME_CREDITS >= 60]",
+        "prereqs": "[CBME_OUTSIDE_STUDENTS and CBME_CREDITS >= 60]",
         "overlap": "BBL445, SBL706/709",
         "credits": 4.0,
         "hours": {
@@ -31241,7 +31241,7 @@ courses={
     "BML738": {
         "code": "BML738",
         "name": "Biomedical Data Analysis",
-        "prereqs": "[(90 < total_credits) && (is_undergrad)]",
+        "prereqs": "[(90 < total_credits) and (is_undergrad)]",
         "overlap": "BML800, BML735, MAL503/517/100, CHL761,",
         "credits": 3.0,
         "hours": {
@@ -31358,7 +31358,7 @@ courses={
     "BML771": {
         "code": "BML771",
         "name": "Orthopaedic Device Design",
-        "prereqs": "[(AML732 || AML835 || AML851 || MEL739)]",
+        "prereqs": "[(AML732 or AML835 or AML851 or MEL739)]",
         "overlap": "",
         "credits": 2.0,
         "hours": {
@@ -31579,7 +31579,7 @@ courses={
     "BML880": {
         "code": "BML880",
         "name": "Healthcare Wearables: Design and Applications",
-        "prereqs": "[BMV701 && (BMEN || BME)]",
+        "prereqs": "[BMV701 and (BMEN or BME)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -32788,7 +32788,7 @@ courses={
     "AIL721": {
         "code": "AIL721",
         "name": "Deep Learning",
-        "prereqs": "[(ELL409 || ELL784 || AIL701 || COL774)]",
+        "prereqs": "[(ELL409 or ELL784 or AIL701 or COL774)]",
         "overlap": "COL775 approx. 80%. APL745 approx. 40%.",
         "credits": 4.0,
         "hours": {
@@ -32801,7 +32801,7 @@ courses={
     "AIL722": {
         "code": "AIL722",
         "name": "Reinforcement Learning",
-        "prereqs": "[(ELL409 || ELL784 || AIL701 || AIL721)]",
+        "prereqs": "[(ELL409 or ELL784 or AIL701 or AIL721)]",
         "overlap": "ELL729 approx. 50 %. [COL 333, COL341,",
         "credits": 3.0,
         "hours": {
@@ -32814,7 +32814,7 @@ courses={
     "AIL723": {
         "code": "AIL723",
         "name": "Graph Machine Learning",
-        "prereqs": "[(ELL780 || ELL409 || ELL784 || AIL701 || COL774)]",
+        "prereqs": "[(ELL780 or ELL409 or ELL784 or AIL701 or COL774)]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -32840,7 +32840,7 @@ courses={
     "AIL742": {
         "code": "AIL742",
         "name": "Scalable Data Management for ML",
-        "prereqs": "[COL106 && (MTL106 || instructor_permission)]",
+        "prereqs": "[COL106 and (MTL106 or instructor_permission)]",
         "overlap": "",
         "credits": 4.0,
         "hours": {
@@ -32866,7 +32866,7 @@ courses={
     "AIL821": {
         "code": "AIL821",
         "name": "Special Topics in Machine Learning",
-        "prereqs": "[ELL409 && ELL784 && AIL701 && COL774 && AIL721]",
+        "prereqs": "[ELL409 and ELL784 and AIL701 and COL774 and AIL721]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -32879,7 +32879,7 @@ courses={
     "AIL841": {
         "code": "AIL841",
         "name": "Special Topics in Data Science",
-        "prereqs": "[COL761 && COL774 && COL764 && AIL741]",
+        "prereqs": "[COL761 and COL774 and COL764 and AIL741]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -32892,7 +32892,7 @@ courses={
     "AIL861": {
         "code": "AIL861",
         "name": "Special Topics in AI Applications",
-        "prereqs": "[(COL761 || COL774 || COL333 || COL671)]",
+        "prereqs": "[(COL761 or COL774 or COL333 or COL671)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -32905,7 +32905,7 @@ courses={
     "AIL862": {
         "code": "AIL862",
         "name": "Special Topics in Computer Vision",
-        "prereqs": "[COL774 || COL780 || ELL793]",
+        "prereqs": "[COL774 or COL780 or ELL793]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -32918,7 +32918,7 @@ courses={
     "AIV790": {
         "code": "AIV790",
         "name": "Ethical Considerations in MINDS",
-        "prereqs": "[(COL333 && COL671 && COL774) || Instructor's permission]",
+        "prereqs": "[(COL333 and COL671 and COL774) or Instructor's permission]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -32970,7 +32970,7 @@ courses={
     "SBD301": {
         "code": "SBD301",
         "name": "Mini Project",
-        "prereqs": "[SBL100 && EC75]",
+        "prereqs": "[SBL100 and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33048,7 +33048,7 @@ courses={
     "SBL706": {
         "code": "SBL706",
         "name": "Biologics",
-        "prereqs": "[EC75 && (BEL110 || CYL110 || CYL120)]",
+        "prereqs": "[EC75 and (BEL110 or CYL110 or CYL120)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33061,7 +33061,7 @@ courses={
     "SBL707": {
         "code": "SBL707",
         "name": "Bacterial Pathogenesis",
-        "prereqs": "[EC75 && (BEL110 || CYL110 || CYL120)]",
+        "prereqs": "[EC75 and (BEL110 or CYL110 or CYL120)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33074,7 +33074,7 @@ courses={
     "SBL708": {
         "code": "SBL708",
         "name": "Epigenetics in Human Health and Disease",
-        "prereqs": "[EC75 && (BEL110 || CYL110 || CYL120)]",
+        "prereqs": "[EC75 and (BEL110 or CYL110 or CYL120)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33087,7 +33087,7 @@ courses={
     "SBL709": {
         "code": "SBL709",
         "name": "Marine Bioprospecting",
-        "prereqs": "[EC75 && (BEL110 || CYL110 || CYL120)]",
+        "prereqs": "[EC75 and (BEL110 or CYL110 or CYL120)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33100,7 +33100,7 @@ courses={
     "SBL710": {
         "code": "SBL710",
         "name": "Chemical Biology",
-        "prereqs": "[EC75 && (BEL110 || CYL110 || CYL120)]",
+        "prereqs": "[EC75 and (BEL110 or CYL110 or CYL120)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33113,7 +33113,7 @@ courses={
     "SBL711": {
         "code": "SBL711",
         "name": "Cell Signalling",
-        "prereqs": "[SBL100 && SBL201 && EC75]",
+        "prereqs": "[SBL100 and SBL201 and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33126,7 +33126,7 @@ courses={
     "SBL712": {
         "code": "SBL712",
         "name": "Dynamics of Infection Biology",
-        "prereqs": "[SBL100 && (SBL201 || BEL204)]",
+        "prereqs": "[SBL100 and (SBL201 or BEL204)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33152,7 +33152,7 @@ courses={
     "SBL713": {
         "code": "SBL713",
         "name": "Introduction to Structural Biology",
-        "prereqs": "[SBL100 && (BEL204 || BEL311)]",
+        "prereqs": "[SBL100 and (BEL204 or BEL311)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33204,7 +33204,7 @@ courses={
     "SBL722": {
         "code": "SBL722",
         "name": "Stem Cells Biology",
-        "prereqs": "[EC75 && (BEL110 || CYL110 || CYL120)]",
+        "prereqs": "[EC75 and (BEL110 or CYL110 or CYL120)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33217,7 +33217,7 @@ courses={
     "SBL723": {
         "code": "SBL723",
         "name": "Principles of Neural Excitability and",
-        "prereqs": "[EC75 && (SBL100 || BBL131 || CML101)]",
+        "prereqs": "[EC75 and (SBL100 or BBL131 or CML101)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33230,7 +33230,7 @@ courses={
     "SBL724": {
         "code": "SBL724",
         "name": "Decoding Protein Modifications in Biology",
-        "prereqs": "[EC75 && (SBL100 || Equivalent)]",
+        "prereqs": "[EC75 and (SBL100 or Equivalent)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33243,7 +33243,7 @@ courses={
     "SBL725": {
         "code": "SBL725",
         "name": "Endocytosis and Intracellular Trafficking",
-        "prereqs": "[EC75 && SBL100]",
+        "prereqs": "[EC75 and SBL100]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -33256,7 +33256,7 @@ courses={
     "SBL726": {
         "code": "SBL726",
         "name": "Biological Motors",
-        "prereqs": "[EC75 && SBL100]",
+        "prereqs": "[EC75 and SBL100]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -33269,7 +33269,7 @@ courses={
     "SBL727": {
         "code": "SBL727",
         "name": "Advanced Developmental Biology",
-        "prereqs": "[EC75 && SBL100]",
+        "prereqs": "[EC75 and SBL100]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -33282,7 +33282,7 @@ courses={
     "SBL728": {
         "code": "SBL728",
         "name": "Biological Physics",
-        "prereqs": "[SBL100 || BBL110 || BBL131]",
+        "prereqs": "[SBL100 or BBL110 or BBL131]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33295,7 +33295,7 @@ courses={
     "SBL729": {
         "code": "SBL729",
         "name": "Emerging Trends in Tumor Biology",
-        "prereqs": "[(SBL100 && EC75) && (Undergraduate)]",
+        "prereqs": "[(SBL100 and EC75) and (Undergraduate)]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33308,7 +33308,7 @@ courses={
     "SBL750": {
         "code": "SBL750",
         "name": "Quantitative Biology",
-        "prereqs": "[SBL100 && SBL201 && EC75]",
+        "prereqs": "[SBL100 and SBL201 and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33334,7 +33334,7 @@ courses={
     "SBL751": {
         "code": "SBL751",
         "name": "Chemical and Molecular Foundations of Cell",
-        "prereqs": "[SBL100 && SBL201 && EC75]",
+        "prereqs": "[SBL100 and SBL201 and EC75]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
@@ -33568,7 +33568,7 @@ courses={
     "SBV892": {
         "code": "SBV892",
         "name": "Current Topics in Ion Channels and Receptors",
-        "prereqs": "[EC75 && (SBL100 || BBL131)]",
+        "prereqs": "[EC75 and (SBL100 or BBL131)]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -33581,7 +33581,7 @@ courses={
     "SBV893": {
         "code": "SBV893",
         "name": "Cellular Differentiation and Therapy",
-        "prereqs": "[EC75 && (SBL100 || Equivalent)]",
+        "prereqs": "[EC75 and (SBL100 or Equivalent)]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -33594,7 +33594,7 @@ courses={
     "SBV894": {
         "code": "SBV894",
         "name": "Current Methods in Mammalian Genetics",
-        "prereqs": "[EC75 && (SBL100 || Equivalent)]",
+        "prereqs": "[EC75 and (SBL100 or Equivalent)]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -33620,7 +33620,7 @@ courses={
     "SBV895": {
         "code": "SBV895",
         "name": "Developmental Biology",
-        "prereqs": "[EC75 && (SBL100 || Equivalent)]",
+        "prereqs": "[EC75 and (SBL100 or Equivalent)]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -33633,7 +33633,7 @@ courses={
     "SBV896": {
         "code": "SBV896",
         "name": "Single Molecule Biophysics",
-        "prereqs": "[(SBL100 || BBL110 || BBL131) && (SBL100 || BBL110 || BBL131 || \"equivalent\")]",
+        "prereqs": "[(SBL100 or BBL110 or BBL131) and (SBL100 or BBL110 or BBL131 or \"equivalent\")]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -33646,7 +33646,7 @@ courses={
     "SBV897": {
         "code": "SBV897",
         "name": "Angiogenesis in Health and Diseases",
-        "prereqs": "[EC100 && SBL100]",
+        "prereqs": "[EC100 and SBL100]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -33659,7 +33659,7 @@ courses={
     "SBV898": {
         "code": "SBV898",
         "name": "Techniques in Mammalian Cell Culture",
-        "prereqs": "[EC100 && SBL100]",
+        "prereqs": "[EC100 and SBL100]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -33672,7 +33672,7 @@ courses={
     "SBV899": {
         "code": "SBV899",
         "name": "Assays in Drug Development",
-        "prereqs": "[(CML101 || SBL100 || BBL131)]",
+        "prereqs": "[(CML101 or SBL100 or BBL131)]",
         "overlap": "",
         "credits": 0,
         "hours": {
@@ -33685,7 +33685,7 @@ courses={
     "BSP710": {
         "code": "BSP710",
         "name": "Communication and Signal Processing",
-        "prereqs": "[ELL205 && ELL411]",
+        "prereqs": "[ELL205 and ELL411]",
         "overlap": "",
         "credits": 3.0,
         "hours": {
