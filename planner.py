@@ -142,28 +142,100 @@ print(f"✅ Prerequisites parsed for all courses")
 
 
 
-user1= UserData(name="Monisha",current_semester=3,EE_courses=selected_courses)
-user1.print_summary()
-courses_left = {}
-#making a list of remaining courses 
+user= UserData(name="Monisha",current_semester=4,EE_courses=selected_courses,completed_corecourses= ['ELL101', 'ELP101', 'MCP100', 'PYL101', 'MTL100', 'PYP100', 'MCP101', 'APL100', 'COL100', 'CML101', 'MTL101', 'CMP100', 'ELL205', 'ELL202', 'COL106', 'ELL203', 'ELL211'],completed_hul=['HUL272'],completed_hul_sem={3: ["HUL272"]})
+user.print_summary(debug=True)
 
+#making a list of remaining courses 
+#       NEED TO CHANGE THIS CODE COMPLETELY - INCORRECT LOGIC 
+
+# Replace the courses_left building section (lines 100-170) with this:
+
+# Replace the courses_left building section with this:
+
+courses_left = {}
 
 for sem, courses in selected_courses.items():
-    remaining = []
+    # Only process current and future semesters
+    if sem < user.current_semester:
+        continue
+    
+    # Count how many slots are ORIGINALLY RECOMMENDED for this semester
+    hul2_slots = sum(1 for c in recommended_courses[sem-1] if c == "HUL2XX")
+    hul3_slots = sum(1 for c in recommended_courses[sem-1] if c == "HUL3XX")
+    de_slots = sum(1 for c in recommended_courses[sem-1] if c == "DE")
+    
+    # Count how many the user has ALREADY COMPLETED in THIS SPECIFIC SEMESTER
+    hul2_completed_this_sem = 0
+    hul3_completed_this_sem = 0
+    de_completed_this_sem = 0
+    
+    if hasattr(user, 'completed_hul_sem') and sem in user.completed_hul_sem:
+        for completed_code in user.completed_hul_sem[sem]:
+            if completed_code.startswith("HUL2"):
+                hul2_completed_this_sem += 1
+            elif completed_code.startswith("HUL3"):
+                hul3_completed_this_sem += 1
+    
+    if hasattr(user, 'completed_DE_sem') and sem in user.completed_DE_sem:
+        de_completed_this_sem = len(user.completed_DE_sem[sem])
+    
+    # Calculate remaining slots needed FOR THIS SEMESTER
+    hul2_needed_this_sem = max(0, hul2_slots - hul2_completed_this_sem)
+    hul3_needed_this_sem = max(0, hul3_slots - hul3_completed_this_sem)
+    de_needed_this_sem = max(0, de_slots - de_completed_this_sem)
+    
+    print(f"\n📋 Semester {sem} slot analysis:")
+    print(f"  HUL2XX: recommended={hul2_slots}, completed={hul2_completed_this_sem}, still need={hul2_needed_this_sem}")
+    print(f"  HUL3XX: recommended={hul3_slots}, completed={hul3_completed_this_sem}, still need={hul3_needed_this_sem}")
+    print(f"  DE: recommended={de_slots}, completed={de_completed_this_sem}, still need={de_needed_this_sem}")
+    
     for course in courses:
         code = course["code"]
-        course_type = course.get("type", "")
+        ctype = course.get("type", "")
         
-        # Skip if already completed
-        if ((course_type == "Core" and code in getattr(user1, "completed_corecourses", [])) or
-            (course_type.startswith("HUL") and code in getattr(user1, "completed_hul", [])) or
-            (course_type == "DE" and code in getattr(user1, "completed_DE", []))):
+        # Skip completed core courses
+        if ctype == "Core" and code in user.completed_corecourses:
             continue
         
-        remaining.append(course)
-    
-    if remaining!=[]:
-        courses_left[sem] = remaining
+        # Skip completed HUL courses (already taken this specific course)
+        if ctype.startswith("HUL") and code in user.completed_hul:
+            continue
+        
+        # Skip completed DE courses (already taken this specific course)
+        if ctype == "DE" and code in user.completed_DE:
+            continue
+        
+        # For HUL2XX: only include if THIS SEMESTER still needs HUL2XX slots
+        if ctype == "HUL2XX":
+            if hul2_needed_this_sem <= 0:
+                continue  # Skip - this semester's HUL2XX slots are filled
+        
+        # For HUL3XX: only include if THIS SEMESTER still needs HUL3XX slots
+        elif ctype == "HUL3XX":
+            if hul3_needed_this_sem <= 0:
+                continue  # Skip - this semester's HUL3XX slots are filled
+        
+        # For DE: only include if THIS SEMESTER still needs DE slots
+        elif ctype == "DE":
+            if de_needed_this_sem <= 0:
+                continue  # Skip - this semester's DE slots are filled
+        
+        # Add course to courses_left
+        courses_left.setdefault(sem, []).append(course)
+
+# Save courses_left
+output_file = "courses_left.json"
+with open(output_file, "w") as f:
+    json.dump(courses_left, f, indent=4)
+
+print(f"\n✅ Courses left saved to '{output_file}'")
+print(f"\n📊 Summary:")
+for sem in sorted(courses_left.keys()):
+    hul_count = sum(1 for c in courses_left[sem] if c.get("type", "").startswith("HUL"))
+    de_count = sum(1 for c in courses_left[sem] if c.get("type") == "DE")
+    core_count = sum(1 for c in courses_left[sem] if c.get("type") == "Core")
+    print(f"  Semester {sem}: {len(courses_left[sem])} courses ({core_count} Core, {hul_count} HUL, {de_count} DE)")
+# Save courses_left
 
 model = cp_model.CpModel()
 course_vars = {}
@@ -183,8 +255,8 @@ for sem, courses in courses_left.items():
         total_credits += course_vars[(sem, code)] *int(course["credits"]*CONFIG["CREDIT_SCALE"]) #scale since model doesnt directly support float
     
     # Hard constraints for semester credits
-    model.Add(total_credits >= user1.min_credits*CONFIG["CREDIT_SCALE"])
-    model.Add(total_credits <= user1.max_credits*CONFIG["CREDIT_SCALE"])
+    model.Add(total_credits >= user.min_credits*CONFIG["CREDIT_SCALE"])
+    model.Add(total_credits <= user.max_credits*CONFIG["CREDIT_SCALE"])
 
 #total credits condition = should be 150 
 # Total target credits for EE degree
@@ -194,11 +266,11 @@ total_target_credits = CONFIG["TOTAL_TARGET_CREDITS"]
 
 # Compute credits already completed
 credits_done = 0
-for sem, courses in user1.EE_courses.items(): #EE_courses is the selected courses- means EE1 me net courses
+for sem, courses in user.EE_courses.items(): #EE_courses is the selected courses- means EE1 me net courses
     for course in courses:
         code = course["code"]
         # Only count if the student has completed it
-        if code in user1.completed_corecourses or code in user1.completed_hul or code in user1.completed_DE:
+        if code in user.completed_corecourses or code in user.completed_hul or code in user.completed_DE:
             credits_done += course["credits"]
 
 
@@ -256,9 +328,9 @@ for (sem, code), var in course_vars.items():
         
         for prereq_code in prereq_path:
             # Check if prereq is already completed
-            if (prereq_code in user1.completed_corecourses or 
-                prereq_code in user1.completed_hul or 
-                prereq_code in user1.completed_DE):
+            if (prereq_code in user.completed_corecourses or 
+                prereq_code in user.completed_hul or 
+                prereq_code in user.completed_DE):
                 # Prereq already done - automatically satisfied
                 continue
             
@@ -316,17 +388,57 @@ for (sem, code), var in course_vars.items():
 
 
 
+# RIGHT BEFORE solver.Solve(model)
+print("\n🔍 PRE-SOLVE DEBUG:")
+print(f"Semesters to plan: {sorted(courses_left.keys())}")
+print(f"Total credits already done: {credits_done}")
+print(f"Remaining credits needed: {remaining_target_credits / CONFIG['CREDIT_SCALE']}")
+print(f"Min/Max credits per semester: {user.min_credits} - {user.max_credits}")
 
+# Calculate if solution is even possible
+num_future_sems = len(courses_left.keys())
+min_possible = num_future_sems * user.min_credits
+max_possible = num_future_sems * user.max_credits
+target_needed = remaining_target_credits / CONFIG['CREDIT_SCALE']
 
+print(f"\n📊 Feasibility check:")
+print(f"  Future semesters: {num_future_sems}")
+print(f"  Possible credit range: {min_possible} - {max_possible}")
+print(f"  Target needed: {target_needed}")
 
+if target_needed < min_possible:
+    print("  ❌ PROBLEM: Need too few credits (will exceed minimum)")
+elif target_needed > max_possible:
+    print("  ❌ PROBLEM: Need too many credits (can't fit in max limits)")
+else:
+    print("  ✅ Feasible range")
 
-
-
+# Count available courses per semester
+for sem in sorted(courses_left.keys()):
+    total_available = sum(c["credits"] for c in courses_left[sem])
+    core_credits = sum(c["credits"] for c in courses_left[sem] if c.get("type") == "Core")
+    print(f"\n  Sem {sem}: {len(courses_left[sem])} courses, {total_available} total credits")
+    print(f"    Core (mandatory): {core_credits} credits")
 
 
 #solver : dont edit below this line 
 solver = cp_model.CpSolver()
+
 status = solver.Solve(model)
+
+# CHECK SOLVER STATUS
+if status == cp_model.OPTIMAL:
+    print("✅ Optimal solution found!")
+elif status == cp_model.FEASIBLE:
+    print("⚠️ Feasible solution found (not optimal)")
+elif status == cp_model.INFEASIBLE:
+    print("❌ NO SOLUTION EXISTS - Constraints are impossible to satisfy!")
+    print("\n🔍 Debugging info:")
+    print(f"  - Completed credits: {credits_done}")
+    print(f"  - Remaining target: {remaining_target_credits / CONFIG['CREDIT_SCALE']}")
+    print(f"  - User min/max per sem: {user.min_credits} - {user.max_credits}")
+else:
+    print(f"❓ Unknown status: {status}")
 
 # Create a dictionary to collect courses per semester
 # Create a dictionary to collect courses per semester with full info
