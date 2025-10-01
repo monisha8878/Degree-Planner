@@ -142,7 +142,7 @@ print(f"✅ Prerequisites parsed for all courses")
 
 
 
-user= UserData(name="Monisha",current_semester=2,EE_courses=selected_courses,completed_corecourses= ['ELL101',   'PYL101',   'MCP100','MTL100'])
+user= UserData(name="Monisha",current_semester=4,EE_courses=selected_courses,completed_corecourses= ['ELL101',   'PYL101',   'MCP100','MTL100','COL100','PYP100','MCP101','APL100','CML101','MTL101','CMP100','ELL205','ELL203','ELL201','COL106','ELL202','ELP101'])
 user.print_summary(debug=True)
 with open("EE_courses.json", "w") as f:
     json.dump(user.EE_courses, f, indent=4)
@@ -155,54 +155,48 @@ with open("EE_courses.json", "w") as f:
 
 courses_left = {}
 
-# STEP 1: Build courses_left for all semesters normally
+# Build set of all completed courses from all tracking methods
+all_completed_codes = set(user.completed_corecourses)
+all_completed_codes.update(user.completed_hul)
+all_completed_codes.update(user.completed_DE)
+
+# STEP 1: Build courses_left for all semesters
 for sem, courses in selected_courses.items():
     target_sem = sem if sem >= user.current_semester else user.current_semester
-    
-    # ... your existing slot counting logic ...
     
     for course in courses:
         code = course["code"]
         ctype = course.get("type", "")
         
-        # Skip completed courses
-        if ctype == "Core" and code in user.completed_corecourses:
-            continue
-        if ctype.startswith("HUL") and code in user.completed_hul:
-            continue
-        if ctype == "DE" and code in user.completed_DE:
+        # Skip if already completed (checks all types)
+        if code in all_completed_codes:
             continue
         
-        # ... your HUL/DE filtering logic ...
-        
+        # Add to courses_left
         courses_left.setdefault(target_sem, []).append(course)
 
-# STEP 2: Find all incomplete core courses from past semesters
+# STEP 2: Find incomplete core courses from past semesters
 incomplete_core_courses = []
 
 for sem, courses in selected_courses.items():
-    if sem < user.current_semester:  # Past semesters only
+    if sem < user.current_semester:
         for course in courses:
             code = course["code"]
             ctype = course.get("type", "")
             
-            # If it's a core course and NOT completed, it's failed/incomplete
-            if ctype == "Core" and code not in user.completed_corecourses:
+            if ctype == "Core" and code not in all_completed_codes:
                 incomplete_core_courses.append(course)
-                print(f"⚠️ Found incomplete/failed course: {code} from semester {sem}")
+                print(f"Found incomplete/failed course: {code} from semester {sem}")
 
-# STEP 3: Add these failed courses to ALL future semesters
-for sem in range(user.current_semester, 9):  # Assuming max 8 semesters
+# STEP 3: Add failed courses to all future semesters
+for sem in range(user.current_semester, 9):
     if sem not in courses_left:
         courses_left[sem] = []
     
     for failed_course in incomplete_core_courses:
         code = failed_course["code"]
-        # Check if not already in this semester
         if not any(c["code"] == code for c in courses_left[sem]):
             courses_left[sem].append(failed_course)
-            print(f"   → Added {code} as option to semester {sem}")
-
 # Save courses_left
 output_file = "courses_left.json"
 with open(output_file, "w") as f:

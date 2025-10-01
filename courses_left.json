@@ -1,199 +1,5 @@
 {
-    "2": [
-        {
-            "code": "ELP101",
-            "name": "Introduction to Electrical Engineering",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 0
-            },
-            "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "PYP100",
-            "name": "Physics Laboratory",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 2.0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "MCP101",
-            "name": "Product Realization through Manufacturing",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 2.0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "APL100",
-            "name": "Engineering Mechanics",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 4.0,
-            "hours": {
-                "lecture": 3,
-                "tutorial": 1,
-                "practical": 0
-            },
-            "description": "Kinematics, Statics, Equations of Motion, Rigid body dynamics, Introduction to variational mechanics.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "COL100",
-            "name": "Introduction to Computer Science",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 4.0,
-            "hours": {
-                "lecture": 3,
-                "tutorial": 0,
-                "practical": 2
-            },
-            "description": "organization of Computing Systems. Concept of an algorithm; termination and correctness. Algorithms to programs: specification, top-down development and stepwise refinement. Problem solving using a functional style; Correctness issues in programming; Efficiency issues in programming; Time and space measures. Procedures, functions. Data types, representational invariants. Encapsulation, abstractions, interaction and modularity. Identifying and exploiting inherent concurrency. Structured style of imperative programming. Introduction to numerical methods. At least one example of large program development.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "CML101",
-            "name": "Introduction to Chemistry",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 4.0,
-            "hours": {
-                "lecture": 3,
-                "tutorial": 1,
-                "practical": 0
-            },
-            "description": "Basics of rate laws; Complex reactions: consecutive and parallel reactions; Temperature dependence of reaction rates; Reaction mechanisms: steady-state approximation, pre-equilibria, unimolecular reactions; Catalysis; Atomic structure: Schr\u00f6dinger equation, the hydrogen atom; The chemical bond: simplest molecules H2 + and H2; Vibration of diatomics: harmonic oscillator and Morse potential Stability of organometallic compounds; Metal carbonyls: structure and bonding; Important reactions of organometallic compounds; Homogeneous catalysis; Applications of crystal field theory; An overview of metals in biology; Functions of metalloproteins R/S-Nomenclature; Projection formulas; Mo approaches for the stereochemical outcome of the reactions; Determination of reaction mechanism; Kinetic versus thermodynamic control of the reaction; Trapping of reactive intermediates; Spectroscopic methods of structure determination.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "MTL101",
-            "name": "Linear Algebra and Differential Equations",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 4.0,
-            "hours": {
-                "lecture": 3,
-                "tutorial": 1,
-                "practical": 0
-            },
-            "description": "Vector spaces over Q, R and C, subspaces, linear independence, linear span of a set of vectors, basis and dimension of a vector space, sum and direct sum. Systems of linear (homogeneous and non-homogeneous) equations, matrices and Gauss elimination, elementary row operations, row space, column space, null space and rank of a matrix. Linear transformation, rank-nullity theorem and its applications, matrix representation of a linear transformation, change of basis and similarity. Eigenvalues and eigenvectors, characteristic and minimal polynomials, Cayley-Hamilton theorem (without proof) and applications. Review of first order differential equations, Picard\u2019s theorem, linear dependence and Wronskian. Dimensionality of space of solutions, linear ODE with constant coefficients of second and higher order, Cauchy-Euler equations, Method of undetermined coefficients and method of variation of parameters. Boundary Value Problems: Sturm- Liouville eigenvalue problems. System of linear differential equations with constant coefficients, fundamental matrix, matrix methods. Power Series and its convergence, power series method, Fourier series, Laplace Transform Method.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "CMP100",
-            "name": "Chemistry Laboratory",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 2.0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Experiments involve the following: Titrations, Surface Tension and Viscosity, Potentiometery, Conductometry, Preparation of metal complexes and important organic compounds, Kinetics, Chromatography, Qualitative and quantitative estimation of organic compounds.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        }
-    ],
-    "3": [
-        {
-            "code": "ELL205",
-            "name": "Signals and Systems",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 4.0,
-            "hours": {
-                "lecture": 3,
-                "tutorial": 1,
-                "practical": 0
-            },
-            "description": "Motivation & orientation, Classifications of signals & systems, Dynamic representation of LTI systems (discrete & continuous-time systems), Fourier analysis of continuous-time signals & systems, Fourier analysis of discrete-time signals & systems, Nyquist sampling theorem, Laplace transform, The z-transform, Introduction to probability, random variables and stochastic processes.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "ELL202",
-            "name": "Circuit Theory",
-            "prereqs": "[ELL101]",
-            "overlap": "",
-            "credits": 4.0,
-            "hours": {
-                "lecture": 3,
-                "tutorial": 1,
-                "practical": 0
-            },
-            "description": "overview of network analysis techniques, network theorems, transient and steady-state sinusoidal response. Network graphs and their applications in network analysis. Tellegen\u2019s theorem, two-port networks, Z, Y, h, g, and transmission matrices. Combining two ports in various configurations. Analysis of transmission lines to motivate the scattering matrix. Scattering matrix and its applications in network analysis. Network functions, positive real functions, and network synthesis. Butterworth and Chebyshev approximations. Synthesis of lossless two-port networks. Synthesis of lattice all-pass filters.",
-            "prereqs_parsed": [
-                [
-                    "ELL101"
-                ]
-            ],
-            "type": "Core"
-        },
-        {
-            "code": "COL106",
-            "name": "Data Structures & Algorithms",
-            "prereqs": "[COL100]",
-            "overlap": "",
-            "credits": 5.0,
-            "hours": {
-                "lecture": 3,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Introduction to object-oriented programming through stacks queues and linked lists. Dictionaries; skip-lists, hashing, analysis of collision resolution techniques. Trees, traversals, binary search trees, optimal and average BSTs. Balanced BST: AVL Trees, 2-4 trees, red-black trees, B-trees. Tries and suffix trees. Priority queues and binary heaps. Sorting: merge, quick, radix, selection and heap sort, Graphs: Breadth first search and connected components. Depth first search in directed and undirected graphs. Disjkra\u2019s algorithm, directed acyclic graphs and topological sort. Some geometric data-structures.",
-            "prereqs_parsed": [
-                [
-                    "COL100"
-                ]
-            ],
-            "type": "Core"
-        },
-        {
-            "code": "ELL203",
-            "name": "Electromechanics",
-            "prereqs": "[ELL101]",
-            "overlap": "",
-            "credits": 4.0,
-            "hours": {
-                "lecture": 3,
-                "tutorial": 1,
-                "practical": 0
-            },
-            "description": "Review: AC Circuits, Complex representation and Power Measurement. Magnetic Circuits: Simple magnetic circuit, analogy between magnetic circuits and electrical circuits, linear and nonlinear magnetic circuits, hysteresis and eddy current losses, permanent magnet materials. Transformers: Single-phase and three-phase, analysis, equivalent circuit, Tests on transformers, phasor diagram regulation and efficiency, auto-transformer and instrument transformers (PT/CT). Electro-mechanical energy conversion principles: Force and EMF production in a rotating machine. DC machines: Types, construction, working principle, characteristics and applications. 3-phase induction machines: Types, construction, Introduction to windings and winding factor, production of revolving magnetic field, working principle on 3-phase induction machine, equivalent circuit, characteristics, phasor diagram and applications. 3-phase synchronous machines: Types, construction, working i  principle, equivalent circuit, characteristics, phasor diagram and applications. Fractional-HP and Special Machines.",
-            "prereqs_parsed": [
-                [
-                    "ELL101"
-                ]
-            ],
-            "type": "Core"
-        },
+    "4": [
         {
             "code": "ELL211",
             "name": "Physical Electronics",
@@ -758,53 +564,6 @@
             "type": "HUL2XX"
         },
         {
-            "code": "ELP101",
-            "name": "Introduction to Electrical Engineering",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 0
-            },
-            "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "PYP100",
-            "name": "Physics Laboratory",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 2.0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "MCP101",
-            "name": "Product Realization through Manufacturing",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 2.0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        }
-    ],
-    "4": [
-        {
             "code": "MTL106",
             "name": "Probability and Stochastic Processes",
             "prereqs": "[]",
@@ -834,25 +593,6 @@
             "prereqs_parsed": [
                 [
                     "ELL205"
-                ]
-            ],
-            "type": "Core"
-        },
-        {
-            "code": "ELL201",
-            "name": "Digital Electronics",
-            "prereqs": "[ELL101]",
-            "overlap": "",
-            "credits": 4.5,
-            "hours": {
-                "lecture": 3,
-                "tutorial": 0,
-                "practical": 3
-            },
-            "description": "Gates, binary number systems, arithmetic operations. Minimization using K-maps, reduced K-maps, tabular methods; design using multiplexers, decoders, and ROMs. Latches, flip-flops, registers and counters. Asynchronous, synchronous counters. Finite state machines, implementations thereof. Mealy, Moore machines. Clock period computation. Memories. Partitioning and pipelining. VHDL/Verilog, the register-transfer-level description style. Switch level introduction to logic families, CMoS logic, static, pre-charge and clocked logic. Asynchronous circuits and design styles.",
-            "prereqs_parsed": [
-                [
-                    "ELL101"
                 ]
             ],
             "type": "Core"
@@ -907,51 +647,6 @@
                 "practical": 2
             },
             "description": "Darwinian evolution & molecular perspective; Introduction to phylogeny - Classification systems in biology and relationships; Cellular assemblies \u2013 From single cell to multi-cellular organisms: Geometry, Structure and Energetics; Comparing natural vs. humanmade machines; Infection, disease and evolution \u2013 synergy and antagonism; Immunology \u2013 An example of permutations and combinations in biology; Cancer biology \u2013 Control and regulation; Stem cells \u2013 Degeneracy in biological systems; Engineering designs inspired by biology \u2013 Micro- to Macro- scales. Laboratory: Biosafety; Buffers in biology - Measuring microlitres, Preparation of standard biological buffers, buffering capacity and pKa of buffers, response of cells and plant tissues in different buffering conditions; observing cell surface and intracellular contents using light and fluorescence microscopy, measuring cellular motion using real-time video microscopy; Measuring and visualizing intracellular molecular components - Proteins and Genomic DNA",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "ELP101",
-            "name": "Introduction to Electrical Engineering",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 0
-            },
-            "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "PYP100",
-            "name": "Physics Laboratory",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 2.0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "MCP101",
-            "name": "Product Realization through Manufacturing",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 2.0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams.",
             "prereqs_parsed": [],
             "type": "Core"
         }
@@ -1095,48 +790,23 @@
             "type": "Core"
         },
         {
-            "code": "ELP101",
-            "name": "Introduction to Electrical Engineering",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 0,
+            "code": "ELL211",
+            "name": "Physical Electronics",
+            "prereqs": "[ELL101 and PYL101]",
+            "overlap": "ELL732, ELL231, EPL336, EPL439 , PHL653,",
+            "credits": 3.0,
             "hours": {
-                "lecture": 0,
+                "lecture": 3,
                 "tutorial": 0,
                 "practical": 0
             },
-            "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "PYP100",
-            "name": "Physics Laboratory",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 2.0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "MCP101",
-            "name": "Product Realization through Manufacturing",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 2.0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams.",
-            "prereqs_parsed": [],
+            "description": "PHL704, PHL705, PHL727, PHL793 Semiconductor materials , crystal structure, carriers in semiconductors, band structure, density of states, excitons, doping and carrier statistics, carrier transport, recombination and generation, p-n junction physics: built-in potential, forward and reverse bias, capacitance, diode currents, breakdown, tunnel effects; metal- semiconductor junctions; BJTs: current gain/Gummel plots, transistor models, breakdown;MoSFET physics: MoS capacitors, inversion, depletion, accumulation, flatband, threshold voltage, long-channel model, saturation, short-channel models, sub-threshold conduction, SPICE models for MoSFETs; optoelectronic device physics, LEDs/ oLEDs, lasers, photodetectors, solar cells.",
+            "prereqs_parsed": [
+                [
+                    "ELL101",
+                    "PYL101"
+                ]
+            ],
             "type": "Core"
         }
     ],
@@ -2317,48 +1987,23 @@
             "type": "Core"
         },
         {
-            "code": "ELP101",
-            "name": "Introduction to Electrical Engineering",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 0,
+            "code": "ELL211",
+            "name": "Physical Electronics",
+            "prereqs": "[ELL101 and PYL101]",
+            "overlap": "ELL732, ELL231, EPL336, EPL439 , PHL653,",
+            "credits": 3.0,
             "hours": {
-                "lecture": 0,
+                "lecture": 3,
                 "tutorial": 0,
                 "practical": 0
             },
-            "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "PYP100",
-            "name": "Physics Laboratory",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 2.0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "MCP101",
-            "name": "Product Realization through Manufacturing",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 2.0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams.",
-            "prereqs_parsed": [],
+            "description": "PHL704, PHL705, PHL727, PHL793 Semiconductor materials , crystal structure, carriers in semiconductors, band structure, density of states, excitons, doping and carrier statistics, carrier transport, recombination and generation, p-n junction physics: built-in potential, forward and reverse bias, capacitance, diode currents, breakdown, tunnel effects; metal- semiconductor junctions; BJTs: current gain/Gummel plots, transistor models, breakdown;MoSFET physics: MoS capacitors, inversion, depletion, accumulation, flatband, threshold voltage, long-channel model, saturation, short-channel models, sub-threshold conduction, SPICE models for MoSFETs; optoelectronic device physics, LEDs/ oLEDs, lasers, photodetectors, solar cells.",
+            "prereqs_parsed": [
+                [
+                    "ELL101",
+                    "PYL101"
+                ]
+            ],
             "type": "Core"
         }
     ],
@@ -3466,48 +3111,23 @@
             "type": "HUL2XX"
         },
         {
-            "code": "ELP101",
-            "name": "Introduction to Electrical Engineering",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 0,
+            "code": "ELL211",
+            "name": "Physical Electronics",
+            "prereqs": "[ELL101 and PYL101]",
+            "overlap": "ELL732, ELL231, EPL336, EPL439 , PHL653,",
+            "credits": 3.0,
             "hours": {
-                "lecture": 0,
+                "lecture": 3,
                 "tutorial": 0,
                 "practical": 0
             },
-            "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "PYP100",
-            "name": "Physics Laboratory",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 2.0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "MCP101",
-            "name": "Product Realization through Manufacturing",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 2.0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams.",
-            "prereqs_parsed": [],
+            "description": "PHL704, PHL705, PHL727, PHL793 Semiconductor materials , crystal structure, carriers in semiconductors, band structure, density of states, excitons, doping and carrier statistics, carrier transport, recombination and generation, p-n junction physics: built-in potential, forward and reverse bias, capacitance, diode currents, breakdown, tunnel effects; metal- semiconductor junctions; BJTs: current gain/Gummel plots, transistor models, breakdown;MoSFET physics: MoS capacitors, inversion, depletion, accumulation, flatband, threshold voltage, long-channel model, saturation, short-channel models, sub-threshold conduction, SPICE models for MoSFETs; optoelectronic device physics, LEDs/ oLEDs, lasers, photodetectors, solar cells.",
+            "prereqs_parsed": [
+                [
+                    "ELL101",
+                    "PYL101"
+                ]
+            ],
             "type": "Core"
         }
     ],
@@ -4683,48 +4303,23 @@
             "type": "DE"
         },
         {
-            "code": "ELP101",
-            "name": "Introduction to Electrical Engineering",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 0,
+            "code": "ELL211",
+            "name": "Physical Electronics",
+            "prereqs": "[ELL101 and PYL101]",
+            "overlap": "ELL732, ELL231, EPL336, EPL439 , PHL653,",
+            "credits": 3.0,
             "hours": {
-                "lecture": 0,
+                "lecture": 3,
                 "tutorial": 0,
                 "practical": 0
             },
-            "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "PYP100",
-            "name": "Physics Laboratory",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 2.0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines.",
-            "prereqs_parsed": [],
-            "type": "Core"
-        },
-        {
-            "code": "MCP101",
-            "name": "Product Realization through Manufacturing",
-            "prereqs": "[]",
-            "overlap": "",
-            "credits": 2.0,
-            "hours": {
-                "lecture": 0,
-                "tutorial": 0,
-                "practical": 4
-            },
-            "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams.",
-            "prereqs_parsed": [],
+            "description": "PHL704, PHL705, PHL727, PHL793 Semiconductor materials , crystal structure, carriers in semiconductors, band structure, density of states, excitons, doping and carrier statistics, carrier transport, recombination and generation, p-n junction physics: built-in potential, forward and reverse bias, capacitance, diode currents, breakdown, tunnel effects; metal- semiconductor junctions; BJTs: current gain/Gummel plots, transistor models, breakdown;MoSFET physics: MoS capacitors, inversion, depletion, accumulation, flatband, threshold voltage, long-channel model, saturation, short-channel models, sub-threshold conduction, SPICE models for MoSFETs; optoelectronic device physics, LEDs/ oLEDs, lasers, photodetectors, solar cells.",
+            "prereqs_parsed": [
+                [
+                    "ELL101",
+                    "PYL101"
+                ]
+            ],
             "type": "Core"
         }
     ]
