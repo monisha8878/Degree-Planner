@@ -147,11 +147,6 @@ user.print_summary(debug=True)
 with open("EE_courses.json", "w") as f:
     json.dump(user.EE_courses, f, indent=4)
 #making a list of remaining courses 
-#       NEED TO CHANGE THIS CODE COMPLETELY - INCORRECT LOGIC 
-
-# Replace the courses_left building section (lines 100-170) with this:
-
-# Replace the courses_left building section with this:
 
 courses_left = {}
 
