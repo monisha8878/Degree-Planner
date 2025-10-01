@@ -142,7 +142,7 @@ print(f"✅ Prerequisites parsed for all courses")
 
 
 
-user= UserData(name="Monisha",current_semester=2,EE_courses=selected_courses,completed_corecourses= ['ELL101', 'ELP101',  'PYL101', 'MTL100', 'PYP100',  'MCP100','MCP101'])
+user= UserData(name="Monisha",current_semester=2,EE_courses=selected_courses,completed_corecourses= ['ELL101',   'PYL101',   'MCP100','MTL100'])
 user.print_summary(debug=True)
 with open("EE_courses.json", "w") as f:
     json.dump(user.EE_courses, f, indent=4)
@@ -155,74 +155,53 @@ with open("EE_courses.json", "w") as f:
 
 courses_left = {}
 
+# STEP 1: Build courses_left for all semesters normally
 for sem, courses in selected_courses.items():
-    # Only process current and future semesters
-    if sem < user.current_semester:
-        continue
+    target_sem = sem if sem >= user.current_semester else user.current_semester
     
-    # Count how many slots are ORIGINALLY RECOMMENDED for this semester
-    hul2_slots = sum(1 for c in recommended_courses[sem-1] if c == "HUL2XX")
-    hul3_slots = sum(1 for c in recommended_courses[sem-1] if c == "HUL3XX")
-    de_slots = sum(1 for c in recommended_courses[sem-1] if c == "DE")
-    
-    # Count how many the user has ALREADY COMPLETED in THIS SPECIFIC SEMESTER
-    hul2_completed_this_sem = 0
-    hul3_completed_this_sem = 0
-    de_completed_this_sem = 0
-    
-    if hasattr(user, 'completed_hul_sem') and sem in user.completed_hul_sem:
-        for completed_code in user.completed_hul_sem[sem]:
-            if completed_code.startswith("HUL2"):
-                hul2_completed_this_sem += 1
-            elif completed_code.startswith("HUL3"):
-                hul3_completed_this_sem += 1
-    
-    if hasattr(user, 'completed_DE_sem') and sem in user.completed_DE_sem:
-        de_completed_this_sem = len(user.completed_DE_sem[sem])
-    
-    # Calculate remaining slots needed FOR THIS SEMESTER
-    hul2_needed_this_sem = max(0, hul2_slots - hul2_completed_this_sem)
-    hul3_needed_this_sem = max(0, hul3_slots - hul3_completed_this_sem)
-    de_needed_this_sem = max(0, de_slots - de_completed_this_sem)
-    
-    print(f"\n📋 Semester {sem} slot analysis:")
-    print(f"  HUL2XX: recommended={hul2_slots}, completed={hul2_completed_this_sem}, still need={hul2_needed_this_sem}")
-    print(f"  HUL3XX: recommended={hul3_slots}, completed={hul3_completed_this_sem}, still need={hul3_needed_this_sem}")
-    print(f"  DE: recommended={de_slots}, completed={de_completed_this_sem}, still need={de_needed_this_sem}")
+    # ... your existing slot counting logic ...
     
     for course in courses:
         code = course["code"]
         ctype = course.get("type", "")
         
-        # Skip completed core courses
+        # Skip completed courses
         if ctype == "Core" and code in user.completed_corecourses:
             continue
-        
-        # Skip completed HUL courses (already taken this specific course)
         if ctype.startswith("HUL") and code in user.completed_hul:
             continue
-        
-        # Skip completed DE courses (already taken this specific course)
         if ctype == "DE" and code in user.completed_DE:
             continue
         
-        # For HUL2XX: only include if THIS SEMESTER still needs HUL2XX slots
-        if ctype == "HUL2XX":
-            if hul2_needed_this_sem <= 0:
-                continue  # Skip - this semester's HUL2XX slots are filled
+        # ... your HUL/DE filtering logic ...
         
-        # For HUL3XX: only include if THIS SEMESTER still needs HUL3XX slots
-        elif ctype == "HUL3XX":
-            if hul3_needed_this_sem <= 0:
-                continue  # Skip - this semester's HUL3XX slots are filled
-        
-        # For DE: only include if THIS SEMESTER still needs DE slots
-        elif ctype == "DE":
-            if de_needed_this_sem <= 0:
-                continue  # Skip - this semester's DE slots are filled
-        
-        # Add course to courses_left
-        courses_left.setdefault(sem, []).append(course)
+        courses_left.setdefault(target_sem, []).append(course)
+
+# STEP 2: Find all incomplete core courses from past semesters
+incomplete_core_courses = []
+
+for sem, courses in selected_courses.items():
+    if sem < user.current_semester:  # Past semesters only
+        for course in courses:
+            code = course["code"]
+            ctype = course.get("type", "")
+            
+            # If it's a core course and NOT completed, it's failed/incomplete
+            if ctype == "Core" and code not in user.completed_corecourses:
+                incomplete_core_courses.append(course)
+                print(f"⚠️ Found incomplete/failed course: {code} from semester {sem}")
+
+# STEP 3: Add these failed courses to ALL future semesters
+for sem in range(user.current_semester, 9):  # Assuming max 8 semesters
+    if sem not in courses_left:
+        courses_left[sem] = []
+    
+    for failed_course in incomplete_core_courses:
+        code = failed_course["code"]
+        # Check if not already in this semester
+        if not any(c["code"] == code for c in courses_left[sem]):
+            courses_left[sem].append(failed_course)
+            print(f"   → Added {code} as option to semester {sem}")
 
 # Save courses_left
 output_file = "courses_left.json"

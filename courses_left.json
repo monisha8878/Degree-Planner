@@ -1,6 +1,51 @@
 {
     "2": [
         {
+            "code": "ELP101",
+            "name": "Introduction to Electrical Engineering",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "PYP100",
+            "name": "Physics Laboratory",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "MCP101",
+            "name": "Product Realization through Manufacturing",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
             "code": "APL100",
             "name": "Engineering Mechanics",
             "prereqs": "[]",
@@ -711,6 +756,51 @@
                 ]
             ],
             "type": "HUL2XX"
+        },
+        {
+            "code": "ELP101",
+            "name": "Introduction to Electrical Engineering",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "PYP100",
+            "name": "Physics Laboratory",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "MCP101",
+            "name": "Product Realization through Manufacturing",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams.",
+            "prereqs_parsed": [],
+            "type": "Core"
         }
     ],
     "4": [
@@ -817,6 +907,51 @@
                 "practical": 2
             },
             "description": "Darwinian evolution & molecular perspective; Introduction to phylogeny - Classification systems in biology and relationships; Cellular assemblies \u2013 From single cell to multi-cellular organisms: Geometry, Structure and Energetics; Comparing natural vs. humanmade machines; Infection, disease and evolution \u2013 synergy and antagonism; Immunology \u2013 An example of permutations and combinations in biology; Cancer biology \u2013 Control and regulation; Stem cells \u2013 Degeneracy in biological systems; Engineering designs inspired by biology \u2013 Micro- to Macro- scales. Laboratory: Biosafety; Buffers in biology - Measuring microlitres, Preparation of standard biological buffers, buffering capacity and pKa of buffers, response of cells and plant tissues in different buffering conditions; observing cell surface and intracellular contents using light and fluorescence microscopy, measuring cellular motion using real-time video microscopy; Measuring and visualizing intracellular molecular components - Proteins and Genomic DNA",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "ELP101",
+            "name": "Introduction to Electrical Engineering",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "PYP100",
+            "name": "Physics Laboratory",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "MCP101",
+            "name": "Product Realization through Manufacturing",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams.",
             "prereqs_parsed": [],
             "type": "Core"
         }
@@ -957,6 +1092,51 @@
                     "ELL212"
                 ]
             ],
+            "type": "Core"
+        },
+        {
+            "code": "ELP101",
+            "name": "Introduction to Electrical Engineering",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "PYP100",
+            "name": "Physics Laboratory",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "MCP101",
+            "name": "Product Realization through Manufacturing",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams.",
+            "prereqs_parsed": [],
             "type": "Core"
         }
     ],
@@ -2135,6 +2315,51 @@
             "description": "",
             "prereqs_parsed": [],
             "type": "Core"
+        },
+        {
+            "code": "ELP101",
+            "name": "Introduction to Electrical Engineering",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "PYP100",
+            "name": "Physics Laboratory",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "MCP101",
+            "name": "Product Realization through Manufacturing",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams.",
+            "prereqs_parsed": [],
+            "type": "Core"
         }
     ],
     "7": [
@@ -3239,6 +3464,51 @@
                 ]
             ],
             "type": "HUL2XX"
+        },
+        {
+            "code": "ELP101",
+            "name": "Introduction to Electrical Engineering",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "PYP100",
+            "name": "Physics Laboratory",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "MCP101",
+            "name": "Product Realization through Manufacturing",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams.",
+            "prereqs_parsed": [],
+            "type": "Core"
         }
     ],
     "8": [
@@ -4411,6 +4681,51 @@
             "description": "",
             "prereqs_parsed": [],
             "type": "DE"
+        },
+        {
+            "code": "ELP101",
+            "name": "Introduction to Electrical Engineering",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 0
+            },
+            "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "PYP100",
+            "name": "Physics Laboratory",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "MCP101",
+            "name": "Product Realization through Manufacturing",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 2.0,
+            "hours": {
+                "lecture": 0,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams.",
+            "prereqs_parsed": [],
+            "type": "Core"
         }
     ]
 }
