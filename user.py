@@ -1,6 +1,6 @@
 class UserData:
     def __init__(self, name="Student", dept="EE1", current_semester=1, EE_courses=None, 
-                 completed_corecourses=None, completed_hul=None, completed_DE=None, 
+                  completed_corecourses=None, completed_hul=None, completed_DE=None, 
                  num_semesters=8, min_credits=15, max_credits=24, preferences=None,
                  completed_hul_sem=None, completed_DE_sem=None):
         """

@@ -10014,7 +10014,7 @@ courses={
         "name": "Introduction to Electrical Engineering",
         "prereqs": "[]",
         "overlap": "",
-        "credits": 0,
+        "credits": 1,
         "hours": {
             "lecture": 0,
             "tutorial": 0,

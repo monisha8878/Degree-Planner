@@ -142,9 +142,10 @@ print(f"✅ Prerequisites parsed for all courses")
 
 
 
-user= UserData(name="Monisha",current_semester=4,EE_courses=selected_courses,completed_corecourses= ['ELL101', 'ELP101', 'MCP100', 'PYL101', 'MTL100', 'PYP100', 'MCP101', 'APL100', 'COL100', 'CML101', 'MTL101', 'CMP100', 'ELL205', 'ELL202', 'COL106', 'ELL203', 'ELL211'],completed_hul=['HUL272'],completed_hul_sem={3: ["HUL272"]})
+user= UserData(name="Monisha",current_semester=2,EE_courses=selected_courses,completed_corecourses= ['ELL101', 'ELP101',  'PYL101', 'MTL100', 'PYP100',  'MCP100','MCP101'])
 user.print_summary(debug=True)
-
+with open("EE_courses.json", "w") as f:
+    json.dump(user.EE_courses, f, indent=4)
 #making a list of remaining courses 
 #       NEED TO CHANGE THIS CODE COMPLETELY - INCORRECT LOGIC 
 
@@ -266,12 +267,23 @@ total_target_credits = CONFIG["TOTAL_TARGET_CREDITS"]
 
 # Compute credits already completed
 credits_done = 0
-for sem, courses in user.EE_courses.items(): #EE_courses is the selected courses- means EE1 me net courses
+seen_courses = set()  # track codes we've already counted
+
+for sem, courses in user.EE_courses.items():
     for course in courses:
         code = course["code"]
-        # Only count if the student has completed it
+        if code in seen_courses:
+            continue  # skip duplicates
+
         if code in user.completed_corecourses or code in user.completed_hul or code in user.completed_DE:
             credits_done += course["credits"]
+            seen_courses.add(code)
+
+print("Credits done:", credits_done)
+
+            
+# Save user.EE_courses to a file
+
 
 
 # Target credits for remaining semesters
@@ -367,6 +379,21 @@ for (sem, code), var in course_vars.items():
     if path_constraints:
         model.Add(sum(path_constraints) >= var)
                  
+
+# Constraint 5 : every core course must be taken exactly once across the degree
+for sem, courses in courses_left.items():
+    for course in courses:
+        if course.get("type") == "Core":
+            code = course["code"]
+
+            # gather this course across all semesters
+            core_vars = [
+                var for (s, c), var in course_vars.items() if c == code
+            ]
+
+            if core_vars:  # only if found
+                model.Add(sum(core_vars) == 1)
+
 
 
 
