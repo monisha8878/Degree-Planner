@@ -142,7 +142,7 @@ print(f"✅ Prerequisites parsed for all courses")
 
 
 
-user= UserData(name="Monisha",current_semester=4,EE_courses=selected_courses,completed_corecourses= ['ELL101',   'PYL101',   'MCP100','MTL100','COL100','PYP100','MCP101','APL100','CML101','MTL101','CMP100','ELL205','ELL203','ELL201','COL106','ELL202','ELP101'])
+user= UserData(name="Monisha",current_semester=3,EE_courses=selected_courses,completed_corecourses= ['ELL101',   'PYL101',   'MCP100','MTL100','COL100','PYP100','MCP101','APL100','CML101','MTL101','CMP100','ELP101'])
 user.print_summary(debug=True)
 with open("EE_courses.json", "w") as f:
     json.dump(user.EE_courses, f, indent=4)

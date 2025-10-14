@@ -1,5 +1,77 @@
 {
-    "4": [
+    "3": [
+        {
+            "code": "ELL205",
+            "name": "Signals and Systems",
+            "prereqs": "[]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Motivation & orientation, Classifications of signals & systems, Dynamic representation of LTI systems (discrete & continuous-time systems), Fourier analysis of continuous-time signals & systems, Fourier analysis of discrete-time signals & systems, Nyquist sampling theorem, Laplace transform, The z-transform, Introduction to probability, random variables and stochastic processes.",
+            "prereqs_parsed": [],
+            "type": "Core"
+        },
+        {
+            "code": "ELL202",
+            "name": "Circuit Theory",
+            "prereqs": "[ELL101]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "overview of network analysis techniques, network theorems, transient and steady-state sinusoidal response. Network graphs and their applications in network analysis. Tellegen\u2019s theorem, two-port networks, Z, Y, h, g, and transmission matrices. Combining two ports in various configurations. Analysis of transmission lines to motivate the scattering matrix. Scattering matrix and its applications in network analysis. Network functions, positive real functions, and network synthesis. Butterworth and Chebyshev approximations. Synthesis of lossless two-port networks. Synthesis of lattice all-pass filters.",
+            "prereqs_parsed": [
+                [
+                    "ELL101"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "COL106",
+            "name": "Data Structures & Algorithms",
+            "prereqs": "[COL100]",
+            "overlap": "",
+            "credits": 5.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 4
+            },
+            "description": "Introduction to object-oriented programming through stacks queues and linked lists. Dictionaries; skip-lists, hashing, analysis of collision resolution techniques. Trees, traversals, binary search trees, optimal and average BSTs. Balanced BST: AVL Trees, 2-4 trees, red-black trees, B-trees. Tries and suffix trees. Priority queues and binary heaps. Sorting: merge, quick, radix, selection and heap sort, Graphs: Breadth first search and connected components. Depth first search in directed and undirected graphs. Disjkra\u2019s algorithm, directed acyclic graphs and topological sort. Some geometric data-structures.",
+            "prereqs_parsed": [
+                [
+                    "COL100"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "ELL203",
+            "name": "Electromechanics",
+            "prereqs": "[ELL101]",
+            "overlap": "",
+            "credits": 4.0,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 1,
+                "practical": 0
+            },
+            "description": "Review: AC Circuits, Complex representation and Power Measurement. Magnetic Circuits: Simple magnetic circuit, analogy between magnetic circuits and electrical circuits, linear and nonlinear magnetic circuits, hysteresis and eddy current losses, permanent magnet materials. Transformers: Single-phase and three-phase, analysis, equivalent circuit, Tests on transformers, phasor diagram regulation and efficiency, auto-transformer and instrument transformers (PT/CT). Electro-mechanical energy conversion principles: Force and EMF production in a rotating machine. DC machines: Types, construction, working principle, characteristics and applications. 3-phase induction machines: Types, construction, Introduction to windings and winding factor, production of revolving magnetic field, working principle on 3-phase induction machine, equivalent circuit, characteristics, phasor diagram and applications. 3-phase synchronous machines: Types, construction, working i  principle, equivalent circuit, characteristics, phasor diagram and applications. Fractional-HP and Special Machines.",
+            "prereqs_parsed": [
+                [
+                    "ELL101"
+                ]
+            ],
+            "type": "Core"
+        },
         {
             "code": "ELL211",
             "name": "Physical Electronics",
@@ -562,7 +634,9 @@
                 ]
             ],
             "type": "HUL2XX"
-        },
+        }
+    ],
+    "4": [
         {
             "code": "MTL106",
             "name": "Probability and Stochastic Processes",
@@ -593,6 +667,25 @@
             "prereqs_parsed": [
                 [
                     "ELL205"
+                ]
+            ],
+            "type": "Core"
+        },
+        {
+            "code": "ELL201",
+            "name": "Digital Electronics",
+            "prereqs": "[ELL101]",
+            "overlap": "",
+            "credits": 4.5,
+            "hours": {
+                "lecture": 3,
+                "tutorial": 0,
+                "practical": 3
+            },
+            "description": "Gates, binary number systems, arithmetic operations. Minimization using K-maps, reduced K-maps, tabular methods; design using multiplexers, decoders, and ROMs. Latches, flip-flops, registers and counters. Asynchronous, synchronous counters. Finite state machines, implementations thereof. Mealy, Moore machines. Clock period computation. Memories. Partitioning and pipelining. VHDL/Verilog, the register-transfer-level description style. Switch level introduction to logic families, CMoS logic, static, pre-charge and clocked logic. Asynchronous circuits and design styles.",
+            "prereqs_parsed": [
+                [
+                    "ELL101"
                 ]
             ],
             "type": "Core"
@@ -785,26 +878,6 @@
             "prereqs_parsed": [
                 [
                     "ELL212"
-                ]
-            ],
-            "type": "Core"
-        },
-        {
-            "code": "ELL211",
-            "name": "Physical Electronics",
-            "prereqs": "[ELL101 and PYL101]",
-            "overlap": "ELL732, ELL231, EPL336, EPL439 , PHL653,",
-            "credits": 3.0,
-            "hours": {
-                "lecture": 3,
-                "tutorial": 0,
-                "practical": 0
-            },
-            "description": "PHL704, PHL705, PHL727, PHL793 Semiconductor materials , crystal structure, carriers in semiconductors, band structure, density of states, excitons, doping and carrier statistics, carrier transport, recombination and generation, p-n junction physics: built-in potential, forward and reverse bias, capacitance, diode currents, breakdown, tunnel effects; metal- semiconductor junctions; BJTs: current gain/Gummel plots, transistor models, breakdown;MoSFET physics: MoS capacitors, inversion, depletion, accumulation, flatband, threshold voltage, long-channel model, saturation, short-channel models, sub-threshold conduction, SPICE models for MoSFETs; optoelectronic device physics, LEDs/ oLEDs, lasers, photodetectors, solar cells.",
-            "prereqs_parsed": [
-                [
-                    "ELL101",
-                    "PYL101"
                 ]
             ],
             "type": "Core"
@@ -1985,26 +2058,6 @@
             "description": "",
             "prereqs_parsed": [],
             "type": "Core"
-        },
-        {
-            "code": "ELL211",
-            "name": "Physical Electronics",
-            "prereqs": "[ELL101 and PYL101]",
-            "overlap": "ELL732, ELL231, EPL336, EPL439 , PHL653,",
-            "credits": 3.0,
-            "hours": {
-                "lecture": 3,
-                "tutorial": 0,
-                "practical": 0
-            },
-            "description": "PHL704, PHL705, PHL727, PHL793 Semiconductor materials , crystal structure, carriers in semiconductors, band structure, density of states, excitons, doping and carrier statistics, carrier transport, recombination and generation, p-n junction physics: built-in potential, forward and reverse bias, capacitance, diode currents, breakdown, tunnel effects; metal- semiconductor junctions; BJTs: current gain/Gummel plots, transistor models, breakdown;MoSFET physics: MoS capacitors, inversion, depletion, accumulation, flatband, threshold voltage, long-channel model, saturation, short-channel models, sub-threshold conduction, SPICE models for MoSFETs; optoelectronic device physics, LEDs/ oLEDs, lasers, photodetectors, solar cells.",
-            "prereqs_parsed": [
-                [
-                    "ELL101",
-                    "PYL101"
-                ]
-            ],
-            "type": "Core"
         }
     ],
     "7": [
@@ -3109,26 +3162,6 @@
                 ]
             ],
             "type": "HUL2XX"
-        },
-        {
-            "code": "ELL211",
-            "name": "Physical Electronics",
-            "prereqs": "[ELL101 and PYL101]",
-            "overlap": "ELL732, ELL231, EPL336, EPL439 , PHL653,",
-            "credits": 3.0,
-            "hours": {
-                "lecture": 3,
-                "tutorial": 0,
-                "practical": 0
-            },
-            "description": "PHL704, PHL705, PHL727, PHL793 Semiconductor materials , crystal structure, carriers in semiconductors, band structure, density of states, excitons, doping and carrier statistics, carrier transport, recombination and generation, p-n junction physics: built-in potential, forward and reverse bias, capacitance, diode currents, breakdown, tunnel effects; metal- semiconductor junctions; BJTs: current gain/Gummel plots, transistor models, breakdown;MoSFET physics: MoS capacitors, inversion, depletion, accumulation, flatband, threshold voltage, long-channel model, saturation, short-channel models, sub-threshold conduction, SPICE models for MoSFETs; optoelectronic device physics, LEDs/ oLEDs, lasers, photodetectors, solar cells.",
-            "prereqs_parsed": [
-                [
-                    "ELL101",
-                    "PYL101"
-                ]
-            ],
-            "type": "Core"
         }
     ],
     "8": [
@@ -4301,26 +4334,6 @@
             "description": "",
             "prereqs_parsed": [],
             "type": "DE"
-        },
-        {
-            "code": "ELL211",
-            "name": "Physical Electronics",
-            "prereqs": "[ELL101 and PYL101]",
-            "overlap": "ELL732, ELL231, EPL336, EPL439 , PHL653,",
-            "credits": 3.0,
-            "hours": {
-                "lecture": 3,
-                "tutorial": 0,
-                "practical": 0
-            },
-            "description": "PHL704, PHL705, PHL727, PHL793 Semiconductor materials , crystal structure, carriers in semiconductors, band structure, density of states, excitons, doping and carrier statistics, carrier transport, recombination and generation, p-n junction physics: built-in potential, forward and reverse bias, capacitance, diode currents, breakdown, tunnel effects; metal- semiconductor junctions; BJTs: current gain/Gummel plots, transistor models, breakdown;MoSFET physics: MoS capacitors, inversion, depletion, accumulation, flatband, threshold voltage, long-channel model, saturation, short-channel models, sub-threshold conduction, SPICE models for MoSFETs; optoelectronic device physics, LEDs/ oLEDs, lasers, photodetectors, solar cells.",
-            "prereqs_parsed": [
-                [
-                    "ELL101",
-                    "PYL101"
-                ]
-            ],
-            "type": "Core"
         }
     ]
 }
