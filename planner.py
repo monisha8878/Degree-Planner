@@ -367,6 +367,7 @@ for sem, courses in courses_left.items():
 # Add these constraints after CONSTRAINT 4 (prerequisites) and before CONSTRAINT 5 (core courses)
 
 # CONSTRAINT 6: Minimum HUL credits = 15 across all semesters
+min_hul_credits=CONFIG["MIN_HUL_CREDITS"]
 hul_credit_vars = []
 for (sem, code), var in course_vars.items():
     # Find course data
@@ -386,7 +387,7 @@ hul_credits_done = sum(
     for course in courses
     if course["code"] in user.completed_hul
 )
-remaining_hul_needed = int((15 - hul_credits_done) * CONFIG["CREDIT_SCALE"])
+remaining_hul_needed = int((min_hul_credits - hul_credits_done) * CONFIG["CREDIT_SCALE"])
 
 if hul_credit_vars and remaining_hul_needed > 0:
     model.Add(sum(hul_credit_vars) >= remaining_hul_needed)
@@ -395,6 +396,7 @@ elif remaining_hul_needed <= 0:
     print(f"✅ HUL credits already satisfied: {hul_credits_done} completed")
 
 # CONSTRAINT 7: Minimum DE credits = 10 across all semesters
+min_de_credits=CONFIG["MIN_DE_CREDITS"]
 de_credit_vars = []
 for (sem, code), var in course_vars.items():
     # Find course data
@@ -414,7 +416,7 @@ de_credits_done = sum(
     for course in courses
     if course["code"] in user.completed_DE
 )
-remaining_de_needed = int((10 - de_credits_done) * CONFIG["CREDIT_SCALE"])
+remaining_de_needed = int((min_de_credits - de_credits_done) * CONFIG["CREDIT_SCALE"])
 
 if de_credit_vars and remaining_de_needed > 0:
     model.Add(sum(de_credit_vars) >= remaining_de_needed)
