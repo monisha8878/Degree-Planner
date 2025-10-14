@@ -8,7 +8,9 @@ from user import UserData
 CONFIG = {
     "TOTAL_TARGET_CREDITS": 150,   # EE degree requirement
     "CREDIT_SCALE": 10,            # scale to avoid floats in OR-Tools
-    "MAX_HUL_PER_SEM": 2
+    "MAX_HUL_PER_SEM": 2,
+    "MIN_HUL_CREDITS":15,
+    "MIN_DE_CREDITS":15,
 }
 
 
@@ -361,6 +363,64 @@ for sem, courses in courses_left.items():
 
             if core_vars:  # only if found
                 model.Add(sum(core_vars) == 1)
+
+# Add these constraints after CONSTRAINT 4 (prerequisites) and before CONSTRAINT 5 (core courses)
+
+# CONSTRAINT 6: Minimum HUL credits = 15 across all semesters
+hul_credit_vars = []
+for (sem, code), var in course_vars.items():
+    # Find course data
+    course_data = None
+    for c in courses_left[sem]:
+        if c["code"] == code:
+            course_data = c
+            break
+    
+    if course_data and course_data.get("type", "").startswith("HUL"):
+        # Add this course's scaled credits if selected
+        hul_credit_vars.append(var * int(course_data["credits"] * CONFIG["CREDIT_SCALE"]))
+
+# Account for already completed HUL credits
+hul_credits_done = sum(
+    course["credits"] for sem, courses in user.EE_courses.items()
+    for course in courses
+    if course["code"] in user.completed_hul
+)
+remaining_hul_needed = int((15 - hul_credits_done) * CONFIG["CREDIT_SCALE"])
+
+if hul_credit_vars and remaining_hul_needed > 0:
+    model.Add(sum(hul_credit_vars) >= remaining_hul_needed)
+    print(f"✅ Added HUL credit constraint: min {remaining_hul_needed / CONFIG['CREDIT_SCALE']} more credits needed (total 15)")
+elif remaining_hul_needed <= 0:
+    print(f"✅ HUL credits already satisfied: {hul_credits_done} completed")
+
+# CONSTRAINT 7: Minimum DE credits = 10 across all semesters
+de_credit_vars = []
+for (sem, code), var in course_vars.items():
+    # Find course data
+    course_data = None
+    for c in courses_left[sem]:
+        if c["code"] == code:
+            course_data = c
+            break
+    
+    if course_data and course_data.get("type") == "DE":
+        # Add this course's scaled credits if selected
+        de_credit_vars.append(var * int(course_data["credits"] * CONFIG["CREDIT_SCALE"]))
+
+# Account for already completed DE credits
+de_credits_done = sum(
+    course["credits"] for sem, courses in user.EE_courses.items()
+    for course in courses
+    if course["code"] in user.completed_DE
+)
+remaining_de_needed = int((10 - de_credits_done) * CONFIG["CREDIT_SCALE"])
+
+if de_credit_vars and remaining_de_needed > 0:
+    model.Add(sum(de_credit_vars) >= remaining_de_needed)
+    print(f"✅ Added DE credit constraint: min {remaining_de_needed / CONFIG['CREDIT_SCALE']} more credits needed (total 10)")
+elif remaining_de_needed <= 0:
+    print(f"✅ DE credits already satisfied: {de_credits_done} completed")
 
 
 
