@@ -2,7 +2,7 @@ class UserData:
     def __init__(self, name="Student", dept="EE1", current_semester=1, EE_courses=None, 
                   completed_corecourses=None, completed_hul=None, completed_DE=None, 
                  num_semesters=8, min_credits=15, max_credits=24, preferences=None,
-                 completed_hul_sem=None, completed_DE_sem=None):
+                 completed_hul_sem=None, completed_DE_sem=None,completed_minor=None,minor_type=None):
         """
         completed_hul_sem: dict mapping semester -> list of HUL courses completed in that sem
         completed_DE_sem: dict mapping semester -> list of DE courses completed in that sem
@@ -19,6 +19,8 @@ class UserData:
         self.completed_DE = completed_DE if completed_DE else []
         self.completed_hul_sem = completed_hul_sem if completed_hul_sem else {}
         self.completed_DE_sem = completed_DE_sem if completed_DE_sem else {}
+        self.completed_minor = completed_minor or []
+        self.minor_type = minor_type
 
         # Populate completed_courses
         if completed_corecourses is not None:

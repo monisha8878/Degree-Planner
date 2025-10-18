@@ -1,0 +1,1008 @@
+{
+  "minors": [
+    {
+      "name": "Atmospheric Sciences",
+      "department": "Centre for Atmospheric Sciences",
+      "core_courses": [
+        {
+          "code": "ASL320",
+          "name": "Climate Change: Impacts, Adaptation and Mitigation",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        },
+        {
+          "code": "ASL340",
+          "name": "Fundamentals of Weather and Climate",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL350",
+          "name": "Introduction to Oceanography",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL360",
+          "name": "The Earth's Atmosphere: Physical Principles",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL370",
+          "name": "Indian Monsoon, Global Warming and Climate Change",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL380",
+          "name": "Climate Modelling",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        }
+      ],
+      "core_credits_required": 6,
+      "elective_courses": [
+        {
+          "code": "ASL375",
+          "name": "Climate of the Past: Lessons for the Future",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL385",
+          "name": "Fundamentals of Air Pollution Science",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASD390",
+          "name": "Minor Area Project",
+          "lecture": 0,
+          "tutorial": 0,
+          "practical": 10,
+          "credits": 5
+        },
+        {
+          "code": "ASL733",
+          "name": "Physics of the Atmosphere",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL734",
+          "name": "Dynamics of the Atmosphere",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL735",
+          "name": "Atmospheric Chemistry and Air Pollution",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL736",
+          "name": "Science of Climate Change",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL737",
+          "name": "Physical and Dynamical Oceanography",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL822",
+          "name": "Climate Variability",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL823",
+          "name": "Geophysical Fluid Dynamics",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        }
+      ]
+    },
+    {
+      "name": "Biological Sciences",
+      "department": "Kusuma School of Biological Sciences",
+      "core_courses": [
+        {
+          "code": "SBL201",
+          "name": "High-Dimensional Biology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBP200",
+          "name": "Introduction to Practical Modern Biology",
+          "lecture": 0,
+          "tutorial": 0,
+          "practical": 4,
+          "credits": 2
+        }
+      ],
+      "core_credits_required": 5,
+      "elective_courses": [
+        {
+          "code": "SBD301",
+          "name": "Mini Project",
+          "lecture": 0,
+          "tutorial": 0,
+          "practical": 6,
+          "credits": 3
+        },
+        {
+          "code": "SBL701",
+          "name": "Biometry",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL702",
+          "name": "Systems Biology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL703",
+          "name": "Advanced Cell Biology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL704",
+          "name": "Human Virology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL705",
+          "name": "Biology of Proteins",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        }
+      ]
+    },
+    {
+      "name": "Business Management",
+      "department": "Department of Management Studies",
+      "core_courses": [
+        {
+          "code": "MSL301",
+          "name": "Organizational & People Management",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "MSL302",
+          "name": "Managerial Accounting & Financial Management",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "MSL303",
+          "name": "Marketing Management",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "MSL304",
+          "name": "Managing Operations",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        }
+      ],
+      "core_credits_required": 12,
+      "elective_credits_required": 9,
+      "elective_courses": [
+        {
+          "code": "MSL310",
+          "name": "Financial Institutions and Markets",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "MSL711",
+          "name": "Strategic Management",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "MSL713",
+          "name": "Information Systems Management",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "MSL719",
+          "name": "Statistics for Management",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "MSL720",
+          "name": "Macroeconomic Environment of Business",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        }
+      ]
+    },
+    {
+      "name": "Entrepreneurship",
+      "department": "Department of Management Studies",
+      "core_courses": [
+        {
+          "code": "MSL305",
+          "name": "New Venture Creation",
+          "lecture": 2,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 3
+        },
+        {
+          "code": "MSL306",
+          "name": "Ideation and Prototyping",
+          "lecture": 2,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 3
+        },
+        {
+          "code": "MSL307",
+          "name": "Venture Financing & Teaming",
+          "lecture": 2,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 3
+        },
+        {
+          "code": "MSD308",
+          "name": "Product Viability & Market Traction",
+          "lecture": 0,
+          "tutorial": 0,
+          "practical": 3,
+          "credits": 1.5
+        },
+        {
+          "code": "MSD309",
+          "name": "Business Plan & Funding",
+          "lecture": 0,
+          "tutorial": 0,
+          "practical": 3,
+          "credits": 1.5
+        }
+      ],
+      "core_credits_required": 12,
+      "elective_credits_required": 9,
+      "elective_courses": [
+        {
+          "code": "MSL301",
+          "name": "Organization & People Management",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "MSL302",
+          "name": "Managerial Accounting & Financial Management",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "MSL303",
+          "name": "Marketing Management",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "MSL304",
+          "name": "Managing Operations",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "MSL401",
+          "name": "Entrepreneurial Design Thinking",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "MSL402",
+          "name": "Social Innovation & Entrepreneurship",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        }
+      ]
+    },
+    {
+      "name": "Economics",
+      "department": "Department of Humanities and Social Sciences",
+      "core_courses": [
+        {
+          "code": "HUL211",
+          "name": "Introduction to Economics",
+          "lecture": 3,
+          "tutorial": 1,
+          "practical": 0,
+          "credits": 4
+        },
+        {
+          "code": "HUL212",
+          "name": "Microeconomics",
+          "lecture": 3,
+          "tutorial": 1,
+          "practical": 0,
+          "credits": 4
+        },
+        {
+          "code": "HUL213",
+          "name": "Macroeconomics",
+          "lecture": 3,
+          "tutorial": 1,
+          "practical": 0,
+          "credits": 4
+        },
+        {
+          "code": "HUL217",
+          "name": "History of Economic Thought",
+          "lecture": 3,
+          "tutorial": 1,
+          "practical": 0,
+          "credits": 4
+        }
+      ],
+      "core_credits_required": 8,
+      "elective_courses": [
+        {
+          "code": "HUL311",
+          "name": "Applied Game Theory",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "HUL314",
+          "name": "International Economics",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "HUL315",
+          "name": "Econometric Methods",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "HUL316",
+          "name": "Indian Economic Problems and Policies",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "HSD700",
+          "name": "Minor Project",
+          "lecture": 0,
+          "tutorial": 0,
+          "practical": 6,
+          "credits": 3
+        }
+      ]
+    },
+    {
+      "name": "Computational Mechanics",
+      "department": "Department of Applied Mechanics",
+      "core_courses": [
+        {
+          "code": "APL300",
+          "name": "Computational Mechanics",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        },
+        {
+          "code": "APL705",
+          "name": "Finite Element Method",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        }
+      ],
+      "elective_courses": [
+        {
+          "code": "APD311",
+          "name": "Project",
+          "lecture": 0,
+          "tutorial": 0,
+          "practical": 8,
+          "credits": 4
+        },
+        {
+          "code": "APL310",
+          "name": "Constitutive Modelling",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        },
+        {
+          "code": "APL340",
+          "name": "Chaos",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        },
+        {
+          "code": "APL380",
+          "name": "Biomechanics",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "APL410",
+          "name": "Computational Fluid Dynamics",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        }
+      ]
+    },
+    {
+      "name": "Design",
+      "department": "Department of Design",
+      "core_courses": [
+        {
+          "code": "DSP721",
+          "name": "Design and Innovation Methods",
+          "lecture": 1,
+          "tutorial": 0,
+          "practical": 4,
+          "credits": 3
+        },
+        {
+          "code": "DSL751",
+          "name": "Form and Aesthetics",
+          "lecture": 2,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 3
+        },
+        {
+          "code": "DSD799",
+          "name": "Design Project",
+          "lecture": 1,
+          "tutorial": 0,
+          "practical": 6,
+          "credits": 4
+        }
+      ],
+      "core_credits_required": 10,
+      "elective_credits_required": 10,
+      "elective_courses": [
+        {
+          "code": "DSL782",
+          "name": "Design for Usability",
+          "lecture": 2,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 3
+        },
+        {
+          "code": "DSR832",
+          "name": "Design for User Experience",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "DSR862",
+          "name": "Design in Indian Context",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "DSR852",
+          "name": "Strategic Design Management",
+          "lecture": 2,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 3
+        },
+        {
+          "code": "DSR822",
+          "name": "Design for Sustainability",
+          "lecture": 2,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 3
+        }
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "department": "Department of Computer Science and Engineering",
+      "core_courses": [
+        {
+          "code": "COL106",
+          "name": "Data Structures and Algorithms",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 4,
+          "credits": 5
+        },
+        {
+          "code": "COL202",
+          "name": "Discrete Mathematical Structures",
+          "lecture": 3,
+          "tutorial": 1,
+          "practical": 0,
+          "credits": 4
+        },
+        {
+          "code": "COL215",
+          "name": "Digital Logic and System Design",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 4,
+          "credits": 5
+        },
+        {
+          "code": "COL216",
+          "name": "Computer Architecture",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        },
+        {
+          "code": "COL226",
+          "name": "Programming Languages",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 4,
+          "credits": 5
+        },
+        {
+          "code": "COP290",
+          "name": "Design Practices",
+          "lecture": 0,
+          "tutorial": 0,
+          "practical": 6,
+          "credits": 3
+        },
+        {
+          "code": "COL331",
+          "name": "Operating Systems",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 4,
+          "credits": 5
+        },
+        {
+          "code": "COL333",
+          "name": "Principles of Artificial Intelligence",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        },
+        {
+          "code": "COL334",
+          "name": "Computer Networks",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        },
+        {
+          "code": "COL351",
+          "name": "Analysis and Design of Algorithms",
+          "lecture": 3,
+          "tutorial": 1,
+          "practical": 0,
+          "credits": 4
+        },
+        {
+          "code": "COL352",
+          "name": "Introduction to Automata and Theory of Computation",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "COL362",
+          "name": "Introduction to Database Mgmt Systems",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        },
+        {
+          "code": "COL380",
+          "name": "Introduction to Parallel and Distributed Programming",
+          "lecture": 2,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 3
+        }
+      ],
+      "core_credits_required": 12,
+      "note": "Minimum of three courses from core",
+      "elective_courses": [
+        {
+          "code": "COD310",
+          "name": "Mini Project",
+          "lecture": 0,
+          "tutorial": 0,
+          "practical": 6,
+          "credits": 3
+        },
+        {
+          "code": "COL341",
+          "name": "Machine Learning",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        },
+        {
+          "code": "COL740",
+          "name": "Software Engineering",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        },
+        {
+          "code": "COL759",
+          "name": "Cryptography & Computer Security",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "COL761",
+          "name": "Data Mining",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        },
+        {
+          "code": "COL770",
+          "name": "Advanced Artificial Intelligence",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        },
+        {
+          "code": "COL772",
+          "name": "Natural Language Processing",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        },
+        {
+          "code": "COL774",
+          "name": "Machine Learning",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        },
+        {
+          "code": "COL780",
+          "name": "Computer Vision",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 4
+        }
+      ]
+    },
+    {
+      "name": "Cogeneration and Energy Efficiency",
+      "department": "Department of Energy Science and Engineering",
+      "core_courses": [
+        {
+          "code": "ESL748",
+          "name": "Economics of Energy Conservation",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ESL784",
+          "name": "Cogeneration and Energy Efficiency",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ESL785",
+          "name": "Energy Analysis",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        }
+      ],
+      "core_credits_required": 9,
+      "elective_courses": [
+        {
+          "code": "ESL714",
+          "name": "Power Plant Engineering",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ESL722",
+          "name": "Integrated Energy Systems",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ESL726",
+          "name": "Waste Heat Recovery",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ESL786",
+          "name": "Exergy Analysis",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        }
+      ]
+    },
+    {
+      "name": "Renewable Energy",
+      "department": "Department of Energy Science and Engineering",
+      "elective_courses": [
+        {
+          "code": "ESP713",
+          "name": "Energy Laboratories",
+          "lecture": 0,
+          "tutorial": 0,
+          "practical": 6,
+          "credits": 3
+        },
+        {
+          "code": "ESL731",
+          "name": "Biomass - A Renewable Resource",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ESL732",
+          "name": "Bioconversion and Processing of Waste",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ESL755",
+          "name": "Solar Photovoltaic Devices and Systems",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ESL768",
+          "name": "Wind Energy and Hydro Power Systems",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ESL770",
+          "name": "Solar Energy Utilization",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ESL880",
+          "name": "Solar Thermal Power Generation",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        }
+      ]
+    },
+    {
+      "name": "Technologies for Sustainable Rural Development",
+      "department": "Centre for Rural Development and Technology",
+      "core_courses": [
+        {
+          "code": "RDL700",
+          "name": "Biomass Production",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "RDL705",
+          "name": "Rural Resources and Livelihoods",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "RDL722",
+          "name": "Rural Energy Systems",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "RDL724",
+          "name": "Technologies for Water and Waste Mgmt.",
+          "lecture": 2,
+          "tutorial": 0,
+          "practical": 2,
+          "credits": 3
+        },
+        {
+          "code": "RDL730",
+          "name": "Technology Alternatives for Rural Development",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "RDL760",
+          "name": "Food Quality and Safety",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        }
+      ],
+      "core_credits_required": 9,
+      "note": "Any three of the core courses",
+      "elective_courses": [
+        {
+          "code": "RDL701",
+          "name": "Rural Industrialization Policies, Programmes and Cases",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "RDL710",
+          "name": "Rural India and Planning for Development",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "RDD750",
+          "name": "Minor Project",
+          "lecture": 0,
+          "tutorial": 0,
+          "practical": 6,
+          "credits": 3
+        }
+      ]
+    }
+  ]
+}
