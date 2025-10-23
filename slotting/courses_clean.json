@@ -1,0 +1,4917 @@
+[
+    {
+        "Course Code":"AML832",
+        "Course Name":"APPLICATIONS OF THEORY OF PLATES AND SHELLS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"AMP262",
+        "Course Name":"FLUIDS & SOLIDS LABORATORY",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"APD411",
+        "Course Name":"B.TECH. PROJECT-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"APD811",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"APD812",
+        "Course Name":"MAJOR PROJECT PART-II",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"APD895",
+        "Course Name":"MS RESEARCH PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"APL100",
+        "Course Name":"ENGINEERING MECHANICS",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"APL100",
+        "Course Name":"ENGINEERING MECHANICS",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"APL101",
+        "Course Name":"APPLIED MATHEMATICS FOR ENGINEERS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"APL103",
+        "Course Name":"EXPERIMENTAL METHODS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"APL104",
+        "Course Name":"SOLID MECHANICS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"APL106",
+        "Course Name":"FLUID MECHANICS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"APL107",
+        "Course Name":"MECHANICS OF FLUIDS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"APL107P",
+        "Course Name":"MECHANICS OF FLUIDS",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"APL108",
+        "Course Name":"MECHANICS OF SOLIDS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"APL203",
+        "Course Name":"DYNAMICS OF MECHANICAL SYSTEMS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"APL205",
+        "Course Name":"BASICS OF COMPUTER AIDED DESIGN",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"APL207",
+        "Course Name":"HEAT TRANSFER",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"APL302",
+        "Course Name":"BASICS OF PRODUCT DE",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"APL361",
+        "Course Name":"ADVANCED FLUID DYNAMICS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"APL380",
+        "Course Name":"BIOMECHANICS",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"APL390",
+        "Course Name":"EXPERIMENTAL TECHNIQUES IN FLUIDS AND SOLIDS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"APL410",
+        "Course Name":"MULTI-SCALE MODELING AND COMPUTATION",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"APL701",
+        "Course Name":"CONTINUUM MECHANICS",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"APL702",
+        "Course Name":"EXPERIMENTAL METHODS FOR SOLIDS AND FLUIDS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"APL703",
+        "Course Name":"ENGINEERING MATHEMATIC & COMP.",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"APL715",
+        "Course Name":"PHYSICS OF TURBULENT FLOWS",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"APL734",
+        "Course Name":"ADVANCED DYNAMICS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"APL744",
+        "Course Name":"PROBABILISTIC MACHINE LEARNING FOR MECHANICS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"APL771",
+        "Course Name":"DECISION THEORY & DESIGN OPTIMIZATION",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"APL775",
+        "Course Name":"DESIGN METHODS",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"APL805",
+        "Course Name":"ADVANCED FINITE ELEMENT METHOD",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"APL831",
+        "Course Name":"THEORY OF PLATES AND SHELLS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"APQ301",
+        "Course Name":"SEMINAR COURSE - I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"BSD895",
+        "Course Name":"MAJOR PROJECT (MSR)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"BSP710",
+        "Course Name":"COMMUNICATION AND SIGNAL PROCESSING TECHNOLOGIES LABORATORY",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"BSV711",
+        "Course Name":"STANDARDS - APPRECIATION OF STANDARDS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"JTD801",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"BBD451",
+        "Course Name":"MAJOR PROJECT PART 1 (BB1)",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"BBD851",
+        "Course Name":"MAJOR PROJECT PART 1 (BB5)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"BBD855",
+        "Course Name":"MTP PART-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"BBD895",
+        "Course Name":"MAJOR PROJECT (MSR)",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"BBL131",
+        "Course Name":"PRINCIPLES OF BIOCHEMISTRY",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"BBL132",
+        "Course Name":"GENERAL MICROBIOLOGY",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"BBL133",
+        "Course Name":"MASS & ENERGY BALANCES IN BIO.",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"BBL231",
+        "Course Name":"MOLECULAR BIOLOGY & GENETICS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"BBL231",
+        "Course Name":"MOLECULAR BIOLOGY & GENETICS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"BBL331",
+        "Course Name":"BIOPROCESS ENGINEERING",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"BBL731",
+        "Course Name":"BIOSEPARATION ENGINEERING",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"BBL732",
+        "Course Name":"BIOPROCESS PLANT DESIGN",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"BBL733",
+        "Course Name":"RECOMBINANT DNA TECHNOLOGY",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"BBL735",
+        "Course Name":"GENOMICS AND PROTEOMICS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"BBL737",
+        "Course Name":"INST. & ANA. METH. IN BIOENGG.",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"BBL737",
+        "Course Name":"INST. & ANA. METH. IN BIOENGG.",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"BBL754",
+        "Course Name":"OPTICS WITHIN LIFE SICENCES",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"BBL756",
+        "Course Name":"PLASMID BIOLOGY",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"BBL771",
+        "Course Name":"MICROBIAL BIOCHEMISTRY AND MOLECULAR BIOLOGY",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"BBL772",
+        "Course Name":"DATA ANALYTICS AND INFORMATICS FOR BIOTECHNOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"BBL773",
+        "Course Name":"APPLIED MATHEMATICS FOR BIOCHEMICAL ENGINEERING",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"BBP332",
+        "Course Name":"BIOPROCESS ENGINEERING LAB",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"BBQ301",
+        "Course Name":"SEMINAR COURSE - I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"BBQ302",
+        "Course Name":"SEMINAR COURSE - II",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"BBV752",
+        "Course Name":"AGRICULTURE SUSTAINABILITY THROUGH PLANT-ASSOCIATED MICROBIOMES",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"JCD891",
+        "Course Name":"MINOR PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"JCD893",
+        "Course Name":"M.TECH PROJECT PART-II",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"JCP781",
+        "Course Name":"DATA STRUCTURES AND ALGORITHMS LAB",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CRD802",
+        "Course Name":"MINOR PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CRD811",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CRD812",
+        "Course Name":"MAJOR PROJECT PART 2",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CRL601",
+        "Course Name":"BASICS OF STATISTICAL SIGNAL A",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"CRL611",
+        "Course Name":"BASICS OF RF AND MICROWAVES",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CRL621",
+        "Course Name":"FUNDAMENTALS OF SEMICONDUCTOR",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CRL707",
+        "Course Name":"HUMAN & MACHINE SPEECH COMMUNICATION",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CRL709",
+        "Course Name":"UNDERWATER ELECTRONIC SYSTEMS",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"CRL711",
+        "Course Name":"CAD OF RF AND MICROWAVE DEVICES",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"CRL715",
+        "Course Name":"RADIATING SYSTEM FOR RF COMMUNICATION",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"CRL725",
+        "Course Name":"TECHNOLOGY OF RF AND MICROWAVE SOLID STATE DEVICES",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"CRL729",
+        "Course Name":"SENSORS AND TRANSDUCERS",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"CRL733",
+        "Course Name":"SELECTED TOPICS IN RFDT-III",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CRL734",
+        "Course Name":"SELECTED TOPICS IN RFDT - IV",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CRP718",
+        "Course Name":"RF AND MICROWAVE MEASUREMENT LABORATORY",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CRP723",
+        "Course Name":"FABRICATION TECHNIQUES FOR RF & MICROWAVE DEVICES",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ASD390",
+        "Course Name":"MINOR AREA PROJECT",
+        "Slot Name":"Q"
+    },
+    {
+        "Course Code":"ASD881",
+        "Course Name":"PROJECT-I",
+        "Slot Name":"Q"
+    },
+    {
+        "Course Code":"ASL350",
+        "Course Name":"INTRODUCTION TOOCEANOGRAPHY",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"ASL360",
+        "Course Name":"THE EARTH`S ATMOSPHERE: PHYSICAL PRINCIPLES",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"ASL375",
+        "Course Name":"CLIMATE OF THE PAST: LESSONS FOR THE FUTURE",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"ASL385",
+        "Course Name":"FUNDAMENTALS OF AIR POLLUTION SCIENCE",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"ASL730",
+        "Course Name":"INTRODUCTION TO WEATHER, CLIMA",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"ASL732",
+        "Course Name":"MATHEMATICAL AND COMPUTATIONAL",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"ASL733",
+        "Course Name":"PHYSICS OF THE ATMOSPHERE",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"ASL734",
+        "Course Name":"DYNAMICS OF THE ATMOSPHERE",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"ASL735",
+        "Course Name":"ATMOSPHERIC CHEMISTRY AND AIR",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"ASL736",
+        "Course Name":"SCIENCE OF CLIMATE CHANGE",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"ASL737",
+        "Course Name":"PHYSICAL AND DYNAMICAL OCEANOGRAPHY",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"ASL755",
+        "Course Name":"REMOTE SENSING OF THE ATMOSPHERE AND OCEAN",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"ASL762",
+        "Course Name":"AIR - SEA INTERACTION",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"ASP731",
+        "Course Name":"DATA ANALYSIS METHODS FOR ATMO",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"ASP855",
+        "Course Name":"SPECIAL TOPICS IN ATMOSPHERE AND OCEAN",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CTD801",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CTD802",
+        "Course Name":"MAJOR PROJECT PART-II",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CTD895",
+        "Course Name":"MS RESEARCH PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CTL703",
+        "Course Name":"INTRODUCTION TO ELECTRIC VEHICLES",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"CTL705",
+        "Course Name":"ENGINEERING OF ELECTRIC VEHICLES",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"CTL709",
+        "Course Name":"CHARGING INFRASTRUCTURE FOR EVS",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"CTL729",
+        "Course Name":"AUTOMOTIVE RELIABILITY AND LIFE TESTING",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CTP702",
+        "Course Name":"ELECTRIC VEHICLE LABORATORY 1",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"ITL703",
+        "Course Name":"FUNDAMENTALS OF TRIBOLOGY",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"BMD801",
+        "Course Name":"MAJOR PROJECT-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"BML300",
+        "Course Name":"INTRODUCTION TO HEALTHCARE ENGINEERING",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"BML707",
+        "Course Name":"MOLECULAR BIOENGINEERING FOR HUMAN HEALTH",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"BML710",
+        "Course Name":"INDUSTRIAL BIOMATERIAL TECHNOLOGY",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"BML720",
+        "Course Name":"MEDICAL IMAGING",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"BML770",
+        "Course Name":"FUNDAMENTALS OF BIOMECHANICS",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"BML772",
+        "Course Name":"BIOFABRICATION",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"BML800",
+        "Course Name":"RESEARCH TECHNIQUES IN BIOMEDICAL ENGINEERING",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"BML815",
+        "Course Name":"SELECTED TOPICS IN BIOMEDICAL ENGINEERING",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"BML850",
+        "Course Name":"CANCER : DIAGNOSIS AND THERAPY",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"BML880",
+        "Course Name":"HEALTHCARE WEARABLES: DESIGN AND APPLICATIONS",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"BMV701",
+        "Course Name":"BASIC ELECTRONICS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"BMV702",
+        "Course Name":"BASIC MATHEMATICS FOR BIOLOGISTS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"BMV703",
+        "Course Name":"BASIC BIOLOGY & PHYSIOLOGY",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"BMV705",
+        "Course Name":"MECHANICS OF BIOMATERIALS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"RDL700",
+        "Course Name":"BIOMAS PRODUCTION",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"RDL705",
+        "Course Name":"RURAL RESOURCES AND LIVEIHODS",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"RDL710",
+        "Course Name":"RURAL INDIA AND PLANNING FOR DEVELOPMENT",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"RDL725",
+        "Course Name":"ECOLOGICAL PERSPECTIVE OF GROWTH AND DEVLOPMENT",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"RDL727",
+        "Course Name":"CONSERVATION AND RECYCLING PRACTICES IN RURAL AREAS",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"RDL728",
+        "Course Name":"RURAL ENERGY ASSESSMENT AND PLANNING",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"RDL740",
+        "Course Name":"TECHNOLOGY OF UTILIZATION OF WASTELANDS & WEEDS",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"RDL761",
+        "Course Name":"VALUE CHAIN IN AGRO-FOOD PROCESSING",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"RDL770",
+        "Course Name":"RURAL VALUE CHAIN FOR HOLISTIC DEVELOPMENT",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"RDL771",
+        "Course Name":"NANOTECHNOLOGY FOR SAFE AND SUSTAINABLE AGRICULTURE",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"RDL780",
+        "Course Name":"RURAL INNOVATION & ENTREPRENEURSHIP",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"RDQ305",
+        "Course Name":"SEMINAR COURSE-V",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CLD411",
+        "Course Name":"B. TECH. PROJECT",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CLD412",
+        "Course Name":"MAJOR PROJECT IN ENERGY & ENV.",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CLD413",
+        "Course Name":"MAJOR PROJECT IN COMPLEX FLUID",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CLD414",
+        "Course Name":"MAJOR PROJ. IN P.E, MOD. & OP.",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CLD415",
+        "Course Name":"MAJOR PROJ IN BIOP. & FINE CH.",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CLD771",
+        "Course Name":"MINOR PROJECT",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CLD781",
+        "Course Name":"MAJOR PROJECT - I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CLD782",
+        "Course Name":"MAJOR PROJECT - II",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CLD880",
+        "Course Name":"MINOR PROJECT",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CLD881",
+        "Course Name":"MAJOR PROJECT PARTI",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CLD882",
+        "Course Name":"MAJOR PROJECT PARTII",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CLD895",
+        "Course Name":"M.S.R. MAJOR PROJECT",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CLL110",
+        "Course Name":"TRANSPORT PHENOMENA",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CLL110",
+        "Course Name":"TRANSPORT PHENOMENA",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"CLL111",
+        "Course Name":"MATERIAL AND ENERGY BALANCE",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CLL113",
+        "Course Name":"NUMERICAL METHODS IN CHEMICAL",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"CLL122",
+        "Course Name":"CHEMICAL REACTION ENGG I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CLL141",
+        "Course Name":"INTRODUCTION TO MATERIALS",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"CLL222",
+        "Course Name":"CHEMICAL REACTION ENGG - II",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CLL252",
+        "Course Name":"MASS TRANSFER I",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CLL252B",
+        "Course Name":"MASS TRANSFER I",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CLL261",
+        "Course Name":"PROCESS DYNAMICS AND CONTROL",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"CLL271",
+        "Course Name":"INTRO TO INDUSTRIAL BIOTECH.",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"CLL331",
+        "Course Name":"FLUID PARTICLE MECHANICS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"CLL701",
+        "Course Name":"MODELLING OF TRANSPORT PROCESS",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"CLL702",
+        "Course Name":"PRINCIPLES OF THERMODYNAMICS,",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"CLL703",
+        "Course Name":"PROCESS ENGINEERING",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"CLL704",
+        "Course Name":"NATURAL GAS PROCESSING",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"CLL707",
+        "Course Name":"POPULATION BALANCE MODELING",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CLL722",
+        "Course Name":"ELECTROCHEM. CONV. & STO. DEV.",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CLL731",
+        "Course Name":"ADVANCED TRANSPORT PHENOMENA",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CLL742",
+        "Course Name":"EXP. CHA.OF BIOMACROMOLECULES",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"CLL763",
+        "Course Name":"FUNDAMENTALS OF CAPILLARITY AND WETTING",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"CLL770",
+        "Course Name":"INTRODUCTION TO MICROFLUIDICS AND MICROFABRICATION",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CLL777",
+        "Course Name":"COMPLEX FLUIDS TECHNOLOGY",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CLL794",
+        "Course Name":"PETROLEUM REFINERY ENGINEERING",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CLL798",
+        "Course Name":"SEL. TOPICS IN CHEM. ENGG. - I",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"CLL799",
+        "Course Name":"SEL. TOPICS IN CHEM. ENGG.- II",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"CLP301",
+        "Course Name":"CHEMICAL ENGINEERING LAB I",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CLP303",
+        "Course Name":"CHEMICAL ENGINEERING LAB - III",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CLQ301",
+        "Course Name":"SEMINAR COURSE - I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CMD631",
+        "Course Name":"PROJECT PART I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CMD799",
+        "Course Name":"MINOR PROJECT",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CMD806",
+        "Course Name":"MAJOR  PROJECT PART - I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CML101",
+        "Course Name":"INTRODUCTION TO CHEMISTRY",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"CML101",
+        "Course Name":"INTRODUCTION TO CHEMISTRY",
+        "Slot Name":"AF"
+    },
+    {
+        "Course Code":"CML102",
+        "Course Name":"CHEMICAL SYNT. OF FUNC. METER.",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"CML103",
+        "Course Name":"CHEMISTRY OF INTERFACES",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"CML511",
+        "Course Name":"QUANTUM CHEMISTRY",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"CML512",
+        "Course Name":"STEREOCHEM. & ORG. REAC. MECH.",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CML513",
+        "Course Name":"PHOTOCHEM. & PERICYCLIC REACT.",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"CML514",
+        "Course Name":"MAIN GROUP CHEMISTRY",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CML515",
+        "Course Name":"INSTRUMENTAL METHODS OF ANALYS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"CML631",
+        "Course Name":"MOLECULAR BIOCHEMISTRY",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CML661",
+        "Course Name":"SOLID STATE CHEMISTRY",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"CML664",
+        "Course Name":"GROUP THEORY & SPECTROSCOPY",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"CML674",
+        "Course Name":"PH. METHODS OF STRUCTURALDET. OF ORGANIC COMPOUNDS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"CML681",
+        "Course Name":"PHYSICAL METHODS IN INORGANIC CHEMISTRY",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"CML684",
+        "Course Name":"BIO-INORGANIC CHEMISTRY",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CML696",
+        "Course Name":"PHYSICAL ORGANIC CHEMISTRY",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"CML721",
+        "Course Name":"DESIGN AND SYNTHESIS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"CML724",
+        "Course Name":"SYNTHESIS OF INDUSTRIALLY IMPO",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"CML726",
+        "Course Name":"CHEMINFORMATICS",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"CML731",
+        "Course Name":"SEPARATION AND ELECTROANALYTIC",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"CML733",
+        "Course Name":"CHEMISTRY OF INDUSTRIAL CATALY",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"CML741",
+        "Course Name":"ORGANO AND ORGANOMETALLIC CATA",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"CML743",
+        "Course Name":"PHYSICAL ORGANIC CHEMISTRY ADVANCED",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"CML801",
+        "Course Name":"MOLECULAR MODELLING AND SIMULA",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"CMP100",
+        "Course Name":"CHEMISTRY LABORATORY",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CMP511",
+        "Course Name":"LAB I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CMP512",
+        "Course Name":"LAB II",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CMP722",
+        "Course Name":"LAB ON SYNTHESIS",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CVC771",
+        "Course Name":"SEMINAR IN CONSTRUCTION TECH",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD411",
+        "Course Name":"BTECH PROJECT PART 1",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD700",
+        "Course Name":"MINOR PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD710",
+        "Course Name":"MINOR PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD720",
+        "Course Name":"MAJOR THESIS PART-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD721",
+        "Course Name":"MAJOR THESIS PART-II",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD757",
+        "Course Name":"MAJOR PROJECT PART-I (CES)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD758",
+        "Course Name":"MAJOR PROJECT PART-II (CES)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD772",
+        "Course Name":"MAJOR PROJECT PART-I (CEC)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD773",
+        "Course Name":"MAJOR PROJECT PART-II (CEC)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD776",
+        "Course Name":"MINOR PROJECT (CET)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD777",
+        "Course Name":"MAJOR PROJECT PART-I (CET)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD778",
+        "Course Name":"MAJOR PROJECT PART-II (CET)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD800",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD801",
+        "Course Name":"MAJOR THESIS PART-II",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD810",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD811",
+        "Course Name":"MAJOR PROJECT PART-II (CEU)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD831",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD832",
+        "Course Name":"MAJOR PROJECT PART-II",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD853",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD854",
+        "Course Name":"MAJOR PROJECT PART-II",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVD895",
+        "Course Name":"MSR MAJOR PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CVL100A",
+        "Course Name":"ENVIRONMENTAL SCIENCE",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"CVL100B",
+        "Course Name":"ENVIRONMENTAL SCIENCE",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"CVL111",
+        "Course Name":"ELEMENTS OF SURVEYING",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"CVL121",
+        "Course Name":"ENGINEERING GEOLOGY",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CVL141",
+        "Course Name":"CIVIL ENGINEERING MATERIALS",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"CVL243",
+        "Course Name":"RC DESIGN",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CVL245",
+        "Course Name":"CONSTRUCTION MANAGEMENT",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"CVL282",
+        "Course Name":"ENGINEERING HYDROLOGY",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"CVL311",
+        "Course Name":"INDUSTRIAL WASTE MANAGEMENT",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CVL321",
+        "Course Name":"GEOTECHNICAL ENGINEERING",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"CVL341",
+        "Course Name":"STRUCTURAL ANALYSIS II",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CVL421",
+        "Course Name":"GROUND ENGINEERING",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CVL441",
+        "Course Name":"STRUCTURAL DESIGN",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"CVL485",
+        "Course Name":"RIVER MECHANICS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CVL700",
+        "Course Name":"ENGINEERING BEHAVIOUR OF SOILS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CVL701",
+        "Course Name":"SITE INVESTIGATION AND FOUNDAT",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"CVL704",
+        "Course Name":"FINITE ELEMENT METHOD IN GEOTE",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"CVL710",
+        "Course Name":"ENGINEERING PROPERTIES OF ROCK",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CVL711",
+        "Course Name":"STRUCTURAL GEOLOGY",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"CVL716",
+        "Course Name":"ENVIRONMENTAL ROCK ENGINEERING",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CVL720",
+        "Course Name":"AIR POLLUTION AND CONTROL",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"CVL722",
+        "Course Name":"WATER ENGINEERING",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CVL725",
+        "Course Name":"ENVIRONMENTAL CHEMISTRY AND MI",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"CVL730",
+        "Course Name":"HYDROLOGIC PROCESSES AND MODEL",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"CVL731",
+        "Course Name":"OPTIMIZATION TECH. IN WATER RE",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CVL732",
+        "Course Name":"GROUNDWATER HYDROLOGY",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"CVL735",
+        "Course Name":"FINITE ELEMENT IN WATER RESOU.",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"CVL738",
+        "Course Name":"ECONOMIC ASPECTS OF WA. RE. DE",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"CVL740",
+        "Course Name":"PAVEMENT MATERIALS AND DESIGN",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"CVL741",
+        "Course Name":"URBAN AND REGIONAL TRANSPORTAT",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"CVL742",
+        "Course Name":"TRAFFIC ENGINEERING",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CVL743",
+        "Course Name":"AIRPORT PLANNING AND DESIGN",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"CVL746",
+        "Course Name":"PUBLIC TRANSPORTATION SYSTEMS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"CVL748",
+        "Course Name":"DATA ANALYSIS FOR TRANSPORTATION ENGINEERING",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"CVL756",
+        "Course Name":"ADVANCED STRUCTURAL ANALYSIS",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"CVL757",
+        "Course Name":"FINITE ELEMENT METHODS IN STR",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"CVL758",
+        "Course Name":"SOLID MECHANICS IN STRUCTURAL",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"CVL759",
+        "Course Name":"STRUCTURAL DYNAMICS",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"CVL771",
+        "Course Name":"ADVANCED CONCRETE TECHNOLOGY",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CVL772",
+        "Course Name":"CONSTRUCTION PROJECT MANAGEMEN",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"CVL773",
+        "Course Name":"QUANTITATIVE METHODS IN CONSTR",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"CVL777",
+        "Course Name":"BUILDING SCIENCE",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"CVL779",
+        "Course Name":"FORMWORK FOR CONCRETE STRUCTU",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CVL801",
+        "Course Name":"CONSTITUTIVE MODELLING INGEOTECHNICS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CVL829",
+        "Course Name":"INDOOR ENVIRONMENTAL QUALITY: THEORY AND PRACTICE",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"CVL839",
+        "Course Name":"HYDROLOGIC APP. OF REMOTE SEN.",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CVL841",
+        "Course Name":"ADVANCED TRANSPORTATION MODELLING",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"CVL869",
+        "Course Name":"PROBABILISTIC STRUCTURAL DYNAMICS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"CVL872",
+        "Course Name":"INFRASTRUCTURE DEVELOPMENT AND",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"CVL873",
+        "Course Name":"FIRE ENGINEERING AND DESIGN",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"CVL874",
+        "Course Name":"QUALITY AND SAFETY IN CONSTRUC",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"CVP121",
+        "Course Name":"ENGINEERING GEOLOGY LABORATORY",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"CVP243",
+        "Course Name":"STRUCT. & MAT. (CONCRETE) LAB",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"CVP321",
+        "Course Name":"GEOTECHNICAL ENGINEERING LAB",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"CVP441",
+        "Course Name":"STRUCTURAL DESIGN & DETAILING",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"CVP700",
+        "Course Name":"SOIL ENGINEERING LAB",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CVP710",
+        "Course Name":"ROCK MECHANICS LABORATORY 1",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CVP772",
+        "Course Name":"COMPUTATIONAL LABORATORY",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"CVP821",
+        "Course Name":"ADVANCED WATER AND WASTEWATER LABORATORY",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"COD300",
+        "Course Name":"DESIGN PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COD310",
+        "Course Name":"MINI PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COD492",
+        "Course Name":"B.TECH PROJECT PART 1",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COD494",
+        "Course Name":"B.TECH PROJECT PART 2",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COD891",
+        "Course Name":"MINOR PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COD892",
+        "Course Name":"M.TECH PROJECT PARTI",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COD893",
+        "Course Name":"M.TECH PROJECT PARTII",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COD895",
+        "Course Name":"MSR PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COL100",
+        "Course Name":"INTRO. TO COMPUTER SCIENCE",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"COL106",
+        "Course Name":"DATA STRUCTURES AND ALGORITHMS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"COL202",
+        "Course Name":"DISCRETE MATHEMATICAL STRUCTUR",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"COL215",
+        "Course Name":"DIGITAL LOGIC & SYSTEM DESIGN",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"COL331",
+        "Course Name":"OPERATING SYSTEMS",
+        "Slot Name":"S1"
+    },
+    {
+        "Course Code":"COL333",
+        "Course Name":"PRINCIPLES OF ARTIFICIAL INT.",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"COL334",
+        "Course Name":"COMPUTER NETWORKS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"COL351",
+        "Course Name":"ANALYSIS & DESIGN OF ALGORITHMS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"COL671",
+        "Course Name":"ARTIFICIAL INTELLIGENCE",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"COL672",
+        "Course Name":"COMPUTER NETWORKS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"COL702",
+        "Course Name":"ADVANCED DATA STRUCTURES",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"COL703",
+        "Course Name":"LOGIC FOR COMPUTER SCIENCE",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"COL707",
+        "Course Name":"INTRODUCTION TO ETHICAL ISSUES IN COMPUTER SCIENCE",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"COL718",
+        "Course Name":"ARCH. OF HIGH PERF. COMPUTERS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"COL726",
+        "Course Name":"NUMERICAL ALGORITHMS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COL727",
+        "Course Name":"RAPID MIXING IN MARKOV CHAINS",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"COL730",
+        "Course Name":"PARALLEL PROGRAMMING",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"COL733",
+        "Course Name":"CLOUD COMPUTING TECHNO. FUNDA.",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"COL750",
+        "Course Name":"FOUNDATIONS OF AUTOMATIC VERI.",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"COL751",
+        "Course Name":"ALGORITHMIC GRAPH THEORY",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"COL753",
+        "Course Name":"COMPLEXITY THEORY",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"COL754",
+        "Course Name":"APPROXIMATION ALGORITHMS",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"COL759",
+        "Course Name":"CRYPTOGRAPHY & COMPUTER SEC.",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"COL764",
+        "Course Name":"INFORMATION RETRIEVAL AND WEB SEARCH",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"COL765",
+        "Course Name":"INTRO. TO LOGIC & FUNCT. PROG.",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"COL768",
+        "Course Name":"WIRELESS NETWORKS",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"COL774",
+        "Course Name":"MACHINE LEARNING",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"COL783",
+        "Course Name":"DIGITAL IMAGE ANALYSIS",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"COL788",
+        "Course Name":"ADV. TOPICS IN EMBEDDED COMP.",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"COL828",
+        "Course Name":"ADVANCED COMPUTER VISION",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"COL868",
+        "Course Name":"SPL. TOPICS IN DATABASE SYST.",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"COL870",
+        "Course Name":"SPL. TOPICS IN MACHINE LEARNI.",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"COL872",
+        "Course Name":"SPL. TOPICS IN CRYPTOGRAPHY",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"COL876",
+        "Course Name":"SPECIAL TOPICS IN FORMAL METHODS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CON800",
+        "Course Name":"TEACHING PRACTICUM IN COMPUTER SCIENCE AND ENGINEERING",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CON801",
+        "Course Name":"RESEARCH PRACTICUM IN COMPUTER SCIENCE AND ENGINEERING",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COP701",
+        "Course Name":"SOFTWARE SYSTEMS LABORATORY",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"COQ301",
+        "Course Name":"SEMINAR COURSE - I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COQ302",
+        "Course Name":"SEMINAR COURSE - II",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COQ303",
+        "Course Name":"SEMINAR COURSE - III",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COQ304",
+        "Course Name":"SEMINAR COURSE - IV",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COS310",
+        "Course Name":"INDEPENDENT STUDY (CS)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COS799",
+        "Course Name":"INDEPENDENT STUDY",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"COV888",
+        "Course Name":"SPL. MODULE IN DATABASE SYST.",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"CSL758",
+        "Course Name":"ADVANCE ALGORITHMS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"JCD892",
+        "Course Name":"M.TECH. PROJECT PART-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"JRL704",
+        "Course Name":"FOUNDATION OF ROBOTICS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DDD310",
+        "Course Name":"DESIGN PROJECT-3 (COLLABORATIVE DESIGN PROJECT)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DDD799",
+        "Course Name":"DESIGN PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DDD891",
+        "Course Name":"DESIGN PROJECT -2",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"DDL110",
+        "Course Name":"UNDERSTANDING DESIGN & DESIGN MOVEMENTS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DDL111",
+        "Course Name":"VISUALIZATION TECHNIQUES",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DDL112",
+        "Course Name":"DESIGN PROCESS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DDL115",
+        "Course Name":"DESIGN THINKING & DESIGN CRITIQUE",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"DDL123",
+        "Course Name":"APPLIED ERGONOMICS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"DDL125",
+        "Course Name":"ELEMENTS OF DESIGN",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"DDL211",
+        "Course Name":"MATERIALS AND PROTOTYPING",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"DDL212",
+        "Course Name":"ADVANCED VISUALIZATION TECHNIQUES",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DDL213",
+        "Course Name":"CAD AND DIGITAL PROTOTYPING",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"DDL214",
+        "Course Name":"ENGINEERING FOR DESIGNERS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"DDL215",
+        "Course Name":"DESIGN FOR FUTURE",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DDL217",
+        "Course Name":"PHOTOGRAPHY, ILLUSTRATION AND MOVING IMAGES",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DDL311",
+        "Course Name":"BRANDING-IDENTITY AND PACKAGING DESIGN",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DDL312",
+        "Course Name":"DESIGN FOR DEVELOPING NATIONS",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"DDL313",
+        "Course Name":"CREATIVITY & SUSTAINABILITY IN NATURE",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"DDL314",
+        "Course Name":"DESIGNING FOR SOCIETY & CULTURE",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"DDL315",
+        "Course Name":"DESIGN FOR UI \/ UX",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DDL710",
+        "Course Name":"FRAMEWORK OF DESIGN",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"DDL725",
+        "Course Name":"INFORMATION DESIGN & DATA VISUALIZATION",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"DDL751",
+        "Course Name":"FORM AND AESTHETICS",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"DDL753",
+        "Course Name":"DESIGN OF SUSTAINABLE HABITATS",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"DDL782",
+        "Course Name":"DESIGN FOR USABILITY",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"DDL810",
+        "Course Name":"SPECIAL TOPICS IN DESIGN 1",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"DDL820",
+        "Course Name":"SPECIAL TOPICS IN DESIGN 2",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"DDP114",
+        "Course Name":"MATERIALS & PROCESSES FOR MODEL MAKING",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DDP216",
+        "Course Name":"ART AND CRAFT PRACTICUM",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DDP721",
+        "Course Name":"DESIGN AND INNOVATION METHODS",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"DDP722",
+        "Course Name":"APPLIED ERGONOMICS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"DDP731",
+        "Course Name":"COMMUNI. & PRESENTATION SKILLS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DDR761",
+        "Course Name":"SOCIAL IMMERSION",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DDR852",
+        "Course Name":"STRATEGIC DESIGN MANAGEMENT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DSR227",
+        "Course Name":"SOCIAL IMMERSION",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"DTD899",
+        "Course Name":"DOCTORAL THESIS",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"EED412",
+        "Course Name":"MAJOR PROJECT PART 2 (EE)",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELD411",
+        "Course Name":"B.TECH. PROJECT - I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELD431",
+        "Course Name":"B.TECH. PROJECT - I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELD800",
+        "Course Name":"MINOR PROJECT (EEA)",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELD801",
+        "Course Name":"MAJOR PROJECT PART I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELD802",
+        "Course Name":"MAJOR PROJECT PART II",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELD811",
+        "Course Name":"MAJOR PROJECT PART-I (COMMUNIC",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELD830",
+        "Course Name":"MINOR PROJECT",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELD831",
+        "Course Name":"MAJOR PROJECT PART-I (INTEGRAT",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELD832",
+        "Course Name":"MAJOR PROJECT PART-II",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELD851",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELD871",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELD872",
+        "Course Name":"MAJOR PROJECT PART-II",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELD880",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELD895",
+        "Course Name":"MS RESEARCH PROJECT",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELL101",
+        "Course Name":"INTRO. TO ELECTRICAL ENGG.",
+        "Slot Name":"AF"
+    },
+    {
+        "Course Code":"ELL201",
+        "Course Name":"DIGITAL ELECTRONICS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"ELL202",
+        "Course Name":"CIRCUIT THEORY",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"ELL203",
+        "Course Name":"ELECTROMECHANICS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"ELL205",
+        "Course Name":"SIGNALS AND SYSTEMS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"ELL211",
+        "Course Name":"PHYSICAL ELECTRONICS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"ELL302",
+        "Course Name":"POWER ELECTRONICS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"ELL304",
+        "Course Name":"ANALOG ELECTRONIC CIRCUITS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"ELL305",
+        "Course Name":"COMPUTER ARCHITECTURE",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"ELL311",
+        "Course Name":"COMMUNICATION ENGINEERING",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"ELL313",
+        "Course Name":"ANTENNAS AND PROPAGATION",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"ELL332",
+        "Course Name":"ELECTRIC DRIVES",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"ELL333",
+        "Course Name":"MULTIVARIABLE CONTROL",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"ELL363",
+        "Course Name":"POWER ENGINEERING-II",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"ELL402",
+        "Course Name":"COMPUTER COMMUNICATION",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"ELL409",
+        "Course Name":"MACHINE INTELLIGENCE & LEARNING",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"ELL700",
+        "Course Name":"LINEAR SYSTEMS THEORY",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"ELL701",
+        "Course Name":"MATHEMATICAL METHODS IN CONTRO",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"ELL702",
+        "Course Name":"NONLINEAR SYSTEMS",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"ELL707",
+        "Course Name":"SYSTEMS BIOLOGY",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"ELL709",
+        "Course Name":"ONLINE PREDICTION, OPTIMIZATION, AND LEARNING",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"ELL710",
+        "Course Name":"CODING THEORY",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"ELL711",
+        "Course Name":"SIGNAL THEORY",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"ELL712",
+        "Course Name":"DIGITAL COMMUNICATIONS",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"ELL713",
+        "Course Name":"MICROWAVE THEORY AND TECHNIQUE",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"ELL714",
+        "Course Name":"BASIC INFORMATION THEORY",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"ELL727",
+        "Course Name":"DIGITAL COMMUNICATION & INFORM",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"ELL728",
+        "Course Name":"OPTOELECTRONIC INSTRUMENTATION",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"ELL732",
+        "Course Name":"MICRO AND NANOELECTRONICS",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"ELL734",
+        "Course Name":"MOS VLSI DESIGN",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"ELL735",
+        "Course Name":"ANALOG INTEGRATED CIRCUITS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"ELL740",
+        "Course Name":"COMPACT MODELING OF SEMICONDUC",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"ELL742",
+        "Course Name":"INTRODUCTION TO MEMS DESIGN",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"ELL745",
+        "Course Name":"QUANTUM ELECTRONICS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"ELL746",
+        "Course Name":"BIOMEDICAL ELECTRONICS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"ELL750",
+        "Course Name":"MODELLING OF ELECTRICAL MACHIN",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"ELL751",
+        "Course Name":"POWER ELECTRONIC CONVERTERS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"ELL758",
+        "Course Name":"POWER QUALITY",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"ELL770",
+        "Course Name":"POWER SYSTEM ANALYSIS",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"ELL771",
+        "Course Name":"ADVANCED POWER SYSTEM PROTECTI",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"ELL772",
+        "Course Name":"PLANNING AND OPERATION OF A SM",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"ELL775",
+        "Course Name":"POWER SYSTEM DYNAMICS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"ELL780",
+        "Course Name":"MATHEMATICAL FOUNDATIONS OF CO",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"ELL781",
+        "Course Name":"SOFTWARE FUNDAMENTALS FOR COMP",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"ELL782",
+        "Course Name":"COMPUTER ARCHITECTURE",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"ELL784",
+        "Course Name":"INTRODUCTION TO MACHINE LEARNI",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"ELL785",
+        "Course Name":"COMPUTER COMMUNICATION NETWORK",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"ELL808",
+        "Course Name":"ADVANCED TOPICS IN SYSTEMS AND",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"ELL822",
+        "Course Name":"SELECTED TOPICS IN COMMUNICATI",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"ELL823",
+        "Course Name":"SELECTED TOPICS IN INFORMATION PROCESSING-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"ELL833",
+        "Course Name":"CMOS RF IC DESIGN",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"ELL856",
+        "Course Name":"ADVANCED TOPICS IN POWER ELECT",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"ELL880",
+        "Course Name":"SPECIAL TOPICS IN COMPUTERS 1",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"ELL881",
+        "Course Name":"SPECIAL TOPICS IN COMPUTERS-II",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"ELL888",
+        "Course Name":"ADVANCED MACHINE LEARNING",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"ELL890",
+        "Course Name":"COMPUTATIONAL NEUROSCIENCE",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"ELL891",
+        "Course Name":"ADVANCES IN DEEP LEARNING",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"ELL896",
+        "Course Name":"MOBILE COMPUTING",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"ELP101",
+        "Course Name":"INTRO. TO ELECTRICAL ENGG.",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELP212",
+        "Course Name":"ELECTROMAGNETICS LABORATORY",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"ELP225",
+        "Course Name":"CONTROL ENGINEERING LABORATORY",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"ELP303",
+        "Course Name":"POWER ENGINEERING LABORATORY",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"ELP332",
+        "Course Name":"ELECTRIC DRIVES LABORATORY",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"ELP719",
+        "Course Name":"MICROWAVE LABORATORY",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELP800",
+        "Course Name":"CONTROL SYSTEMS LABORATORY",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELP831",
+        "Course Name":"IEC LABORATORY-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELP850",
+        "Course Name":"ELECTRICAL MACHINES LABORATORY",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELP851",
+        "Course Name":"POWER ELECTRONICS LABORATORY",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELP870",
+        "Course Name":"POWER SYSTEM LAB 1",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELQ301",
+        "Course Name":"SEMINAR COURSE - I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ELS310",
+        "Course Name":"INDEPENDENT STUDY (EE1)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"ELS330",
+        "Course Name":"INDEPENDENT STUDY (EE3)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"ELV700",
+        "Course Name":"SPECIAL MODULE IN SYSTEMS AND CONTROL",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"JVD811",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"JVD895",
+        "Course Name":"MS RESEARCH PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"ESD400",
+        "Course Name":"B.TECH. PROJECT-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ESD798",
+        "Course Name":"MINOR PROJECT [ESR]",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ESD799",
+        "Course Name":"MINOR PROJECT [ESN]",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ESD801",
+        "Course Name":"MAJOR PROJECT PART I [ESN]",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ESD802",
+        "Course Name":"MAJOR PROJECT PART II [ESN]",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ESD851",
+        "Course Name":"MAJOR PROJECT PART I [ESR]",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ESD852",
+        "Course Name":"MAJOR PROJECT PART II [ESR]",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ESD895",
+        "Course Name":"MS RESEARCH PROJECT",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ESL100",
+        "Course Name":"ENERGY RESOURCES AND UTILIZATION",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"ESL220",
+        "Course Name":"SEMICONDUCTORS FOR ENERGY SYSTEMS",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"ESL260",
+        "Course Name":"NETWORK ANALYSIS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"ESL261",
+        "Course Name":"ANALOG AND DIGITAL ELECTRONICS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"ESL263",
+        "Course Name":"POWER ELECTRONICS AND DRIVES FOR ENERGY ENGG.",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"ESL280",
+        "Course Name":"INTRODUCTION TO PLASMA CONCEPTS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"ESL300",
+        "Course Name":"SELF-ORGANIZING DYNAMICAL SYSTEMS",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"ESL330",
+        "Course Name":"ENERGY, ECOLOGY AND ENVIRONMENT",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"ESL341",
+        "Course Name":"ENERGY STORAGE",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"ESL370",
+        "Course Name":"CONTROL SYSTEMS AND AUTOMATION",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"ESL372",
+        "Course Name":"INTELLIGENT TECHNIQUES FOR ENERGY SYSTEM ANALYSIS",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"ESL390",
+        "Course Name":"ENERGY ECONOMICS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"ESL400",
+        "Course Name":"ENERGY EFFICIENCY",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"ESL711",
+        "Course Name":"FUEL TECHNOLOGY",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"ESL715",
+        "Course Name":"ELECTRICAL ENERGY MANAGEMENT",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"ESL727",
+        "Course Name":"ENERGY AND ENVIRONMENT",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"ESL739",
+        "Course Name":"BIOENERGY: RESOURCES, TECHNOLOGIES AND APPLICATIONS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"ESL740",
+        "Course Name":"NON-CONVENTIONAL SOURCES OF ENERGY",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"ESL742",
+        "Course Name":"ECO.& FIN.OF RENEWABLE ENERGY SYSTEMS",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"ESL746",
+        "Course Name":"HYDROGEN ENERGY",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"ESL753",
+        "Course Name":"SOLAR THERMAL TECHNOLOGIES AND APPLICATIONS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"ESL755",
+        "Course Name":"SOLAR PHOTOVOLTAIC DEVICES AND SYSTEMS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"ESL768",
+        "Course Name":"WIND & SMALL HYDRO ENERGY SYSTEMS",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"ESL772",
+        "Course Name":"ENERGY STORAGE",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"ESN704",
+        "Course Name":"BASIC THERMAL ENGG.",
+        "Slot Name":"K1"
+    },
+    {
+        "Course Code":"ESN712",
+        "Course Name":"BASIC ELECTRICAL ENGG.",
+        "Slot Name":"K2"
+    },
+    {
+        "Course Code":"ESN791",
+        "Course Name":"APPLIED MATHEMATICS AND COMPUTATIONAL METHODS",
+        "Slot Name":"K3"
+    },
+    {
+        "Course Code":"ESQ307",
+        "Course Name":"SEMINAR COURSE ON NUCLEARENERGY AND FUTURISTIC USE",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"ESS801",
+        "Course Name":"INDEPENDENT STUDY [ESN]",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"ESS851",
+        "Course Name":"INDEPENDENT STUDY [ESR]",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"HSD621",
+        "Course Name":"COGNITIVE SCIENCE PROJECT I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"HSD700",
+        "Course Name":"SEMINAR (CASE MATERIAL-BASED)MINOR PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"HSL511",
+        "Course Name":"MICROECONOMICS I",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"HSL512",
+        "Course Name":"MACROECONOMICS I",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"HSL513",
+        "Course Name":"PROBABILITY AND STATISTICS FOR ECONOMICS",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"HSL514",
+        "Course Name":"ISSUES IN DEVELOPMENT",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"HSL516",
+        "Course Name":"MATHEMATICAL ECONOMICS",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"HSL521",
+        "Course Name":"INTRODUCTION TO COGNITIVE SCIENCE",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"HSL522",
+        "Course Name":"BASICS OF PROGRAMMING FOR COGNITIVE SCIENCE",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"HSL531",
+        "Course Name":"LITERARY THEORY",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"HSL541",
+        "Course Name":"LANGUAGE IN THE MIND",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"HSL551",
+        "Course Name":"PHILOSOPHICAL THINKING",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"HSL561",
+        "Course Name":"COGNITIVE NEUROSCIENCE",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"HSL582",
+        "Course Name":"THEORY AND METHOD IN THE HUMANITIES AND SOCIAL SCIENCES",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"HSL672",
+        "Course Name":"MAKING SENSE OF THE EVERYDAY: THEORIES, DEBATES AND CRITIQUES",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"HSL678",
+        "Course Name":"CINEMAS OF INDIA",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HSL686",
+        "Course Name":"FOUNDATIONS IN THE DIGITAL HUMANITIES",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"HSL712",
+        "Course Name":"MICROECONOMICS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"HSL714",
+        "Course Name":"INTERNATIONAL ECONOMICS",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"HSL718",
+        "Course Name":"POLITICAL ECONOMY OF DEVELOPMENT",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HSL721",
+        "Course Name":"RESEARCH METHODS IN COGNITIVE SCIENCE",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"HSL731",
+        "Course Name":"WHAT IS A TEXT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"HSL733",
+        "Course Name":"STUDY OF AN AUTHOR\/WRITER IN FOCUS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"HSL745",
+        "Course Name":"PSYCHOLINGUISTICS",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"HSL746",
+        "Course Name":"PHONOLOGICAL MARKEDNESS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"HSL747",
+        "Course Name":"LANGUAGE COMPUTATIONS AND MENTAL ARCHITECTURE",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"HSL751",
+        "Course Name":"CRITICAL READING IN PHILOSOPHICAL TEXTS",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"HSL771",
+        "Course Name":"SOCIOLOGICAL THEORY",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"HSL779",
+        "Course Name":"GENDER AND SOCIETY",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"HSL780",
+        "Course Name":"SOCIAL AND CULTURAL CONSTRUCTION OF EMOTIONS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"HSL784",
+        "Course Name":"WORKING WITH HUMANITIES DATA",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"HSL800",
+        "Course Name":"RESEARCH WRITING",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"HSL800",
+        "Course Name":"RESEARCH WRITING",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HSL820",
+        "Course Name":"ADVANCED TOPICS IN ECONOMICS",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"HSL850",
+        "Course Name":"ADVANCED TOPICS IN LINGUISTICS",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"HSN500",
+        "Course Name":"INTERDISCIPLINARY READING BOOTCAMP: CULTURE, SOCIETY, THOUGHT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"HSP520",
+        "Course Name":"RESEARCH PROJECT IN ECONOMICS I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"HSP522",
+        "Course Name":"COGNITIVE SCIENCE LECTURE SERIES I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"HSP611",
+        "Course Name":"ADVANCED ECONOMICS LAB",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"HSP612",
+        "Course Name":"RESEARCH SEMINAR IN ECONOMICS",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"HSP700",
+        "Course Name":"WORKSHOP ON SCIENTIFIC WRITING",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HSQ501",
+        "Course Name":"HSS COLLOQUIUM-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"HSS521",
+        "Course Name":"INDEPENDENT STUDY IN COGNITIVE SCIENCE",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"HUL212",
+        "Course Name":"MICROECONOMICS",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HUL213",
+        "Course Name":"MACRO ECONOMICS",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"HUL231",
+        "Course Name":"AN INTRODUCTION TO LITERATURE",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"HUL239",
+        "Course Name":"INDIAN FICTION IN ENGLISH",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HUL242",
+        "Course Name":"FUNDAMENTALS OF LANGUAGE SCIENCES",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"HUL242",
+        "Course Name":"FUNDAMENTALS OF LANGUAGE SCIENCES",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HUL243",
+        "Course Name":"LANGUAGE AND COMMUNICATION",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"HUL243",
+        "Course Name":"LANGUAGE AND COMMUNICATION",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HUL253",
+        "Course Name":"MORAL LITERACY AND MORAL CHOICES",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HUL256",
+        "Course Name":"CRITICAL THINKING",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"HUL261",
+        "Course Name":"INTRODUCTION TO PSYCHOLOGY",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HUL267",
+        "Course Name":"POSITIVE PSYCHOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"HUL271",
+        "Course Name":"INTRODUCTION TO SOCIOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"HUL272",
+        "Course Name":"INTRODUCTION TO THE SOCIOLOGY OF INDIA",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"HUL272",
+        "Course Name":"INTRODUCTION TO THE SOCIOLOGY OF INDIA",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HUL275",
+        "Course Name":"ENVIRONMENT; DEVELOPMENT AND SOCIETY",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HUL315",
+        "Course Name":"ECONOMETRIC METHODS",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HUL316",
+        "Course Name":"INDIAN ECONOMIC PROBLEMS AND POLICIES",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"HUL334",
+        "Course Name":"FROM TEXT TO FILM",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"HUL340",
+        "Course Name":"SELECTED TOPICS IN LITERATURE",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"HUL356",
+        "Course Name":"BUDDHISM ACROSS TIME AND PLACE",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HUL360",
+        "Course Name":"SELECTED TOPICS IN PHILOSOPHY",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HUL366",
+        "Course Name":"BIOLOGICAL PSYCHOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"HUL376",
+        "Course Name":"POLITICAL ECOLOGY OF WATER",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"HUL380",
+        "Course Name":"SELECTED TOPICS IN SOCIOLOGY",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"HUL713",
+        "Course Name":"MACROECONOMICS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"HUL715",
+        "Course Name":"TIME SERIES ECONOMETRICS AND FORECASTING",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"HUL753",
+        "Course Name":"PHILOSOPHY OF  SCIENCE",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"HUL861",
+        "Course Name":"PSYCHOLOGY OF DECISION MAKING",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"HUL870",
+        "Course Name":"ADVANCED TOPICS IN PSYCHOLOGY",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"NEN110",
+        "Course Name":"PROFESSIONAL ETHICS AND SOCIAL RESPONSIBILITY - I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"NIN100",
+        "Course Name":"INTRODUCTION TO ENGINEERING",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"NLN100",
+        "Course Name":"LANGUAGE & WRITING SKILL",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MDL801",
+        "Course Name":"MANAGING DIGITAL TRANSFORMATION",
+        "Slot Name":"D1"
+    },
+    {
+        "Course Code":"MDL802",
+        "Course Name":"ENTREPRENEURIAL FINANCE",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"MDL806",
+        "Course Name":"DERIVATIVES",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"MSC894",
+        "Course Name":"SEMINAR",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"MSD308",
+        "Course Name":"PRODUCT VIABILITY & MARKET TRACTION",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"MSL302",
+        "Course Name":"MANAGERIAL ACC. & FINAC. MGMT.",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"MSL304",
+        "Course Name":"MANAGING OPERATIONS",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"MSL305",
+        "Course Name":"NEW VENTURE CREATION",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"MSL306",
+        "Course Name":"IDEATION AND PROTOYPING",
+        "Slot Name":"T"
+    },
+    {
+        "Course Code":"MSL405",
+        "Course Name":"FINANCIAL ACCOUNTING & COMPLIANCE FOR STARTUPS",
+        "Slot Name":"R"
+    },
+    {
+        "Course Code":"MSL703",
+        "Course Name":"MANAGEMENT OF TECHNOLOGY TRANSFER ANDABSORPTION",
+        "Slot Name":"V"
+    },
+    {
+        "Course Code":"MSL706",
+        "Course Name":"BUSINESS LAWS",
+        "Slot Name":"S"
+    },
+    {
+        "Course Code":"MSL707",
+        "Course Name":"MANAGEMENT ACCOUNTING",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"MSL707",
+        "Course Name":"MANAGEMENT ACCOUNTING",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"MSL707",
+        "Course Name":"MANAGEMENT ACCOUNTING",
+        "Slot Name":"U"
+    },
+    {
+        "Course Code":"MSL709",
+        "Course Name":"BUSINESS RESEARCH METHODS",
+        "Slot Name":"AC1"
+    },
+    {
+        "Course Code":"MSL709",
+        "Course Name":"BUSINESS RESEARCH METHODS",
+        "Slot Name":"AD1"
+    },
+    {
+        "Course Code":"MSL711",
+        "Course Name":"STRATEGIC MANAGEMENT",
+        "Slot Name":"R"
+    },
+    {
+        "Course Code":"MSL712",
+        "Course Name":"ETHICS & VALUE BASED LEADERSH.",
+        "Slot Name":"R1"
+    },
+    {
+        "Course Code":"MSL712",
+        "Course Name":"ETHICS & VALUE BASED LEADERSH.",
+        "Slot Name":"AA1"
+    },
+    {
+        "Course Code":"MSL712",
+        "Course Name":"ETHICS & VALUE BASED LEADERSH.",
+        "Slot Name":"AB1"
+    },
+    {
+        "Course Code":"MSL719",
+        "Course Name":"STATISTICS FOR MANAGEMENT",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"MSL719",
+        "Course Name":"STATISTICS FOR MANAGEMENT",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"MSL719",
+        "Course Name":"STATISTICS FOR MANAGEMENT",
+        "Slot Name":"T"
+    },
+    {
+        "Course Code":"MSL720",
+        "Course Name":"MACROECONOMIC ENV. OF BUSINESS",
+        "Slot Name":"V"
+    },
+    {
+        "Course Code":"MSL722",
+        "Course Name":"MANAGING ENTERPRISE AI\/ML SYSTEMS",
+        "Slot Name":"R1"
+    },
+    {
+        "Course Code":"MSL724",
+        "Course Name":"BUSINESS COMMUNICATION",
+        "Slot Name":"T2"
+    },
+    {
+        "Course Code":"MSL724",
+        "Course Name":"BUSINESS COMMUNICATION",
+        "Slot Name":"AD1"
+    },
+    {
+        "Course Code":"MSL724",
+        "Course Name":"BUSINESS COMMUNICATION",
+        "Slot Name":"J1"
+    },
+    {
+        "Course Code":"MSL724",
+        "Course Name":"BUSINESS COMMUNICATION",
+        "Slot Name":"S2"
+    },
+    {
+        "Course Code":"MSL729",
+        "Course Name":"INDIVIDUAL BEHAVIOR IN ORGANIZATION",
+        "Slot Name":"T1"
+    },
+    {
+        "Course Code":"MSL729",
+        "Course Name":"INDIVIDUAL BEHAVIOR IN ORGANIZATION",
+        "Slot Name":"E2"
+    },
+    {
+        "Course Code":"MSL729",
+        "Course Name":"INDIVIDUAL BEHAVIOR IN ORGANIZATION",
+        "Slot Name":"S1"
+    },
+    {
+        "Course Code":"MSL729",
+        "Course Name":"INDIVIDUAL BEHAVIOR IN ORGANIZATION",
+        "Slot Name":"H2"
+    },
+    {
+        "Course Code":"MSL740",
+        "Course Name":"QUANTITATIVE METHODS IN MGMT.",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MSL740",
+        "Course Name":"QUANTITATIVE METHODS IN MGMT.",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MSL740",
+        "Course Name":"QUANTITATIVE METHODS IN MGMT.",
+        "Slot Name":"V"
+    },
+    {
+        "Course Code":"MSL745",
+        "Course Name":"OPERATIONS MANAGEMENT",
+        "Slot Name":"S"
+    },
+    {
+        "Course Code":"MSL760",
+        "Course Name":"MARKETING MANAGEMENT",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"MSL760",
+        "Course Name":"MARKETING MANAGEMENT",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MSL780",
+        "Course Name":"MANAGERIAL ECONOMICS",
+        "Slot Name":"R2"
+    },
+    {
+        "Course Code":"MSL780",
+        "Course Name":"MANAGERIAL ECONOMICS",
+        "Slot Name":"AA2"
+    },
+    {
+        "Course Code":"MSL780",
+        "Course Name":"MANAGERIAL ECONOMICS",
+        "Slot Name":"AB2"
+    },
+    {
+        "Course Code":"MSL802",
+        "Course Name":"MGMT. OF INTELLECTUAL PR. RIG.",
+        "Slot Name":"T"
+    },
+    {
+        "Course Code":"MSL814",
+        "Course Name":"DATA VISUALIZATION",
+        "Slot Name":"T2"
+    },
+    {
+        "Course Code":"MSL829",
+        "Course Name":"CURRENT & EM. ISSUES IN ST. MG",
+        "Slot Name":"R"
+    },
+    {
+        "Course Code":"MSL839",
+        "Course Name":"CURRENT & EM. ISS. IN ORG. MG.",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"MSL843",
+        "Course Name":"SUPPLY CHAIN LOGISTICS MGMT.",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"MSL843",
+        "Course Name":"SUPPLY CHAIN LOGISTICS MGMT.",
+        "Slot Name":"T"
+    },
+    {
+        "Course Code":"MSL845",
+        "Course Name":"TOTAL PROJECT SYSTEMS MGMT.",
+        "Slot Name":"R"
+    },
+    {
+        "Course Code":"MSL848",
+        "Course Name":"APPLIED OPERATIONS RESEARCH",
+        "Slot Name":"U"
+    },
+    {
+        "Course Code":"MSL851",
+        "Course Name":"STRATEGIC ALLIANCE",
+        "Slot Name":"F2"
+    },
+    {
+        "Course Code":"MSL855",
+        "Course Name":"ELECTRONIC COMMERCE",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"MSL861",
+        "Course Name":"MARKET RESEARCH",
+        "Slot Name":"U"
+    },
+    {
+        "Course Code":"MSL862",
+        "Course Name":"PRODUCT MANAGEMENT",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"MSL869",
+        "Course Name":"CURRENT AND EMERGING ISSUES IN MARKETING",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MSL875",
+        "Course Name":"INTERNATIONAL FINANCIAL MANAGEMENT",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"MSL880",
+        "Course Name":"SELECTED TOPICS IN MANAGEMENT METHODOLOGY",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"MSL885",
+        "Course Name":"DIGITAL MARKETING-ANALYTICS & OPTIMIZATION",
+        "Slot Name":"U"
+    },
+    {
+        "Course Code":"MSL887",
+        "Course Name":"MOBILE COMMERCE",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"MSL892",
+        "Course Name":"PREDICTIVE ANALYTICS",
+        "Slot Name":"T1"
+    },
+    {
+        "Course Code":"MSL895",
+        "Course Name":"ADVANCED DATA ANALYSIS FOR MANAGEMENT",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MST893",
+        "Course Name":"CORPORATE SECTOR ATTACHMENT",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"MLD411",
+        "Course Name":"B.TECH PROJECT-BTP-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"MLD801",
+        "Course Name":"MAJOR PROJECT-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"MLD811",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"MLD895",
+        "Course Name":"MS RESEARCH PROJECT",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"MLL100",
+        "Course Name":"INTRODUCTION TO MATERIALS SCIENCE AND ENGINEERING",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MLL103",
+        "Course Name":"INTRODUCTION TO THE THERMODYNAMICS OF MATERIALS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"MLL181",
+        "Course Name":"MATERIALS AND SUSTAINABLE DEVELOPMENT",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"MLL203",
+        "Course Name":"CHARACTERIZATION OF MATERIALS-II",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"MLL213",
+        "Course Name":"MATERIALS MODELLING",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"MLL251",
+        "Course Name":"MECHANICAL BEHAVIOUR OF MATERIALS",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"MLL253",
+        "Course Name":"ELECTRONIC, OPTICAL AND MAGNETIC PROPERTIES OF MATERIALS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MLL262",
+        "Course Name":"PRINCIPLES OF METAL EXTRACTION",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"MLL371",
+        "Course Name":"MATERIALS PROCESSING",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"MLL701",
+        "Course Name":"STRUCTURE AND CHARACTERISATION OF MATERIALS",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"MLL702",
+        "Course Name":"THERMODYNAMICS OF MATERIALS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"MLL703",
+        "Course Name":"MATHEMATICAL AND COMPUTATIONAL METHODS IN MATERIALS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MLL719",
+        "Course Name":"POLYMER CHEMISTRY",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"MLL721",
+        "Course Name":"POLYMER PHYSICS",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"MLL723",
+        "Course Name":"POLYMER CHARACTERIZATION",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MLL724",
+        "Course Name":"POLYMER ENGINEERING AND RHEOLOGY",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"MLL727",
+        "Course Name":"SMART POLYMERIC MATERIALS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"MLL732",
+        "Course Name":"POROUS MATERIALS",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"MLL752",
+        "Course Name":"CREEP AND SUPERPLASTICITY OF MATERIALS",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"MLL760",
+        "Course Name":"MATERIALS SIMULATION METHODS USING HIGH PERFORMANCE COMPUTING",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MLP473",
+        "Course Name":"MATERIALS SELECTION AND DESIGN LAB",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MLP704",
+        "Course Name":"MATERIALS PROCESSING AND CHARACTERIZATION LAB",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MLP726",
+        "Course Name":"POLYMER SYNTHESIS AND CHARACTERIZATION LABORATORY",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MLQ302",
+        "Course Name":"MATERIALS SCIENCE AND ENGINEERING SEMINAR",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MLV705",
+        "Course Name":"SPECIAL TOPICS IN MATERIALS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MTD350",
+        "Course Name":"MINI PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MTD421",
+        "Course Name":"B.TECH. PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MTD701",
+        "Course Name":"PROJECT I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MTD852",
+        "Course Name":"MAJOR PROJECT PARTII",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MTD853",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MTD854",
+        "Course Name":"MAJOR PROJECT PART-II",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MTL100",
+        "Course Name":"CALCULUS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MTL100",
+        "Course Name":"CALCULUS",
+        "Slot Name":"AE"
+    },
+    {
+        "Course Code":"MTL101",
+        "Course Name":"LINEAR ALGEBRA & DIFFE. EQUA.",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MTL104",
+        "Course Name":"LINEAR ALGEBRA & APPLICATIONS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MTL105",
+        "Course Name":"ALGEBRA",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"MTL106",
+        "Course Name":"PROBABILITY & STOCHASTIC PRO.",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MTL107",
+        "Course Name":"NUMERICAL METHOD S& COMPUTATION",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"MTL107",
+        "Course Name":"NUMERICAL METHOD S& COMPUTATION",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"MTL108",
+        "Course Name":"INTRODUCTION TO STATISTICS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MTL122",
+        "Course Name":"REAL AND COMPLEX ANALYSIS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MTL180",
+        "Course Name":"DISCRETE MATHEMATICAL STRUC.",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"MTL342",
+        "Course Name":"ANALYSIS & DESIGN OF ALGORITHMS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"MTL390",
+        "Course Name":"STATISTICAL METHODS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MTL411",
+        "Course Name":"FUNCTIONAL ANALYSIS",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"MTL458",
+        "Course Name":"OPERATING SYSTEMS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"MTL501",
+        "Course Name":"ALGEBRA",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"MTL502",
+        "Course Name":"LINEAR ALGEBRA",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"MTL503",
+        "Course Name":"REAL ANALYSIS",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"MTL504",
+        "Course Name":"ORDINARY DIFFERENTIAL EQUATION",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MTL505",
+        "Course Name":"COMPUTER PROGRAMMING",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"MTL601",
+        "Course Name":"PROBABILITY AND STATISTICS",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"MTL602",
+        "Course Name":"FUNCTIONAL ANALYSIS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"MTL603",
+        "Course Name":"PARTIAL DIFFERENTIAL EQUATIONS",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"MTL712",
+        "Course Name":"COMP. METHODS FOR DIFFER. EQU.",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"MTL732",
+        "Course Name":"FINANCIAL MATHEMATICS",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"MTL736",
+        "Course Name":"ANALYTIC NUMBER THEORY",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"MTL738",
+        "Course Name":"COMMUTATIVE ALGEBRA",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"MTL743",
+        "Course Name":"FOURIER ANALYSIS",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"MTL745",
+        "Course Name":"ADVANCED MATRIX THEORY",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"MTL760",
+        "Course Name":"ADVANCED ALGORITHMS",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"MTL762",
+        "Course Name":"PROBABILITY THEORY",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"MTL763",
+        "Course Name":"INTRODUCTION TO GAME THEORY",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"MTL766",
+        "Course Name":"MULTIVARIATE STATISTICAL METH.",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MTL781",
+        "Course Name":"FINITE ELEMENT THEORY & APPLI.",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"MTL783",
+        "Course Name":"THEORY OF COMPUTATION",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MTL860",
+        "Course Name":"LINEAR ALGEBRA",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MTQ312",
+        "Course Name":"SEMINAR COURSE - XII",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MTQ313",
+        "Course Name":"SEMINAR COURSE - XIII",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MTQ314",
+        "Course Name":"SEMINAR COURSE - XIV",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MTQ315",
+        "Course Name":"SEMINAR COURSE - XV",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MTQ316",
+        "Course Name":"SEMINAR COURSE - XVI",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"APL701M",
+        "Course Name":"CONTINUUM MECHANICS",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"JRL302",
+        "Course Name":"ROBOTICS TECHNOLOGY",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCD411",
+        "Course Name":"B.TECH.PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCD811",
+        "Course Name":"MAJOR PROJECT PART I (THERMAL ENGINEERING)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCD812",
+        "Course Name":"MAJOR PROJECT PART II (THERMALENGINEERING)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCD831",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCD832",
+        "Course Name":"MAJOR PROJECT PART II",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCD861",
+        "Course Name":"M TECH. PROJECT PART-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCD862",
+        "Course Name":"MAJOR PROJECT PART-II",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCD881",
+        "Course Name":"MAJOR PROJECT PART-1",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCD882",
+        "Course Name":"MAJOR PROJECT PART-2",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCD895",
+        "Course Name":"MAJOR PROJECT (MSR)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCL104",
+        "Course Name":"SOLID MECHANICS",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"MCL106",
+        "Course Name":"FLUID MECHANICS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MCL111",
+        "Course Name":"KINEMATICS & DY. OF MACHINES",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"MCL134",
+        "Course Name":"METROLOGY & QUALITY ASSURANCE",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"MCL134P",
+        "Course Name":"METROLOGY & QUALITY ASSURANCE",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"MCL135",
+        "Course Name":"WELDING AND ALLIED PROCESSES",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"MCL140",
+        "Course Name":"ENGINEERING THERMODYNAMICS",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"MCL141",
+        "Course Name":"THERMAL SC. FOR MANUFACTURING",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MCL142",
+        "Course Name":"THERMAL SC. FOR ELE. ENGINEERS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCL211",
+        "Course Name":"DESIGN OF MACHINES",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"MCL231",
+        "Course Name":"MANUFACTURING PROCESSES II",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"MCL242",
+        "Course Name":"HEAT AND MASS TRANSFER",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"MCL261",
+        "Course Name":"INTRO TO OPERATIONS RESEARCH",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MCL262",
+        "Course Name":"STOCHASTIC MODELLING & SIMULA.",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"MCL316",
+        "Course Name":"VIBRATION ENGINEERING",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"MCL318",
+        "Course Name":"INTRODUCTION TO ORBITAL MECHANICS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCL322",
+        "Course Name":"POWER TRAIN DESIGN",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MCL341",
+        "Course Name":"GAS DYNAMICS AND PROPULSION",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"MCL346",
+        "Course Name":"TURBOMACHINERY",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"MCL431",
+        "Course Name":"CAM AND AUTOMATION",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MCL431",
+        "Course Name":"CAM AND AUTOMATION",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCL701",
+        "Course Name":"ADVANCED THERMODYNAMICS",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"MCL702",
+        "Course Name":"ADVANCED FLUID MECHANICS",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"MCL703",
+        "Course Name":"ADVANCED HEAT AND MASS TRANSFE",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MCL704",
+        "Course Name":"APPLIED MATHEMATICS FOR THERMO",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"MCL713",
+        "Course Name":"ACTIVE NOISE CONTROL",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"MCL731",
+        "Course Name":"ANALYTICAL DYNAMICS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"MCL735",
+        "Course Name":"CAD & FINITE ELEMENT ANALYSIS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MCL740",
+        "Course Name":"LUBRICATION",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"MCL742",
+        "Course Name":"DESIGN & OPTIMIZATION",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MCL751",
+        "Course Name":"INDUSTRIAL ENGINEERING SYSTEMS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MCL756",
+        "Course Name":"SUPPLY CHAIN MANAGEMENT",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"MCL761",
+        "Course Name":"PROBABILITY AND STATISTICS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MCL765",
+        "Course Name":"OPERATIONS RESEARCH",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"MCL769",
+        "Course Name":"METAL FORMING ANALYSIS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MCL775",
+        "Course Name":"SPECIAL TOPICS IN IE",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"MCL781",
+        "Course Name":"MACHINING PROCESSES AND ANALYS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MCL787",
+        "Course Name":"WELDING SCIENCE AND TECHNOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"MCL791",
+        "Course Name":"PROCESSING AND MECHANICS OF CO",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"MCL796",
+        "Course Name":"ADDITIVE MANUFACTURING",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"MCL799",
+        "Course Name":"MECHANICS AND CONTROL OF ROBOTS",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"MCL812",
+        "Course Name":"COMBUSTION",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"MCL839",
+        "Course Name":"ROTOR DYNAMICS",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"MCL840",
+        "Course Name":"EXPERIMENTAL MODAL ANALYSIS AND DYNAMIC DESIGN",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MCP100",
+        "Course Name":"ENGG. VISUALIZATION & COMM.",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"MCP101",
+        "Course Name":"PRODUCT REALIZATION THROUGH MANUFACTURING",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"MCP231",
+        "Course Name":"MANUFACTURING LABORATORY I",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MCP232",
+        "Course Name":"PRODUCTION ENGINEERING LAB I",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"MCP361",
+        "Course Name":"INDUSTRIAL ENGINEERING LAB- II",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"MCP401",
+        "Course Name":"MECHANICAL ENGINEERING LAB -II",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"MCQ301",
+        "Course Name":"SEMINAR COURSE - I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCQ303",
+        "Course Name":"SEMINAR COURSE - III",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCV390(B)",
+        "Course Name":"SPL. MODULE IN MECHANICAL ENGG (RAC PRODUCT DESIGN)",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"MCV849",
+        "Course Name":"SPECIAL MODULE IN SYSTEM DESIGN",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"MCV849A",
+        "Course Name":"SPECIAL MODULE IN SYSTEM DESIGN",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"VLM101",
+        "Course Name":"INDUSTRIAL SAFETY AND HAZARDS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM102",
+        "Course Name":"ENERGY MANAGEMENT IN MANUFACTURING",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM103",
+        "Course Name":"MACHINING TECHNOLOGY",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM104",
+        "Course Name":"MACHINE TOOLS AND TOOL DESIGN",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM105",
+        "Course Name":"PROCESS ENGINEERING",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM106",
+        "Course Name":"ENGINEERING MEASUREMENT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM107",
+        "Course Name":"MICRO AND NANO FABRICATION",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM108",
+        "Course Name":"CAD\/CAM AND NUMERICAL CONTROL",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM109",
+        "Course Name":"ADDITIVE MANUFACTURING",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM110",
+        "Course Name":"AUTOMATION AND SMART MANUFACTURING",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM111",
+        "Course Name":"ROBOTICS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM112",
+        "Course Name":"ADVANCES IN MATERIALS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM113",
+        "Course Name":"CASTING",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM114",
+        "Course Name":"WELDING",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM115",
+        "Course Name":"FORMING",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM116",
+        "Course Name":"PROCESSING OF POLYMERS AND COMPOSITES",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM117",
+        "Course Name":"STATISTICS FOR MANUFACTURING MANAGEMENT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM118",
+        "Course Name":"ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING FOR MANUFACTURING MANAGEMENT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM119",
+        "Course Name":"EXPERIMENTAL AND COMPUTATIONAL TOOLS FOR MANUFACTURING MANAGEMENT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VLM120",
+        "Course Name":"LEADERSHIP TALKS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"JRD892",
+        "Course Name":"MTECH PROJECT PART I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VEL700",
+        "Course Name":"HUMAN VALUES AND TECHNOLOGY",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"VEV732",
+        "Course Name":"SPECIAL MODULE ON INNER DEVELOPMENT-II",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"VEV733",
+        "Course Name":"SPECIAL MODULE ON LEADERSHIP  I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VEV734",
+        "Course Name":"SPECIAL MODULE ON LEADERSHIP-II",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"VEV741",
+        "Course Name":"SPECIAL MODULE ON INNER DEVELOPMENT-3",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"OPD710",
+        "Course Name":"MINI PROJECT IN OPTICS AND PHOTONICS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"OPL711",
+        "Course Name":"PRINCIPLES OF LASERS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"OPL714",
+        "Course Name":"INTEGRATED PHOTONICS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"OPL716",
+        "Course Name":"INTRODUCTION TO QUANTUM PHOTONICS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"OPL718",
+        "Course Name":"QUANTUM NONLINEAR PHOTONICS",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"OPV794",
+        "Course Name":"MODES IN OPTICAL WAVEGUIDES",
+        "Slot Name":"AB1"
+    },
+    {
+        "Course Code":"OPV795",
+        "Course Name":"MODELING OF OPTICAL WAVEGUIDES",
+        "Slot Name":"AB1"
+    },
+    {
+        "Course Code":"OPV796",
+        "Course Name":"OPTICAL MODE INTERACTION IN NONLINEAR MEDIA",
+        "Slot Name":"AD1"
+    },
+    {
+        "Course Code":"JOD801",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"JOD802",
+        "Course Name":"MAJOR PROJECT PART-II",
+        "Slot Name":"Q"
+    },
+    {
+        "Course Code":"JOP791",
+        "Course Name":"FIBER OPTICS AND OPTICAL COMMUNICATIONS LAB.",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"PYD411",
+        "Course Name":"PROJECT-I",
+        "Slot Name":"Q"
+    },
+    {
+        "Course Code":"PYD561",
+        "Course Name":"PROJECT I",
+        "Slot Name":"Q"
+    },
+    {
+        "Course Code":"PYD801",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"Q"
+    },
+    {
+        "Course Code":"PYD851",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"Q"
+    },
+    {
+        "Course Code":"PYL101",
+        "Course Name":"ELECTROMAGNETIC WAVES & QUA.MEC.",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"PYL102",
+        "Course Name":"PRINCIPLES OF ELECT. MATERIALS",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"PYL121",
+        "Course Name":"MATHEMATICAL PHYSICS - I",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"PYL123",
+        "Course Name":"OPTICS AND PHOTONICS - I",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"PYL125",
+        "Course Name":"SOLID STATE PHYSICS - I",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"PYL127",
+        "Course Name":"CLASSICAL MECHANICS & RELATIVITY",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"PYL205",
+        "Course Name":"ELECTRODYNAMICS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"PYL209",
+        "Course Name":"OPTICS AND PHOTONICS II",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"PYL304",
+        "Course Name":"SUPERCONDUCTIVITY & APPLICAT.",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"PYL331",
+        "Course Name":"APPLIED QUANTUM MECHANICS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"PYL435",
+        "Course Name":"ADVANCED COMPUTATIONAL PHYSICS",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"PYL551",
+        "Course Name":"CLASSICAL MECHANICS",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"PYL553",
+        "Course Name":"MATHEMATICAL PHYSICS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"PYL555",
+        "Course Name":"QUANTUM MECHANICS I",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"PYL557",
+        "Course Name":"ELECTRONICS",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"PYL567",
+        "Course Name":"ATOMIC AND MOLECULAR PHYSICS",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"PYL569",
+        "Course Name":"NUCLEAR AND PARTICLE PHYSICS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"PYL657",
+        "Course Name":"PLASMA PHYSICS",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"PYL701",
+        "Course Name":"PHYSICAL FOUNDATIONS OF MATERIALS SCIENCE",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"PYL702",
+        "Course Name":"PHYSICS OF SEMICONDUCTOR DEVICES",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"PYL703",
+        "Course Name":"ELECTRONIC PROPERTIES OF MATERIALS",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"PYL707",
+        "Course Name":"CHARACTERISATION TEC. FOR MAT.",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"PYL723",
+        "Course Name":"VACUUM SCIENCE AND CRYOGENICS",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"PYL725",
+        "Course Name":"SURFACE PHYSICS AND ANALYSIS",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"PYL740",
+        "Course Name":"ADVAN. CONDENSED MATTER THEORY",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"PYL741",
+        "Course Name":"FIELD THEORY & QUANTUM ELECTR.",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"PYL745",
+        "Course Name":"ADVANCED STATISTICAL MECHANICS",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"PYL749",
+        "Course Name":"QUANTUM INFORMATION & COMPUTA.",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"PYL751",
+        "Course Name":"OPTICAL SOURCES, PHOTOMETRY AN",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"PYL753",
+        "Course Name":"OPTICAL SYSTEMS DESIGN",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"PYL755",
+        "Course Name":"BASIC OPTICS AND OPTICAL INSTR",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"PYL759",
+        "Course Name":"COMPUTATIONAL OPTICAL IMAGING",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"PYL770",
+        "Course Name":"ULTRA-FAST OPTICS & APPLICATI.",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"PYL791",
+        "Course Name":"FIBER OPTICS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"PYL793",
+        "Course Name":"PHOTONIC DEVICES",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"PYL795",
+        "Course Name":"OPTICS AND LASERS",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"PYL800",
+        "Course Name":"NUM. & COMP. METH. IN RESEARCH",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"PYP100",
+        "Course Name":"PHYSICS LABORATORY",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"PYP111",
+        "Course Name":"ENGINEERING PHYSICS LAB-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"PYP223",
+        "Course Name":"ENGINEERING PHYSICS LABORATORY-III",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"PYP561",
+        "Course Name":"LABORATORY I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"PYP563",
+        "Course Name":"ADVANCED LABORATORY",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"PYP701",
+        "Course Name":"SOLID STATE MATERIALS LABORATORY-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"PYP761",
+        "Course Name":"OPTICAL FABRICATION AND METROL",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"PYP763",
+        "Course Name":"COMPUTATIONAL OPTICS LABORATORY",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"PYQ301",
+        "Course Name":"SEMINAR COURSE - I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"PYV881",
+        "Course Name":"SELECTED TOPICS-I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"PYV882",
+        "Course Name":"SELECTED TOPICS-II (TOPICS OF ADVANCED CONDENSED MATTER)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"AID710",
+        "Course Name":"MINI PROJECT IN ARTIFICIAL INTELLIGENCE",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"AID891",
+        "Course Name":"M.TECH. PROJECT PART-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"AID895",
+        "Course Name":"MS RESEARCH PROJECT",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"AIL701",
+        "Course Name":"MATHEMATICAL FOUNDATIONS OF MINDS",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"AIL721",
+        "Course Name":"DEEP LEARNING",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"AIL722",
+        "Course Name":"REINFORCEMENT LEARNING",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"AIL821",
+        "Course Name":"SPECIAL TOPICS IN MACHINE LEARNING",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"AIP701",
+        "Course Name":"MACHINE LEARNING LAB-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"AIS710",
+        "Course Name":"INDEPENDENT STUDY IN ARTIFICIAL INTELLIGENCE",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"SBC795",
+        "Course Name":"GRADUATE STUDENT RESEARCH SEMINAR",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"SBD301",
+        "Course Name":"MINI PROJECT",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"SBD895",
+        "Course Name":"MS RESEARCH PROJECT",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"SBL100",
+        "Course Name":"INTRO. TO BIOLOGY FOR ENGINEER",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"SBL500",
+        "Course Name":"MOLECULAR CELL BIOLOGY & GENETICS",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"SBL510",
+        "Course Name":"MATHEMATICAL AND STATISTICAL BIOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"SBL520",
+        "Course Name":"BIOCHEMISTRY",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"SBL530",
+        "Course Name":"BIOLOGY OF MICROBES",
+        "Slot Name":"C"
+    },
+    {
+        "Course Code":"SBL540",
+        "Course Name":"EXPERIMENTAL METHODS IN BIOLOGY",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"SBL703",
+        "Course Name":"ADVANCED CELL BIOLOGY",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"SBL710",
+        "Course Name":"CHEMICAL BIOLOGY",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"SBL721",
+        "Course Name":"TECHNIQUES IN BIOMOLECULAR INTERACTIONS",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"SBL724",
+        "Course Name":"DECODING PROTEIN MODIFICATIONS IN BIOLOGY",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"SBL730",
+        "Course Name":"MODERN TRENDS IN DRUG DEVELOPMENT",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"SBL732",
+        "Course Name":"CONCEPTS IN THREE-DIMENSIONAL CELL CULTURE",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"SBL733",
+        "Course Name":"INTRODUCTION AND TECHNIQUES: IMMUNOMETABOLISM",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"SBP200",
+        "Course Name":"INTRODUCTION TO PRACTICAL MODERN BIOLOGY",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"SBS800",
+        "Course Name":"INDEPENDENT STUDY",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"SID890",
+        "Course Name":"MS RESEARCH PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"SIL763",
+        "Course Name":"INTRODUCTION TO BLOCKCHAINS, CRYPTOCURRENCIES, AND SMART CONTRACTS",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"SIV812",
+        "Course Name":"SPECIAL MODULE IN COMPUTER FORENSICS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"SIV864",
+        "Course Name":"SPECIAL MODULE ON MEDIA PROCESSING & COMMUNICATION",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"SIV895",
+        "Course Name":"SPECIAL MODULE ON INTELLIGENT INFO. PROCESSING",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"SPD881",
+        "Course Name":"MPP MAJOR PROJECT - I",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"SPD882",
+        "Course Name":"MPP MAJOR PROJECT-II",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"SPL361",
+        "Course Name":"INFORMATION & COMMUNICATION TECHNOLOGIES AND SOCIETY",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"SPL704",
+        "Course Name":"INTRODUCTION TO PUBLIC POLICY AND STI",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"SPL706",
+        "Course Name":"SCIENCE, TECHNOLOGY, INNOVATION AND SUSTAINABLE DEVELOPMENT",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"SPL708",
+        "Course Name":"STATISTICS FOR PUBLIC POLICY",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"SPL709",
+        "Course Name":"PRINCIPLES OF ECONOMICS FOR PUBLIC POLICY",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"SPL720",
+        "Course Name":"ENERGY AND INFRASTRUCTURE FINANCE: A PUBLIC POLICY LENS",
+        "Slot Name":"AA"
+    },
+    {
+        "Course Code":"SPL724",
+        "Course Name":"ELECTRICITY SECTOR REFORMS IN THE RENEWABLES ERA",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"SPL750",
+        "Course Name":"QUALITATIVE RESEARCH METHODS FOR PUBLIC POLICY",
+        "Slot Name":"AC"
+    },
+    {
+        "Course Code":"SPL754",
+        "Course Name":"GEOGRAPHICAL INFORMATION SYSTEMS (GIS) FOR PUBLIC POLICY",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"SPL810",
+        "Course Name":"ADVANCED TOPICS IN POLICY STUDIES",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"SPV794",
+        "Course Name":"SPECIAL MODULE ON PUBLIC POLICY IN DATA, COMMUNICATION AND COMPUTATION",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"SPV798",
+        "Course Name":"SPECIAL MODULE ON PUBLIC POLICY IN TRANSPORT AND INFRASTRUCTURE",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"SPV799",
+        "Course Name":"SPECIAL MODULE IN POLICY STUDIES",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"DSD801",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"DSD802",
+        "Course Name":"MAJOR PROJECT PART-II",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"DSD895",
+        "Course Name":"MAJOR PROJECT (MSR)",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DSL601",
+        "Course Name":"ELECTRO. COMPONENTS & CIRCUITS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DSL603",
+        "Course Name":"MATERIAL & MECHANICAL DESIGN",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"DSL711",
+        "Course Name":"SENSORS AND TRANSDUCERS",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"DSL722",
+        "Course Name":"PRECISION MEASUREMENTS SYSTEMS",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"DSL731",
+        "Course Name":"OPTICAL COMPONENTS & BASIC IN.",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"DSL742",
+        "Course Name":"INTEGRATED QUANTUM PHOTONICS",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"DSP703",
+        "Course Name":"INSTRUMENT TECHNOLOGY LAB 1",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"TTL711",
+        "Course Name":"POLYMER AND FIBRE CHEMISTRY",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"TXD401",
+        "Course Name":"MAJOR PROJECT PART I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"TXD801",
+        "Course Name":"MAJOR PROJECT PART-I (TXE)",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"TXD802",
+        "Course Name":"MAJOR PROJECT PART-I (TXF)",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"TXD804",
+        "Course Name":"MAJOR PROJECT PART II",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"TXD805",
+        "Course Name":"MAJOR PROJECT PART-I",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"TXL111",
+        "Course Name":"TEXTILE FIBRES",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"TXL130",
+        "Course Name":"POLYMER CHEMISTRY",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"TXL212",
+        "Course Name":"MANUFACTURED FIBRE TECHNOLOGY",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"TXL222",
+        "Course Name":"YARN MANUFACTURE II",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"TXL232",
+        "Course Name":"FABRIC MANUFACTURE II",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"TXL242",
+        "Course Name":"TECH. OF TEXTILE COLORATION",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"TXL710",
+        "Course Name":"H.P. AND SPECIALTY FIBRES",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"TXL712",
+        "Course Name":"POLYMER AND FIBRE PHYSICS",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"TXL713",
+        "Course Name":"TECHNOLOGY OF MELT SPUN FIBRES",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"TXL719",
+        "Course Name":"FUNCTIONAL AND SMART TEXTILES",
+        "Slot Name":"AD"
+    },
+    {
+        "Course Code":"TXL721",
+        "Course Name":"THEORY OF YARN STRUCTURE",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"TXL722",
+        "Course Name":"MECHANICS OF SPINNING PROCESSE",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"TXL731",
+        "Course Name":"THEORY OF FABRIC STRUCTURE",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"TXL732",
+        "Course Name":"ADVANCED FABRIC MANUFACTURING",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"TXL734",
+        "Course Name":"NONWOVEN SCIENCE & ENGINEERING",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"TXL747",
+        "Course Name":"COLOUR SCIENCE",
+        "Slot Name":"A"
+    },
+    {
+        "Course Code":"TXL749",
+        "Course Name":"THEORY AND PRACTICE OFDYEING",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"TXL750",
+        "Course Name":"SCIENCE OF CLOTHING COMFORT",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"TXL752",
+        "Course Name":"DESIGN OF FUNCTIONAL CLOTHING",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"TXL753",
+        "Course Name":"ADVANCED TEXTILE PRINTINGTECHNOLOGY",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"TXL777",
+        "Course Name":"PRODUCT DESIGN AND DEVELOPMENT",
+        "Slot Name":"F"
+    },
+    {
+        "Course Code":"TXL785",
+        "Course Name":"HEAT AND MASS TRANSPORT IN FIBROUS MATERIALS",
+        "Slot Name":"J"
+    },
+    {
+        "Course Code":"TXP222",
+        "Course Name":"YARN MANUFACTURE LAB II",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"TXP232",
+        "Course Name":"FABRIC MANUFACTURE LAB II",
+        "Slot Name":"D"
+    },
+    {
+        "Course Code":"TXP242",
+        "Course Name":"TECH OF TEXTILE COLORATION LAB",
+        "Slot Name":"E"
+    },
+    {
+        "Course Code":"TXP711",
+        "Course Name":"POLYMER AND FIBRE CHEMISTRY LA",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"TXP712",
+        "Course Name":"POLYMER AND FIBRE PHYSICS LABO",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"TXP749",
+        "Course Name":"TEXTILE COLORATION LAB",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"TXP751",
+        "Course Name":"CHARACTERIZATION OF CHEMICALSAND FINISHED TEXTILES",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"TXQ301",
+        "Course Name":"SEMINAR COURSE 1",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"TXR752",
+        "Course Name":"PROFESSIONAL PRACTICES",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"TXS751",
+        "Course Name":"RESEARCH SEMINAR",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"TXT800",
+        "Course Name":"INDUSTRIAL SUMMER TRAINING",
+        "Slot Name":"P"
+    },
+    {
+        "Course Code":"TRD895",
+        "Course Name":"MS RESEARCH PROJECT",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"TRL700",
+        "Course Name":"MATHEMATICAL METHODS IN ROAD SAFETY",
+        "Slot Name":"AB"
+    },
+    {
+        "Course Code":"TRL701",
+        "Course Name":"TRANSPORTATION SAFETY AND INJURY PREVENTION PRINCIPLES",
+        "Slot Name":"K"
+    },
+    {
+        "Course Code":"TRL702",
+        "Course Name":"TRANSPORT AND HEALTH",
+        "Slot Name":"H"
+    },
+    {
+        "Course Code":"TRL710",
+        "Course Name":"TRANSPORT PLANNING FOR SUSTAINABLE CITIES",
+        "Slot Name":"B"
+    },
+    {
+        "Course Code":"TRL851A",
+        "Course Name":"SPECIAL TOPICS IN MOBILITY AND TRAFFIC SAFETY (THE CITY: A MULTIPLE PERSPECTIVE CONSTRUCT)",
+        "Slot Name":"M"
+    },
+    {
+        "Course Code":"TRL851B",
+        "Course Name":"PLANNING, PERFORMANCE, POLICIES, AND PRACTICES)",
+        "Slot Name":null
+    },
+    {
+        "Course Code":"TRV751",
+        "Course Name":"TRANSFORMATION OF THE TRANSPORT SYSTEM AND CITIES FOR A SUSTAINABLE FUTURE",
+        "Slot Name":"X"
+    },
+    {
+        "Course Code":"TRV754",
+        "Course Name":"EPIDEMIOLOGY METHODS IN TRAFFIC INJURY PREVENTION",
+        "Slot Name":"X"
+    }
+]
