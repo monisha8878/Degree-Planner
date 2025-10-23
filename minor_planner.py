@@ -4,7 +4,7 @@ class MinorPlanner:
     def __init__(self, minors_json_path="minors.json", all_courses_path="data.json"):
         """Initialize minor planner with minors data AND full course catalog"""
         with open(minors_json_path, "r") as f:
-            self.minors_data = json.load(f)
+            self.minors_data = json.load(f)                   # Load minors data from minors.json into python dictionary
         self.minors = self.minors_data["minors"]
         
         # Load data.json to get prerequisites
@@ -13,32 +13,42 @@ class MinorPlanner:
     
     def list_available_minors(self):
         """List all available minors"""
-        print("\n�� Available Minors:")
-        for i, minor in enumerate(self.minors, 1):
+        print("\n📚 Available Minors:")
+        for i, minor in enumerate(self.minors, 1):  #Prints all available minors with their name and department, enumerate(self.minors, 1) numbers them starting from 1.
             print(f"{i}. {minor['name']} ({minor['department']})")
-        return self.minors
+        return self.minors                          #self.minors is just the list of minors from the file.
     
     def get_minor_by_name(self, minor_name):
         """Get minor details by name"""
         for minor in self.minors:
-            if minor["name"].lower() == minor_name.lower():
+            if minor["name"].lower() == minor_name.lower(): # Case-insensitive match, Does this minor’s name match what the user typed, ignoring case?
                 return minor
         return None
-    
     def get_minor_requirements(self, minor_name):
-        """Get credit requirements for a minor"""
         minor = self.get_minor_by_name(minor_name)
         if not minor:
             return None
-        
+
+        # Handle core credits (number or range)
+        core_required = 0
+        if "core_credits_required" in minor:
+            core_required = minor["core_credits_required"]
+        elif "core_credits_required_range" in minor:
+            # Take the minimum as default
+            core_required = int(min(map(int, minor["core_credits_required_range"].split("-"))))
+
+        elective_required = minor.get("elective_credits_required", 0)
+
         return {
-            "core_required": minor.get("core_credits_required", 0),
-            "elective_required": minor.get("elective_credits_required", 0),
+            "core_required": core_required,
+            "elective_required": elective_required,
             "total_required": 20,
             "oc_allowance": 10,
             "unique_required": 10,
             "note": minor.get("note", "")
         }
+
+
     
     def get_minor_courses_with_full_data(self, minor_name):
         """
@@ -49,19 +59,19 @@ class MinorPlanner:
             'elective': [course_objects_with_prereqs]
         }
         """
-        minor = self.get_minor_by_name(minor_name)
+        minor = self.get_minor_by_name(minor_name)          # Get the minor dictionary of minor_name if it exists
         if not minor:
             return None
         
-        result = {'core': [], 'elective': []}
+        result = {'core': [], 'elective': []}               # Initialize result dictionary with empty lists for core and elective courses
         
         # Process core courses
-        for course in minor.get("core_courses", []):
+        for course in minor.get("core_courses", []):         # Iterate over each core course in the minor
             code = course["code"]
             
             # Get full data from data.json if available
             if code in self.all_courses:
-                full_course = self.all_courses[code].copy()
+                full_course = self.all_courses[code].copy()   # Make a copy of the course dictionary from all_courses
             else:
                 # Fallback to minors.json data
                 full_course = {
@@ -77,9 +87,9 @@ class MinorPlanner:
                 }
             
             # Tag as minor course
-            full_course["type"] = "Minor_Core"
-            full_course["minor_name"] = minor_name
-            result['core'].append(full_course)
+            full_course["type"] = "Minor_Core"                # Tag course type as Minor_Core
+            full_course["minor_name"] = minor_name            # Add minor name for reference
+            result['core'].append(full_course)                  # Append to core courses list
         
         # Process elective courses
         for course in minor.get("elective_courses", []):
@@ -102,6 +112,7 @@ class MinorPlanner:
             
             full_course["type"] = "Minor_Elective"
             full_course["minor_name"] = minor_name
+            full_course["scheduled"] = False
             result['elective'].append(full_course)
         
         return result
@@ -158,6 +169,8 @@ class MinorPlanner:
             'non_overlapping_codes': non_overlapping
         }
     
+
+
     def add_minor_to_courses_left(self, minor_name, courses_left, program_courses, 
                                   current_semester, parse_prereqs_func):
         """
@@ -185,23 +198,24 @@ class MinorPlanner:
                 print(f"     ❌ {code} (already in your Core/DE)")
             print(f"   Overlapping credits: {overlap_info['overlapping_credits']}")
             print(f"   ⚠️  These DON'T count toward the 20-credit minor!")
+        # Mark specific electives as already scheduled
         
         # Add non-overlapping courses to future semesters
         courses_added = 0
         
         for sem in range(current_semester, 9):
-            if sem not in courses_left:
+            if sem not in courses_left:                                     # Initialize semester if not present
                 courses_left[sem] = []
             
             # Add core courses (non-overlapping only)
             for course in minor_courses['core']:
-                if course["code"] in overlap_info['non_overlapping_codes']:
+                if course["code"] in overlap_info['non_overlapping_codes']: # Only add if not overlapping
                     # Parse prereqs using your function
                     prereq_string = course.get("prereqs", "")
                     course["prereqs_parsed"] = parse_prereqs_func(prereq_string)
                     
                     # Add if not duplicate
-                    if not any(c["code"] == course["code"] for c in courses_left[sem]):
+                    if not any(c["code"] == course["code"] for c in courses_left[sem]):     # Check for duplicates before adding to semester
                         courses_left[sem].append(course)
                         if sem == current_semester:
                             courses_added += 1
@@ -234,3 +248,19 @@ if __name__ == "__main__":
         print(f"\n✅ Testing get_minor_requirements:")
         print(f"   Core: {req['core_required']}")
         print(f"   Total: {req['total_required']}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

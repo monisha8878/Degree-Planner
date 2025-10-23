@@ -120,6 +120,134 @@
           "credits": 3
         },
         {
+          "code": "ASL750",
+          "name": "Boundary Layer Meteorology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL751",
+          "name": "Dispersion of Air Pollutants",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL752",
+          "name": "Mesoscale Meteorology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL753",
+          "name": "Atmospheric Aerosols",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL754",
+          "name": "Cloud Physics",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL755",
+          "name": "Remote Sensing of the Atmosphere and Ocean",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL756",
+          "name": "Synoptic Meteorology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL757",
+          "name": "Tropical Weather and Climate",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL758",
+          "name": "General Circulation of the Atmosphere",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL759",
+          "name": "Land-Atmosphere Interactions",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL760",
+          "name": "Renewable Energy Meteorology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL761",
+          "name": "Earth System Modelling",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL762",
+          "name": "Air-Sea Interaction",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL763",
+          "name": "Coastal Ocean and Estuarine Processes",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASL765",
+          "name": "Impacts of Climate Change and Air Pollution on Human Health",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "ASV892",
+          "name": "An Introduction to Renewable Energy Meteorology",
+          "lecture": 1,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 1
+        },
+        {
           "code": "ASL822",
           "name": "Climate Variability",
           "lecture": 3,
@@ -185,16 +313,24 @@
           "credits": 3
         },
         {
-          "code": "SBL703",
-          "name": "Advanced Cell Biology",
+          "code": "SBL704",
+          "name": "Human Virology",
           "lecture": 3,
           "tutorial": 0,
           "practical": 0,
           "credits": 3
         },
         {
-          "code": "SBL704",
-          "name": "Human Virology",
+          "code": "SBL707",
+          "name": "Bacterial Pathogenesis",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL708",
+          "name": "Epigenetics in Health and Disease",
           "lecture": 3,
           "tutorial": 0,
           "practical": 0,
@@ -207,6 +343,198 @@
           "tutorial": 0,
           "practical": 0,
           "credits": 3
+        },
+        {
+          "code": "SBL703",
+          "name": "Advanced Cell Biology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL706",
+          "name": "Biologics",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL709",
+          "name": "Marine Bioprospecting",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL710",
+          "name": "Chemical Biology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL711",
+          "name": "Cell Signalling",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL712",
+          "name": "Dynamics of Infection Biology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL713",
+          "name": "Introduction to structural Biology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL714",
+          "name": "Plant Biology and Human Health",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL720",
+          "name": "Genome and Healthcare",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL721",
+          "name": "Techniques in Biomolecular Interactions",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL722",
+          "name": "Stem Cell Biology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL723",
+          "name": "Principles of Neural Excitability and Communication",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL724",
+          "name": "Decoding Protein Modifications in Biology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL725",
+          "name": "Endocytosis and Intracellular Trafficking",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL726",
+          "name": "Biological Motors",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL727",
+          "name": "Advanced Developmental Biology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL728",
+          "name": "Biological Physics",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL729",
+          "name": "Emerging Trends in Tumor Biology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL750",
+          "name": "Quantitative Biology",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL751",
+          "name": "Chemical and Molecular Foundation of Cell",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL801",
+          "name": "Signal Transduction and Drug Target Identification",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBL802",
+          "name": "Macromolecular Structure and Data Processing",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBV898",
+          "name": "Techniques in Mammalian Cell Culture",
+          "lecture": 3,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 3
+        },
+        {
+          "code": "SBV899",
+          "name": "Assays in Drug Development",
+          "lecture": 1,
+          "tutorial": 0,
+          "practical": 0,
+          "credits": 1
         }
       ]
     },
@@ -249,48 +577,7 @@
       ],
       "core_credits_required": 12,
       "elective_credits_required": 9,
-      "elective_courses": [
-        {
-          "code": "MSL310",
-          "name": "Financial Institutions and Markets",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "MSL711",
-          "name": "Strategic Management",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "MSL713",
-          "name": "Information Systems Management",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "MSL719",
-          "name": "Statistics for Management",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "MSL720",
-          "name": "Macroeconomic Environment of Business",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        }
-      ]
+      "note": "All four core courses required (12 credits), plus 9 credits from electives"
     },
     {
       "name": "Entrepreneurship",
@@ -339,56 +626,7 @@
       ],
       "core_credits_required": 12,
       "elective_credits_required": 9,
-      "elective_courses": [
-        {
-          "code": "MSL301",
-          "name": "Organization & People Management",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "MSL302",
-          "name": "Managerial Accounting & Financial Management",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "MSL303",
-          "name": "Marketing Management",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "MSL304",
-          "name": "Managing Operations",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "MSL401",
-          "name": "Entrepreneurial Design Thinking",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "MSL402",
-          "name": "Social Innovation & Entrepreneurship",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        }
-      ]
+      "note": "5 core courses (12 credits total), plus 3 elective courses (9 credits)"
     },
     {
       "name": "Economics",
@@ -428,48 +666,7 @@
         }
       ],
       "core_credits_required": 8,
-      "elective_courses": [
-        {
-          "code": "HUL311",
-          "name": "Applied Game Theory",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "HUL314",
-          "name": "International Economics",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "HUL315",
-          "name": "Econometric Methods",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "HUL316",
-          "name": "Indian Economic Problems and Policies",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "HSD700",
-          "name": "Minor Project",
-          "lecture": 0,
-          "tutorial": 0,
-          "practical": 6,
-          "credits": 3
-        }
-      ]
+      "note": "Minimum of 8 credits from core courses"
     },
     {
       "name": "Computational Mechanics",
@@ -486,48 +683,6 @@
         {
           "code": "APL705",
           "name": "Finite Element Method",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 2,
-          "credits": 4
-        }
-      ],
-      "elective_courses": [
-        {
-          "code": "APD311",
-          "name": "Project",
-          "lecture": 0,
-          "tutorial": 0,
-          "practical": 8,
-          "credits": 4
-        },
-        {
-          "code": "APL310",
-          "name": "Constitutive Modelling",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 2,
-          "credits": 4
-        },
-        {
-          "code": "APL340",
-          "name": "Chaos",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 2,
-          "credits": 4
-        },
-        {
-          "code": "APL380",
-          "name": "Biomechanics",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "APL410",
-          "name": "Computational Fluid Dynamics",
           "lecture": 3,
           "tutorial": 0,
           "practical": 2,
@@ -566,48 +721,7 @@
       ],
       "core_credits_required": 10,
       "elective_credits_required": 10,
-      "elective_courses": [
-        {
-          "code": "DSL782",
-          "name": "Design for Usability",
-          "lecture": 2,
-          "tutorial": 0,
-          "practical": 2,
-          "credits": 3
-        },
-        {
-          "code": "DSR832",
-          "name": "Design for User Experience",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "DSR862",
-          "name": "Design in Indian Context",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "DSR852",
-          "name": "Strategic Design Management",
-          "lecture": 2,
-          "tutorial": 0,
-          "practical": 2,
-          "credits": 3
-        },
-        {
-          "code": "DSR822",
-          "name": "Design for Sustainability",
-          "lecture": 2,
-          "tutorial": 0,
-          "practical": 2,
-          "credits": 3
-        }
-      ]
+      "note": "Total 10 credits from core, minimum 10 credits from electives"
     },
     {
       "name": "Computer Science",
@@ -718,82 +832,102 @@
           "credits": 3
         }
       ],
-      "core_credits_required": 12,
-      "note": "Minimum of three courses from core",
       "elective_courses": [
-        {
-          "code": "COD310",
-          "name": "Mini Project",
-          "lecture": 0,
-          "tutorial": 0,
-          "practical": 6,
-          "credits": 3
-        },
-        {
-          "code": "COL341",
-          "name": "Machine Learning",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 2,
-          "credits": 4
-        },
-        {
-          "code": "COL740",
-          "name": "Software Engineering",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 2,
-          "credits": 4
-        },
-        {
-          "code": "COL759",
-          "name": "Cryptography & Computer Security",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "COL761",
-          "name": "Data Mining",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 2,
-          "credits": 4
-        },
-        {
-          "code": "COL770",
-          "name": "Advanced Artificial Intelligence",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 2,
-          "credits": 4
-        },
-        {
-          "code": "COL772",
-          "name": "Natural Language Processing",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 2,
-          "credits": 4
-        },
-        {
-          "code": "COL774",
-          "name": "Machine Learning",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 2,
-          "credits": 4
-        },
-        {
-          "code": "COL780",
-          "name": "Computer Vision",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 2,
-          "credits": 4
-        }
-      ]
+          {"code": "COD300", "name": "Design Project (Non-Graded)", "lecture": 0, "tutorial": 0, "practical": 4, "credits": 2,"scheduled": false},
+          {"code": "COD310", "name": "Mini Project", "lecture": 0, "tutorial": 0, "practical": 6, "credits": 3, "scheduled": false},
+          {"code": "COP315", "name": "Embedded System Design Project", "lecture": 0, "tutorial": 1, "practical": 6, "credits": 4, "scheduled": false},
+          {"code": "COL320", "name": "Computer Vision", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,    "scheduled": false},
+          {"code": "COL322", "name": "Digital Image Processing", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL330", "name": "Information Security", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL336", "name": "Natural Language Processing", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL338", "name": "Robotics", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL340", "name": "Data Science", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL341", "name": "Machine Learning", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL718", "name": "Architecture of High Performance Computers", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL719", "name": "Synthesis of Digital Systems", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL722", "name": "Introduction to Compressed Sensing", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL724", "name": "Advanced Computer Networks", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL726", "name": "Numerical Algorithms", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL727", "name": "Rapid Mising in Markov Chains", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL728", "name": "Compiler Design", "lecture": 3, "tutorial": 0, "practical": 3, "credits": 4.5,  "scheduled": false},
+          {"code": "COL729", "name": "Compiler Optimization", "lecture": 3, "tutorial": 0, "practical": 3, "credits": 4.5,  "scheduled": false},
+          {"code": "COL730", "name": "Parallel Programming", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL732", "name": "Virtualization and Cloud Computing", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL733", "name": "Cloud Computing Technology Fundamentals", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL740", "name": "Software Engineering", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL750", "name": "Foundations of Automatic Verification", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL751", "name": "Algorithmic Graph Theory", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL752", "name": "Geometric Algorithms", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL753", "name": "Complexity Theory", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL754", "name": "Approximation Algorithms", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL756", "name": "Mathematical Programming", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL757", "name": "Model Centric Algorithm Design", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL758", "name": "Advanced Algorithms", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL759", "name": "Cryptography & Computer Security", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL760", "name": "Advanced Data Management", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL761", "name": "Data Mining", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL762", "name": "Database Implementation", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL763", "name": "Big Data Analytics", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL764", "name": "Information Retrieval and Web Search", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL765", "name": "Introduction to Logic and Functional Programming", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL766", "name": "Advanced Operating Systems", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL767", "name": "Advanced Computer Architecture", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL768", "name": "Wireless Networks", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL769", "name": "Mobile Computing", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL770", "name": "Advanced Artificial Intelligence", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4},
+          {"code": "COL772", "name": "Natural Language Processing", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL774", "name": "Machine Learning", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL776", "name": "Learning Probabilistic Graphical Models", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL780", "name": "Computer Vision", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL781", "name": "Computer Graphics", "lecture": 3, "tutorial": 0, "practical": 3, "credits": 4.5,  "scheduled": false},
+          {"code": "COL782", "name": "Image Processing", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL783", "name": "Digital Image Analysis", "lecture": 3, "tutorial": 0, "practical": 3, "credits": 4.5,  "scheduled": false},
+          {"code": "COL784", "name": "Pattern Recognition", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL785", "name": "Computational Neuroscience", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL786", "name": "Advanced Functional Brain Imaging", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL787", "name": "VLSI Design", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL788", "name": "Advanced Topics in Embedded Computing", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL812", "name": "System Level Design and Modelling", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL818", "name": "Principles of Multiprocessor Systems", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL819", "name": "Advanced Distributed Systems", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COP820", "name": "Processor Design Laboratory", "lecture": 0, "tutorial": 0, "practical": 8, "credits": 4,  "scheduled": false},
+          {"code": "COL821", "name": "Reconfigurable Computing", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL829", "name": "Advanced Computer Graphics", "lecture": 3, "tutorial": 0, "practical": 2, "credits": 4,  "scheduled": false},
+          {"code": "COL830", "name": "Distributed Computing", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL831", "name": "Semantics of Programming Languages", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL832", "name": "Proofs and Types", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL851", "name": "Special Topics in Operating Systems", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL852", "name": "Special Topics in Compilers", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL860", "name": "Special Topics in Parallel Computation", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL861", "name": "Special Topics in Hardware Systems", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL862", "name": "Special Topics in Software Systems", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL863", "name": "Special Topics in Theoretical Computer Science", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL864", "name": "Special Topics in Artificial Intelligence", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL865", "name": "Special Topics in Computer Applications", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL866", "name": "Special Topics in Algorithms", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL867", "name": "Special Topics in High Speed Networks", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL868", "name": "Special Topics in Database Systems", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL869", "name": "Special Topics in Concurrency", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL870", "name": "Special Topics in Machine Learning", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL871", "name": "Special Topics in Programming Languages", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL872", "name": "Special Topics in Cryptography", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL873", "name": "Special Topics in Natural Language Processing", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL874", "name": "Special Topics in Compilers and Language Implementation", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL876", "name": "Special Topics in Formal Methods", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COL886", "name": "Special Topics in Operating Systems", "lecture": 3, "tutorial": 0, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COD891", "name": "Minor Project", "lecture": 0, "tutorial": 0, "practical": 6, "credits": 3,  "scheduled": false},
+          {"code": "COD892", "name": "M.Tech. Project Part-I", "lecture": 0, "tutorial": 0, "practical": 147, "credits": 0,  "scheduled": false},
+          {"code": "COD893", "name": "M.Tech. Project Part-II", "lecture": 0, "tutorial": 0, "practical": 2814, "credits": 0,  "scheduled": false},
+          {"code": "COR310", "name": "Professional Practices (CS)", "lecture": 1, "tutorial": 0, "practical": 2, "credits": 2,  "scheduled": false},
+          {"code": "COS310", "name": "Independent Study (CS)", "lecture": 0, "tutorial": 3, "practical": 0, "credits": 3,  "scheduled": false},
+          {"code": "COV877", "name": "Special Module on Visual Computing", "lecture": 1, "tutorial": 0, "practical": 0, "credits": 1,  "scheduled": false},
+          {"code": "COV878", "name": "Special Module in Machine Learning", "lecture": 1, "tutorial": 0, "practical": 0, "credits": 1,  "scheduled": false},
+          {"code": "COV879", "name": "Special Module in Financial Algorithms", "lecture": 2, "tutorial": 0, "practical": 0, "credits": 2,  "scheduled": false},
+          {"code": "COV880", "name": "Special Module in Parallel Computation", "lecture": 1, "tutorial": 0, "practical": 0, "credits": 1,  "scheduled": false}
+      ],
+      "core_credits_required_range": "12-15",
+      "elective_credits_required": 10,
+      "note": "A student needs to do a minimum of three courses out of Minor Area Core and remaining courses from Minor Area Electives"
     },
     {
       "name": "Cogeneration and Energy Efficiency",
@@ -824,107 +958,17 @@
           "credits": 3
         }
       ],
-      "core_credits_required": 9,
-      "elective_courses": [
-        {
-          "code": "ESL714",
-          "name": "Power Plant Engineering",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "ESL722",
-          "name": "Integrated Energy Systems",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "ESL726",
-          "name": "Waste Heat Recovery",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "ESL786",
-          "name": "Exergy Analysis",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        }
-      ]
+      "core_credits_required": 9
     },
     {
       "name": "Renewable Energy",
       "department": "Department of Energy Science and Engineering",
-      "elective_courses": [
-        {
-          "code": "ESP713",
-          "name": "Energy Laboratories",
-          "lecture": 0,
-          "tutorial": 0,
-          "practical": 6,
-          "credits": 3
-        },
-        {
-          "code": "ESL731",
-          "name": "Biomass - A Renewable Resource",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "ESL732",
-          "name": "Bioconversion and Processing of Waste",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "ESL755",
-          "name": "Solar Photovoltaic Devices and Systems",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "ESL768",
-          "name": "Wind Energy and Hydro Power Systems",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "ESL770",
-          "name": "Solar Energy Utilization",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "ESL880",
-          "name": "Solar Thermal Power Generation",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        }
-      ]
+      "note": "Only elective courses available, no core courses specified"
     },
     {
       "name": "Technologies for Sustainable Rural Development",
       "department": "Centre for Rural Development and Technology",
+      "core_courses_note": "Any three of the following courses",
       "core_courses": [
         {
           "code": "RDL700",
@@ -975,34 +1019,7 @@
           "credits": 3
         }
       ],
-      "core_credits_required": 9,
-      "note": "Any three of the core courses",
-      "elective_courses": [
-        {
-          "code": "RDL701",
-          "name": "Rural Industrialization Policies, Programmes and Cases",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "RDL710",
-          "name": "Rural India and Planning for Development",
-          "lecture": 3,
-          "tutorial": 0,
-          "practical": 0,
-          "credits": 3
-        },
-        {
-          "code": "RDD750",
-          "name": "Minor Project",
-          "lecture": 0,
-          "tutorial": 0,
-          "practical": 6,
-          "credits": 3
-        }
-      ]
+      "core_credits_required": 9
     }
   ]
 }

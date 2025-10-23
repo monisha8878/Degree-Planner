@@ -16,7 +16,9 @@ CONFIG = {
     "MIN_DE_CREDITS":15,
 
      # MINOR SETTINGS
-    "MINOR_TOTAL_CREDITS": 20,          # total credits required for a minor
+    "MINOR_TOTAL_CREDITS": 20,          # minimum total credits required for a minor
+    "MINOR_CORE_MIN": 12,               # minimum core credits for a minor
+    "MINOR_CORE_MAX": 15,               # maximum core credits for a minor           
     "MINOR_OC_CREDITS": 10,             # minimum open choice credits for a minor
     "MINOR_UNIQUE_CREDITS": 10,         # minimum unique credits (not shared with core) for a minor(electives)
     "MAX_MINOR_PER_SEM": 2,             # max minor courses per semester
@@ -192,7 +194,7 @@ user = UserData(
     ],
     
     completed_minor=[
-        'COL100',  # This was in your major, counts for minor too
+        'COL100',  # This was in your major, counts for minor too 
         'COL106',  # This was in your major, counts for minor too
     ],
     
