@@ -93,7 +93,7 @@ def parse_prereqs(prereq_string):
 
 
 # 1️⃣ Load master data JSON
-with open("data.json", "r") as f:
+with open("data.json", "r",encoding="utf-8") as f:
     all_courses = json.load(f)  # dict with course_code as key
 
 # 2️⃣ Extract recommended courses semester-wise
@@ -145,7 +145,7 @@ for sem_idx, course_list in enumerate(recommended_courses, start=1):
 
 # 3️⃣ Save to a JSON file (optional)
 output_file = f"{dept_code}_courses_data.json"
-with open(output_file, "w") as f:
+with open(output_file, "w",encoding="utf-8") as f:
     json.dump(selected_courses, f, indent=4)
 
 print(f"✅ Department courses saved to '{output_file}'")
@@ -265,7 +265,7 @@ print("="*70 + "\n")
 
 # Save courses_left
 output_file = "courses_left.json"
-with open(output_file, "w") as f:
+with open(output_file, "w",encoding="utf-8") as f:
     json.dump(courses_left, f, indent=4)
 
 print(f"✅ Courses left saved to '{output_file}'")
@@ -472,7 +472,7 @@ if SELECTED_MINOR:
     )
     
     # Save updated courses_left
-    with open("courses_left.json", "w") as f:
+    with open("courses_left.json", "w",encoding="utf-8") as f:
         json.dump(courses_left, f, indent=4)
     
     # Update user

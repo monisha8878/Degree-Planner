@@ -3,12 +3,12 @@ import json
 class MinorPlanner:
     def __init__(self, minors_json_path="minors.json", all_courses_path="data.json"):
         """Initialize minor planner with minors data AND full course catalog"""
-        with open(minors_json_path, "r") as f:
+        with open(minors_json_path, "r",encoding="utf-8") as f:
             self.minors_data = json.load(f)
         self.minors = self.minors_data["minors"]
         
         # Load data.json to get prerequisites
-        with open(all_courses_path, "r") as f:
+        with open(all_courses_path, "r",encoding="utf-8") as f:
             self.all_courses = json.load(f)
     
     def list_available_minors(self):
