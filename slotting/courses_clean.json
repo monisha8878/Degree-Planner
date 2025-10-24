@@ -1,0 +1,5762 @@
+[
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"AML832",
+        "Course Name":"APPLICATIONS OF THEORY OF PLATES AND SHELLS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"AMP262",
+        "Course Name":"FLUIDS & SOLIDS LABORATORY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL100",
+        "Course Name":"ENGINEERING MECHANICS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL101",
+        "Course Name":"APPLIED MATHEMATICS FOR ENGINEERS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL103",
+        "Course Name":"EXPERIMENTAL METHODS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL104",
+        "Course Name":"SOLID MECHANICS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL106",
+        "Course Name":"FLUID MECHANICS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL107",
+        "Course Name":"MECHANICS OF FLUIDS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL108",
+        "Course Name":"MECHANICS OF SOLIDS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL203",
+        "Course Name":"DYNAMICS OF MECHANICAL SYSTEMS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL205",
+        "Course Name":"BASICS OF COMPUTER AIDED DESIGN",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL207",
+        "Course Name":"HEAT TRANSFER",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL302",
+        "Course Name":"BASICS OF PRODUCT DE",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL361",
+        "Course Name":"ADVANCED FLUID DYNAMICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL380",
+        "Course Name":"BIOMECHANICS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL390",
+        "Course Name":"EXPERIMENTAL TECHNIQUES IN FLUIDS AND SOLIDS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL410",
+        "Course Name":"MULTI-SCALE MODELING AND COMPUTATION",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL701",
+        "Course Name":"CONTINUUM MECHANICS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL702",
+        "Course Name":"EXPERIMENTAL METHODS FOR SOLIDS AND FLUIDS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL703",
+        "Course Name":"ENGINEERING MATHEMATIC & COMP.",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL715",
+        "Course Name":"PHYSICS OF TURBULENT FLOWS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL734",
+        "Course Name":"ADVANCED DYNAMICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL744",
+        "Course Name":"PROBABILISTIC MACHINE LEARNING FOR MECHANICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL771",
+        "Course Name":"DECISION THEORY & DESIGN OPTIMIZATION",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL775",
+        "Course Name":"DESIGN METHODS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL805",
+        "Course Name":"ADVANCED FINITE ELEMENT METHOD",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL831",
+        "Course Name":"THEORY OF PLATES AND SHELLS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL131",
+        "Course Name":"PRINCIPLES OF BIOCHEMISTRY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL132",
+        "Course Name":"GENERAL MICROBIOLOGY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL133",
+        "Course Name":"MASS & ENERGY BALANCES IN BIO.",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL231",
+        "Course Name":"MOLECULAR BIOLOGY & GENETICS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL331",
+        "Course Name":"BIOPROCESS ENGINEERING",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL731",
+        "Course Name":"BIOSEPARATION ENGINEERING",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL732",
+        "Course Name":"BIOPROCESS PLANT DESIGN",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL733",
+        "Course Name":"RECOMBINANT DNA TECHNOLOGY",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL735",
+        "Course Name":"GENOMICS AND PROTEOMICS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL737",
+        "Course Name":"INST. & ANA. METH. IN BIOENGG.",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL771",
+        "Course Name":"MICROBIAL BIOCHEMISTRY AND MOLECULAR BIOLOGY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL772",
+        "Course Name":"DATA ANALYTICS AND INFORMATICS FOR BIOTECHNOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL773",
+        "Course Name":"APPLIED MATHEMATICS FOR BIOCHEMICAL ENGINEERING",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CRL601",
+        "Course Name":"BASICS OF STATISTICAL SIGNAL A",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CRL611",
+        "Course Name":"BASICS OF RF AND MICROWAVES",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CRL707",
+        "Course Name":"HUMAN & MACHINE SPEECH COMMUNICATION",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CRL709",
+        "Course Name":"UNDERWATER ELECTRONIC SYSTEMS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CRL711",
+        "Course Name":"CAD OF RF AND MICROWAVE DEVICES",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CRL715",
+        "Course Name":"RADIATING SYSTEM FOR RF COMMUNICATION",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CRL725",
+        "Course Name":"TECHNOLOGY OF RF AND MICROWAVE SOLID STATE DEVICES",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CRL729",
+        "Course Name":"SENSORS AND TRANSDUCERS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL350",
+        "Course Name":"INTRODUCTION TOOCEANOGRAPHY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL360",
+        "Course Name":"THE EARTH`S ATMOSPHERE: PHYSICAL PRINCIPLES",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL375",
+        "Course Name":"CLIMATE OF THE PAST: LESSONS FOR THE FUTURE",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL385",
+        "Course Name":"FUNDAMENTALS OF AIR POLLUTION SCIENCE",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL732",
+        "Course Name":"MATHEMATICAL AND COMPUTATIONAL",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL733",
+        "Course Name":"PHYSICS OF THE ATMOSPHERE",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL734",
+        "Course Name":"DYNAMICS OF THE ATMOSPHERE",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL735",
+        "Course Name":"ATMOSPHERIC CHEMISTRY AND AIR",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL736",
+        "Course Name":"SCIENCE OF CLIMATE CHANGE",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL737",
+        "Course Name":"PHYSICAL AND DYNAMICAL OCEANOGRAPHY",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL755",
+        "Course Name":"REMOTE SENSING OF THE ATMOSPHERE AND OCEAN",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL762",
+        "Course Name":"AIR - SEA INTERACTION",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CTL703",
+        "Course Name":"INTRODUCTION TO ELECTRIC VEHICLES",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CTL705",
+        "Course Name":"ENGINEERING OF ELECTRIC VEHICLES",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CTL709",
+        "Course Name":"CHARGING INFRASTRUCTURE FOR EVS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CTL729",
+        "Course Name":"AUTOMOTIVE RELIABILITY AND LIFE TESTING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BML300",
+        "Course Name":"INTRODUCTION TO HEALTHCARE ENGINEERING",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BML770",
+        "Course Name":"FUNDAMENTALS OF BIOMECHANICS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BML772",
+        "Course Name":"BIOFABRICATION",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BML815",
+        "Course Name":"SELECTED TOPICS IN BIOMEDICAL ENGINEERING",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BML850",
+        "Course Name":"CANCER : DIAGNOSIS AND THERAPY",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BMV701",
+        "Course Name":"BASIC ELECTRONICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BMV703",
+        "Course Name":"BASIC BIOLOGY & PHYSIOLOGY",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL700",
+        "Course Name":"BIOMAS PRODUCTION",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL705",
+        "Course Name":"RURAL RESOURCES AND LIVEIHODS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL710",
+        "Course Name":"RURAL INDIA AND PLANNING FOR DEVELOPMENT",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL728",
+        "Course Name":"RURAL ENERGY ASSESSMENT AND PLANNING",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL761",
+        "Course Name":"VALUE CHAIN IN AGRO-FOOD PROCESSING",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL780",
+        "Course Name":"RURAL INNOVATION & ENTREPRENEURSHIP",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL110",
+        "Course Name":"TRANSPORT PHENOMENA",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL110",
+        "Course Name":"TRANSPORT PHENOMENA",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL111",
+        "Course Name":"MATERIAL AND ENERGY BALANCE",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL113",
+        "Course Name":"NUMERICAL METHODS IN CHEMICAL",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL141",
+        "Course Name":"INTRODUCTION TO MATERIALS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL222",
+        "Course Name":"CHEMICAL REACTION ENGG - II",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL252",
+        "Course Name":"MASS TRANSFER I",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL252B",
+        "Course Name":"MASS TRANSFER I",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL261",
+        "Course Name":"PROCESS DYNAMICS AND CONTROL",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL271",
+        "Course Name":"INTRO TO INDUSTRIAL BIOTECH.",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL331",
+        "Course Name":"FLUID PARTICLE MECHANICS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL701",
+        "Course Name":"MODELLING OF TRANSPORT PROCESS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL702",
+        "Course Name":"PRINCIPLES OF THERMODYNAMICS,",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL703",
+        "Course Name":"PROCESS ENGINEERING",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL704",
+        "Course Name":"NATURAL GAS PROCESSING",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL707",
+        "Course Name":"POPULATION BALANCE MODELING",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL722",
+        "Course Name":"ELECTROCHEM. CONV. & STO. DEV.",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL763",
+        "Course Name":"FUNDAMENTALS OF CAPILLARITY AND WETTING",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL770",
+        "Course Name":"INTRODUCTION TO MICROFLUIDICS AND MICROFABRICATION",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL777",
+        "Course Name":"COMPLEX FLUIDS TECHNOLOGY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL794",
+        "Course Name":"PETROLEUM REFINERY ENGINEERING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL798",
+        "Course Name":"SEL. TOPICS IN CHEM. ENGG. - I",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL799",
+        "Course Name":"SEL. TOPICS IN CHEM. ENGG.- II",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLP301",
+        "Course Name":"CHEMICAL ENGINEERING LAB I",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLP303",
+        "Course Name":"CHEMICAL ENGINEERING LAB - III",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML101",
+        "Course Name":"INTRODUCTION TO CHEMISTRY",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML102",
+        "Course Name":"CHEMICAL SYNT. OF FUNC. METER.",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML103",
+        "Course Name":"CHEMISTRY OF INTERFACES",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML511",
+        "Course Name":"QUANTUM CHEMISTRY",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML512",
+        "Course Name":"STEREOCHEM. & ORG. REAC. MECH.",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML513",
+        "Course Name":"PHOTOCHEM. & PERICYCLIC REACT.",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML514",
+        "Course Name":"MAIN GROUP CHEMISTRY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML515",
+        "Course Name":"INSTRUMENTAL METHODS OF ANALYS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML631",
+        "Course Name":"MOLECULAR BIOCHEMISTRY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML661",
+        "Course Name":"SOLID STATE CHEMISTRY",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML664",
+        "Course Name":"GROUP THEORY & SPECTROSCOPY",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML674",
+        "Course Name":"PH. METHODS OF STRUCTURALDET. OF ORGANIC COMPOUNDS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML681",
+        "Course Name":"PHYSICAL METHODS IN INORGANIC CHEMISTRY",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML684",
+        "Course Name":"BIO-INORGANIC CHEMISTRY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML696",
+        "Course Name":"PHYSICAL ORGANIC CHEMISTRY",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML721",
+        "Course Name":"DESIGN AND SYNTHESIS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML724",
+        "Course Name":"SYNTHESIS OF INDUSTRIALLY IMPO",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML731",
+        "Course Name":"SEPARATION AND ELECTROANALYTIC",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML733",
+        "Course Name":"CHEMISTRY OF INDUSTRIAL CATALY",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML741",
+        "Course Name":"ORGANO AND ORGANOMETALLIC CATA",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML743",
+        "Course Name":"PHYSICAL ORGANIC CHEMISTRY ADVANCED",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL100A",
+        "Course Name":"ENVIRONMENTAL SCIENCE",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL100B",
+        "Course Name":"ENVIRONMENTAL SCIENCE",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL111",
+        "Course Name":"ELEMENTS OF SURVEYING",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL121",
+        "Course Name":"ENGINEERING GEOLOGY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL141",
+        "Course Name":"CIVIL ENGINEERING MATERIALS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL243",
+        "Course Name":"RC DESIGN",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL245",
+        "Course Name":"CONSTRUCTION MANAGEMENT",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL282",
+        "Course Name":"ENGINEERING HYDROLOGY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL311",
+        "Course Name":"INDUSTRIAL WASTE MANAGEMENT",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL321",
+        "Course Name":"GEOTECHNICAL ENGINEERING",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL341",
+        "Course Name":"STRUCTURAL ANALYSIS II",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL421",
+        "Course Name":"GROUND ENGINEERING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL441",
+        "Course Name":"STRUCTURAL DESIGN",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL485",
+        "Course Name":"RIVER MECHANICS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL700",
+        "Course Name":"ENGINEERING BEHAVIOUR OF SOILS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL701",
+        "Course Name":"SITE INVESTIGATION AND FOUNDAT",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL704",
+        "Course Name":"FINITE ELEMENT METHOD IN GEOTE",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL710",
+        "Course Name":"ENGINEERING PROPERTIES OF ROCK",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL711",
+        "Course Name":"STRUCTURAL GEOLOGY",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL716",
+        "Course Name":"ENVIRONMENTAL ROCK ENGINEERING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL720",
+        "Course Name":"AIR POLLUTION AND CONTROL",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL722",
+        "Course Name":"WATER ENGINEERING",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL730",
+        "Course Name":"HYDROLOGIC PROCESSES AND MODEL",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL731",
+        "Course Name":"OPTIMIZATION TECH. IN WATER RE",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL732",
+        "Course Name":"GROUNDWATER HYDROLOGY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL735",
+        "Course Name":"FINITE ELEMENT IN WATER RESOU.",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL738",
+        "Course Name":"ECONOMIC ASPECTS OF WA. RE. DE",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL740",
+        "Course Name":"PAVEMENT MATERIALS AND DESIGN",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL742",
+        "Course Name":"TRAFFIC ENGINEERING",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL743",
+        "Course Name":"AIRPORT PLANNING AND DESIGN",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL746",
+        "Course Name":"PUBLIC TRANSPORTATION SYSTEMS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL748",
+        "Course Name":"DATA ANALYSIS FOR TRANSPORTATION ENGINEERING",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL756",
+        "Course Name":"ADVANCED STRUCTURAL ANALYSIS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL757",
+        "Course Name":"FINITE ELEMENT METHODS IN STR",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL758",
+        "Course Name":"SOLID MECHANICS IN STRUCTURAL",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL759",
+        "Course Name":"STRUCTURAL DYNAMICS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL771",
+        "Course Name":"ADVANCED CONCRETE TECHNOLOGY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL772",
+        "Course Name":"CONSTRUCTION PROJECT MANAGEMEN",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL773",
+        "Course Name":"QUANTITATIVE METHODS IN CONSTR",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL777",
+        "Course Name":"BUILDING SCIENCE",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL779",
+        "Course Name":"FORMWORK FOR CONCRETE STRUCTU",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL801",
+        "Course Name":"CONSTITUTIVE MODELLING INGEOTECHNICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL829",
+        "Course Name":"INDOOR ENVIRONMENTAL QUALITY: THEORY AND PRACTICE",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL839",
+        "Course Name":"HYDROLOGIC APP. OF REMOTE SEN.",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL841",
+        "Course Name":"ADVANCED TRANSPORTATION MODELLING",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL869",
+        "Course Name":"PROBABILISTIC STRUCTURAL DYNAMICS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL872",
+        "Course Name":"INFRASTRUCTURE DEVELOPMENT AND",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL873",
+        "Course Name":"FIRE ENGINEERING AND DESIGN",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL874",
+        "Course Name":"QUALITY AND SAFETY IN CONSTRUC",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVP121",
+        "Course Name":"ENGINEERING GEOLOGY LABORATORY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVP243",
+        "Course Name":"STRUCT. & MAT. (CONCRETE) LAB",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVP321",
+        "Course Name":"GEOTECHNICAL ENGINEERING LAB",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVP441",
+        "Course Name":"STRUCTURAL DESIGN & DETAILING",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL106",
+        "Course Name":"DATA STRUCTURES AND ALGORITHMS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL202",
+        "Course Name":"DISCRETE MATHEMATICAL STRUCTUR",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL215",
+        "Course Name":"DIGITAL LOGIC & SYSTEM DESIGN",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL333",
+        "Course Name":"PRINCIPLES OF ARTIFICIAL INT.",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL334",
+        "Course Name":"COMPUTER NETWORKS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL351",
+        "Course Name":"ANALYSIS & DESIGN OF ALGORITHMS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL671",
+        "Course Name":"ARTIFICIAL INTELLIGENCE",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL672",
+        "Course Name":"COMPUTER NETWORKS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL702",
+        "Course Name":"ADVANCED DATA STRUCTURES",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL703",
+        "Course Name":"LOGIC FOR COMPUTER SCIENCE",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL718",
+        "Course Name":"ARCH. OF HIGH PERF. COMPUTERS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL765",
+        "Course Name":"INTRO. TO LOGIC & FUNCT. PROG.",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL768",
+        "Course Name":"WIRELESS NETWORKS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL774",
+        "Course Name":"MACHINE LEARNING",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL783",
+        "Course Name":"DIGITAL IMAGE ANALYSIS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL788",
+        "Course Name":"ADV. TOPICS IN EMBEDDED COMP.",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DDL115",
+        "Course Name":"DESIGN THINKING & DESIGN CRITIQUE",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DDL123",
+        "Course Name":"APPLIED ERGONOMICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DDL125",
+        "Course Name":"ELEMENTS OF DESIGN",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DDL211",
+        "Course Name":"MATERIALS AND PROTOTYPING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DDL214",
+        "Course Name":"ENGINEERING FOR DESIGNERS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DDL312",
+        "Course Name":"DESIGN FOR DEVELOPING NATIONS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DDL313",
+        "Course Name":"CREATIVITY & SUSTAINABILITY IN NATURE",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DDL314",
+        "Course Name":"DESIGNING FOR SOCIETY & CULTURE",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DDL710",
+        "Course Name":"FRAMEWORK OF DESIGN",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DDL753",
+        "Course Name":"DESIGN OF SUSTAINABLE HABITATS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DDL820",
+        "Course Name":"SPECIAL TOPICS IN DESIGN 2",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DDP722",
+        "Course Name":"APPLIED ERGONOMICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL201",
+        "Course Name":"DIGITAL ELECTRONICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL202",
+        "Course Name":"CIRCUIT THEORY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL203",
+        "Course Name":"ELECTROMECHANICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL205",
+        "Course Name":"SIGNALS AND SYSTEMS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL211",
+        "Course Name":"PHYSICAL ELECTRONICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL302",
+        "Course Name":"POWER ELECTRONICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL304",
+        "Course Name":"ANALOG ELECTRONIC CIRCUITS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL305",
+        "Course Name":"COMPUTER ARCHITECTURE",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL311",
+        "Course Name":"COMMUNICATION ENGINEERING",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL313",
+        "Course Name":"ANTENNAS AND PROPAGATION",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL333",
+        "Course Name":"MULTIVARIABLE CONTROL",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL363",
+        "Course Name":"POWER ENGINEERING-II",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL402",
+        "Course Name":"COMPUTER COMMUNICATION",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL409",
+        "Course Name":"MACHINE INTELLIGENCE & LEARNING",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL700",
+        "Course Name":"LINEAR SYSTEMS THEORY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL701",
+        "Course Name":"MATHEMATICAL METHODS IN CONTRO",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL710",
+        "Course Name":"CODING THEORY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL711",
+        "Course Name":"SIGNAL THEORY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL712",
+        "Course Name":"DIGITAL COMMUNICATIONS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL713",
+        "Course Name":"MICROWAVE THEORY AND TECHNIQUE",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL727",
+        "Course Name":"DIGITAL COMMUNICATION & INFORM",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL728",
+        "Course Name":"OPTOELECTRONIC INSTRUMENTATION",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL732",
+        "Course Name":"MICRO AND NANOELECTRONICS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL734",
+        "Course Name":"MOS VLSI DESIGN",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL735",
+        "Course Name":"ANALOG INTEGRATED CIRCUITS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL745",
+        "Course Name":"QUANTUM ELECTRONICS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL750",
+        "Course Name":"MODELLING OF ELECTRICAL MACHIN",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL751",
+        "Course Name":"POWER ELECTRONIC CONVERTERS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL758",
+        "Course Name":"POWER QUALITY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL770",
+        "Course Name":"POWER SYSTEM ANALYSIS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL771",
+        "Course Name":"ADVANCED POWER SYSTEM PROTECTI",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL772",
+        "Course Name":"PLANNING AND OPERATION OF A SM",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL775",
+        "Course Name":"POWER SYSTEM DYNAMICS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL781",
+        "Course Name":"SOFTWARE FUNDAMENTALS FOR COMP",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL782",
+        "Course Name":"COMPUTER ARCHITECTURE",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL784",
+        "Course Name":"INTRODUCTION TO MACHINE LEARNI",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL785",
+        "Course Name":"COMPUTER COMMUNICATION NETWORK",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL856",
+        "Course Name":"ADVANCED TOPICS IN POWER ELECT",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL881",
+        "Course Name":"SPECIAL TOPICS IN COMPUTERS-II",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL888",
+        "Course Name":"ADVANCED MACHINE LEARNING",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL891",
+        "Course Name":"ADVANCES IN DEEP LEARNING",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELP212",
+        "Course Name":"ELECTROMAGNETICS LABORATORY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELP225",
+        "Course Name":"CONTROL ENGINEERING LABORATORY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELP303",
+        "Course Name":"POWER ENGINEERING LABORATORY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELP332",
+        "Course Name":"ELECTRIC DRIVES LABORATORY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL100",
+        "Course Name":"ENERGY RESOURCES AND UTILIZATION",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL220",
+        "Course Name":"SEMICONDUCTORS FOR ENERGY SYSTEMS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL260",
+        "Course Name":"NETWORK ANALYSIS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL261",
+        "Course Name":"ANALOG AND DIGITAL ELECTRONICS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL263",
+        "Course Name":"POWER ELECTRONICS AND DRIVES FOR ENERGY ENGG.",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL280",
+        "Course Name":"INTRODUCTION TO PLASMA CONCEPTS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL300",
+        "Course Name":"SELF-ORGANIZING DYNAMICAL SYSTEMS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL330",
+        "Course Name":"ENERGY, ECOLOGY AND ENVIRONMENT",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL341",
+        "Course Name":"ENERGY STORAGE",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL370",
+        "Course Name":"CONTROL SYSTEMS AND AUTOMATION",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL372",
+        "Course Name":"INTELLIGENT TECHNIQUES FOR ENERGY SYSTEM ANALYSIS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL390",
+        "Course Name":"ENERGY ECONOMICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL400",
+        "Course Name":"ENERGY EFFICIENCY",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL711",
+        "Course Name":"FUEL TECHNOLOGY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL727",
+        "Course Name":"ENERGY AND ENVIRONMENT",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL739",
+        "Course Name":"BIOENERGY: RESOURCES, TECHNOLOGIES AND APPLICATIONS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL740",
+        "Course Name":"NON-CONVENTIONAL SOURCES OF ENERGY",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL746",
+        "Course Name":"HYDROGEN ENERGY",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL753",
+        "Course Name":"SOLAR THERMAL TECHNOLOGIES AND APPLICATIONS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL755",
+        "Course Name":"SOLAR PHOTOVOLTAIC DEVICES AND SYSTEMS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL772",
+        "Course Name":"ENERGY STORAGE",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL512",
+        "Course Name":"MACROECONOMICS I",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL522",
+        "Course Name":"BASICS OF PROGRAMMING FOR COGNITIVE SCIENCE",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL531",
+        "Course Name":"LITERARY THEORY",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL678",
+        "Course Name":"CINEMAS OF INDIA",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL714",
+        "Course Name":"INTERNATIONAL ECONOMICS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL718",
+        "Course Name":"POLITICAL ECONOMY OF DEVELOPMENT",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL721",
+        "Course Name":"RESEARCH METHODS IN COGNITIVE SCIENCE",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL747",
+        "Course Name":"LANGUAGE COMPUTATIONS AND MENTAL ARCHITECTURE",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL800",
+        "Course Name":"RESEARCH WRITING",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL800",
+        "Course Name":"RESEARCH WRITING",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSP612",
+        "Course Name":"RESEARCH SEMINAR IN ECONOMICS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSP700",
+        "Course Name":"WORKSHOP ON SCIENTIFIC WRITING",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSS521",
+        "Course Name":"INDEPENDENT STUDY IN COGNITIVE SCIENCE",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL212",
+        "Course Name":"MICROECONOMICS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL213",
+        "Course Name":"MACRO ECONOMICS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL231",
+        "Course Name":"AN INTRODUCTION TO LITERATURE",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL239",
+        "Course Name":"INDIAN FICTION IN ENGLISH",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL242",
+        "Course Name":"FUNDAMENTALS OF LANGUAGE SCIENCES",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL242",
+        "Course Name":"FUNDAMENTALS OF LANGUAGE SCIENCES",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL243",
+        "Course Name":"LANGUAGE AND COMMUNICATION",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL243",
+        "Course Name":"LANGUAGE AND COMMUNICATION",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL253",
+        "Course Name":"MORAL LITERACY AND MORAL CHOICES",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL256",
+        "Course Name":"CRITICAL THINKING",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL261",
+        "Course Name":"INTRODUCTION TO PSYCHOLOGY",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL267",
+        "Course Name":"POSITIVE PSYCHOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL271",
+        "Course Name":"INTRODUCTION TO SOCIOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL272",
+        "Course Name":"INTRODUCTION TO THE SOCIOLOGY OF INDIA",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL272",
+        "Course Name":"INTRODUCTION TO THE SOCIOLOGY OF INDIA",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL275",
+        "Course Name":"ENVIRONMENT; DEVELOPMENT AND SOCIETY",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL315",
+        "Course Name":"ECONOMETRIC METHODS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL316",
+        "Course Name":"INDIAN ECONOMIC PROBLEMS AND POLICIES",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL334",
+        "Course Name":"FROM TEXT TO FILM",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL340",
+        "Course Name":"SELECTED TOPICS IN LITERATURE",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL356",
+        "Course Name":"BUDDHISM ACROSS TIME AND PLACE",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL360",
+        "Course Name":"SELECTED TOPICS IN PHILOSOPHY",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL366",
+        "Course Name":"BIOLOGICAL PSYCHOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL376",
+        "Course Name":"POLITICAL ECOLOGY OF WATER",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL380",
+        "Course Name":"SELECTED TOPICS IN SOCIOLOGY",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MDL802",
+        "Course Name":"ENTREPRENEURIAL FINANCE",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MDL806",
+        "Course Name":"DERIVATIVES",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL302",
+        "Course Name":"MANAGERIAL ACC. & FINAC. MGMT.",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL304",
+        "Course Name":"MANAGING OPERATIONS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL305",
+        "Course Name":"NEW VENTURE CREATION",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL707",
+        "Course Name":"MANAGEMENT ACCOUNTING",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL707",
+        "Course Name":"MANAGEMENT ACCOUNTING",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL719",
+        "Course Name":"STATISTICS FOR MANAGEMENT",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL719",
+        "Course Name":"STATISTICS FOR MANAGEMENT",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL740",
+        "Course Name":"QUANTITATIVE METHODS IN MGMT.",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL740",
+        "Course Name":"QUANTITATIVE METHODS IN MGMT.",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL760",
+        "Course Name":"MARKETING MANAGEMENT",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL760",
+        "Course Name":"MARKETING MANAGEMENT",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL839",
+        "Course Name":"CURRENT & EM. ISS. IN ORG. MG.",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL862",
+        "Course Name":"PRODUCT MANAGEMENT",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL869",
+        "Course Name":"CURRENT AND EMERGING ISSUES IN MARKETING",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL880",
+        "Course Name":"SELECTED TOPICS IN MANAGEMENT METHODOLOGY",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL895",
+        "Course Name":"ADVANCED DATA ANALYSIS FOR MANAGEMENT",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL100",
+        "Course Name":"INTRODUCTION TO MATERIALS SCIENCE AND ENGINEERING",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL103",
+        "Course Name":"INTRODUCTION TO THE THERMODYNAMICS OF MATERIALS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL181",
+        "Course Name":"MATERIALS AND SUSTAINABLE DEVELOPMENT",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL203",
+        "Course Name":"CHARACTERIZATION OF MATERIALS-II",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL213",
+        "Course Name":"MATERIALS MODELLING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL251",
+        "Course Name":"MECHANICAL BEHAVIOUR OF MATERIALS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL253",
+        "Course Name":"ELECTRONIC, OPTICAL AND MAGNETIC PROPERTIES OF MATERIALS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL262",
+        "Course Name":"PRINCIPLES OF METAL EXTRACTION",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL371",
+        "Course Name":"MATERIALS PROCESSING",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL701",
+        "Course Name":"STRUCTURE AND CHARACTERISATION OF MATERIALS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL702",
+        "Course Name":"THERMODYNAMICS OF MATERIALS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL703",
+        "Course Name":"MATHEMATICAL AND COMPUTATIONAL METHODS IN MATERIALS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL719",
+        "Course Name":"POLYMER CHEMISTRY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL721",
+        "Course Name":"POLYMER PHYSICS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL723",
+        "Course Name":"POLYMER CHARACTERIZATION",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL727",
+        "Course Name":"SMART POLYMERIC MATERIALS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL732",
+        "Course Name":"POROUS MATERIALS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL752",
+        "Course Name":"CREEP AND SUPERPLASTICITY OF MATERIALS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL760",
+        "Course Name":"MATERIALS SIMULATION METHODS USING HIGH PERFORMANCE COMPUTING",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLP473",
+        "Course Name":"MATERIALS SELECTION AND DESIGN LAB",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL100",
+        "Course Name":"CALCULUS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL104",
+        "Course Name":"LINEAR ALGEBRA & APPLICATIONS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL105",
+        "Course Name":"ALGEBRA",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL106",
+        "Course Name":"PROBABILITY & STOCHASTIC PRO.",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL107",
+        "Course Name":"NUMERICAL METHOD S& COMPUTATION",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL107",
+        "Course Name":"NUMERICAL METHOD S& COMPUTATION",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL122",
+        "Course Name":"REAL AND COMPLEX ANALYSIS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL180",
+        "Course Name":"DISCRETE MATHEMATICAL STRUC.",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL342",
+        "Course Name":"ANALYSIS & DESIGN OF ALGORITHMS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL411",
+        "Course Name":"FUNCTIONAL ANALYSIS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL458",
+        "Course Name":"OPERATING SYSTEMS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL503",
+        "Course Name":"REAL ANALYSIS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL504",
+        "Course Name":"ORDINARY DIFFERENTIAL EQUATION",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL505",
+        "Course Name":"COMPUTER PROGRAMMING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL601",
+        "Course Name":"PROBABILITY AND STATISTICS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL602",
+        "Course Name":"FUNCTIONAL ANALYSIS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL603",
+        "Course Name":"PARTIAL DIFFERENTIAL EQUATIONS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL712",
+        "Course Name":"COMP. METHODS FOR DIFFER. EQU.",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL732",
+        "Course Name":"FINANCIAL MATHEMATICS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL736",
+        "Course Name":"ANALYTIC NUMBER THEORY",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL766",
+        "Course Name":"MULTIVARIATE STATISTICAL METH.",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL781",
+        "Course Name":"FINITE ELEMENT THEORY & APPLI.",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL783",
+        "Course Name":"THEORY OF COMPUTATION",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL860",
+        "Course Name":"LINEAR ALGEBRA",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL701M",
+        "Course Name":"CONTINUUM MECHANICS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL104",
+        "Course Name":"SOLID MECHANICS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL106",
+        "Course Name":"FLUID MECHANICS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL111",
+        "Course Name":"KINEMATICS & DY. OF MACHINES",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL134",
+        "Course Name":"METROLOGY & QUALITY ASSURANCE",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL135",
+        "Course Name":"WELDING AND ALLIED PROCESSES",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL140",
+        "Course Name":"ENGINEERING THERMODYNAMICS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL141",
+        "Course Name":"THERMAL SC. FOR MANUFACTURING",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL211",
+        "Course Name":"DESIGN OF MACHINES",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL231",
+        "Course Name":"MANUFACTURING PROCESSES II",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL242",
+        "Course Name":"HEAT AND MASS TRANSFER",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL261",
+        "Course Name":"INTRO TO OPERATIONS RESEARCH",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL262",
+        "Course Name":"STOCHASTIC MODELLING & SIMULA.",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL316",
+        "Course Name":"VIBRATION ENGINEERING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL322",
+        "Course Name":"POWER TRAIN DESIGN",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL341",
+        "Course Name":"GAS DYNAMICS AND PROPULSION",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL346",
+        "Course Name":"TURBOMACHINERY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL431",
+        "Course Name":"CAM AND AUTOMATION",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL701",
+        "Course Name":"ADVANCED THERMODYNAMICS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL702",
+        "Course Name":"ADVANCED FLUID MECHANICS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL703",
+        "Course Name":"ADVANCED HEAT AND MASS TRANSFE",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL704",
+        "Course Name":"APPLIED MATHEMATICS FOR THERMO",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL713",
+        "Course Name":"ACTIVE NOISE CONTROL",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL731",
+        "Course Name":"ANALYTICAL DYNAMICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL735",
+        "Course Name":"CAD & FINITE ELEMENT ANALYSIS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL740",
+        "Course Name":"LUBRICATION",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL742",
+        "Course Name":"DESIGN & OPTIMIZATION",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL751",
+        "Course Name":"INDUSTRIAL ENGINEERING SYSTEMS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL756",
+        "Course Name":"SUPPLY CHAIN MANAGEMENT",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL761",
+        "Course Name":"PROBABILITY AND STATISTICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL765",
+        "Course Name":"OPERATIONS RESEARCH",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL769",
+        "Course Name":"METAL FORMING ANALYSIS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL775",
+        "Course Name":"SPECIAL TOPICS IN IE",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL781",
+        "Course Name":"MACHINING PROCESSES AND ANALYS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL787",
+        "Course Name":"WELDING SCIENCE AND TECHNOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL791",
+        "Course Name":"PROCESSING AND MECHANICS OF CO",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL796",
+        "Course Name":"ADDITIVE MANUFACTURING",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL799",
+        "Course Name":"MECHANICS AND CONTROL OF ROBOTS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL812",
+        "Course Name":"COMBUSTION",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL839",
+        "Course Name":"ROTOR DYNAMICS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL840",
+        "Course Name":"EXPERIMENTAL MODAL ANALYSIS AND DYNAMIC DESIGN",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCP231",
+        "Course Name":"MANUFACTURING LABORATORY I",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCP232",
+        "Course Name":"PRODUCTION ENGINEERING LAB I",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCP361",
+        "Course Name":"INDUSTRIAL ENGINEERING LAB- II",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCP401",
+        "Course Name":"MECHANICAL ENGINEERING LAB -II",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCV390(B)",
+        "Course Name":"SPL. MODULE IN MECHANICAL ENGG (RAC PRODUCT DESIGN)",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCV849A",
+        "Course Name":"SPECIAL MODULE IN SYSTEM DESIGN",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"VEL700",
+        "Course Name":"HUMAN VALUES AND TECHNOLOGY",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"VEV732",
+        "Course Name":"SPECIAL MODULE ON INNER DEVELOPMENT-II",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"OPL711",
+        "Course Name":"PRINCIPLES OF LASERS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"OPL718",
+        "Course Name":"QUANTUM NONLINEAR PHOTONICS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL102",
+        "Course Name":"PRINCIPLES OF ELECT. MATERIALS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL121",
+        "Course Name":"MATHEMATICAL PHYSICS - I",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL123",
+        "Course Name":"OPTICS AND PHOTONICS - I",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL125",
+        "Course Name":"SOLID STATE PHYSICS - I",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL127",
+        "Course Name":"CLASSICAL MECHANICS & RELATIVITY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL205",
+        "Course Name":"ELECTRODYNAMICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL209",
+        "Course Name":"OPTICS AND PHOTONICS II",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL304",
+        "Course Name":"SUPERCONDUCTIVITY & APPLICAT.",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL331",
+        "Course Name":"APPLIED QUANTUM MECHANICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL435",
+        "Course Name":"ADVANCED COMPUTATIONAL PHYSICS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL551",
+        "Course Name":"CLASSICAL MECHANICS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL553",
+        "Course Name":"MATHEMATICAL PHYSICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL555",
+        "Course Name":"QUANTUM MECHANICS I",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL557",
+        "Course Name":"ELECTRONICS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL567",
+        "Course Name":"ATOMIC AND MOLECULAR PHYSICS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL569",
+        "Course Name":"NUCLEAR AND PARTICLE PHYSICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL657",
+        "Course Name":"PLASMA PHYSICS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL701",
+        "Course Name":"PHYSICAL FOUNDATIONS OF MATERIALS SCIENCE",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL702",
+        "Course Name":"PHYSICS OF SEMICONDUCTOR DEVICES",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL703",
+        "Course Name":"ELECTRONIC PROPERTIES OF MATERIALS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL707",
+        "Course Name":"CHARACTERISATION TEC. FOR MAT.",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL723",
+        "Course Name":"VACUUM SCIENCE AND CRYOGENICS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL725",
+        "Course Name":"SURFACE PHYSICS AND ANALYSIS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL740",
+        "Course Name":"ADVAN. CONDENSED MATTER THEORY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL741",
+        "Course Name":"FIELD THEORY & QUANTUM ELECTR.",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL749",
+        "Course Name":"QUANTUM INFORMATION & COMPUTA.",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL751",
+        "Course Name":"OPTICAL SOURCES, PHOTOMETRY AN",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL753",
+        "Course Name":"OPTICAL SYSTEMS DESIGN",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL755",
+        "Course Name":"BASIC OPTICS AND OPTICAL INSTR",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL759",
+        "Course Name":"COMPUTATIONAL OPTICAL IMAGING",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL770",
+        "Course Name":"ULTRA-FAST OPTICS & APPLICATI.",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL791",
+        "Course Name":"FIBER OPTICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL793",
+        "Course Name":"PHOTONIC DEVICES",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL795",
+        "Course Name":"OPTICS AND LASERS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL800",
+        "Course Name":"NUM. & COMP. METH. IN RESEARCH",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYP223",
+        "Course Name":"ENGINEERING PHYSICS LABORATORY-III",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYP761",
+        "Course Name":"OPTICAL FABRICATION AND METROL",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"AIL721",
+        "Course Name":"DEEP LEARNING",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"AIL722",
+        "Course Name":"REINFORCEMENT LEARNING",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"AIL821",
+        "Course Name":"SPECIAL TOPICS IN MACHINE LEARNING",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL100",
+        "Course Name":"INTRO. TO BIOLOGY FOR ENGINEER",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL510",
+        "Course Name":"MATHEMATICAL AND STATISTICAL BIOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL530",
+        "Course Name":"BIOLOGY OF MICROBES",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL540",
+        "Course Name":"EXPERIMENTAL METHODS IN BIOLOGY",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL703",
+        "Course Name":"ADVANCED CELL BIOLOGY",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL710",
+        "Course Name":"CHEMICAL BIOLOGY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL721",
+        "Course Name":"TECHNIQUES IN BIOMOLECULAR INTERACTIONS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL724",
+        "Course Name":"DECODING PROTEIN MODIFICATIONS IN BIOLOGY",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL730",
+        "Course Name":"MODERN TRENDS IN DRUG DEVELOPMENT",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL732",
+        "Course Name":"CONCEPTS IN THREE-DIMENSIONAL CELL CULTURE",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL733",
+        "Course Name":"INTRODUCTION AND TECHNIQUES: IMMUNOMETABOLISM",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SPL361",
+        "Course Name":"INFORMATION & COMMUNICATION TECHNOLOGIES AND SOCIETY",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SPL704",
+        "Course Name":"INTRODUCTION TO PUBLIC POLICY AND STI",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SPL706",
+        "Course Name":"SCIENCE, TECHNOLOGY, INNOVATION AND SUSTAINABLE DEVELOPMENT",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SPL708",
+        "Course Name":"STATISTICS FOR PUBLIC POLICY",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SPL709",
+        "Course Name":"PRINCIPLES OF ECONOMICS FOR PUBLIC POLICY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SPL724",
+        "Course Name":"ELECTRICITY SECTOR REFORMS IN THE RENEWABLES ERA",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SPL810",
+        "Course Name":"ADVANCED TOPICS IN POLICY STUDIES",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SPV798",
+        "Course Name":"SPECIAL MODULE ON PUBLIC POLICY IN TRANSPORT AND INFRASTRUCTURE",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DSL603",
+        "Course Name":"MATERIAL & MECHANICAL DESIGN",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DSL711",
+        "Course Name":"SENSORS AND TRANSDUCERS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DSL722",
+        "Course Name":"PRECISION MEASUREMENTS SYSTEMS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DSL731",
+        "Course Name":"OPTICAL COMPONENTS & BASIC IN.",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL111",
+        "Course Name":"TEXTILE FIBRES",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL130",
+        "Course Name":"POLYMER CHEMISTRY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL212",
+        "Course Name":"MANUFACTURED FIBRE TECHNOLOGY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL222",
+        "Course Name":"YARN MANUFACTURE II",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL232",
+        "Course Name":"FABRIC MANUFACTURE II",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL242",
+        "Course Name":"TECH. OF TEXTILE COLORATION",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL710",
+        "Course Name":"H.P. AND SPECIALTY FIBRES",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL712",
+        "Course Name":"POLYMER AND FIBRE PHYSICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL713",
+        "Course Name":"TECHNOLOGY OF MELT SPUN FIBRES",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL721",
+        "Course Name":"THEORY OF YARN STRUCTURE",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL731",
+        "Course Name":"THEORY OF FABRIC STRUCTURE",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL732",
+        "Course Name":"ADVANCED FABRIC MANUFACTURING",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL734",
+        "Course Name":"NONWOVEN SCIENCE & ENGINEERING",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL747",
+        "Course Name":"COLOUR SCIENCE",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL749",
+        "Course Name":"THEORY AND PRACTICE OFDYEING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL750",
+        "Course Name":"SCIENCE OF CLOTHING COMFORT",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL752",
+        "Course Name":"DESIGN OF FUNCTIONAL CLOTHING",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL753",
+        "Course Name":"ADVANCED TEXTILE PRINTINGTECHNOLOGY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL777",
+        "Course Name":"PRODUCT DESIGN AND DEVELOPMENT",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL785",
+        "Course Name":"HEAT AND MASS TRANSPORT IN FIBROUS MATERIALS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXP232",
+        "Course Name":"FABRIC MANUFACTURE LAB II",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXP242",
+        "Course Name":"TECH OF TEXTILE COLORATION LAB",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TRL701",
+        "Course Name":"TRANSPORTATION SAFETY AND INJURY PREVENTION PRINCIPLES",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TRL702",
+        "Course Name":"TRANSPORT AND HEALTH",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TRL710",
+        "Course Name":"TRANSPORT PLANNING FOR SUSTAINABLE CITIES",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TRL851A",
+        "Course Name":"SPECIAL TOPICS IN MOBILITY AND TRAFFIC SAFETY (THE CITY: A MULTIPLE PERSPECTIVE CONSTRUCT)",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"AML831",
+        "Course Name":"THEORY OF PLATES AND SHELLS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"AML832",
+        "Course Name":"APPLICATIONS OF THEORY OF PLATES AND SHELLS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"AML835",
+        "Course Name":"MECHANICS OF COMPOSITE MATERIALS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"AMP776",
+        "Course Name":"PRODUCT DESIGN PROJECT 1",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL102",
+        "Course Name":"INTR.TO MATERIAL SC. & ENGG.",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL105",
+        "Course Name":"MECHANICS OF SOLIDS AND FLUIDS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL705",
+        "Course Name":"FINITE ELEMENT METHOD",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL711",
+        "Course Name":"ADVANCED FLUID MECHANICS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL715",
+        "Course Name":"PHYSICS OF TURBULENT FLOWS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL720",
+        "Course Name":"COMPUTATIONAL FLUID DYNAMICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL796",
+        "Course Name":"ADVANCED SOLID MECHANICS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL871",
+        "Course Name":"PRODUCT RELIABILITY & MAINTENANCE",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL341",
+        "Course Name":"ENVIRONMENTAL BIOTECHNOLOGY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL431",
+        "Course Name":"BIOPROCESS TECHNOLOGY",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL432",
+        "Course Name":"FLUID SOLID SYSTEMS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL433",
+        "Course Name":"ENZYME SCIENCE AND ENGINEERING",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL434",
+        "Course Name":"BIOINFORMATICS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL445",
+        "Course Name":"MEMBRANE APPLICATIONS IN BIO.",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL736",
+        "Course Name":"DYNAMICS OF MICROBIAL SYSTEMS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL740",
+        "Course Name":"PLANT CELL TECHNOLOGY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL742",
+        "Course Name":"BIOLOGICAL WASTE TREATMENT",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL745",
+        "Course Name":"COMBINATORIAL BIOTECHNOLOGY",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL746",
+        "Course Name":"CURRENT TOPICS IN BIOCHEMICALENGINEERING AND BIOTE",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL747",
+        "Course Name":"BIONANOTECHNOLOGY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL749",
+        "Course Name":"CANCER CELL BIOLOGY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BBL752",
+        "Course Name":"MICROBIAL ECOLOGY",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CRD802",
+        "Course Name":"MINOR PROJECT",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CRL702",
+        "Course Name":"ARCHITECTURES AND ALGORITHMS FOR DSP SYSTEMS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CRL706",
+        "Course Name":"SONARS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CRL712",
+        "Course Name":"RF AND MICROWAVE ACTIVE CIRCUITS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CRL722",
+        "Course Name":"RF AND MICROWAVE SOLID STATE DEVICES",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CRL724",
+        "Course Name":"RF AND MICROWAVE MEASUREMENT SYSTEM TECHNIQUES",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CRL726",
+        "Course Name":"RF MEMS DESIGN AND TECHNOLOGY",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL340",
+        "Course Name":"FUNDAMENTALS OF WEATHER AND CLIMATE",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL350",
+        "Course Name":"INTRODUCTION TOOCEANOGRAPHY",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL733",
+        "Course Name":"PHYSICS OF THE ATMOSPHERE",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL734",
+        "Course Name":"DYNAMICS OF THE ATMOSPHERE",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL736",
+        "Course Name":"SCIENCE OF CLIMATE CHANGE",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL737",
+        "Course Name":"PHYSICAL AND DYNAMICAL OCEANOGRAPHY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL751",
+        "Course Name":"DISPERSION OF AIR POLLUTANTS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL754",
+        "Course Name":"CLOUD PHYSICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ASL757",
+        "Course Name":"TROPICAL WEATHER AND CLIMATE",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BML737",
+        "Course Name":"APPLICATIONS OF MATHEMATICS IN BIOMEDICAL ENG.",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BML740",
+        "Course Name":"BIOMEDICAL INSTRUMENTATION",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BML750",
+        "Course Name":"POINT OF CARE MEDICAL DIAG DEV",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BML760",
+        "Course Name":"BIOMEDICAL ETHICS, SAFETY AND REGULATORY AFFAIRS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BML771",
+        "Course Name":"ORTHOPAEDIC DEVICE DESIGN",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BML820",
+        "Course Name":"BIOMATERIALS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"BML860",
+        "Course Name":"NANOMEDICINE",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL700",
+        "Course Name":"BIOMAS PRODUCTION",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL701",
+        "Course Name":"RURAL INDUSTRIALISATION POLICES PROGRAMMES & CASE",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL722",
+        "Course Name":"RURAL ENERGY SYSTEMS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL724",
+        "Course Name":"TECHNOLOGIES FOR WATER AND WASTE MANAGEMENT",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL725",
+        "Course Name":"ECOLOGICAL PERSPECTIVE OF GROWTH AND DEVLOPMENT",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL726",
+        "Course Name":"HERBAL,MEDICINAL ANDAROMATIC PRODUCTS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL727",
+        "Course Name":"CONSERVATION AND RECYCLING PRACTICES IN RURAL AREAS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL760",
+        "Course Name":"FOOD QUALITY AND SAFETY",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL761",
+        "Course Name":"VALUE CHAIN IN AGRO-FOOD PROCESSING",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"RDL770",
+        "Course Name":"RURAL VALUE CHAIN FOR HOLISTIC DEVELOPMENT",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL121",
+        "Course Name":"CHEMICAL ENGG. THERMODYNAMICS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL122",
+        "Course Name":"CHEMICAL REACTION ENGG I",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL231",
+        "Course Name":"FLUID MECHS. FOR CHEM. ENGINEE",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL251",
+        "Course Name":"HEAT TRANSFER FOR CHEMICAL ENG",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL271",
+        "Course Name":"INTRO TO INDUSTRIAL BIOTECH.",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL352",
+        "Course Name":"MASS TRANSFER II",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL361",
+        "Course Name":"INSTRUMENTATION AND AUTOMATION",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL371",
+        "Course Name":"CHEM. PROCESS TECH.& ECONOMICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL402",
+        "Course Name":"PROCESS PLANT DESIGN",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL475",
+        "Course Name":"SAFETY & HAZARDS IN PROC. IND.",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL722",
+        "Course Name":"ELECTROCHEM. CONV. & STO. DEV.",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL727",
+        "Course Name":"HETERO. CATALYSIS & CATA. REA.",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL731",
+        "Course Name":"ADVANCED TRANSPORT PHENOMENA",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL733",
+        "Course Name":"INDUSTRIAL MULTIPHASE REACTORS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL761",
+        "Course Name":"CHEMICAL ENGG. MATHEMATICS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL766",
+        "Course Name":"INTERFACIAL ENGINEERING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL767",
+        "Course Name":"STRUCTURES & PROP. OF POLYMERS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL768",
+        "Course Name":"FUNDAMENTALS OF COMP. FLUID DY",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL772",
+        "Course Name":"TRANS. PHEN. IN COMPLEX FLUIDS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL779",
+        "Course Name":"MOL. BIOTECH. & IN-VITRO DIAG.",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL786",
+        "Course Name":"FINE CHEMICALS TECHNOLOGY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL788",
+        "Course Name":"PROCESS DATA ANALYTICS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL793",
+        "Course Name":"MEMBRANE SCIENCE & ENGINEERING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLL798",
+        "Course Name":"SEL. TOPICS IN CHEM. ENGG. - I",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CLP302",
+        "Course Name":"CHEMICAL ENGINEERING LAB - II",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML521",
+        "Course Name":"MOLECULAR THERMODYNAMICS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML522",
+        "Course Name":"CHEMICAL DYNA. & SURFACE CHEM.",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML523",
+        "Course Name":"ORGANIC SYNTHESIS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML524",
+        "Course Name":"TRAN. & INNER TRAN. METAL CHE.",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML525",
+        "Course Name":"BASIC ORGANOMETALIC CHEMISTRY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML526",
+        "Course Name":"STR. & FUNC. OF CELLULAR BIOM.",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML665",
+        "Course Name":"BIOPHYSICAL CHEMISTRY",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML671",
+        "Course Name":"SUPRAMOLECULAR CHEMISTRY",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML673",
+        "Course Name":"BIO-ORGANIC AND MEDICINAL CHEMISTRY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML682",
+        "Course Name":"INORGANIC POLYMERS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML724",
+        "Course Name":"SYNTHESIS OF INDUSTRIALLY IMPO",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML729",
+        "Course Name":"MATERIAL CHARACTERIZATION",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML737",
+        "Course Name":"APPLIED SPECTROSCOPY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML738",
+        "Course Name":"APPLICATIONS OF P-BLOCK ELEMEN",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML739",
+        "Course Name":"APPLIED BIOCATALYSIS",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML740",
+        "Course Name":"CHEMISTRY OF HETEROCYCLIC COMP",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML742",
+        "Course Name":"REAGENTS IN SYNTHETIC TRANSFOR",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML801",
+        "Course Name":"MOLECULAR MODELLING AND SIMULA",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CYL100",
+        "Course Name":"INTRODUCTION TO CHEMISTRY",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVD720",
+        "Course Name":"MAJOR THESIS PART-I",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVD721",
+        "Course Name":"MAJOR THESIS PART-II",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL100",
+        "Course Name":"ENVIRONMENTAL SCIENCE",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL212",
+        "Course Name":"ENVIRONMENTAL ENGINEERING",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL222",
+        "Course Name":"SOIL MECHANICS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL242",
+        "Course Name":"STRUCTURAL ANALYSIS I",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL244",
+        "Course Name":"CONSTRUCTION PRACTICES",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL261",
+        "Course Name":"INTRO. TO TRANSPORTATION ENGG.",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL281",
+        "Course Name":"HYDRAULICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL311",
+        "Course Name":"INDUSTRIAL WASTE MANAGEMENT",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL342",
+        "Course Name":"STEEL DESIGN",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL381",
+        "Course Name":"DESIGN OF HYDRAULIC STRUCTURES",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL382",
+        "Course Name":"GROUNDWATER",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL422",
+        "Course Name":"ROCK ENGINEERING",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL431",
+        "Course Name":"DESIGN OF FOUN. & RET. STRUCT.",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL443",
+        "Course Name":"PRESTRESSED CON. & IND. STRUC.",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL702",
+        "Course Name":"GROUND IMPROVEMENT AND GEOSYNTHETICS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL703",
+        "Course Name":"GEOENVIRONMENTAL ENGINEERING",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL705",
+        "Course Name":"SLOPES AND RETAINING STRUCTURES",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL706",
+        "Course Name":"SOIL DYNAMICS AND EARTHQUAKE GEOTECHNICAL ENGG.",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL712",
+        "Course Name":"SLOPES AND FOUNDATIONS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL713",
+        "Course Name":"ANALYSIS AND DESIGN OF UNDERGROUND STRUCTURES",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL714",
+        "Course Name":"FIELD EXPLORATION AND GEOTECHNICAL PROCESSES",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL715",
+        "Course Name":"EXCAVATION METHODS & UNDERGROUND SPACE TECHNOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL721",
+        "Course Name":"SOLID WASTE ENGINEERING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL723",
+        "Course Name":"WASTE WATER ENGINEERING",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL724",
+        "Course Name":"ENVIRONMENTAL SYSTEMS ANALYSIS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL728",
+        "Course Name":"ENVIRONMENTAL QUALITY MODELING",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL734",
+        "Course Name":"ADVANCED HYDRAULICS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL735",
+        "Course Name":"FINITE ELEMENT IN WATER RESOU.",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL746",
+        "Course Name":"PUBLIC TRANSPORTATION SYSTEMS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL747",
+        "Course Name":"TRANSPORTATION SAFETY AND ENVIRONMENT",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL760",
+        "Course Name":"THEORY OF CONCRETE STRUCTURES",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL761",
+        "Course Name":"THEORY OF STEEL STRUCTURES",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL762",
+        "Course Name":"EARTHQUAKE ANALYSIS AND DESIGN",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL769",
+        "Course Name":"DESIGN OF TALL BUILDINGS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL774",
+        "Course Name":"CONSTRUCTION CONTRACT MGMT.",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL775",
+        "Course Name":"CONSTRUCTION ECONOMICS AND FI",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL776",
+        "Course Name":"CONSTRUCTION PRACTICES AND EQ",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL778",
+        "Course Name":"BUILDING SERVICES AND MAINTENANCE",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL811",
+        "Course Name":"NUMERICAL AND COMPUTER METHODS IN GEOMECHANICS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL830",
+        "Course Name":"GROUNDWATER FLOW AND POLLUTION MODELING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL832",
+        "Course Name":"HYDROELECTRIC ENGINEERING",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL833",
+        "Course Name":"WATER RESOURCES SYSTEMS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL838",
+        "Course Name":"GEOGRAPHIC INFORMATION SYSTEMS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL847",
+        "Course Name":"TRANSPORTATION ECONOMICS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL849",
+        "Course Name":"TRAFFIC FLOW MODELLING",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL850",
+        "Course Name":"TRANSPORTATION LOGISTICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL857",
+        "Course Name":"STRUCTURAL SAFETY AND RELIABILITY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL860",
+        "Course Name":"ADVANCED FINITE ELEMENT METHOD AND PROGRAMMING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL864",
+        "Course Name":"STRUCTURAL HEALTH MONITORING",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL865",
+        "Course Name":"STRUCTURAL VIBRATION CONTROL",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL871",
+        "Course Name":"DURABILITY AND REPAIR OF CONCR",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL875",
+        "Course Name":"SUSTAINABLE MATERIALS AND GREE",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVL876",
+        "Course Name":"DIGITAL DESIGN AND CONSTRUCTION",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CVP222",
+        "Course Name":"SOIL MECHANICS LABORATORY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL100",
+        "Course Name":"INTRO. TO COMPUTER SCIENCE",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL106",
+        "Course Name":"DATA STRUCTURES AND ALGORITHMS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL216",
+        "Course Name":"COMPUTER ARCHITECTURE",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL226",
+        "Course Name":"PROGRAMMING LANGUAGES",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL331",
+        "Course Name":"OPERATING SYSTEMS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL352",
+        "Course Name":"INTRO TO AUTOMATA & TH. OF CO.",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL362",
+        "Course Name":"INTRO. TO DATABASE MGMT. SYST.",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL380",
+        "Course Name":"INTRO. TO PARALLEL & DIS. PRO.",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL632",
+        "Course Name":"INTRODUCTION TO DATA BASESYSTEMS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL633",
+        "Course Name":"RESOURCE MANAGEMENT IN COMPUTER SYSTEMS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL726",
+        "Course Name":"NUMERICAL ALGORITHMS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL740",
+        "Course Name":"SOFTWARE ENGINEERING",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL759",
+        "Course Name":"CRYPTOGRAPHY & COMPUTER SEC.",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL774",
+        "Course Name":"MACHINE LEARNING",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL781",
+        "Course Name":"COMPUTER GRAPHICS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL812",
+        "Course Name":"SYSTEM LEVEL DESIGN & MODELLING",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL819",
+        "Course Name":"ADVANCED DISTRIBUTED SYSTEM",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COL868",
+        "Course Name":"SPL. TOPICS IN DATABASE SYST.",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"COP290",
+        "Course Name":"DESIGN PRACTICES",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DDL782",
+        "Course Name":"DESIGN FOR USABILITY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DDP711",
+        "Course Name":"COMP.  AIDED PRODUCT DETAILING",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"DDP741",
+        "Course Name":"PRODUCT INTERFACE & DESIGN",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL100",
+        "Course Name":"INTRO. TO ELECTRICAL ENGG.",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL201",
+        "Course Name":"DIGITAL ELECTRONICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL205",
+        "Course Name":"SIGNALS AND SYSTEMS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL211",
+        "Course Name":"PHYSICAL ELECTRONICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL212",
+        "Course Name":"ENGINEERING ELECROMAGNETICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL225",
+        "Course Name":"CONTROL ENGINEERING I",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL231",
+        "Course Name":"POWER ELECTR. & ENERGY DEVICES",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL301",
+        "Course Name":"ELECTRICAL & ELECTRONIC INSTR.",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL303",
+        "Course Name":"POWER ENGINEERING-I",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL316",
+        "Course Name":"INTRODUCTION TO VLSI DESIGN",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL319",
+        "Course Name":"DIGITAL SIGNAL PROCESSING",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL332",
+        "Course Name":"ELECTRIC DRIVES",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL365",
+        "Course Name":"EMBEDDED SYSTEMS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL400",
+        "Course Name":"POWER SYSTEMS PROTECTION",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL409",
+        "Course Name":"MACHINE INTELLIGENCE & LEARNING",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL411",
+        "Course Name":"DIGITAL COMMUNICATIONS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL703",
+        "Course Name":"OPTIMAL CONTROL THEORY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL705",
+        "Course Name":"STOCHASTIC FILTERING AND IDENT",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL707",
+        "Course Name":"SYSTEMS BIOLOGY",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL715",
+        "Course Name":"DIGITAL IMAGE PROCESSING",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL717",
+        "Course Name":"OPTICAL COMMUNICATION SYSTEMS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL718",
+        "Course Name":"STATISTICAL SIGNAL PROCESSING",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL719",
+        "Course Name":"DETECTION & ESTIMATION THEORY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL720",
+        "Course Name":"ADVANCED DIGITAL SIGNAL PROCES",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL723",
+        "Course Name":"BROADBAND COMMUNICATION SYSTEM",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL725",
+        "Course Name":"WIRELESS COMMUNICATIONS",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL730",
+        "Course Name":"I.C. TECHNOLOGY",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL752",
+        "Course Name":"ELECTRIC DRIVE SYSTEM",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL760",
+        "Course Name":"SWITCHED MODE POWER CONVERSION",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL769",
+        "Course Name":"ELECTRICAL SYSTEMS FOR CONSTRUCTION INDUSTRIES",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL776",
+        "Course Name":"ADVANCED POWER SYSTEM OPTIMIZA",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL777",
+        "Course Name":"POWER SYSTEM OPERATION AND CON",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL778",
+        "Course Name":"DYNAMIC MODELLING AND CONTROL",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL783",
+        "Course Name":"OPERATING SYSTEMS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL784",
+        "Course Name":"INTRODUCTION TO MACHINE LEARNI",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL814",
+        "Course Name":"WIRELESS OPTICAL COMMUNICATION",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL815",
+        "Course Name":"MIMO WIRELESS COMMUNICATIONS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL817",
+        "Course Name":"ACCESS NETWORKS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL850",
+        "Course Name":"DIGITAL CONTROL OF POWER ELECT",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ELL851",
+        "Course Name":"COMPUTER AIDED DESIGN OF ELECT",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL300",
+        "Course Name":"SELF-ORGANIZING DYNAMICAL SYSTEMS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL330",
+        "Course Name":"ENERGY, ECOLOGY AND ENVIRONMENT",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL710",
+        "Course Name":"ENERGY,ECOLOGY AND ENVIRONMENT",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL718",
+        "Course Name":"POWER GENERATION ,TRANSMISSION & DISTRIBUTION",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL729",
+        "Course Name":"RENEWABLE ENERGY AND ENVIRONMENT",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL730",
+        "Course Name":"DIRECT ENERGY CONVERSION",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL734",
+        "Course Name":"NUCLEAR ENERGY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL750",
+        "Course Name":"ECONOMICS & PLANNING OF ENERGY SYSTEMS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL768",
+        "Course Name":"WIND & SMALL HYDRO ENERGY SYSTEMS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL774",
+        "Course Name":"QUANTITATIVE METHODS FORENERGY MANAGEMENT & PLG.",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL776",
+        "Course Name":"INDUSTRIAL ENERGY & ENVIRONMENT ANALYSI",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL780",
+        "Course Name":"ZERO EMISSION VEHICLES",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL784",
+        "Course Name":"COGENERATION AND ENERGY EFFICIENCY",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL796",
+        "Course Name":"OPERATION AND CONTROL OF ELECTRICAL ENERGY SYSTEMS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL840",
+        "Course Name":"SOLAR ARCHITECTURE",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL852",
+        "Course Name":"EMERGING MATERIALS FOR NEXT GENERATION PHOTOVALTAIC APPLICATIONS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL855",
+        "Course Name":"SOLAR PHOTOVOLTAIC POWER GENERATION",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL871",
+        "Course Name":"ADVANCED FUSION ENERGY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL875",
+        "Course Name":"ALTERNATIVE FUELS FOR TRANSPORTATION",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESL880",
+        "Course Name":"SOLAR THERMAL POWER GENERATION",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESN702",
+        "Course Name":"INTRODUCTION TO PROJECT MANAGEMENT",
+        "Slot Name":"L"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"ESN703",
+        "Course Name":"TECHNICAL WRITING",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL262",
+        "Course Name":"SOCIAL PSYCHOLOGICAL APPROACHES TO HEALTH AND WELLBEING",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL701",
+        "Course Name":"INTRODUCTION TO SCIENCE ANDTECHNOLOGY POLICY STUDI",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL704",
+        "Course Name":"INCLUSIVE INNOVATION: THEORYAND PRACTICE",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL800",
+        "Course Name":"RESEARCH WRITING",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL800",
+        "Course Name":"RESEARCH WRITING",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HSL851",
+        "Course Name":"PHILOSOPHY OF LITERATURE",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL211",
+        "Course Name":"INTRODUCTION TO ECONOMICS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL213",
+        "Course Name":"MACRO ECONOMICS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL236",
+        "Course Name":"AN INTRODUCTION TO DRAMA",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL238",
+        "Course Name":"MODERN FICTION",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL239",
+        "Course Name":"INDIAN FICTION IN ENGLISH",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL243",
+        "Course Name":"LANGUAGE AND COMMUNICATION",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL253",
+        "Course Name":"MORAL LITERACY AND MORAL CHOICES",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL256",
+        "Course Name":"CRITICAL THINKING",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL258",
+        "Course Name":"SOCIAL AND POLITICAL PHILOSOPH",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL261",
+        "Course Name":"INTRODUCTION TO PSYCHOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL267",
+        "Course Name":"POSITIVE PSYCHOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL271",
+        "Course Name":"INTRODUCTION TO SOCIOLOGY",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL271",
+        "Course Name":"INTRODUCTION TO SOCIOLOGY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL311",
+        "Course Name":"APPLIED GAME THEORY",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL315",
+        "Course Name":"ECONOMETRIC METHODS",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL340",
+        "Course Name":"SELECTED TOPICS IN LITERATURE",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL354",
+        "Course Name":"ART AND TECHNOLOGY",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL360",
+        "Course Name":"SELECTED TOPICS IN PHILOSOPHY",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL362",
+        "Course Name":"ORGANIZATIONAL BEHAVIOUR",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL370",
+        "Course Name":"SELECTED TOPICS IN PSYCHOLOGY",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL374",
+        "Course Name":"NATIONS AND NATIONALISM",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL376",
+        "Course Name":"POLITICAL ECOLOGY OF WATER",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL378",
+        "Course Name":"INDUSTRY AND WORK CULTURE UNDER GLOBALIZATION",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL380",
+        "Course Name":"SELECTED TOPICS IN SOCIOLOGY",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"HUL763",
+        "Course Name":"COGNITIVE PSYCHOLOGY",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL301",
+        "Course Name":"ORGANIZATION AND PEOPLE MANAGEMENT",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL303",
+        "Course Name":"MARKETING MANAGEMENT",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL706",
+        "Course Name":"BUSINESS LAWS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL708",
+        "Course Name":"FINANCIAL MANAGEMENT",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL710",
+        "Course Name":"CREATIVE PROBLEM SOLVING",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL711",
+        "Course Name":"STRATEGIC MANAGEMENT",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL713",
+        "Course Name":"INFORMATION SYSTEMS MANAGEMENT",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL720",
+        "Course Name":"MACROECONOMIC ENV. OF BUSINESS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL720",
+        "Course Name":"MACROECONOMIC ENV. OF BUSINESS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL720",
+        "Course Name":"MACROECONOMIC ENV. OF BUSINESS",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL723",
+        "Course Name":"TELECOM SYSTEMS MANAGEMENT",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL745",
+        "Course Name":"OPERATIONS MANAGEMENT",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSL894",
+        "Course Name":"SOCIAL MEDIA AND BUSINESS PRACTICES",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MSV806",
+        "Course Name":"SELECTED TOPICS IN MARKETING MANAGEMENT",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"JPD802",
+        "Course Name":"MAJOR PROJECT PART-II",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL711",
+        "Course Name":"MECHANICAL BEHAVIOUR OF MATERIALS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL712",
+        "Course Name":"MATERIALS DESIGN AND SELECTION",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL713",
+        "Course Name":"PHASE TRANSFORMATIONS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL714",
+        "Course Name":"FRACTURE MECHANICS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL715",
+        "Course Name":"ADVANCED ENGINEERING MATERIALS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MLL716",
+        "Course Name":"ENGINEERING FAILURE ANALYSIS AND PREVENTION",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PTL702",
+        "Course Name":"POLYMER PROCESSING",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PTL704",
+        "Course Name":"POLYMER TECHNOLOGY",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PTL706",
+        "Course Name":"POLYMER TESTING & PROPERTIES",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PTL709",
+        "Course Name":"POLYMER TECHNOLOGY",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PTL712",
+        "Course Name":"POLYMER COMPOSITES",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PTL713",
+        "Course Name":"POLYMER TESTING AND PROPERTIES",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL102",
+        "Course Name":"DIFFERENTIAL EQUATIONS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL103",
+        "Course Name":"OPTIMIZATION METHODS & APPL.",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL105",
+        "Course Name":"ALGEBRA",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL106",
+        "Course Name":"PROBABILITY & STOCHASTIC PRO.",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL108",
+        "Course Name":"INTRODUCTION TO STATISTICS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL122",
+        "Course Name":"REAL AND COMPLEX ANALYSIS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL145",
+        "Course Name":"NUMBER THEORY",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL390",
+        "Course Name":"STATISTICAL METHODS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL506",
+        "Course Name":"COMPLEX ANALYSIS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL508",
+        "Course Name":"MATHEMATICAL PROGRAMMING",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL509",
+        "Course Name":"NUMERICAL  ANALYSIS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL510",
+        "Course Name":"MEASURE AND INTEGRATION",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL730",
+        "Course Name":"CRYPTOGRAPHY",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL741",
+        "Course Name":"FRACTAL GEOMETRY",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL742",
+        "Course Name":"OPERATOR THEORY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL746",
+        "Course Name":"METHODS OF APPLIED MATHEMATICS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL782",
+        "Course Name":"DATA MINING",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL131",
+        "Course Name":"MANUFACTURING PROCESSES I",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL132",
+        "Course Name":"METAL FORMING AND PRESS TOOLS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL133",
+        "Course Name":"NEAR NET SHAPE MANUFACTURING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL136",
+        "Course Name":"MATERIAL REMOVAL PROCESSES",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL142",
+        "Course Name":"THERMAL SC. FOR ELE. ENGINEERS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL201",
+        "Course Name":"MECHANICAL ENGG. DRAWING",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL212",
+        "Course Name":"CONTROL THEORY & APPLICATIONS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL241",
+        "Course Name":"ENERGY SYSTEMS AND TECH.",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL311",
+        "Course Name":"CAD & FINITE ELEMENT ANALYSIS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL321",
+        "Course Name":"AUTOMOTIVE SYSTEMS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL331",
+        "Course Name":"MICRO AND NANO MANUFACTURING",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL334",
+        "Course Name":"INDUSTRIAL AUTOMATION",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL343",
+        "Course Name":"INTRODUCTION TO COMBUSTION",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL347",
+        "Course Name":"INTERMEDIATE HEAT TRANSFER",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL361",
+        "Course Name":"MANUFACTURING SYSTEM DESIGN",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL380",
+        "Course Name":"SPL. TOPICS IN MECHANICAL ENGG",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL421",
+        "Course Name":"AUTOMOTIVE STRUCTURAL DESIGN",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL705",
+        "Course Name":"EXPERIMENTAL METHODS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL721",
+        "Course Name":"AUTOMOTIVE PRIME MOVERS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL723",
+        "Course Name":"VEHICLE DYNAMICS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL730",
+        "Course Name":"DESIGNING WITH ADVANCE MATERIALS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL733",
+        "Course Name":"VIBRATIONS AND NOISE ENGINEERING",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL736",
+        "Course Name":"AUTOMOTIVE DESIGN",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL738",
+        "Course Name":"DYNAMICS OF MULTIBODY SYSTEMS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL741",
+        "Course Name":"CONTROL ENGINEERING",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL743",
+        "Course Name":"PLANT EQUIPMENT DESIGN",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL745",
+        "Course Name":"ROBOTICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL747",
+        "Course Name":"DESIGN OF PRECISION MACHINES",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL754",
+        "Course Name":"OPERATIONS PLANNING AND CONTRO",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL756",
+        "Course Name":"SUPPLY CHAIN MANAGEMENT",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL759",
+        "Course Name":"ENTREPRENEURSHIP",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL760",
+        "Course Name":"PROJECT MANAGEMENT",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL770",
+        "Course Name":"STOCHASTIC MODELING AND SIMULATION",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL771",
+        "Course Name":"VALUE ENGINEERING AND LIFE CYC",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL782",
+        "Course Name":"COMPUTATIONAL METHODS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL784",
+        "Course Name":"COMPUTER AIDED MANUFACTURING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL786",
+        "Course Name":"METROLOGY",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL813",
+        "Course Name":"COMPUTATIONAL HEAT TRANSFER",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL814",
+        "Course Name":"CONVECTIVE HEAT TRANSFER",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL815",
+        "Course Name":"FIRE DYNAMICS AND ENGINEERING",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL816",
+        "Course Name":"GAS DYNAMICS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL818",
+        "Course Name":"HEATING, VENTILATING AND AIR-C",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL821",
+        "Course Name":"RADIATION HEAT TRANSFER",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL822",
+        "Course Name":"STEAM AND GAS TURBINES",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL823",
+        "Course Name":"THERMAL DESIGN",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCL865",
+        "Course Name":"ADVANCED OPERATIONS RESEARCH",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCV849",
+        "Course Name":"SPECIAL MODULE IN SYSTEM DESIGN",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MEL709",
+        "Course Name":"HEAT EXCHANGERS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"VEL700",
+        "Course Name":"HUMAN VALUES AND TECHNOLOGY",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"VEL710",
+        "Course Name":"TRADITIONAL KNOWLEDGE AND VALUES",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL102",
+        "Course Name":"PRINCIPLES OF ELECT. MATERIALS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL111",
+        "Course Name":"ELECTRODYNAMICS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL112",
+        "Course Name":"QUANTUM MECHANICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL114",
+        "Course Name":"SOLID STATE PHYSICS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL202",
+        "Course Name":"STATISTICAL PHYSICS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL204",
+        "Course Name":"COMPUTATIONAL PHYSICS",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL301",
+        "Course Name":"VACUUM TECHNOLO. & SURFACE SC.",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL302",
+        "Course Name":"NUCLEAR SCIENCE & ENGINEERING",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL303",
+        "Course Name":"MATERIALS SCIENCE & ENGG.",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL304",
+        "Course Name":"SUPERCONDUCTIVITY & APPLICAT.",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL306",
+        "Course Name":"MICROELECTRONIC DEVICES",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL311",
+        "Course Name":"LASERS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL312",
+        "Course Name":"SEMICONDUCTOR OPTOELECTRONICS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL331",
+        "Course Name":"APPLIED QUANTUM MECHANICS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL413",
+        "Course Name":"FIBER AND INTEGRATED OPTICS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL552",
+        "Course Name":"ELECTRODYNAMICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL556",
+        "Course Name":"QUANTUM MECHANICS II",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL558",
+        "Course Name":"STATISTICAL MECHANICS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL560",
+        "Course Name":"APPLIED OPTICS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL563",
+        "Course Name":"SOLID STATE PHYSICS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL652",
+        "Course Name":"MAGNETISM AND SPINTRONICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL658",
+        "Course Name":"ADVANCED PLASMA PHYSICS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL704",
+        "Course Name":"SC. & TECHNOLOGY OF THIN FILMS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL705",
+        "Course Name":"NANOSTRUCTURED MATERIALS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL707",
+        "Course Name":"CHARACTERISATION TEC. FOR MAT.",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL725",
+        "Course Name":"SURFACE PHYSICS AND ANALYSIS",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL727",
+        "Course Name":"ENERGY MATERIALS AND DEVICES",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL728",
+        "Course Name":"QUANTUM HETEROSTRUCTURES",
+        "Slot Name":"L"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL742",
+        "Course Name":"GEN. RELATIVITY & INTRO. ASTR.",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL743",
+        "Course Name":"GROUP THEORY & ITS APPLICATION",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL744",
+        "Course Name":"HIGH ENERGY PHYSICS",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL752",
+        "Course Name":"LASER SYSTEMS AND APPLICATIONS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL756",
+        "Course Name":"FOURIER OPTICS AND HOLOGRAPHY",
+        "Slot Name":"L"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL758",
+        "Course Name":"ADVANCED QUANTUM OPTICS AND APPLICATIONS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL760",
+        "Course Name":"BIOMEDICAL OPTICS & BIO-PHOTO.",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL772",
+        "Course Name":"PLASMONIC SENSORS",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL780",
+        "Course Name":"DIFFRACTIVE AND MICRO OPTICS",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL792",
+        "Course Name":"OPTICAL ELECTRONICS",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL800",
+        "Course Name":"NUM. & COMP. METH. IN RESEARCH",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL100",
+        "Course Name":"INTRO. TO BIOLOGY FOR ENGINEER",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL201",
+        "Course Name":"HIGH-DIMENSIONAL BIOLOGY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL701",
+        "Course Name":"BIOMETRY",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL702",
+        "Course Name":"SYSTEMS BIOLOGY",
+        "Slot Name":"K"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL703",
+        "Course Name":"ADVANCED CELL BIOLOGY",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL706",
+        "Course Name":"BIOLOGICS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL707",
+        "Course Name":"BACTERIAL PATHOGENESIS",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL711",
+        "Course Name":"CELL SIGNALING",
+        "Slot Name":"M"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SBL714",
+        "Course Name":"PLANT BIOTECH. & HUMAN HEALTH",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"SIL861",
+        "Course Name":"SPECIAL TOPICS IN INFORMATION & COMMUNICATION TECHNOLOGIES FOR DEVELOPMENT",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL211",
+        "Course Name":"STRUCTURE AND PHYSICAL PROPERTIES OF FIBRES",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL221",
+        "Course Name":"YARN MANUFACTURE I",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL231",
+        "Course Name":"FABRIC MANUFACTURE I",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL241",
+        "Course Name":"TECH. OF TEXT. PREPARATION & F",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL361",
+        "Course Name":"EVALUATION OF TEXTILE MATERIAL",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL371",
+        "Course Name":"THEORY OF TEXTILE STRUCTURES",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL372",
+        "Course Name":"SPECIALITY YARNS AND FABRICS",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL715",
+        "Course Name":"TECHNOLOGY OF SOLUTION SPUN FIBRES",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL725",
+        "Course Name":"MECHANICS OF SPINNING MACHINES",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL740",
+        "Course Name":"SC. & APP. OF NANOTEC. IN TEX.",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL748",
+        "Course Name":"ADVANCES IN FINISHING OF TEXTILES",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL754",
+        "Course Name":"SUSTAINABLE CHEMICAL PROCESSING OF TEXTILES",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL756",
+        "Course Name":"TEXTILE AUXILIARIES",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL766",
+        "Course Name":"DE. & MANUF. OF TEXT. STR. CO.",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL771",
+        "Course Name":"ELECTRONICS AND CONTROLS FOR TEXTILEINDUSTRY",
+        "Slot Name":"J"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL773",
+        "Course Name":"MEDICAL TEXTILES",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL775",
+        "Course Name":"TECHNICAL TEXTILES",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL777",
+        "Course Name":"PRODUCT DESIGN AND DEVELOPMENT",
+        "Slot Name":"H"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXL783",
+        "Course Name":"DESIGN OF EXPER. & STAT. TECH.",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXP212",
+        "Course Name":"MANUFACTURED FIBRE TECHNO. LAB",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXP221",
+        "Course Name":"YARN MANUFACTURE LABORATORYI",
+        "Slot Name":"E"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXP231",
+        "Course Name":"FABRIC MANUFACTURE LAB. - I",
+        "Slot Name":"B"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXP241",
+        "Course Name":"TECH. OF TEX. PRE. & FIN. LAB.",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXP361",
+        "Course Name":"EVALUATION OF TEXTILES LAB",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXP716",
+        "Course Name":"FIBRE PRODUCTION AND POST SPINNING OPERATION LABORATORY",
+        "Slot Name":"F"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"TXP761",
+        "Course Name":"EVALUATION OF TEXTILE MATERIALS",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"APL100",
+        "Course Name":"ENGINEERING MECHANICS",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CML100",
+        "Course Name":"INTRODUCTION TO CHEMISTRY",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"CMP100",
+        "Course Name":"CHEMISTRY LABORATORY",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MCP101",
+        "Course Name":"PRODUCT REALIZATION THROUGH MANUFACTURING",
+        "Slot Name":"A"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL100",
+        "Course Name":"CALCULUS",
+        "Slot Name":"D"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"MTL101",
+        "Course Name":"LINEAR ALGEBRA & DIFFE. EQUA.",
+        "Slot Name":"C"
+    },
+    {
+        "Department":",,APPLIED MECHANICS,,,,,,,,,,",
+        "Course Code":"PYL100",
+        "Course Name":"ELECTROMAGNETIC WAVES & QUA.MEC.",
+        "Slot Name":"A"
+    }
+]

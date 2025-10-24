@@ -4,8 +4,6 @@ import re
 from itertools import product
 from dept import Electrical   # import your dept dictionary
 from user import UserData
-
-
 from minor_planner import MinorPlanner
 
 CONFIG = {
@@ -95,7 +93,7 @@ def parse_prereqs(prereq_string):
 
 
 # 1️⃣ Load master data JSON
-with open("data.json", "r") as f:
+with open("data.json", "r",encoding="utf-8") as f:
     all_courses = json.load(f)  # dict with course_code as key
 
 # 2️⃣ Extract recommended courses semester-wise
@@ -147,46 +145,42 @@ for sem_idx, course_list in enumerate(recommended_courses, start=1):
 
 # 3️⃣ Save to a JSON file (optional)
 output_file = f"{dept_code}_courses_data.json"
-with open(output_file, "w") as f:
+with open(output_file, "w",encoding="utf-8") as f:
     json.dump(selected_courses, f, indent=4)
 
 print(f"✅ Department courses saved to '{output_file}'")
 print(f"✅ Prerequisites parsed for all courses")
 
+#--------------------------------------------------------------------------------#
 
 
-"""user= UserData(name="Snehal",current_semester=3,EE_courses=selected_courses,completed_corecourses= ['ELL101',   'PYL101',   'MCP100','MTL100','COL100','PYP100','MCP101','APL100','CML101','MTL101','CMP100','ELP101'])
-user.print_summary(debug=True)
-with open("EE_courses.json", "w") as f:
-    json.dump(user.EE_courses, f, indent=4)
-#making a list of remaining courses """
 # Corrected User Initialization in planner.py
 
 user = UserData(
-    name="Snehal",
-    current_semester=5,  # You're STARTING semester 5 (not in it yet)
+    name="Monisha",
+    current_semester=4,  # You're STARTING semester 5 (not in it yet)
     EE_courses=selected_courses,
     
     # ALL courses completed in semesters 1-4
     completed_corecourses=[
         # Semester 1
-        'ELL101', 'PYL101', 'MCP100', 'MTL100', 'COL100',
-        'PYP100', 'MCP101',
+        'ELL101', 'PYL101', 'ELP101', 'MTL100', 'COL100',
+        'PYP100','NLN100',
         
         # Semester 2
-        'APL100', 'CML101', 'MTL101', 'CMP100',
+        'APL100', 'CML101', 'MTL101', 'CMP100','MCP100','MCP101','NLN101',
         
         # Semester 3
-        'ELL205', 'ELL203', 'ELL201', 'COL106', 'ELL202', 'ELP101',
+        'ELL205', 'ELL203', 'ELL211', 'COL106', 'ELL202', 
         
-        # Semester 4
-        'ELL211', 'ELL212', 'ELL225', 'ELP203', 'ELP212', 'ELP225',
+        
+        
         
         # Add any other CORE courses you've completed
     ],
     
     completed_hul=[
-        'HUL260',  # Add any HUL courses completed in sem 1-4
+        'HUL270',  # Add any HUL courses completed in sem 1-4
     ],
     
     completed_DE=[
@@ -203,27 +197,16 @@ user = UserData(
     max_credits=24
 )
 
-# Print to verify
-print(f"\n{'='*70}")
-print(f"USER PROFILE VERIFICATION")
-print(f"{'='*70}")
-print(f"Name: {user.name}")
-print(f"Starting Semester: {user.current_semester}")
-print(f"Completed Core Courses: {len(user.completed_corecourses)}")
-print(f"Completed HUL: {len(user.completed_hul)}")
-print(f"Completed DE: {len(user.completed_DE)}")
-print(f"Completed Minor: {len(user.completed_minor)}")
-print(f"Minor Type: {user.minor_type}")
-print(f"{'='*70}\n")
 
-user.print_summary(debug=True)
+
+user.print_user_summary(debug=True)
 
 courses_left = {}
 
 # Build set of all completed courses from all tracking methods
-all_completed_codes = set(user.completed_corecourses)
-all_completed_codes.update(user.completed_hul)
-all_completed_codes.update(user.completed_DE)
+# all_completed_codes = set(user.completed_corecourses)
+# all_completed_codes.update(user.completed_hul)
+# all_completed_codes.update(user.completed_DE)
 
 # ============================================================
 # BUILD courses_left DICTIONARY - CORRECTED VERSION
@@ -267,7 +250,7 @@ print("="*70 + "\n")
 
 # Save courses_left
 output_file = "courses_left.json"
-with open(output_file, "w") as f:
+with open(output_file, "w",encoding="utf-8") as f:
     json.dump(courses_left, f, indent=4)
 
 print(f"✅ Courses left saved to '{output_file}'")
@@ -299,144 +282,33 @@ for sem in sorted(courses_left.keys()):
     total_count = len(courses_left[sem])
     print(f"    Semester {sem}: {total_count} courses ({core_count} Core, {hul_count} HUL, {de_count} DE)")
 
-"""# STEP 1: Build courses_left for all semesters
-for sem, courses in selected_courses.items():
-    target_sem = sem if sem >= user.current_semester else user.current_semester
-    
-    for course in courses:
-        code = course["code"]
-        ctype = course.get("type", "")
-        
-        # Skip if already completed (checks all types)
-        if code in all_completed_codes:
-            continue
-        
-        # Add to courses_left
-        courses_left.setdefault(target_sem, []).append(course)
 
-# STEP 2: Find incomplete core courses from past semesters
-incomplete_core_courses = []
-
-for sem, courses in selected_courses.items():
-    if sem < user.current_semester:
-        for course in courses:
-            code = course["code"]
-            ctype = course.get("type", "")
-            
-            if ctype == "Core" and code not in all_completed_codes:
-                incomplete_core_courses.append(course)
-                print(f"Found incomplete/failed course: {code} from semester {sem}")
-# STEP 1: Build courses_left - Core courses go to ALL future semesters
-for sem, courses in selected_courses.items():
-    for course in courses:
-        code = course["code"]
-        ctype = course.get("type", "")
-        
-        # Skip if already completed
-        if code in all_completed_codes:
-            continue
-        
-        # For CORE courses: Add to ALL future semesters (flexible scheduling)
-        if ctype == "Core":
-            for future_sem in range(user.current_semester, 9):
-                if future_sem not in courses_left:
-                    courses_left[future_sem] = []
-                
-                # Only add if not already there
-                if not any(c["code"] == code for c in courses_left[future_sem]):
-                    courses_left[future_sem].append(course)
-        
-        # For electives (HUL, DE): Also add to all future semesters
-        elif ctype in ["DE", "HUL2XX", "HUL3XX"]:
-            for future_sem in range(user.current_semester, 9):
-                if future_sem not in courses_left:
-                    courses_left[future_sem] = []
-                
-                if not any(c["code"] == code for c in courses_left[future_sem]):
-                    courses_left[future_sem].append(course)
-        
-        # For other course types from past semesters: put in current semester
-        else:
-            target_sem = sem if sem >= user.current_semester else user.current_semester
-            courses_left.setdefault(target_sem, []).append(course)
-
-print("✅ Core courses added to ALL future semesters (flexible scheduling)")
-
-
-# STEP 3: Add failed courses to all future semesters
-for sem in range(user.current_semester, 9):
-    if sem not in courses_left:
-        courses_left[sem] = []
-    
-    for failed_course in incomplete_core_courses:
-        code = failed_course["code"]
-        if not any(c["code"] == code for c in courses_left[sem]):
-            courses_left[sem].append(failed_course)""" 
 # Save courses_left
-output_file = "courses_left.json"
-with open(output_file, "w") as f:
-    json.dump(courses_left, f, indent=4)
 
 
-print(f"\n✅ Courses left saved to '{output_file}'")
-print(f"\n📊 Summary:")
-
-# Count UNIQUE courses per type
-unique_core = set()
-unique_hul = set()
-unique_de = set()
-
-for sem, courses in courses_left.items():
-    for c in courses:
-        if c.get("type") == "Core":
-            unique_core.add(c["code"])
-        elif c.get("type", "").startswith("HUL"):
-            unique_hul.add(c["code"])
-        elif c.get("type") == "DE":
-            unique_de.add(c["code"])
-
-print(f"  Unique courses available:")
-print(f"    Core: {len(unique_core)} courses")
-print(f"    HUL: {len(unique_hul)} courses")
-print(f"    DE: {len(unique_de)} courses")
-
-print(f"\n  Per-semester breakdown:")
-for sem in sorted(courses_left.keys()):
-    hul_count = sum(1 for c in courses_left[sem] if c.get("type", "").startswith("HUL"))
-    de_count = sum(1 for c in courses_left[sem] if c.get("type") == "DE")
-    core_count = sum(1 for c in courses_left[sem] if c.get("type") == "Core")
-    total_count = len(courses_left[sem])
-    print(f"    Semester {sem}: {total_count} courses ({core_count} Core, {hul_count} HUL, {de_count} DE)")
-# Save courses_left
-# ============================================================
 # DIAGNOSTIC: Check Core Course Distribution
 # ============================================================
 
-print("\n" + "="*70)
-print("🔍 DIAGNOSTIC: Core Course Credits Per Semester")
-print("="*70)
+# print("\n" + "="*70)
+# print("🔍 DIAGNOSTIC: Core Course Credits Per Semester")
+# print("="*70)
 
-for sem in sorted(courses_left.keys()):
-    core_courses = [c for c in courses_left[sem] if c.get("type") == "Core"]
-    core_credits = sum(c["credits"] for c in core_courses)
+# for sem in sorted(courses_left.keys()):
+#     core_courses = [c for c in courses_left[sem] if c.get("type") == "Core"]
+#     core_credits = sum(c["credits"] for c in core_courses)
     
-    print(f"\n  Semester {sem}:")
-    print(f"     Core courses: {len(core_courses)}")
-    print(f"     Core credits: {core_credits}")
+#     print(f"\n  Semester {sem}:")
+#     print(f"     Core courses: {len(core_courses)}")
+#     print(f"     Core credits: {core_credits}")
     
-    if core_credits > 24:
-        print(f"     ⚠️  PROBLEM: Core alone exceeds max 24 credits!")
-    elif core_credits > 20:
-        print(f"     ⚠️  WARNING: Core takes {core_credits} credits, leaving only {24-core_credits} for electives")
-    else:
-        print(f"     ✅ OK: {24-core_credits} credits available for HUL/DE/Minor")
+  
     
-    if core_courses:
-        print(f"     Courses:")
-        for c in core_courses:
-            print(f"       • {c['code']}: {c['name']} ({c['credits']} cr)")
+#     if core_courses:
+#         print(f"     Courses:")
+#         for c in core_courses:
+#             print(f"       • {c['code']}: {c['name']} ({c['credits']} cr)")
 
-print("="*70 + "\n")
+# print("="*70 + "\n")
 
 
 # ============================================================
@@ -474,7 +346,7 @@ if SELECTED_MINOR:
     )
     
     # Save updated courses_left
-    with open("courses_left.json", "w") as f:
+    with open("courses_left.json", "w",encoding="utf-8") as f:
         json.dump(courses_left, f, indent=4)
     
     # Update user
@@ -645,64 +517,7 @@ else:
     print(f"   ✅ FEASIBLE with extended credits")
 
 print()
-"""for sem, courses in courses_left.items():
-    for course in courses:
-        code = course["code"]
-        course_vars[(sem, code)] = model.NewBoolVar(f"{code}_sem{sem}")
-
-#courses which are left add them to satisfy credits 
-# CONSTRAINT 1
-for sem, courses in courses_left.items():
-    total_credits = 0
-    for course in courses:
-        code = course["code"]
-        total_credits += course_vars[(sem, code)] *int(course["credits"]*CONFIG["CREDIT_SCALE"]) #scale since model doesnt directly support float
-    
-    # Hard constraints for semester credits
-    model.Add(total_credits >= user.min_credits*CONFIG["CREDIT_SCALE"])
-    model.Add(total_credits <= user.max_credits*CONFIG["CREDIT_SCALE"])
-
-#total credits condition = should be 150 
-# Total target credits for EE degree
-#CONSTRAINT 2 
-total_target_credits = CONFIG["TOTAL_TARGET_CREDITS"]
-
-
-# Compute credits already completed
-credits_done = 0
-seen_courses = set()  # track codes we've already counted
-
-for sem, courses in user.EE_courses.items():
-    for course in courses:
-        code = course["code"]
-        if code in seen_courses:
-            continue  # skip duplicates
-
-        if code in user.completed_corecourses or code in user.completed_hul or code in user.completed_DE:
-            credits_done += course["credits"]
-            seen_courses.add(code)
-
-print("Credits done:", credits_done)
-
-            
-# Save user.EE_courses to a file
-
-
-
-# Target credits for remaining semesters
-remaining_target_credits = int((total_target_credits - credits_done) * CONFIG["CREDIT_SCALE"])  # scale by CONFIG["CREDIT_SCALE"]
-#  Create one big sum across all remaining semesters and equate this sum to remaining credits 
-total_remaining_credits = 0
-for (sem, code), var in course_vars.items(): 
-
-    # find course data again
-    for course in courses_left[sem]:
-        if course["code"] == code:
-            total_remaining_credits += var * int(course["credits"] * CONFIG["CREDIT_SCALE"])
-            break
-
-#  Add constraint: all selected courses must exactly match remaining target credits
-model.Add(total_remaining_credits >= remaining_target_credits)""" #sets the min credit limit instead of setting exact value like in previous lineconfig
+ #sets the min credit limit instead of setting exact value like in previous lineconfig
 
 #CONSTRAINT 3 
 # max of 2 hul courses per sem 
@@ -816,18 +631,7 @@ for code in all_course_codes:
 print(f"✅ Applied uniqueness constraint to {core_count + other_count} courses "
       f"({core_count} core, {other_count} electives)\n")
 
-"""for sem, courses in courses_left.items():
-    for course in courses:
-        if course.get("type") == "Core":
-            code = course["code"]
 
-            # gather this course across all semesters
-            core_vars = [
-                var for (s, c), var in course_vars.items() if c == code
-            ]
-
-            if core_vars:  # only if found
-                model.Add(sum(core_vars) == 1)"""
 
 
 # Add these constraints after CONSTRAINT 4 (prerequisites) and before CONSTRAINT 5 (core courses)
@@ -889,6 +693,36 @@ if de_credit_vars and remaining_de_needed > 0:
     print(f"✅ Added DE credit constraint: min {remaining_de_needed / CONFIG['CREDIT_SCALE']} more credits needed (total 10)")
 elif remaining_de_needed <= 0:
     print(f"✅ DE credits already satisfied: {de_credits_done} completed")
+
+
+#CONSTRAINT 8 : SLOTTING
+# ============================================================
+# CONSTRAINT 8: Slot Conflicts
+# ============================================================
+
+print("📋 CONSTRAINT 8: Slot conflicts (lecture vs lecture)")
+
+for sem, courses in courses_left.items():
+    # Group courses by slot
+    slot_to_courses = {}
+    for course in courses:
+        slot = course.get("slot")
+        if slot:
+            slot_to_courses.setdefault(slot, []).append(course)
+
+    # Apply lecture-lecture constraint
+    for slot, slot_courses in slot_to_courses.items():
+        # Only consider lecture courses
+        lecture_courses = [c for c in slot_courses if c.get("hours", {}).get("lecture", 0) > 0]
+        
+        if len(lecture_courses) > 1:
+            # At most 1 lecture in this slot
+            vars_in_slot = [course_vars[(sem, c["code"])] for c in lecture_courses]
+            model.Add(sum(vars_in_slot) <= 1)
+            print(f"   ✅ Slot '{slot}' lecture conflict constraint added ({len(vars_in_slot)} courses)")
+
+print("✅ Slot constraints applied\n")
+
 
 # ============================================================
 # MINOR CONSTRAINTS
@@ -1288,105 +1122,57 @@ if status == cp_model.OPTIMAL or status == cp_model.FEASIBLE:
     # Print semester-wise plan
     print("\n" + "="*70)
     print("📅 SEMESTER-WISE PLAN")
-    print("="*70)
-    
-    for sem in sorted(semester_plan.keys()):
-        print(f"\n{'='*70}")
-        print(f"📘 SEMESTER {sem}")
-        print(f"{'='*70}")
-        
-        # Categorize courses
-        core = [c for c in semester_plan[sem] if c.get("type") == "Core"]
-        de = [c for c in semester_plan[sem] if c.get("type") == "DE"]
-        hul = [c for c in semester_plan[sem] if c.get("type", "").startswith("HUL")]
-        minor_core = [c for c in semester_plan[sem] if c.get("type") == "Minor_Core"]
-        minor_elec = [c for c in semester_plan[sem] if c.get("type") == "Minor_Elective"]
-        
-        # Print Core courses
-        if core:
-            print(f"\n  🔵 CORE COURSES:")
-            for c in core:
-                print(f"    • {c['code']}: {c['name']} ({c['credits']} cr)")
-                if c.get('prereqs'):
-                    print(f"      Prereqs: {c['prereqs']}")
-        
-        # Print Minor courses
-        if minor_core or minor_elec:
-            print(f"\n  🟢 MINOR COURSES ({SELECTED_MINOR}):")
-            for c in minor_core:
-                print(f"    • {c['code']}: {c['name']} ({c['credits']} cr) [CORE]")
-                if c.get('prereqs'):
-                    print(f"      Prereqs: {c['prereqs']}")
-            for c in minor_elec:
-                print(f"    • {c['code']}: {c['name']} ({c['credits']} cr) [ELECTIVE]")
-                if c.get('prereqs'):
-                    print(f"      Prereqs: {c['prereqs']}")
-        
-        # Print Department Electives
-        if de:
-            print(f"\n  🟡 DEPARTMENT ELECTIVES:")
-            for c in de:
-                print(f"    • {c['code']}: {c['name']} ({c['credits']} cr)")
-        
-        # Print Humanities
-        if hul:
-            print(f"\n  🟣 HUMANITIES:")
-            for c in hul:
-                print(f"    • {c['code']}: {c['name']} ({c['credits']} cr)")
-        
-        # Total credits for semester
-        total = sum(c['credits'] for c in semester_plan[sem])
-        print(f"\n  {'─'*66}")
-        print(f"  📊 Total Credits: {total}")
-        if total > 24:
-            print(f"      ⚠️  Extended credits (normal max is 24)")
-        print(f"  {'─'*66}")
-    
-    # Minor completion summary
-    if SELECTED_MINOR and minor_courses_taken:
-        print("\n" + "="*70)
-        print(f"🎓 MINOR COMPLETION SUMMARY: {SELECTED_MINOR}")
-        print("="*70)
-        
-        # Calculate credits
-        core_cr = sum(c["credits"] for c in minor_courses_taken if c["type"] == "Minor_Core")
-        elec_cr = sum(c["credits"] for c in minor_courses_taken if c["type"] == "Minor_Elective")
-        total_scheduled = core_cr + elec_cr
-        
-        print(f"\n  📊 Credits Breakdown:")
-        print(f"     Core scheduled: {core_cr} / {minor_req['core_required']} " +
-              ("✅" if core_cr >= minor_req['core_required'] else "❌"))
-        print(f"     Elective scheduled: {elec_cr} / {minor_req['elective_required']} " +
-              ("✅" if elec_cr >= minor_req['elective_required'] else "❌"))
-        print(f"     Unique credits scheduled: {total_scheduled}")
-        print(f"     OC credits allowance: {CONFIG['MINOR_OC_CREDITS']}")
-        print(f"     TOTAL: {total_scheduled} + {CONFIG['MINOR_OC_CREDITS']} = {total_scheduled + CONFIG['MINOR_OC_CREDITS']} / 20")
-        
-        # Show overlap info
-        if overlap_info and overlap_info['overlapping']:
-            print(f"\n  ⚠️  Note: {len(overlap_info['overlapping'])} courses excluded due to overlap:")
-            for code in overlap_info['overlapping']:
-                print(f"       - {code}")
-        
-        # Check completion
-        if total_scheduled >= CONFIG['MINOR_UNIQUE_CREDITS']:
-            print(f"\n  🎉 MINOR REQUIREMENTS SATISFIED!")
-            print(f"     You have {total_scheduled} unique minor credits")
-            print(f"     Plus {CONFIG['MINOR_OC_CREDITS']} from OC = {total_scheduled + CONFIG['MINOR_OC_CREDITS']} total")
-        else:
-            remaining = CONFIG['MINOR_UNIQUE_CREDITS'] - total_scheduled
-            print(f"\n  ⚠️  Need {remaining} more unique credits")
-        
-        # Semester-wise breakdown
-        print(f"\n  📅 Semester-wise Minor Courses:")
-        for sem in sorted(set(c["semester"] for c in minor_courses_taken)):
-            sem_courses = [c for c in minor_courses_taken if c["semester"] == sem]
-            sem_credits = sum(c["credits"] for c in sem_courses)
-            print(f"     Semester {sem} ({sem_credits} credits):")
-            for c in sem_courses:
-                label = "CORE" if c["type"] == "Minor_Core" else "ELECTIVE"
-                print(f"       • {c['code']}: {c['name']} [{label}]")
-        
-        print("="*70)
+print("="*70)
 
-
+for sem in sorted(semester_plan.keys()):
+    print(f"\n{'='*70}")
+    print(f"📘 SEMESTER {sem}")
+    print(f"{'='*70}")
+    
+    # Categorize courses
+    core = [c for c in semester_plan[sem] if c.get("type") == "Core"]
+    de = [c for c in semester_plan[sem] if c.get("type") == "DE"]
+    hul = [c for c in semester_plan[sem] if c.get("type", "").startswith("HUL")]
+    minor_core = [c for c in semester_plan[sem] if c.get("type") == "Minor_Core"]
+    minor_elec = [c for c in semester_plan[sem] if c.get("type") == "Minor_Elective"]
+    
+    # Helper to print courses with slot
+    def print_course(c, extra=""):
+        slot = c.get("slot", "N/A")
+        print(f"    • {c['code']}: {c['name']} ({c['credits']} cr) [Slot: {slot}] {extra}")
+        if c.get('prereqs'):
+            print(f"      Prereqs: {c['prereqs']}")
+    
+    # Print Core courses
+    if core:
+        print(f"\n  🔵 CORE COURSES:")
+        for c in core:
+            print_course(c)
+    
+    # Print Minor courses
+    if minor_core or minor_elec:
+        print(f"\n  🟢 MINOR COURSES ({SELECTED_MINOR}):")
+        for c in minor_core:
+            print_course(c, "[CORE]")
+        for c in minor_elec:
+            print_course(c, "[ELECTIVE]")
+    
+    # Print Department Electives
+    if de:
+        print(f"\n  🟡 DEPARTMENT ELECTIVES:")
+        for c in de:
+            print_course(c)
+    
+    # Print Humanities
+    if hul:
+        print(f"\n  🟣 HUMANITIES:")
+        for c in hul:
+            print_course(c)
+    
+    # Total credits for semester
+    total = sum(c['credits'] for c in semester_plan[sem])
+    print(f"\n  {'─'*66}")
+    print(f"  📊 Total Credits: {total}")
+    if total > 24:
+        print(f"      ⚠️  Extended credits (normal max is 24)")
+    print(f"  {'─'*66}")

@@ -122,16 +122,33 @@ class UserData:
     def update_preferences(self, course_code, score):
         self.preferences[course_code] = score
 
-    def print_summary(self, debug=False):
-        all_completed = (self.completed_corecourses + 
-                        self.completed_DE + 
-                        self.completed_hul)
+    def print_user_summary(self, debug=False):
+        """Prints a complete summary of the user's profile and completed courses."""
+        
+        print(f"\n{'='*70}")
+        print(f"USER PROFILE VERIFICATION")
+        print(f"{'='*70}")
+        
+        print(f"Name: {self.name}")
+        print(f"Starting Semester: {self.current_semester}")
+        print(f"Minor Type: {self.minor_type}")
+        print(f"Credit Limits: {self.min_credits}-{self.max_credits}")
+        
+        # Count completed courses
+        total_completed_courses = len(self.completed_corecourses + self.completed_hul + self.completed_DE + self.completed_minor)
+        
+        print(f"Completed Core Courses: {len(self.completed_corecourses)}")
+        print(f"Completed HUL: {len(self.completed_hul)}")
+        print(f"Completed DE: {len(self.completed_DE)}")
+        print(f"Completed Minor: {len(self.completed_minor)}")
+        print(f"Total Completed Courses: {total_completed_courses}")
         
         # Calculate total credits completed
+        all_completed = self.completed_corecourses + self.completed_DE + self.completed_hul
         total_credits = 0
         found_courses = []
         not_found_courses = []
-        
+
         if self.EE_courses:
             for completed_code in all_completed:
                 found = False
@@ -145,20 +162,18 @@ class UserData:
                             break
                     if found:
                         break
-                
                 if not found:
                     not_found_courses.append(completed_code)
         
-        print(f"Name: {self.name}")
-        print(f"Current Semester: {self.current_semester}")
-        print(f"Completed Courses: {len(all_completed)} courses")
         print(f"Total Credits Completed: {total_credits}")
         print(f"Completed HUL by semester: {self.completed_hul_sem}")
         print(f"Completed DE by semester: {self.completed_DE_sem}")
-        print(f"Credit Limits: {self.min_credits}-{self.max_credits}")
+        
+        if self.preferences:
+            print(f"Preferences: {self.preferences}")
         
         if debug:
-            print(f"\n🔍 Debug Info:")
+            print(f"\n{'-'*30}\n🔍 Debug Info:")
             print(f"Found courses with credits:")
             for fc in found_courses:
                 print(f"  - {fc}")
@@ -167,5 +182,4 @@ class UserData:
                 for nfc in not_found_courses:
                     print(f"  - {nfc}")
         
-        if self.preferences:
-            print(f"Preferences: {self.preferences}")
+        print(f"{'='*70}\n")

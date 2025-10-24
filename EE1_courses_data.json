@@ -12,6 +12,7 @@
                 "practical": 0
             },
             "description": "Elements in an Electrical circuit: R, L, C, Diode, Voltage and current sources (independent and dependent/controlled sources). DC circuits, KCL, KVL, Network theorems, Mesh and nodal analysis. Step response in RL, RC, RLC circuits. Phasor analysis of AC circuits. Single phase and 3-phase circuits. Two port network, BJT: CE and small signal model, Operational amplifiers: Model and applications, Introduction to Digital circuits. Magnetic circuits, Transformers: Modeling and analysis, parameter determination. Energy in magnetic field. Electromechanical energy conversion principles with examples. Principles of measurement of voltage, current and power.",
+            "slot": "AF",
             "prereqs_parsed": [],
             "type": "Core"
         },
@@ -27,6 +28,7 @@
                 "practical": 0
             },
             "description": "(Laboratory) 1 Credit (0-0-2) CRO (mechanism and usage). KCL, KVL, Network theorem verification. Step/transient response of RL, RC, RLC, circuits. Steady state response of Circuits of sinusoidal excitation. Diode experiment (clipping, clamping and rectification). Basic circuits using opamp. Transformers oC and SC tests. BH loop in an iron core, DC and AC motor \u2013 for observation only. A small mini-project.",
+            "slot": "P",
             "prereqs_parsed": [],
             "type": "Core"
         },
@@ -42,6 +44,7 @@
                 "practical": 4
             },
             "description": "Sketching of engineering objects and interpretation of drawings as a visualisation and communication tool. Creating 3D components through the use of a CAD package. Simple assemblies, generation of assembly views from part drawings, animation of simple assemblies.",
+            "slot": "P",
             "prereqs_parsed": [],
             "type": "Core"
         },
@@ -57,6 +60,7 @@
                 "practical": 0
             },
             "description": "Electromagnetism: Vector analysis, Electric and magnetic fields in media, Susceptibility and ohmic Conductivity, Maxwell\u2019s relations, interface conditions, EM wave equation, plane wave solutions, polarization of EM waves, Poynting vector and intensity, wave packets, phase and group velocities, reflection and refraction at dielectric interfaces, Brewster\u2019s angle, and total internal reflection. Quantum Mechanics: Wave-particle duality, de-Brogile waves, quantum mechanical operators, Schrodinger equation, wave function, statistical interpretation, superposition principle, continuity equation for probability density, stationary states, bound states, free-particle solution, 1-D infinite potential well, expectation values and uncertainty relations, 1-D finite potential well, and quantum mechanical tunnelling and alpha-decay.",
+            "slot": "AA",
             "prereqs_parsed": [],
             "type": "Core"
         },
@@ -72,6 +76,7 @@
                 "practical": 0
             },
             "description": "Review of limit, continuity and differentiability, uniform continuity. Mean value theorems and applications, Taylor\u2019s theorem, maxima and minima. Sequences and series, limsup, liminf, convergence of sequences and series of real numbers, absolute and conditional convergence. Riemann integral, fundamental theorem of integral calculus, applications of definite integrals, improper integrals, beta and gamma functions. Functions of several variables, limit and continuity, partial derivatives and differentiability, gradient, directional derivatives, chain rule, Taylor\u2019s theorem, maxima and minima and the method of Lagrange multipliers. Double and triple integration, Jacobian and change of variables formula. Parameterization of curves and surfaces, vector fields, divergence and curl. Line integrals, Green\u2019s theorem, surface integral, Gauss and Stokes\u2019 theorems with applications.",
+            "slot": "D",
             "prereqs_parsed": [],
             "type": "Core"
         },
@@ -87,6 +92,7 @@
                 "practical": 4
             },
             "description": "Experiments based on Design and Study of Power sources, Charging and discharging of a capacitor, Electromagnetic Induction, Phase Measurement. Experiments on geometrical and wave optics including interference, diffraction, dispersion and polarization. Experiments based on mechanics, heat, sound, fluids, resonance, like linear air track, coupled pendulum and oscillators, thermal conductivity, elasticity. Experiments in the area of modern physics, like Planck\u2019s constant, lasers, semiconductor band gap, wave motion, mechanical transmission lines.",
+            "slot": "Q",
             "prereqs_parsed": [],
             "type": "Core"
         },
@@ -102,6 +108,7 @@
                 "practical": 4
             },
             "description": "Exposing role of manufacturing processes in product realization; understanding product realization by endeavouring hands on activities; Experience of product realization by undertaking manufacturing exercises and assembly activity in teams.",
+            "slot": "A",
             "prereqs_parsed": [],
             "type": "Core"
         }
@@ -119,6 +126,7 @@
                 "practical": 0
             },
             "description": "Kinematics, Statics, Equations of Motion, Rigid body dynamics, Introduction to variational mechanics.",
+            "slot": "A",
             "prereqs_parsed": [],
             "type": "Core"
         },
@@ -134,6 +142,7 @@
                 "practical": 2
             },
             "description": "organization of Computing Systems. Concept of an algorithm; termination and correctness. Algorithms to programs: specification, top-down development and stepwise refinement. Problem solving using a functional style; Correctness issues in programming; Efficiency issues in programming; Time and space measures. Procedures, functions. Data types, representational invariants. Encapsulation, abstractions, interaction and modularity. Identifying and exploiting inherent concurrency. Structured style of imperative programming. Introduction to numerical methods. At least one example of large program development.",
+            "slot": "B",
             "prereqs_parsed": [],
             "type": "Core"
         },
@@ -149,6 +158,7 @@
                 "practical": 0
             },
             "description": "Basics of rate laws; Complex reactions: consecutive and parallel reactions; Temperature dependence of reaction rates; Reaction mechanisms: steady-state approximation, pre-equilibria, unimolecular reactions; Catalysis; Atomic structure: Schr\u00f6dinger equation, the hydrogen atom; The chemical bond: simplest molecules H2 + and H2; Vibration of diatomics: harmonic oscillator and Morse potential Stability of organometallic compounds; Metal carbonyls: structure and bonding; Important reactions of organometallic compounds; Homogeneous catalysis; Applications of crystal field theory; An overview of metals in biology; Functions of metalloproteins R/S-Nomenclature; Projection formulas; Mo approaches for the stereochemical outcome of the reactions; Determination of reaction mechanism; Kinetic versus thermodynamic control of the reaction; Trapping of reactive intermediates; Spectroscopic methods of structure determination.",
+            "slot": "C",
             "prereqs_parsed": [],
             "type": "Core"
         },
@@ -164,6 +174,7 @@
                 "practical": 0
             },
             "description": "Vector spaces over Q, R and C, subspaces, linear independence, linear span of a set of vectors, basis and dimension of a vector space, sum and direct sum. Systems of linear (homogeneous and non-homogeneous) equations, matrices and Gauss elimination, elementary row operations, row space, column space, null space and rank of a matrix. Linear transformation, rank-nullity theorem and its applications, matrix representation of a linear transformation, change of basis and similarity. Eigenvalues and eigenvectors, characteristic and minimal polynomials, Cayley-Hamilton theorem (without proof) and applications. Review of first order differential equations, Picard\u2019s theorem, linear dependence and Wronskian. Dimensionality of space of solutions, linear ODE with constant coefficients of second and higher order, Cauchy-Euler equations, Method of undetermined coefficients and method of variation of parameters. Boundary Value Problems: Sturm- Liouville eigenvalue problems. System of linear differential equations with constant coefficients, fundamental matrix, matrix methods. Power Series and its convergence, power series method, Fourier series, Laplace Transform Method.",
+            "slot": "C",
             "prereqs_parsed": [],
             "type": "Core"
         },
@@ -179,6 +190,7 @@
                 "practical": 4
             },
             "description": "Experiments involve the following: Titrations, Surface Tension and Viscosity, Potentiometery, Conductometry, Preparation of metal complexes and important organic compounds, Kinetics, Chromatography, Qualitative and quantitative estimation of organic compounds.",
+            "slot": "C",
             "prereqs_parsed": [],
             "type": "Core"
         }
@@ -196,6 +208,7 @@
                 "practical": 0
             },
             "description": "Motivation & orientation, Classifications of signals & systems, Dynamic representation of LTI systems (discrete & continuous-time systems), Fourier analysis of continuous-time signals & systems, Fourier analysis of discrete-time signals & systems, Nyquist sampling theorem, Laplace transform, The z-transform, Introduction to probability, random variables and stochastic processes.",
+            "slot": "D",
             "prereqs_parsed": [],
             "type": "Core"
         },
@@ -211,6 +224,7 @@
                 "practical": 0
             },
             "description": "overview of network analysis techniques, network theorems, transient and steady-state sinusoidal response. Network graphs and their applications in network analysis. Tellegen\u2019s theorem, two-port networks, Z, Y, h, g, and transmission matrices. Combining two ports in various configurations. Analysis of transmission lines to motivate the scattering matrix. Scattering matrix and its applications in network analysis. Network functions, positive real functions, and network synthesis. Butterworth and Chebyshev approximations. Synthesis of lossless two-port networks. Synthesis of lattice all-pass filters.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "ELL101"
@@ -230,6 +244,7 @@
                 "practical": 4
             },
             "description": "Introduction to object-oriented programming through stacks queues and linked lists. Dictionaries; skip-lists, hashing, analysis of collision resolution techniques. Trees, traversals, binary search trees, optimal and average BSTs. Balanced BST: AVL Trees, 2-4 trees, red-black trees, B-trees. Tries and suffix trees. Priority queues and binary heaps. Sorting: merge, quick, radix, selection and heap sort, Graphs: Breadth first search and connected components. Depth first search in directed and undirected graphs. Disjkra\u2019s algorithm, directed acyclic graphs and topological sort. Some geometric data-structures.",
+            "slot": "F",
             "prereqs_parsed": [
                 [
                     "COL100"
@@ -249,6 +264,7 @@
                 "practical": 0
             },
             "description": "Review: AC Circuits, Complex representation and Power Measurement. Magnetic Circuits: Simple magnetic circuit, analogy between magnetic circuits and electrical circuits, linear and nonlinear magnetic circuits, hysteresis and eddy current losses, permanent magnet materials. Transformers: Single-phase and three-phase, analysis, equivalent circuit, Tests on transformers, phasor diagram regulation and efficiency, auto-transformer and instrument transformers (PT/CT). Electro-mechanical energy conversion principles: Force and EMF production in a rotating machine. DC machines: Types, construction, working principle, characteristics and applications. 3-phase induction machines: Types, construction, Introduction to windings and winding factor, production of revolving magnetic field, working principle on 3-phase induction machine, equivalent circuit, characteristics, phasor diagram and applications. 3-phase synchronous machines: Types, construction, working i  principle, equivalent circuit, characteristics, phasor diagram and applications. Fractional-HP and Special Machines.",
+            "slot": "E",
             "prereqs_parsed": [
                 [
                     "ELL101"
@@ -268,6 +284,7 @@
                 "practical": 0
             },
             "description": "PHL704, PHL705, PHL727, PHL793 Semiconductor materials , crystal structure, carriers in semiconductors, band structure, density of states, excitons, doping and carrier statistics, carrier transport, recombination and generation, p-n junction physics: built-in potential, forward and reverse bias, capacitance, diode currents, breakdown, tunnel effects; metal- semiconductor junctions; BJTs: current gain/Gummel plots, transistor models, breakdown;MoSFET physics: MoS capacitors, inversion, depletion, accumulation, flatband, threshold voltage, long-channel model, saturation, short-channel models, sub-threshold conduction, SPICE models for MoSFETs; optoelectronic device physics, LEDs/ oLEDs, lasers, photodetectors, solar cells.",
+            "slot": "B",
             "prereqs_parsed": [
                 [
                     "ELL101",
@@ -288,6 +305,7 @@
                 "practical": 0
             },
             "description": "Current economic problems. Alternative economic systems. An overview of the economy. The market mechanism. National product and income. Consumption, savings and investment. Determination of national income. Aggregate demand and supply. Fiscal policy. The nature of money and monetary policy. Inflation and unemployment. Basic concepts of price theory. Determination of price by supply and demand. Elasticity of demand and supply. Theory of production. Theory of costs. Pricing in competitive and monopoly markets. The gains from international trade. Theory of exchange rates. Balance of payments. Economic growth, and development. Inequality and poverty.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -307,6 +325,7 @@
                 "practical": 0
             },
             "description": "Micro versus macroeconomics. Theory of consumer behavior and demand. Consumer preferences. Indifference curve. Consumer equilibrium. Demand function. Income and substitution effects. The Slutsky equation. Market demand. Elasticities. Average and marginal revenue. Revealed preference theory of firm. Production functions. Law of variable proportions. Laws of return to scale. Isoquants. Input substitution. Equilibrium of the firm. Expansion path. Cost function. Theory of costs. Short Run and Long run costs. Shape of LAC. Economies and diseconomies of scale. Market equilibrium under perfect competition. Equilibrium under alternative forms of market. Monopoly: pure and discriminating. Monopolistic competition. oligopoly.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -326,6 +345,7 @@
                 "practical": 0
             },
             "description": "Major economic problems. National income accounting. Expenditure and income approaches to GNP. Measuring inflation and unemployment. Determination of the equilibrium level of income. Consumption function. Investment demand. Aggregate demand and equilibrium output. The multiplier process. Government sector. Fiscal policy. Tax receipts and Transfer payments. Foreign spending. Money, interest and income. Functions of money. Definition of money. Reserve Bank of India and Commercial Banks. Creation of money. The instruments of monetary control. The demand for money. Investment expenditure and rate of interest. The IS curve. Money market and the LM curve. Liquidity trap. The IS-LM model. Derivation of the aggregate demand curve. Monetary and fiscal polices. Keynesian versus monetarist views. The aggregate supply function: Keynesian and classical. Inflation and unemployment. Stagflation. The Phillips curve. The long-run Phillips curve. Inflation expectations. The rational expectations.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -398,6 +418,7 @@
                 "practical": 0
             },
             "description": "Brief history of the development and importance of drama in Western and Indian contexts. Readings from both ancient and contemporary drama theorists. Generic differences between different forms of drama such as tragedy, comedy, realist, \u2018folk\u2019, Absurd, etc. Detailed study of important examples of different forms of drama.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -436,6 +457,7 @@
                 "practical": 0
             },
             "description": "The course involves a detailed study of 3-4 texts corresponding to the distinct phases of literary activity in the genre: the early period of the 1940s and 50s in which writers like Mulk Raj Anand, Raja Rao and R.K. Narayan made their presence felt, before Salman Rushdie, and more quietly, Amitav Ghosh and Vikram Seth, erupted into the scene in the 1980s, spawning a generation of writers attaining international acclaim - Arundhati Roy, Aravind Adiga, Kiran Desai, and many others. Some of the questions that will be addressed are: Who constitutes the main audience for this writing, and (how) does the writing cater to it? How does one position the expatriate Indian writer both residing and publishing abroad? How does English become an Indian language? Is there a thematic congruence in the novels that fall under this category, and does it differ from the thematic concerns of novels written in other Indian languages? Students will be encouraged to read a novel in at least one other Indian language in order to allow them to pose these questions in a more pointed manner.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -474,6 +496,7 @@
                 "practical": 0
             },
             "description": "This course provides answers to basic questions about the nature and constitution of human language in the mind/brain of native speakers. Varied aspects of linguistic organization, including structures of sounds, words and sentences are considered to understand the core universals of all languages as well as their variations. Cases of feral children, language deficiencies and cognition-language interactions are also highlighted.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -493,6 +516,7 @@
                 "practical": 0
             },
             "description": "This course offers a wide-ranging introduction to, and analysis of, varieties of spoken and written language. From political oratory to examination answer scripts to computer codes, not to mention jokes, riddles and poetry, human language offers an amazingly rich set of structures for expressing and conveying our thoughts, intentions and desires. The course will consider some of these linguistic structures and communicative strategies in detail, beginning with early childhood development. How is it that children in every culture learn language so effortlessly despite its great complexity? The course aims to introduce students to a set of theories that address this and other puzzles and mysteries in the arena of language studies. Finally, since a central focus of the course is communication, it will strive to be as interactive as possible, with lots of scope for the discussion and working out of actual \u2018problems\u2019 in language use.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -527,6 +551,7 @@
                 "practical": 0
             },
             "description": "This is primarily a course in applied ethics. It will focus primarily on questions like: What is the meaning of right action? Can ethical assertions be true or false? Is morality relative to society? or can we say that acts have universal moral content? The course discussions will help to demonstrate that morality is not always self-evident and that rational morality must come in place of taboo based moralities.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -546,6 +571,7 @@
                 "practical": 0
             },
             "description": "What makes philosophical thinking radically critical? Investigation of the nature of knowledge about the world and justification of knowledge claims. Metaphysical understanding of the Absolute  and Mind-Body relation. The nature of ethical and aesthetic beliefs and attitudes as part of understanding the nature of values. The discussion of the above issues will be influenced by three philosophical orientational perspectives: Anglo-American Analytic, Continental Phenomenological and Classical Indian.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -565,6 +591,7 @@
                 "practical": 0
             },
             "description": "As closely aligned areas in philosophy\u2013 social philosophy with the role of individual in society and political philosophy with the role of government- this course bridges divides between social theory, political philosophy, and the history of social and political thought as also between empirical and normative analysis through perspectives from metaphysics, epistemology and axiology. A range of socio- political thinkers, theories and concepts will be taught. It will provide a broad survey of fundamental social and political questions in current contexts discussing philosophical issues central to political thought and radical critiques of current political theories.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -584,6 +611,7 @@
                 "practical": 0
             },
             "description": "Psychological Science- Assumptions, schools, methods of doing psychology research, The relationship between brain, body and mental functioning, Sensation, perception and making sense of the world, Consciousness, Life span development and motor and language development, Nature and nurture controversy, The learning process and some important explanations of how we learn, Meaning of motivation and explanations, Theories of emotions and expression and regulation of emotions, Basic cognitive processes, Language development, why we remember and why we forget- some explanations, Different kinds of intelligence, explanations of creativity, Differences among individuals and explanations for personality differences, Application of psychology to everyday life- enhancing health and well-being, performance, social relations, and sensitivity to environmental, social and cultural contexts.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -622,6 +650,7 @@
                 "practical": 0
             },
             "description": "Positive Psychology: A historical and contextual overview; Relationship between Indian Psychology and Positive Psychology; Correlates and predictors of life satisfaction and subjective well-being across various cultures; Latest researches on self-esteem, optimism, flow, post- traumatic growth, positive ageing, character strengths, etc.; Major  theories and models within positive psychology \u2013 Self-Determination theory, Broaden-and-Build theory, Authentic Happiness, Psychological Well-being, etc., Interpersonal character strengths & well- being; Specific Coping Approaches: meditation, yoga and spirituality; Future of the Field.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -641,6 +670,7 @@
                 "practical": 0
             },
             "description": "Introduction to the discipline of sociology and its emergence as a science in the context of the development of modern industrial society in Europe. Introduction to key classical and contemporary theorists in Sociology.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -660,6 +690,7 @@
                 "practical": 0
             },
             "description": "This course will begin with a discussion on the various constructions of Indian society from colonial to contemporary times. The structural and cultural dimensions of Indian society are explored at the level of village, city, region, nation and civilization. Sources of differentiation, diversity and unity are explored through institutions such as caste, class and tribe; kinship, family, marriage and gender systems, religious traditions and political organisations. Transformations in these institutions are analysed and fault lines explored by studying contemporary issues of secularism, communalism, religious conversions, caste and identity movements. The sociological perspective remains key to interpreting changes in Indian society in the era of globalization and rapid economic change.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -698,6 +729,7 @@
                 "practical": 0
             },
             "description": "Students will be exposed to contemporary themes and debates on connection between environment, development, and society; industrialization and risk society; challenge of sustainable development; perception of the environment, dependence for livelihood, identity, and power on natural resources; social ecology; what is the role of religion in determining our world view and relation with the environment?; recognition of indigenous knowledge; rise of environmental movements, development projects and recent conflict over natural resources; understanding major environmental disasters and industrial accidents; global climate change negotiations; gender and environment.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -774,6 +806,7 @@
                 "practical": 0
             },
             "description": "Distinction between \u2018growth\u2019 and \u2018development\u2019; historical genesis and evolution of the concept of development; theories of development and underdevelopment; the political nature of the development process. Role of state, market, culture and civil society in development. Gendered nature of development. Post-independence Indian experience (centralized planning and socialism) of development; selected comparisons with China, East Asia, South Asia, Africa, Latin America. Explaining India\u2019s slow progress in human and social development, poor record in reduction of poverty and inequality. Impact of globalization, foreign aid and economic reform on India\u2019s development. Experiments with decentralization and sustainable development.",
+            "slot": "SU1",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -833,6 +866,7 @@
                 "practical": 0
             },
             "description": "Axioms of probability, Probability space, Conditional probability, Independence, Bayes\u2019 rule, Random variable, Some common discrete and continuous distributions, Distribution of Functions of Random Variable, Moments, Generating functions, Two and higher dimensional distributions, Functions of random variables, order statistics, Conditional distributions, Covariance, Correlation coefficient, conditional expectation, Modes of convergences, Laws of large numbers, Central limit theorem, Definition of Stochastic process, Classification and properties of stochastic processes, Simple Markovian stochastic processes, Gaussian processes, Stationary processes, Discrete and continuous time Markov chains, Classification of states, Limiting distribution, Birth and death process, Poisson process, Steady state and transient distributions, Simple Markovian queuing models (M/M/1, M/M/1/N, M/M/c/N, M/M/N/N, M/M/\u221e).",
+            "slot": "D",
             "prereqs_parsed": [],
             "type": "Core"
         },
@@ -848,6 +882,7 @@
                 "practical": 0
             },
             "description": "Introduction to the control problem, Control System Components: Sensors, Actuators, Computational blocks. Mathematical representation of systems, state variable model, linearization, transfer function model. Transfer function and state variable models of suitable mechanical, electrical, thermal and pneumatic systems. Closed loop systems, Block diagram and signal flow analysis, Basic Characteristics of feedback control systems: stability, steady-state accuracy, transient accuracy, disturbance rejection, sensitivity analysis and robustness. Basic modes of feedback control: Proportional, Integral, Derivative. Concept of stability, Stability criteria: Routh stability criterion, Mikhailov\u2019s criterion, Kharitonov theorem. Time response of 2nd order system, steady state error analysis. Performance specifications in the  time domain. Root locus method of design. Nyquist stability criterion. Frequency response analysis: Nyquist plots, Bode plots, Nichols Charts, Performance specifications in frequency domain, Frequency domain methods of design. Lead lag compensation.",
+            "slot": "F",
             "prereqs_parsed": [
                 [
                     "ELL205"
@@ -867,6 +902,7 @@
                 "practical": 3
             },
             "description": "Gates, binary number systems, arithmetic operations. Minimization using K-maps, reduced K-maps, tabular methods; design using multiplexers, decoders, and ROMs. Latches, flip-flops, registers and counters. Asynchronous, synchronous counters. Finite state machines, implementations thereof. Mealy, Moore machines. Clock period computation. Memories. Partitioning and pipelining. VHDL/Verilog, the register-transfer-level description style. Switch level introduction to logic families, CMoS logic, static, pre-charge and clocked logic. Asynchronous circuits and design styles.",
+            "slot": "B",
             "prereqs_parsed": [
                 [
                     "ELL101"
@@ -886,6 +922,7 @@
                 "practical": 0
             },
             "description": "Review of Maxwell\u2019s equations, wave propagations in unbounded medium. Boundary conditions, reflection and refraction of plane waves. Evanescent waves and surface plasmons. Waveguides: parallel-plane guide, TE, TM and TEM waves, rectangular and cylindrical waveguides, resonators. Dielectric guides and optical fibres. Transmission Lines: distributed parameter circuits, traveling and standing waves, impedance matching, Smith chart, analogy with plane waves. Planar transmission lines: stripline, micro stripline. Radiation: retarded potentials, Hertzian dipole, short loop, antenna parameters. Numerical techniques in electromagnetics.",
+            "slot": "E",
             "prereqs_parsed": [
                 [
                     "PYL101"
@@ -905,6 +942,7 @@
                 "practical": 3
             },
             "description": "",
+            "slot": "P",
             "prereqs_parsed": [
                 [
                     "ELL101"
@@ -924,6 +962,7 @@
                 "practical": 2
             },
             "description": "Darwinian evolution & molecular perspective; Introduction to phylogeny - Classification systems in biology and relationships; Cellular assemblies \u2013 From single cell to multi-cellular organisms: Geometry, Structure and Energetics; Comparing natural vs. humanmade machines; Infection, disease and evolution \u2013 synergy and antagonism; Immunology \u2013 An example of permutations and combinations in biology; Cancer biology \u2013 Control and regulation; Stem cells \u2013 Degeneracy in biological systems; Engineering designs inspired by biology \u2013 Micro- to Macro- scales. Laboratory: Biosafety; Buffers in biology - Measuring microlitres, Preparation of standard biological buffers, buffering capacity and pKa of buffers, response of cells and plant tissues in different buffering conditions; observing cell surface and intracellular contents using light and fluorescence microscopy, measuring cellular motion using real-time video microscopy; Measuring and visualizing intracellular molecular components - Proteins and Genomic DNA",
+            "slot": "C",
             "prereqs_parsed": [],
             "type": "Core"
         }
@@ -941,6 +980,7 @@
                 "practical": 0
             },
             "description": "Pollutant sources and control in air and water, solid waste management, noise pollution and control, cleaner production and life cycle analysis, reuse, recovery, source reduction and raw material substitution, basics of environmental impact assessment, environmental risk assessment and environmental audit, emerging technologies for sustainable environmental management, identification and evaluation of emerging environmental issues with air, water, wastewater and solid wastes.",
+            "slot": "C",
             "prereqs_parsed": [],
             "type": "Core"
         },
@@ -956,6 +996,7 @@
                 "practical": 0
             },
             "description": "Introduction to Power Electronics devices and protection: Thyristor family devices, principle of operation, IGBT operation, principles and ratings. Snubber designs, selection and protection, Firing circuits. AC-DC converters: uncontrolled, semi-controlled, fully controlled and dual converters in single-phase and three-phase configurations, design, phase control, harmonic analysis, firing circuits and their designs. Improved power quality AC-DC converters. Choppers: Introduction to dc-dc conversion, various topologies, buck, boost, buck-boost converters, High frequency isolated dc-dc converters: design problems, PWM control and operation. Inverters: Basics of dc to ac conversion, inverter circuit configurations and principle of operation, VSI and CSI, single and three-phase configurations, Square wave and sinusoidal PWM control methods and harmonic control. Design problems. AC voltage controllers: Introduction to ac to ac conversion, single- phase and three-phase ac voltage controller circuit configurations, applications, advantages, harmonic analysis, control, design problems. Cyclo-converters: single-phase to single-phase, three-phase to single- phase, three-phase to three-phase and single-phase to three-phase circuit configurations thyristors and triacs.",
+            "slot": "B",
             "prereqs_parsed": [
                 [
                     "ELL231",
@@ -976,6 +1017,7 @@
                 "practical": 0
             },
             "description": "Review of Fourier Series and Transforms. Hilbert Transforms, BandpassSignal and System Representation. Random Processes, Stationarity, Power Spectral Density, Gaussian Process, Noise. Amplitude Modulation, DSBSC, SSB, VSB: Signal Representation, Generation and Demodulation. Frequency Modulation: Signal Representation, Generation and Demodulation. Mixing, Superheterodyne Receiver, Phase Recovery with PLLs. Noise: in AM Receivers using Coherent Detection, in AM Receivers using Envelope Detection, in FM Receivers. Sampling, Pulse-Amplitude Modulation. Quantization, Pulse-Code Modulation. Noise considerations in PCM, Time Division Multiplexing, Delta Modulation. Intersymbol Interference, Introduction to Information Theory: concepts of Entropy and Source-Coding",
+            "slot": "D",
             "prereqs_parsed": [
                 [
                     "ELL205"
@@ -995,6 +1037,7 @@
                 "practical": 0
             },
             "description": "Introduction: Performance measurement, Instruction Set Architecture, Computer Arithmetic, Processor: ALu design, Control design, Pipelining, Memory Hierarchy, I/o management, Multicores, Multiprocessors, Clusters, GPu.",
+            "slot": "E",
             "prereqs_parsed": [
                 [
                     "ELL201"
@@ -1014,6 +1057,7 @@
                 "practical": 3
             },
             "description": "Basics of Sensors and Actuators, Study of AC and DC Motors, Linear Systems, Analog and Digital Motors, Synchros, Temperature Control.",
+            "slot": "F",
             "prereqs_parsed": [
                 [
                     "ELL225"
@@ -1033,6 +1077,7 @@
                 "practical": 3
             },
             "description": "Review of working of BJT and MoSFET, large signal and small signal models, biasing schemes, analysis and design of various single stage amplifier configuration, low and high frequency analysis of single stage amplifiers, frequency compensation, current mirrors, multistage amplifiers; differential and operational amplifiers, negative and positive feedback, oscillators and power amplifiers.",
+            "slot": "F",
             "prereqs_parsed": [
                 [
                     "ELL101",
@@ -1059,6 +1104,7 @@
                 "practical": 3
             },
             "description": "",
+            "slot": "E",
             "prereqs_parsed": [
                 [
                     "ELL212"
@@ -1080,6 +1126,7 @@
                 "practical": 0
             },
             "description": "Basics of Measurement and Instrumentation, Instrument Examples: Galvanometer, Accelerometer etc; calibration methods, Voltage and Current Measurements; Theory, calibration, application, Errors and compensation. Power and Energy Measurement and its errors, Methods of correction, LPF wattmeter, Phantom loading, Induction type KWH meter; Calibration of wattmeter, energy meter. Potentiometer and Instrument Transformer :DC and AC potentiometer, C.T. and V.T. construction, theory, operation, characteristics. Digital Instrumentation.",
+            "slot": "D",
             "prereqs_parsed": [
                 [
                     "ELL101"
@@ -1118,6 +1165,7 @@
                 "practical": 0
             },
             "description": "Prerequisites: ELL212 Starting from the principle of radiation different types of antenna; wire, slot, planar and their arrays with feeds. Antenna synthesis and design and measurements. Characteristics of propagation of radio waves in different atmospheric layers and study of the losses, fading and scattering of microwave and millimeter waves in the atmosphere.",
+            "slot": "E",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -1153,6 +1201,7 @@
                 "practical": 0
             },
             "description": "Basic MoS characteristics; Deep sub-micron; velocity saturation; Dynamic MoS characteristics; parasitics; leakage; sizing; propagation delay; Logical effort, path delay, optimization; Ratio-ed logic, Pass transistor logic and parasitics; Dynamic logic, pulsed sequential logic; Logical synthesis, physical design, layout; Introduction to design of VLSI memories.",
+            "slot": "E",
             "prereqs_parsed": [
                 [
                     "ELL211"
@@ -1191,6 +1240,7 @@
                 "practical": 2
             },
             "description": "Review of Signals and Systems, Sampling and data reconstruction processes. Z transforms. Discrete linear systems. Frequency domain design of digital filters. Quantization effects in digital filters. Discrete Fourier transform and FFT algorithms. High speed convolution and its application to digital filtering.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "ELL205"
@@ -1210,6 +1260,7 @@
                 "practical": 0
             },
             "description": "Basic Concepts: Characteristics and operating modes of drive motors. Starting, braking and speed control of motors. 4 quadrant drives. Types of loads. Torque and associated controls used in process industries. DC Motor Drives: Characteristics, Starting Methods, Braking Methods, Speed Control using Converters and Choppers. Three phase Induction Motor Drives: Characteristics and Equivalent Circuits, Starting Methods, Braking Methods, Speed Control of Cage Rotor Induction Machines using as AC voltage controllers, Voltage- Source and Current-Source Inverters. V-by-F Control and other Control Techniques. Speed Control of Wound-Rotor Induction Machines using Rotor Resistance Variation; Slip-Power Recovery Scheme. Three phase Synchronous Motor Drives: Characteristics and Equivalent Circuits, Starting Methods, Braking Methods, Speed Control in True Synchronous and Self Control Modes. Special Machines: Permanent Magnet Brush-Less Motor Drives, Permanent Magnet Synchronous Motor Drives, Stepper and Reluctance Motor Drives.",
+            "slot": "B",
             "prereqs_parsed": [
                 [
                     "ELL203"
@@ -1229,6 +1280,7 @@
                 "practical": 0
             },
             "description": "Review of control system fundamentals and basic linear algebra. Introduction to linear dynamical systems and properties. State-space representation and canonical realizations. Relation between state- space and transfer function representations. Similarity transformation. Diagonalization. Jordan canonical form. Matrix exponential and its properties. Solution of state equations. Cayley-Hamilton Theorem, Stability: BIBo and internal. Linearization of nonlinear systems. Controllability and observability. Minimal realization. State feedback and observer design. Linear Quadratic Regulator.",
+            "slot": "B",
             "prereqs_parsed": [
                 [
                     "ELL225"
@@ -1248,6 +1300,7 @@
                 "practical": 0
             },
             "description": "overview of Embedded Systems; Embedded System Architecture: processor example ARM, PIC, etc.; features of digital signal processor; SoC, memory sub system, busstructure (PC 104, I2C, SPI etc.), interfacing protocols (uSB, IrDA etc), testing and debugging, power management; Embedded System Software: Program optimization,Concurrent Programming, Real time Scheduling and I/o management; Networked Embedded Systems: special networking protocols (CAN, Bluetooth); Applications.",
+            "slot": "M",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -1263,6 +1316,7 @@
                 "practical": 0
             },
             "description": "Fundamentals of Power system protection, philosophy of protective relays, Different types of relays, Introduction to protection elements like CT, PT, CB, Isolator etc, (includes CT and PT class, CB transients, CB rating and testing, Arc extinction in CB), over current relays: Principle, operation and setting, Directional relays : needs and operating principle, Power system components protected using over current relays, Differential relays: Principle, operation and setting, Protection of three phase transformer, bus bar and generator using differential relays, Distance relays : Principle, operation and setting, Simple impedance relay, reactance relay, Mho relay and angle impedance relays, Quadrilateral relays, Transmission line protection using distance relays, Static relays: principle, amplitude comparator and phase comparator, Phase comparator realization using positive coincidence period, Distance relay realization using comparators, Generator protection, overview of Numerical relaying and few algorithms, Phasor extraction, Introduction to PMu and its use, Fault location.",
+            "slot": "E",
             "prereqs_parsed": [
                 [
                     "ELL303"
@@ -1301,6 +1355,7 @@
                 "practical": 0
             },
             "description": "(i) Introduction, network structure: Basic networking concepts, Motivations for layered network concepts, Network examples; (ii) oSI reference model: Layering concepts, overview of different layer functionalities; (iii) TCP/IP: Layering concepts, Layered functionalities, packet formats, fragmentation, Different layer protocols and examples: ARP, ICMP, etc., Congestion and error control; (iv) Network examples and functionalities: Ethernet, hub, bridge, switch, WANs, MANs, LANs, PANs, BANs; (v) Basic network protocol analysis: Performance metrics, Queueing models; (vi) Multiaccess protocols: Need for multiaccess protocols, Contention-free access schemes, Contention-based protocols: ALoHA, CSMA; (vii) Routing in data networks: Basic graph theoretic concepts, spanning tree, Shortest path routing, distance vector routing, link state routing, RIP, oSPF; (viii) Cross-layer protocol optimization concepts: Distributed control, cost and energy efficiencies.",
+            "slot": "K",
             "prereqs_parsed": [
                 [
                     "MEL250"
@@ -1358,6 +1413,7 @@
                 "practical": 2
             },
             "description": "Introduction to machine intelligence and intelligent agents; problem solving; knowledge representation and reasoning (logical and probabilistic); need for learning; basics of machine learning; Decision Trees; Rule-based models; linear learning models; Support Vector Machines; Artificial Neural Networks; Deep Learning; Probabilistic Modelling; Naive Bayes; Reinforcement Learning; Clustering; Feature Selection; Principal Component Analysis; Combining models; Philosophical issues in intelligence and learning. Substantive implementation assignments or a term project involving design of an intelligent learning-based system.",
+            "slot": "J",
             "prereqs_parsed": [
                 [
                     "MTL106",
@@ -1393,6 +1449,7 @@
                 "practical": 2
             },
             "description": "Matched Filter, Error Rate due to Noise. Intersymbol Interference, Nyquist\u2019s Criterion, Duobinary Signaling. optimum Linear Receiver, Geometric Representation of Signals. Coherent Detection of Signals in Noise, Probability of Error. Coherent Digital Modulation Schemes: MPSK, MFSK, MQAM; Error Analysis. Noncoherent FSK, Differential PSK. Comparison of Digital Modulation Schemes, Bandwidth Efficiency. Pseudo-Noise Sequences and Spread Spectrum, Trellis coded modulation, Digital signaling over fading multipath channels, oFDM communications systems.",
+            "slot": "H",
             "prereqs_parsed": [
                 [
                     "ELL311"
@@ -1412,6 +1469,7 @@
                 "practical": 0
             },
             "description": "Maximization of functionals of a single and several functions using calculus of variations, Constrained extremals, Euler-Lagrange Equation, Necessary conditions for optimal control, Pontryagin\u2019s minimum principle and state inequality constraints, Minimum time problems, Minimum control effort problems, Linear quadratic regulator problems, Riccati Equation, Singular intervals in optimal control problems, The principle of optimality, Application of the principle of optimality to decision making, Dynamic programming applied to routing problems,  Solving optimal control problems using dynamic programming, Discrete linear regulator problem, Hamilton -Jacobi -Bellman Equation, Numerical Techniques to determine optimal trajectories.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "ELL700",
@@ -1432,6 +1490,7 @@
                 "practical": 0
             },
             "description": "Measure of information, Source coding, Communication channel models, Channel Capacity and coding, Linear Block codes, Low Density Parity Check (LDPC) Codes, Bounds on minimum distance, Cyclic codes, BCH codes, Reed Solomon Codes, Convolutional codes, Trellis coded Modulation, Viterbi decoding, Turbo codes, Introduction to Space-Time Codes and Introduction to Cryptography. If time permits, LDPC/Turbo codes in the wireless standards. There are no laboratory or design activities involved with this course.",
+            "slot": "E",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -1447,6 +1506,7 @@
                 "practical": 2
             },
             "description": "Introduction to 2-D Signals and Systems. Image Digitization. Image Transforms. Image Enhancement: Image Restoration: Inverse Filtering, Algebraic Approach to Restoration, Wiener (LMS) approach, Constrained Least Squares Restoration, Adaptive methods for restoration. Image Reconstruction: The Filtered Back- Projection Algorithm, Algebraic Reconstruction Method. Image Segmentation: Detection of Discontinuities, Edge Linking and Boundary Detection, Thresholding, Region-oriented Segmentation. object representation and description: Boundary descriptors, region descriptors, HoG and SIFT based features. Colour Image processing: colour models, colour transformations, and processing techniques.",
+            "slot": "J",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -1492,6 +1552,7 @@
                 "practical": 0
             },
             "description": "The wireless channel (physical modeling, linear time-varying system, discrete-time baseband model, time and frequency coherence), point- to-point communication (detection, diversity, spatial multiplexing), cellular systems (multiple access and interference management), capacity of point-to-point wireless channels (single and multi- antenna), capacity of single-antenna multiuser channels, point- to-point multi-antenna (MIMo) channels and spatial multiplexing, point-to-point MIMo capacity and multiplexing architectures.",
+            "slot": "K",
             "prereqs_parsed": [
                 [
                     "ELL712"
@@ -1511,6 +1572,7 @@
                 "practical": 0
             },
             "description": "Course Introduction, Modern Semiconductor IC fabrication Industrial/ Academic Landscape; Overview of modern CMOS process flow \u2013 basic steps; Crystal growth and wafer basics; Cleanroom basics \u2013 environment, infrastructure, advanced MoS cleaning, getering etc. Lithography; oxidation; Diffusion; Ion-Implantation; Thin-Film Deposition; Etching; Backend processes; Process Simulation- tools, techniques and methods; Advanced device fabrication concepts \u2013 I (SoI, FDSoI, etc); Advanced device fabrication concepts \u2013 II (organic, PV, hetero); Advanced device fabrication concepts \u2013 III (CNTs, Self-assembly etc).",
+            "slot": "C",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -1545,6 +1607,7 @@
                 "practical": 0
             },
             "description": "or Physical Electronics or VLSI technology Introduction to AMS enablement and PDK elements, Basics of semiconductor devices, Device modeling tools-TCAD and SPICE, Diode modeling, Resistor modeling, FEoL capacitor modeling, Advanced CMoS Technology, MoS transistor modeling, modeling of process variations, Mismatch and corners.",
+            "slot": "AC",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -1560,6 +1623,7 @@
                 "practical": 0
             },
             "description": "Overview and definition of power quality (PQ), Sources of pollution, International power quality standards, and regulations. Power quality monitoring. Power quality problems. Loads which causes power quality problems. Power factor correction, zero voltage regulation, reactive power compensation, load balancing using load compensation techniques: passive shunt and series compensation, DSTATCoM (Distribution Static Compensators), DVR (Dynamic Voltage Restorers), uPQC (universal Power Quality Conditioners). Harmonic effects- within the power system, interference with communication Harmonic measurements. Harmonic elimination-using active (shunt, series and hybrid) and passive (shunt and series) filters. Improved power quality converters: single ac-dc converters, bridgeless isolated converter, bridgeless non-isolated converters, multi-pulse converters, multilevel converters, line commutated converters, power quality improvement in SMPS, uPS, drives, welding systems, lighting systems, and renewable energy systems.",
+            "slot": "E",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -1590,6 +1654,7 @@
                 "practical": 0
             },
             "description": "",
+            "slot": "P",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -1605,6 +1670,7 @@
                 "practical": 0
             },
             "description": "(Program Linked Course: Not available to B.Tech. (Engineering Physics) students) Energy bands in solids(KP model), Classification of electronic materials: metals, semiconductors and insulators. Free electron model, Conductivity in metals and Concepts of Fermi level, effective mass and holes, Concept of phonons, Thermoelectricity, Intrinsic, extrinsic and degenerate semiconductors, Fermi level variation by carrier concentration and temperature, Metal-semiconductor junction, p-n junction, Diffusion and drift transport, carrier life time and diffusion length; Direct and indirect band gaps, optical transitions, photon absorption, Exciton, photovoltaic effect, Dielectrics and electrical polarization, Depolarization field, Clausius- Mossotti relation; Drude model, Electronic polarization and its mechanisms, Dielectric breakdown; Piezoelectricity, Pyroelectricity and Ferroelectricity; Magnetism in materials \u2013 types of interactions, Magnetic susceptibility, Curie and Neel temperatures; Domains, Magnetic anisotropies, Spin-orbit interaction.",
+            "slot": "H",
             "prereqs_parsed": [
                 [
                     "PYL101"
@@ -1624,6 +1690,7 @@
                 "practical": 0
             },
             "description": "Introduction to applications. Basic concepts and definitions \u2013 system, boundary, equilibrium, steady state and others. Thermodynamic properties of a pure substance \u2013 saturated and other states. Work and heat \u2013 definition and applications. 1st Law \u2013 internal energy and enthalpy, applications to non-flow/closed and flow/open systems (SSSF and uSuF). 2nd Law \u2013 corollaries, Clausius inequality, entropy. Carnot cycle. Basics of gas-vapor mixtures. Vapor power cycles \u2013 Rankine cycle and its modifications. Steam generation and its use \u2013 power plants, co-generation, combined cycles. Introduction to various equipment in thermal power plant. Introduction to transport phenomena: various modes of transport of momentum and energy - diffusion and advective transport. Modes of heat transfer in various applications. Conduction: Heat diffusion equation, 1-D steady state conduction in extended surfaces, infinite and semi-infinite walls, heat generation, lumped capacitance. Convection: Forced and free convection - mass, momentum and energy conservation equations, non-dimensional numbers, hydrodynamic and thermal boundary layers, basics of heat transfer in external and internal laminar and turbulent flows, and use of co- relations. Radiation: properties, Laws, 3-surface network for diffuse- gray surfaces. Familiarization with heat exchangers. Application area example: cooling of electronics.",
+            "slot": "D",
             "prereqs_parsed": [],
             "type": "Core"
         },
@@ -1639,6 +1706,7 @@
                 "practical": 0
             },
             "description": "Introduction to the basic structure of power system along with various power generation technologies. Modeling of generators, transformers  and transmission line for power system analysis. per unit system. Power flow analysis. Fault analysis in power systems. Power system stability studies. Transients in power system and travelling waves. Introduction to power system relaying and brief idea of over current, differentia and impedance based protection. Basic concepts of Power system operation and control. Introduction to HVDC and FACTS.",
+            "slot": "F",
             "prereqs_parsed": [
                 [
                     "ELL101",
@@ -1659,6 +1727,7 @@
                 "practical": 0
             },
             "description": "1 Credit (0-0-2) Laboratory experiments on analog, pulse, and basic digital modulation and demodulation techniques.",
+            "slot": "P",
             "prereqs_parsed": [
                 [
                     "ELL311"
@@ -1678,6 +1747,7 @@
                 "practical": 0
             },
             "description": "Current economic problems. Alternative economic systems. An overview of the economy. The market mechanism. National product and income. Consumption, savings and investment. Determination of national income. Aggregate demand and supply. Fiscal policy. The nature of money and monetary policy. Inflation and unemployment. Basic concepts of price theory. Determination of price by supply and demand. Elasticity of demand and supply. Theory of production. Theory of costs. Pricing in competitive and monopoly markets. The gains from international trade. Theory of exchange rates. Balance of payments. Economic growth, and development. Inequality and poverty.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -1697,6 +1767,7 @@
                 "practical": 0
             },
             "description": "Micro versus macroeconomics. Theory of consumer behavior and demand. Consumer preferences. Indifference curve. Consumer equilibrium. Demand function. Income and substitution effects. The Slutsky equation. Market demand. Elasticities. Average and marginal revenue. Revealed preference theory of firm. Production functions. Law of variable proportions. Laws of return to scale. Isoquants. Input substitution. Equilibrium of the firm. Expansion path. Cost function. Theory of costs. Short Run and Long run costs. Shape of LAC. Economies and diseconomies of scale. Market equilibrium under perfect competition. Equilibrium under alternative forms of market. Monopoly: pure and discriminating. Monopolistic competition. oligopoly.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -1716,6 +1787,7 @@
                 "practical": 0
             },
             "description": "Major economic problems. National income accounting. Expenditure and income approaches to GNP. Measuring inflation and unemployment. Determination of the equilibrium level of income. Consumption function. Investment demand. Aggregate demand and equilibrium output. The multiplier process. Government sector. Fiscal policy. Tax receipts and Transfer payments. Foreign spending. Money, interest and income. Functions of money. Definition of money. Reserve Bank of India and Commercial Banks. Creation of money. The instruments of monetary control. The demand for money. Investment expenditure and rate of interest. The IS curve. Money market and the LM curve. Liquidity trap. The IS-LM model. Derivation of the aggregate demand curve. Monetary and fiscal polices. Keynesian versus monetarist views. The aggregate supply function: Keynesian and classical. Inflation and unemployment. Stagflation. The Phillips curve. The long-run Phillips curve. Inflation expectations. The rational expectations.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -1788,6 +1860,7 @@
                 "practical": 0
             },
             "description": "Brief history of the development and importance of drama in Western and Indian contexts. Readings from both ancient and contemporary drama theorists. Generic differences between different forms of drama such as tragedy, comedy, realist, \u2018folk\u2019, Absurd, etc. Detailed study of important examples of different forms of drama.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -1826,6 +1899,7 @@
                 "practical": 0
             },
             "description": "The course involves a detailed study of 3-4 texts corresponding to the distinct phases of literary activity in the genre: the early period of the 1940s and 50s in which writers like Mulk Raj Anand, Raja Rao and R.K. Narayan made their presence felt, before Salman Rushdie, and more quietly, Amitav Ghosh and Vikram Seth, erupted into the scene in the 1980s, spawning a generation of writers attaining international acclaim - Arundhati Roy, Aravind Adiga, Kiran Desai, and many others. Some of the questions that will be addressed are: Who constitutes the main audience for this writing, and (how) does the writing cater to it? How does one position the expatriate Indian writer both residing and publishing abroad? How does English become an Indian language? Is there a thematic congruence in the novels that fall under this category, and does it differ from the thematic concerns of novels written in other Indian languages? Students will be encouraged to read a novel in at least one other Indian language in order to allow them to pose these questions in a more pointed manner.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -1864,6 +1938,7 @@
                 "practical": 0
             },
             "description": "This course provides answers to basic questions about the nature and constitution of human language in the mind/brain of native speakers. Varied aspects of linguistic organization, including structures of sounds, words and sentences are considered to understand the core universals of all languages as well as their variations. Cases of feral children, language deficiencies and cognition-language interactions are also highlighted.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -1883,6 +1958,7 @@
                 "practical": 0
             },
             "description": "This course offers a wide-ranging introduction to, and analysis of, varieties of spoken and written language. From political oratory to examination answer scripts to computer codes, not to mention jokes, riddles and poetry, human language offers an amazingly rich set of structures for expressing and conveying our thoughts, intentions and desires. The course will consider some of these linguistic structures and communicative strategies in detail, beginning with early childhood development. How is it that children in every culture learn language so effortlessly despite its great complexity? The course aims to introduce students to a set of theories that address this and other puzzles and mysteries in the arena of language studies. Finally, since a central focus of the course is communication, it will strive to be as interactive as possible, with lots of scope for the discussion and working out of actual \u2018problems\u2019 in language use.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -1917,6 +1993,7 @@
                 "practical": 0
             },
             "description": "This is primarily a course in applied ethics. It will focus primarily on questions like: What is the meaning of right action? Can ethical assertions be true or false? Is morality relative to society? or can we say that acts have universal moral content? The course discussions will help to demonstrate that morality is not always self-evident and that rational morality must come in place of taboo based moralities.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -1936,6 +2013,7 @@
                 "practical": 0
             },
             "description": "What makes philosophical thinking radically critical? Investigation of the nature of knowledge about the world and justification of knowledge claims. Metaphysical understanding of the Absolute  and Mind-Body relation. The nature of ethical and aesthetic beliefs and attitudes as part of understanding the nature of values. The discussion of the above issues will be influenced by three philosophical orientational perspectives: Anglo-American Analytic, Continental Phenomenological and Classical Indian.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -1955,6 +2033,7 @@
                 "practical": 0
             },
             "description": "As closely aligned areas in philosophy\u2013 social philosophy with the role of individual in society and political philosophy with the role of government- this course bridges divides between social theory, political philosophy, and the history of social and political thought as also between empirical and normative analysis through perspectives from metaphysics, epistemology and axiology. A range of socio- political thinkers, theories and concepts will be taught. It will provide a broad survey of fundamental social and political questions in current contexts discussing philosophical issues central to political thought and radical critiques of current political theories.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -1974,6 +2053,7 @@
                 "practical": 0
             },
             "description": "Psychological Science- Assumptions, schools, methods of doing psychology research, The relationship between brain, body and mental functioning, Sensation, perception and making sense of the world, Consciousness, Life span development and motor and language development, Nature and nurture controversy, The learning process and some important explanations of how we learn, Meaning of motivation and explanations, Theories of emotions and expression and regulation of emotions, Basic cognitive processes, Language development, why we remember and why we forget- some explanations, Different kinds of intelligence, explanations of creativity, Differences among individuals and explanations for personality differences, Application of psychology to everyday life- enhancing health and well-being, performance, social relations, and sensitivity to environmental, social and cultural contexts.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -2012,6 +2092,7 @@
                 "practical": 0
             },
             "description": "Positive Psychology: A historical and contextual overview; Relationship between Indian Psychology and Positive Psychology; Correlates and predictors of life satisfaction and subjective well-being across various cultures; Latest researches on self-esteem, optimism, flow, post- traumatic growth, positive ageing, character strengths, etc.; Major  theories and models within positive psychology \u2013 Self-Determination theory, Broaden-and-Build theory, Authentic Happiness, Psychological Well-being, etc., Interpersonal character strengths & well- being; Specific Coping Approaches: meditation, yoga and spirituality; Future of the Field.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -2031,6 +2112,7 @@
                 "practical": 0
             },
             "description": "Introduction to the discipline of sociology and its emergence as a science in the context of the development of modern industrial society in Europe. Introduction to key classical and contemporary theorists in Sociology.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -2050,6 +2132,7 @@
                 "practical": 0
             },
             "description": "This course will begin with a discussion on the various constructions of Indian society from colonial to contemporary times. The structural and cultural dimensions of Indian society are explored at the level of village, city, region, nation and civilization. Sources of differentiation, diversity and unity are explored through institutions such as caste, class and tribe; kinship, family, marriage and gender systems, religious traditions and political organisations. Transformations in these institutions are analysed and fault lines explored by studying contemporary issues of secularism, communalism, religious conversions, caste and identity movements. The sociological perspective remains key to interpreting changes in Indian society in the era of globalization and rapid economic change.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -2088,6 +2171,7 @@
                 "practical": 0
             },
             "description": "Students will be exposed to contemporary themes and debates on connection between environment, development, and society; industrialization and risk society; challenge of sustainable development; perception of the environment, dependence for livelihood, identity, and power on natural resources; social ecology; what is the role of religion in determining our world view and relation with the environment?; recognition of indigenous knowledge; rise of environmental movements, development projects and recent conflict over natural resources; understanding major environmental disasters and industrial accidents; global climate change negotiations; gender and environment.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -2164,6 +2248,7 @@
                 "practical": 0
             },
             "description": "Distinction between \u2018growth\u2019 and \u2018development\u2019; historical genesis and evolution of the concept of development; theories of development and underdevelopment; the political nature of the development process. Role of state, market, culture and civil society in development. Gendered nature of development. Post-independence Indian experience (centralized planning and socialism) of development; selected comparisons with China, East Asia, South Asia, Africa, Latin America. Explaining India\u2019s slow progress in human and social development, poor record in reduction of poverty and inequality. Impact of globalization, foreign aid and economic reform on India\u2019s development. Experiments with decentralization and sustainable development.",
+            "slot": "SU1",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -2221,6 +2306,7 @@
                 "practical": 3
             },
             "description": "",
+            "slot": "P",
             "prereqs_parsed": [
                 [
                     "ELL302"
@@ -2240,6 +2326,7 @@
                 "practical": 3
             },
             "description": "",
+            "slot": "P",
             "prereqs_parsed": [],
             "type": "Core"
         }
@@ -2257,6 +2344,7 @@
                 "practical": 6
             },
             "description": "",
+            "slot": "P",
             "prereqs_parsed": [],
             "type": "Core"
         },
@@ -2272,6 +2360,7 @@
                 "practical": 0
             },
             "description": "Basics of Measurement and Instrumentation, Instrument Examples: Galvanometer, Accelerometer etc; calibration methods, Voltage and Current Measurements; Theory, calibration, application, Errors and compensation. Power and Energy Measurement and its errors, Methods of correction, LPF wattmeter, Phantom loading, Induction type KWH meter; Calibration of wattmeter, energy meter. Potentiometer and Instrument Transformer :DC and AC potentiometer, C.T. and V.T. construction, theory, operation, characteristics. Digital Instrumentation.",
+            "slot": "D",
             "prereqs_parsed": [
                 [
                     "ELL101"
@@ -2310,6 +2399,7 @@
                 "practical": 0
             },
             "description": "Prerequisites: ELL212 Starting from the principle of radiation different types of antenna; wire, slot, planar and their arrays with feeds. Antenna synthesis and design and measurements. Characteristics of propagation of radio waves in different atmospheric layers and study of the losses, fading and scattering of microwave and millimeter waves in the atmosphere.",
+            "slot": "E",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -2345,6 +2435,7 @@
                 "practical": 0
             },
             "description": "Basic MoS characteristics; Deep sub-micron; velocity saturation; Dynamic MoS characteristics; parasitics; leakage; sizing; propagation delay; Logical effort, path delay, optimization; Ratio-ed logic, Pass transistor logic and parasitics; Dynamic logic, pulsed sequential logic; Logical synthesis, physical design, layout; Introduction to design of VLSI memories.",
+            "slot": "E",
             "prereqs_parsed": [
                 [
                     "ELL211"
@@ -2383,6 +2474,7 @@
                 "practical": 2
             },
             "description": "Review of Signals and Systems, Sampling and data reconstruction processes. Z transforms. Discrete linear systems. Frequency domain design of digital filters. Quantization effects in digital filters. Discrete Fourier transform and FFT algorithms. High speed convolution and its application to digital filtering.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "ELL205"
@@ -2402,6 +2494,7 @@
                 "practical": 0
             },
             "description": "Basic Concepts: Characteristics and operating modes of drive motors. Starting, braking and speed control of motors. 4 quadrant drives. Types of loads. Torque and associated controls used in process industries. DC Motor Drives: Characteristics, Starting Methods, Braking Methods, Speed Control using Converters and Choppers. Three phase Induction Motor Drives: Characteristics and Equivalent Circuits, Starting Methods, Braking Methods, Speed Control of Cage Rotor Induction Machines using as AC voltage controllers, Voltage- Source and Current-Source Inverters. V-by-F Control and other Control Techniques. Speed Control of Wound-Rotor Induction Machines using Rotor Resistance Variation; Slip-Power Recovery Scheme. Three phase Synchronous Motor Drives: Characteristics and Equivalent Circuits, Starting Methods, Braking Methods, Speed Control in True Synchronous and Self Control Modes. Special Machines: Permanent Magnet Brush-Less Motor Drives, Permanent Magnet Synchronous Motor Drives, Stepper and Reluctance Motor Drives.",
+            "slot": "B",
             "prereqs_parsed": [
                 [
                     "ELL203"
@@ -2421,6 +2514,7 @@
                 "practical": 0
             },
             "description": "Review of control system fundamentals and basic linear algebra. Introduction to linear dynamical systems and properties. State-space representation and canonical realizations. Relation between state- space and transfer function representations. Similarity transformation. Diagonalization. Jordan canonical form. Matrix exponential and its properties. Solution of state equations. Cayley-Hamilton Theorem, Stability: BIBo and internal. Linearization of nonlinear systems. Controllability and observability. Minimal realization. State feedback and observer design. Linear Quadratic Regulator.",
+            "slot": "B",
             "prereqs_parsed": [
                 [
                     "ELL225"
@@ -2440,6 +2534,7 @@
                 "practical": 0
             },
             "description": "overview of Embedded Systems; Embedded System Architecture: processor example ARM, PIC, etc.; features of digital signal processor; SoC, memory sub system, busstructure (PC 104, I2C, SPI etc.), interfacing protocols (uSB, IrDA etc), testing and debugging, power management; Embedded System Software: Program optimization,Concurrent Programming, Real time Scheduling and I/o management; Networked Embedded Systems: special networking protocols (CAN, Bluetooth); Applications.",
+            "slot": "M",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -2455,6 +2550,7 @@
                 "practical": 0
             },
             "description": "Fundamentals of Power system protection, philosophy of protective relays, Different types of relays, Introduction to protection elements like CT, PT, CB, Isolator etc, (includes CT and PT class, CB transients, CB rating and testing, Arc extinction in CB), over current relays: Principle, operation and setting, Directional relays : needs and operating principle, Power system components protected using over current relays, Differential relays: Principle, operation and setting, Protection of three phase transformer, bus bar and generator using differential relays, Distance relays : Principle, operation and setting, Simple impedance relay, reactance relay, Mho relay and angle impedance relays, Quadrilateral relays, Transmission line protection using distance relays, Static relays: principle, amplitude comparator and phase comparator, Phase comparator realization using positive coincidence period, Distance relay realization using comparators, Generator protection, overview of Numerical relaying and few algorithms, Phasor extraction, Introduction to PMu and its use, Fault location.",
+            "slot": "E",
             "prereqs_parsed": [
                 [
                     "ELL303"
@@ -2493,6 +2589,7 @@
                 "practical": 0
             },
             "description": "(i) Introduction, network structure: Basic networking concepts, Motivations for layered network concepts, Network examples; (ii) oSI reference model: Layering concepts, overview of different layer functionalities; (iii) TCP/IP: Layering concepts, Layered functionalities, packet formats, fragmentation, Different layer protocols and examples: ARP, ICMP, etc., Congestion and error control; (iv) Network examples and functionalities: Ethernet, hub, bridge, switch, WANs, MANs, LANs, PANs, BANs; (v) Basic network protocol analysis: Performance metrics, Queueing models; (vi) Multiaccess protocols: Need for multiaccess protocols, Contention-free access schemes, Contention-based protocols: ALoHA, CSMA; (vii) Routing in data networks: Basic graph theoretic concepts, spanning tree, Shortest path routing, distance vector routing, link state routing, RIP, oSPF; (viii) Cross-layer protocol optimization concepts: Distributed control, cost and energy efficiencies.",
+            "slot": "K",
             "prereqs_parsed": [
                 [
                     "MEL250"
@@ -2550,6 +2647,7 @@
                 "practical": 2
             },
             "description": "Introduction to machine intelligence and intelligent agents; problem solving; knowledge representation and reasoning (logical and probabilistic); need for learning; basics of machine learning; Decision Trees; Rule-based models; linear learning models; Support Vector Machines; Artificial Neural Networks; Deep Learning; Probabilistic Modelling; Naive Bayes; Reinforcement Learning; Clustering; Feature Selection; Principal Component Analysis; Combining models; Philosophical issues in intelligence and learning. Substantive implementation assignments or a term project involving design of an intelligent learning-based system.",
+            "slot": "J",
             "prereqs_parsed": [
                 [
                     "MTL106",
@@ -2585,6 +2683,7 @@
                 "practical": 2
             },
             "description": "Matched Filter, Error Rate due to Noise. Intersymbol Interference, Nyquist\u2019s Criterion, Duobinary Signaling. optimum Linear Receiver, Geometric Representation of Signals. Coherent Detection of Signals in Noise, Probability of Error. Coherent Digital Modulation Schemes: MPSK, MFSK, MQAM; Error Analysis. Noncoherent FSK, Differential PSK. Comparison of Digital Modulation Schemes, Bandwidth Efficiency. Pseudo-Noise Sequences and Spread Spectrum, Trellis coded modulation, Digital signaling over fading multipath channels, oFDM communications systems.",
+            "slot": "H",
             "prereqs_parsed": [
                 [
                     "ELL311"
@@ -2604,6 +2703,7 @@
                 "practical": 0
             },
             "description": "Maximization of functionals of a single and several functions using calculus of variations, Constrained extremals, Euler-Lagrange Equation, Necessary conditions for optimal control, Pontryagin\u2019s minimum principle and state inequality constraints, Minimum time problems, Minimum control effort problems, Linear quadratic regulator problems, Riccati Equation, Singular intervals in optimal control problems, The principle of optimality, Application of the principle of optimality to decision making, Dynamic programming applied to routing problems,  Solving optimal control problems using dynamic programming, Discrete linear regulator problem, Hamilton -Jacobi -Bellman Equation, Numerical Techniques to determine optimal trajectories.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "ELL700",
@@ -2624,6 +2724,7 @@
                 "practical": 0
             },
             "description": "Measure of information, Source coding, Communication channel models, Channel Capacity and coding, Linear Block codes, Low Density Parity Check (LDPC) Codes, Bounds on minimum distance, Cyclic codes, BCH codes, Reed Solomon Codes, Convolutional codes, Trellis coded Modulation, Viterbi decoding, Turbo codes, Introduction to Space-Time Codes and Introduction to Cryptography. If time permits, LDPC/Turbo codes in the wireless standards. There are no laboratory or design activities involved with this course.",
+            "slot": "E",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -2639,6 +2740,7 @@
                 "practical": 2
             },
             "description": "Introduction to 2-D Signals and Systems. Image Digitization. Image Transforms. Image Enhancement: Image Restoration: Inverse Filtering, Algebraic Approach to Restoration, Wiener (LMS) approach, Constrained Least Squares Restoration, Adaptive methods for restoration. Image Reconstruction: The Filtered Back- Projection Algorithm, Algebraic Reconstruction Method. Image Segmentation: Detection of Discontinuities, Edge Linking and Boundary Detection, Thresholding, Region-oriented Segmentation. object representation and description: Boundary descriptors, region descriptors, HoG and SIFT based features. Colour Image processing: colour models, colour transformations, and processing techniques.",
+            "slot": "J",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -2684,6 +2786,7 @@
                 "practical": 0
             },
             "description": "The wireless channel (physical modeling, linear time-varying system, discrete-time baseband model, time and frequency coherence), point- to-point communication (detection, diversity, spatial multiplexing), cellular systems (multiple access and interference management), capacity of point-to-point wireless channels (single and multi- antenna), capacity of single-antenna multiuser channels, point- to-point multi-antenna (MIMo) channels and spatial multiplexing, point-to-point MIMo capacity and multiplexing architectures.",
+            "slot": "K",
             "prereqs_parsed": [
                 [
                     "ELL712"
@@ -2703,6 +2806,7 @@
                 "practical": 0
             },
             "description": "Course Introduction, Modern Semiconductor IC fabrication Industrial/ Academic Landscape; Overview of modern CMOS process flow \u2013 basic steps; Crystal growth and wafer basics; Cleanroom basics \u2013 environment, infrastructure, advanced MoS cleaning, getering etc. Lithography; oxidation; Diffusion; Ion-Implantation; Thin-Film Deposition; Etching; Backend processes; Process Simulation- tools, techniques and methods; Advanced device fabrication concepts \u2013 I (SoI, FDSoI, etc); Advanced device fabrication concepts \u2013 II (organic, PV, hetero); Advanced device fabrication concepts \u2013 III (CNTs, Self-assembly etc).",
+            "slot": "C",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -2737,6 +2841,7 @@
                 "practical": 0
             },
             "description": "or Physical Electronics or VLSI technology Introduction to AMS enablement and PDK elements, Basics of semiconductor devices, Device modeling tools-TCAD and SPICE, Diode modeling, Resistor modeling, FEoL capacitor modeling, Advanced CMoS Technology, MoS transistor modeling, modeling of process variations, Mismatch and corners.",
+            "slot": "AC",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -2752,6 +2857,7 @@
                 "practical": 0
             },
             "description": "Overview and definition of power quality (PQ), Sources of pollution, International power quality standards, and regulations. Power quality monitoring. Power quality problems. Loads which causes power quality problems. Power factor correction, zero voltage regulation, reactive power compensation, load balancing using load compensation techniques: passive shunt and series compensation, DSTATCoM (Distribution Static Compensators), DVR (Dynamic Voltage Restorers), uPQC (universal Power Quality Conditioners). Harmonic effects- within the power system, interference with communication Harmonic measurements. Harmonic elimination-using active (shunt, series and hybrid) and passive (shunt and series) filters. Improved power quality converters: single ac-dc converters, bridgeless isolated converter, bridgeless non-isolated converters, multi-pulse converters, multilevel converters, line commutated converters, power quality improvement in SMPS, uPS, drives, welding systems, lighting systems, and renewable energy systems.",
+            "slot": "E",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -2782,6 +2888,7 @@
                 "practical": 0
             },
             "description": "",
+            "slot": "P",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -2797,6 +2904,7 @@
                 "practical": 3
             },
             "description": "Experiments will be conducted on 3-phase alternators and transformers for measuring their sequence impedance. Directional, overcurrent and differential protection relays will be studied. Computer simulation for power flow, short circuit and stability studies of interconnected power systems. Numerical relays and synchrophasors will be introduced. FACTS devices will be experimented.",
+            "slot": "F",
             "prereqs_parsed": [
                 [
                     "ELL303"
@@ -2816,6 +2924,7 @@
                 "practical": 0
             },
             "description": "Current economic problems. Alternative economic systems. An overview of the economy. The market mechanism. National product and income. Consumption, savings and investment. Determination of national income. Aggregate demand and supply. Fiscal policy. The nature of money and monetary policy. Inflation and unemployment. Basic concepts of price theory. Determination of price by supply and demand. Elasticity of demand and supply. Theory of production. Theory of costs. Pricing in competitive and monopoly markets. The gains from international trade. Theory of exchange rates. Balance of payments. Economic growth, and development. Inequality and poverty.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -2835,6 +2944,7 @@
                 "practical": 0
             },
             "description": "Micro versus macroeconomics. Theory of consumer behavior and demand. Consumer preferences. Indifference curve. Consumer equilibrium. Demand function. Income and substitution effects. The Slutsky equation. Market demand. Elasticities. Average and marginal revenue. Revealed preference theory of firm. Production functions. Law of variable proportions. Laws of return to scale. Isoquants. Input substitution. Equilibrium of the firm. Expansion path. Cost function. Theory of costs. Short Run and Long run costs. Shape of LAC. Economies and diseconomies of scale. Market equilibrium under perfect competition. Equilibrium under alternative forms of market. Monopoly: pure and discriminating. Monopolistic competition. oligopoly.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -2854,6 +2964,7 @@
                 "practical": 0
             },
             "description": "Major economic problems. National income accounting. Expenditure and income approaches to GNP. Measuring inflation and unemployment. Determination of the equilibrium level of income. Consumption function. Investment demand. Aggregate demand and equilibrium output. The multiplier process. Government sector. Fiscal policy. Tax receipts and Transfer payments. Foreign spending. Money, interest and income. Functions of money. Definition of money. Reserve Bank of India and Commercial Banks. Creation of money. The instruments of monetary control. The demand for money. Investment expenditure and rate of interest. The IS curve. Money market and the LM curve. Liquidity trap. The IS-LM model. Derivation of the aggregate demand curve. Monetary and fiscal polices. Keynesian versus monetarist views. The aggregate supply function: Keynesian and classical. Inflation and unemployment. Stagflation. The Phillips curve. The long-run Phillips curve. Inflation expectations. The rational expectations.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -2926,6 +3037,7 @@
                 "practical": 0
             },
             "description": "Brief history of the development and importance of drama in Western and Indian contexts. Readings from both ancient and contemporary drama theorists. Generic differences between different forms of drama such as tragedy, comedy, realist, \u2018folk\u2019, Absurd, etc. Detailed study of important examples of different forms of drama.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -2964,6 +3076,7 @@
                 "practical": 0
             },
             "description": "The course involves a detailed study of 3-4 texts corresponding to the distinct phases of literary activity in the genre: the early period of the 1940s and 50s in which writers like Mulk Raj Anand, Raja Rao and R.K. Narayan made their presence felt, before Salman Rushdie, and more quietly, Amitav Ghosh and Vikram Seth, erupted into the scene in the 1980s, spawning a generation of writers attaining international acclaim - Arundhati Roy, Aravind Adiga, Kiran Desai, and many others. Some of the questions that will be addressed are: Who constitutes the main audience for this writing, and (how) does the writing cater to it? How does one position the expatriate Indian writer both residing and publishing abroad? How does English become an Indian language? Is there a thematic congruence in the novels that fall under this category, and does it differ from the thematic concerns of novels written in other Indian languages? Students will be encouraged to read a novel in at least one other Indian language in order to allow them to pose these questions in a more pointed manner.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -3002,6 +3115,7 @@
                 "practical": 0
             },
             "description": "This course provides answers to basic questions about the nature and constitution of human language in the mind/brain of native speakers. Varied aspects of linguistic organization, including structures of sounds, words and sentences are considered to understand the core universals of all languages as well as their variations. Cases of feral children, language deficiencies and cognition-language interactions are also highlighted.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -3021,6 +3135,7 @@
                 "practical": 0
             },
             "description": "This course offers a wide-ranging introduction to, and analysis of, varieties of spoken and written language. From political oratory to examination answer scripts to computer codes, not to mention jokes, riddles and poetry, human language offers an amazingly rich set of structures for expressing and conveying our thoughts, intentions and desires. The course will consider some of these linguistic structures and communicative strategies in detail, beginning with early childhood development. How is it that children in every culture learn language so effortlessly despite its great complexity? The course aims to introduce students to a set of theories that address this and other puzzles and mysteries in the arena of language studies. Finally, since a central focus of the course is communication, it will strive to be as interactive as possible, with lots of scope for the discussion and working out of actual \u2018problems\u2019 in language use.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -3055,6 +3170,7 @@
                 "practical": 0
             },
             "description": "This is primarily a course in applied ethics. It will focus primarily on questions like: What is the meaning of right action? Can ethical assertions be true or false? Is morality relative to society? or can we say that acts have universal moral content? The course discussions will help to demonstrate that morality is not always self-evident and that rational morality must come in place of taboo based moralities.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -3074,6 +3190,7 @@
                 "practical": 0
             },
             "description": "What makes philosophical thinking radically critical? Investigation of the nature of knowledge about the world and justification of knowledge claims. Metaphysical understanding of the Absolute  and Mind-Body relation. The nature of ethical and aesthetic beliefs and attitudes as part of understanding the nature of values. The discussion of the above issues will be influenced by three philosophical orientational perspectives: Anglo-American Analytic, Continental Phenomenological and Classical Indian.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -3093,6 +3210,7 @@
                 "practical": 0
             },
             "description": "As closely aligned areas in philosophy\u2013 social philosophy with the role of individual in society and political philosophy with the role of government- this course bridges divides between social theory, political philosophy, and the history of social and political thought as also between empirical and normative analysis through perspectives from metaphysics, epistemology and axiology. A range of socio- political thinkers, theories and concepts will be taught. It will provide a broad survey of fundamental social and political questions in current contexts discussing philosophical issues central to political thought and radical critiques of current political theories.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -3112,6 +3230,7 @@
                 "practical": 0
             },
             "description": "Psychological Science- Assumptions, schools, methods of doing psychology research, The relationship between brain, body and mental functioning, Sensation, perception and making sense of the world, Consciousness, Life span development and motor and language development, Nature and nurture controversy, The learning process and some important explanations of how we learn, Meaning of motivation and explanations, Theories of emotions and expression and regulation of emotions, Basic cognitive processes, Language development, why we remember and why we forget- some explanations, Different kinds of intelligence, explanations of creativity, Differences among individuals and explanations for personality differences, Application of psychology to everyday life- enhancing health and well-being, performance, social relations, and sensitivity to environmental, social and cultural contexts.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -3150,6 +3269,7 @@
                 "practical": 0
             },
             "description": "Positive Psychology: A historical and contextual overview; Relationship between Indian Psychology and Positive Psychology; Correlates and predictors of life satisfaction and subjective well-being across various cultures; Latest researches on self-esteem, optimism, flow, post- traumatic growth, positive ageing, character strengths, etc.; Major  theories and models within positive psychology \u2013 Self-Determination theory, Broaden-and-Build theory, Authentic Happiness, Psychological Well-being, etc., Interpersonal character strengths & well- being; Specific Coping Approaches: meditation, yoga and spirituality; Future of the Field.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -3169,6 +3289,7 @@
                 "practical": 0
             },
             "description": "Introduction to the discipline of sociology and its emergence as a science in the context of the development of modern industrial society in Europe. Introduction to key classical and contemporary theorists in Sociology.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -3188,6 +3309,7 @@
                 "practical": 0
             },
             "description": "This course will begin with a discussion on the various constructions of Indian society from colonial to contemporary times. The structural and cultural dimensions of Indian society are explored at the level of village, city, region, nation and civilization. Sources of differentiation, diversity and unity are explored through institutions such as caste, class and tribe; kinship, family, marriage and gender systems, religious traditions and political organisations. Transformations in these institutions are analysed and fault lines explored by studying contemporary issues of secularism, communalism, religious conversions, caste and identity movements. The sociological perspective remains key to interpreting changes in Indian society in the era of globalization and rapid economic change.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -3226,6 +3348,7 @@
                 "practical": 0
             },
             "description": "Students will be exposed to contemporary themes and debates on connection between environment, development, and society; industrialization and risk society; challenge of sustainable development; perception of the environment, dependence for livelihood, identity, and power on natural resources; social ecology; what is the role of religion in determining our world view and relation with the environment?; recognition of indigenous knowledge; rise of environmental movements, development projects and recent conflict over natural resources; understanding major environmental disasters and industrial accidents; global climate change negotiations; gender and environment.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -3302,6 +3425,7 @@
                 "practical": 0
             },
             "description": "Distinction between \u2018growth\u2019 and \u2018development\u2019; historical genesis and evolution of the concept of development; theories of development and underdevelopment; the political nature of the development process. Role of state, market, culture and civil society in development. Gendered nature of development. Post-independence Indian experience (centralized planning and socialism) of development; selected comparisons with China, East Asia, South Asia, Africa, Latin America. Explaining India\u2019s slow progress in human and social development, poor record in reduction of poverty and inequality. Impact of globalization, foreign aid and economic reform on India\u2019s development. Experiments with decentralization and sustainable development.",
+            "slot": "SU1",
             "prereqs_parsed": [
                 [
                     "NLN101"
@@ -3376,6 +3500,7 @@
                 "practical": 0
             },
             "description": "Allocation Preferences : HUL211, HUL212, HUL213 This module introduces students in economics and other social sciences to game theory, a theory of interactive decision making. This module provides students with the basic solution concepts for different types of non-cooperative games, including static and dynamic games under complete and incomplete information. The basic solution concepts that this module covers are Nash equilibrium, subgame perfect equilibrium, Bayesian equilibrium, and perfect Bayesian equilibrium. This module emphasizes the applications of game theory to economics, such as duopolies, bargaining, and auctions.",
+            "slot": "M",
             "prereqs_parsed": [],
             "type": "HUL3XX"
         },
@@ -3421,6 +3546,7 @@
                 "practical": 0
             },
             "description": "Allocation Preferences : HUL211, HUL212, HUL213 Basics of sample survey; variance and covariance; correlation coefficient; simple regression analysis; Gauss-Markov theorem; estimation of regression coefficients; confidence intervals and hypothesis testing in regression analysis; type-I and type-II errors; transformation of variables; multiple regression analysis; multicollinearity, heteroscedaticity, dummy variables, basics of time- series analysis.",
+            "slot": "M",
             "prereqs_parsed": [],
             "type": "HUL3XX"
         },
@@ -3436,6 +3562,7 @@
                 "practical": 0
             },
             "description": "Allocation Preferences : HUL211, HUL212, HUL213  The course is aimed at developing an understanding of the economic issues in a range of economic activities in the Indian economy. The themes that can be covered include performance of the Indian Economy since 1951, agricultural growth in India, inter-regional variation in growth of output and productivity, farm price policy, recent trends in industrial growth, industrial and licensing policy, policy changes for industrial growth, economic reforms and liberalization, population growth, unemployment, food and nutrition security, and education. It will also include some contemporary issues.",
+            "slot": "A",
             "prereqs_parsed": [],
             "type": "HUL3XX"
         },
@@ -3526,6 +3653,7 @@
                 "practical": 0
             },
             "description": "Allocation Preferences : HUL231, HUL232, HUL235, HUL236, HUL237, HUL240, HUL239 The course will involve a detailed study of 3-4 texts and their corresponding adaptations into film. By means of close reading, analysis, and discussion, it will seek to identify the changes that take place during the process of adapting one art-form into another and ask why those modifications occur. An evaluation of what each art-form enables and what it restricts or denies will enable a better understanding of form per se, and of these two forms in particular. Further, the course will address the question of genre and its conventions especially with regard to film, and observe the extent to which generic expectations shape the process of adaptation of text into film. Film screenings will be held outside class hours in the evenings.",
+            "slot": "A",
             "prereqs_parsed": [],
             "type": "HUL3XX"
         },
@@ -3586,6 +3714,7 @@
                 "practical": 0
             },
             "description": "Allocation Preferences : HUL231, HUL232, HUL235, HUL236, HUL237, HUL240, HUL239, The course will introduce students to selected topics in Literature as decided by the instructor. HUL341: Meaning in Natural Language Allocation Preferences : HUL242, HUL243, HUL282 This course examines different aspects of meaning/semantics in language. Some specific questions addressed here are: a) what is meaning?, b) how do we use words to convey meanings?, and c) how does our grammatical knowledge interact with the interpretive system? We try to answer these and other questions while introducing students to the formal techniques used in research on the semantics of natural language.",
+            "slot": "H",
             "prereqs_parsed": [],
             "type": "HUL3XX"
         },
@@ -3661,6 +3790,7 @@
                 "practical": 0
             },
             "description": "Allocation Preferences: HUL251, HUL258, HUL253, HUL256, HUL290 The course begins by registering the increased presence of technology in contemporary art. We shall keep the experiences of both classical Greece and Classical India alive where art and technology were not clearly separated in the manner familiar to us. By positioning us between these two experiences - classical and contemporary we shall critically examine the complex relationship between art, science and technology which characterizes modernity. The course uses both materials from philosophical aesthetics, philosophy of science and technology. It also discusses the philosophical writings on specific areas like architecture, photography, cinema and digital art.",
+            "slot": "B",
             "prereqs_parsed": [],
             "type": "HUL3XX"
         },
@@ -3691,6 +3821,7 @@
                 "practical": 0
             },
             "description": "Allocation Preferences: HUL251, HUL258, HUL253, HUL256, Literature on Buddhism and Buddhist literature brings out the historical, philosophical and political synthesis of Buddhism in ever new cultural contexts. Interrogating and contextualizing engagements of Buddhism\u2019s classical roots in modernity will be a key concerns in this course.",
+            "slot": "M",
             "prereqs_parsed": [],
             "type": "HUL3XX"
         },
@@ -3751,6 +3882,7 @@
                 "practical": 0
             },
             "description": "Allocation Preferences: HUL251, HUL258, HUL253, HUL256 The course will introduce students to selected topics in Philosophy as decided by the instructor.",
+            "slot": "A",
             "prereqs_parsed": [],
             "type": "HUL3XX"
         },
@@ -3781,6 +3913,7 @@
                 "practical": 0
             },
             "description": "Allocation Preferences: HUL261, HUL265, HUL267 Introduction to organizational behaviour, Historical development of the field and some challenges in contemporary times, Learning and perceptual processes in organizations and their implications for work-life,Work related attitudes- job satisfaction, organizational commitment, organizational justice, organizational citizenship behaviour, Individual differences related to personality, emotions and abilities and functioning in organization, Group processes in organizations, Formation of groups and teams, Effective teams, Communication in organizations, Social influence processes in organizations, influencing people, power dynamics and politics and impact on organizational functioning, Theories and styles of leadership in organization and their impact on organizational functioning, organizational ethos and culture and its impact on productivity and well- being, Various kinds of organizational structures and their effectiveness, managing organizations in times of change.",
+            "slot": "B",
             "prereqs_parsed": [],
             "type": "HUL3XX"
         },
@@ -3871,6 +4004,7 @@
                 "practical": 0
             },
             "description": "The Course is designed to introduce students to a critical  understanding of the nation as a historical and social fact, and nationalism as the feeling of collective belonging to the nation. Building on sociological understanding of collective identity, the course will cover various theories of nationalism and touch upon different aspects of nationalism for instance, race, class, gender, ethnicity, culture, language, sports and religion among others. In an increasingly globalizing world? or does the idea of the nation still arouse anxiety over collective identity? In addition to assigned texts and films, students will be expected to work on in-class activities and assignments designed to further their understanding of the topic.",
+            "slot": "J",
             "prereqs_parsed": [],
             "type": "HUL3XX"
         },
@@ -3901,6 +4035,7 @@
                 "practical": 0
             },
             "description": "Allocation Preferences: HUL271, HUL272, HUL274 HUL275, HUL276, HUL286 This course is an advanced undergraduate sociology course on the political ecology of water. It discusses people\u2019s historic and current engagement with water, sustainable development and water, the recent controversies and emergent resource conflict over water in the context of industrial development, design and implementation of hydropower projects, water pollution management, and conservation strategies (modern and traditional) and relates them to relevant national policies.",
+            "slot": "M",
             "prereqs_parsed": [],
             "type": "HUL3XX"
         },
@@ -3931,6 +4066,7 @@
                 "practical": 0
             },
             "description": "Allocation Preferences: HUL271, HUL272, HUL274 HUL275, HUL276, HUL286  Globalization and Globality; Classical theories to understanding work and industry; understanding Work, Work Ethic and Work Culture; Post-industrial society and rise of informational economy; Job-satisfaction and alienation; Equalization of opportunities and the Flattening of the World; outsourcing as a Business Strategy; Important changes in industry and rise of IT sector and BPo industry; Governance and Collective organization of Workers in select sectors; Corporate Social Responsibility.",
+            "slot": "H",
             "prereqs_parsed": [],
             "type": "HUL3XX"
         },
@@ -3961,6 +4097,7 @@
                 "practical": 0
             },
             "description": "Allocation Preferences: HUL271, HUL272, HUL274 HUL275, HUL276, HUL286 The course will introduce students to selected topics in Sociology as decided by the instructor.",
+            "slot": "J",
             "prereqs_parsed": [],
             "type": "HUL3XX"
         },
@@ -4006,6 +4143,7 @@
                 "practical": 0
             },
             "description": "Basics of Measurement and Instrumentation, Instrument Examples: Galvanometer, Accelerometer etc; calibration methods, Voltage and Current Measurements; Theory, calibration, application, Errors and compensation. Power and Energy Measurement and its errors, Methods of correction, LPF wattmeter, Phantom loading, Induction type KWH meter; Calibration of wattmeter, energy meter. Potentiometer and Instrument Transformer :DC and AC potentiometer, C.T. and V.T. construction, theory, operation, characteristics. Digital Instrumentation.",
+            "slot": "D",
             "prereqs_parsed": [
                 [
                     "ELL101"
@@ -4044,6 +4182,7 @@
                 "practical": 0
             },
             "description": "Prerequisites: ELL212 Starting from the principle of radiation different types of antenna; wire, slot, planar and their arrays with feeds. Antenna synthesis and design and measurements. Characteristics of propagation of radio waves in different atmospheric layers and study of the losses, fading and scattering of microwave and millimeter waves in the atmosphere.",
+            "slot": "E",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -4079,6 +4218,7 @@
                 "practical": 0
             },
             "description": "Basic MoS characteristics; Deep sub-micron; velocity saturation; Dynamic MoS characteristics; parasitics; leakage; sizing; propagation delay; Logical effort, path delay, optimization; Ratio-ed logic, Pass transistor logic and parasitics; Dynamic logic, pulsed sequential logic; Logical synthesis, physical design, layout; Introduction to design of VLSI memories.",
+            "slot": "E",
             "prereqs_parsed": [
                 [
                     "ELL211"
@@ -4117,6 +4257,7 @@
                 "practical": 2
             },
             "description": "Review of Signals and Systems, Sampling and data reconstruction processes. Z transforms. Discrete linear systems. Frequency domain design of digital filters. Quantization effects in digital filters. Discrete Fourier transform and FFT algorithms. High speed convolution and its application to digital filtering.",
+            "slot": "M",
             "prereqs_parsed": [
                 [
                     "ELL205"
@@ -4136,6 +4277,7 @@
                 "practical": 0
             },
             "description": "Basic Concepts: Characteristics and operating modes of drive motors. Starting, braking and speed control of motors. 4 quadrant drives. Types of loads. Torque and associated controls used in process industries. DC Motor Drives: Characteristics, Starting Methods, Braking Methods, Speed Control using Converters and Choppers. Three phase Induction Motor Drives: Characteristics and Equivalent Circuits, Starting Methods, Braking Methods, Speed Control of Cage Rotor Induction Machines using as AC voltage controllers, Voltage- Source and Current-Source Inverters. V-by-F Control and other Control Techniques. Speed Control of Wound-Rotor Induction Machines using Rotor Resistance Variation; Slip-Power Recovery Scheme. Three phase Synchronous Motor Drives: Characteristics and Equivalent Circuits, Starting Methods, Braking Methods, Speed Control in True Synchronous and Self Control Modes. Special Machines: Permanent Magnet Brush-Less Motor Drives, Permanent Magnet Synchronous Motor Drives, Stepper and Reluctance Motor Drives.",
+            "slot": "B",
             "prereqs_parsed": [
                 [
                     "ELL203"
@@ -4155,6 +4297,7 @@
                 "practical": 0
             },
             "description": "Review of control system fundamentals and basic linear algebra. Introduction to linear dynamical systems and properties. State-space representation and canonical realizations. Relation between state- space and transfer function representations. Similarity transformation. Diagonalization. Jordan canonical form. Matrix exponential and its properties. Solution of state equations. Cayley-Hamilton Theorem, Stability: BIBo and internal. Linearization of nonlinear systems. Controllability and observability. Minimal realization. State feedback and observer design. Linear Quadratic Regulator.",
+            "slot": "B",
             "prereqs_parsed": [
                 [
                     "ELL225"
@@ -4174,6 +4317,7 @@
                 "practical": 0
             },
             "description": "overview of Embedded Systems; Embedded System Architecture: processor example ARM, PIC, etc.; features of digital signal processor; SoC, memory sub system, busstructure (PC 104, I2C, SPI etc.), interfacing protocols (uSB, IrDA etc), testing and debugging, power management; Embedded System Software: Program optimization,Concurrent Programming, Real time Scheduling and I/o management; Networked Embedded Systems: special networking protocols (CAN, Bluetooth); Applications.",
+            "slot": "M",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -4189,6 +4333,7 @@
                 "practical": 0
             },
             "description": "Fundamentals of Power system protection, philosophy of protective relays, Different types of relays, Introduction to protection elements like CT, PT, CB, Isolator etc, (includes CT and PT class, CB transients, CB rating and testing, Arc extinction in CB), over current relays: Principle, operation and setting, Directional relays : needs and operating principle, Power system components protected using over current relays, Differential relays: Principle, operation and setting, Protection of three phase transformer, bus bar and generator using differential relays, Distance relays : Principle, operation and setting, Simple impedance relay, reactance relay, Mho relay and angle impedance relays, Quadrilateral relays, Transmission line protection using distance relays, Static relays: principle, amplitude comparator and phase comparator, Phase comparator realization using positive coincidence period, Distance relay realization using comparators, Generator protection, overview of Numerical relaying and few algorithms, Phasor extraction, Introduction to PMu and its use, Fault location.",
+            "slot": "E",
             "prereqs_parsed": [
                 [
                     "ELL303"
@@ -4227,6 +4372,7 @@
                 "practical": 0
             },
             "description": "(i) Introduction, network structure: Basic networking concepts, Motivations for layered network concepts, Network examples; (ii) oSI reference model: Layering concepts, overview of different layer functionalities; (iii) TCP/IP: Layering concepts, Layered functionalities, packet formats, fragmentation, Different layer protocols and examples: ARP, ICMP, etc., Congestion and error control; (iv) Network examples and functionalities: Ethernet, hub, bridge, switch, WANs, MANs, LANs, PANs, BANs; (v) Basic network protocol analysis: Performance metrics, Queueing models; (vi) Multiaccess protocols: Need for multiaccess protocols, Contention-free access schemes, Contention-based protocols: ALoHA, CSMA; (vii) Routing in data networks: Basic graph theoretic concepts, spanning tree, Shortest path routing, distance vector routing, link state routing, RIP, oSPF; (viii) Cross-layer protocol optimization concepts: Distributed control, cost and energy efficiencies.",
+            "slot": "K",
             "prereqs_parsed": [
                 [
                     "MEL250"
@@ -4284,6 +4430,7 @@
                 "practical": 2
             },
             "description": "Introduction to machine intelligence and intelligent agents; problem solving; knowledge representation and reasoning (logical and probabilistic); need for learning; basics of machine learning; Decision Trees; Rule-based models; linear learning models; Support Vector Machines; Artificial Neural Networks; Deep Learning; Probabilistic Modelling; Naive Bayes; Reinforcement Learning; Clustering; Feature Selection; Principal Component Analysis; Combining models; Philosophical issues in intelligence and learning. Substantive implementation assignments or a term project involving design of an intelligent learning-based system.",
+            "slot": "J",
             "prereqs_parsed": [
                 [
                     "MTL106",
@@ -4319,6 +4466,7 @@
                 "practical": 2
             },
             "description": "Matched Filter, Error Rate due to Noise. Intersymbol Interference, Nyquist\u2019s Criterion, Duobinary Signaling. optimum Linear Receiver, Geometric Representation of Signals. Coherent Detection of Signals in Noise, Probability of Error. Coherent Digital Modulation Schemes: MPSK, MFSK, MQAM; Error Analysis. Noncoherent FSK, Differential PSK. Comparison of Digital Modulation Schemes, Bandwidth Efficiency. Pseudo-Noise Sequences and Spread Spectrum, Trellis coded modulation, Digital signaling over fading multipath channels, oFDM communications systems.",
+            "slot": "H",
             "prereqs_parsed": [
                 [
                     "ELL311"
@@ -4338,6 +4486,7 @@
                 "practical": 0
             },
             "description": "Maximization of functionals of a single and several functions using calculus of variations, Constrained extremals, Euler-Lagrange Equation, Necessary conditions for optimal control, Pontryagin\u2019s minimum principle and state inequality constraints, Minimum time problems, Minimum control effort problems, Linear quadratic regulator problems, Riccati Equation, Singular intervals in optimal control problems, The principle of optimality, Application of the principle of optimality to decision making, Dynamic programming applied to routing problems,  Solving optimal control problems using dynamic programming, Discrete linear regulator problem, Hamilton -Jacobi -Bellman Equation, Numerical Techniques to determine optimal trajectories.",
+            "slot": "A",
             "prereqs_parsed": [
                 [
                     "ELL700",
@@ -4358,6 +4507,7 @@
                 "practical": 0
             },
             "description": "Measure of information, Source coding, Communication channel models, Channel Capacity and coding, Linear Block codes, Low Density Parity Check (LDPC) Codes, Bounds on minimum distance, Cyclic codes, BCH codes, Reed Solomon Codes, Convolutional codes, Trellis coded Modulation, Viterbi decoding, Turbo codes, Introduction to Space-Time Codes and Introduction to Cryptography. If time permits, LDPC/Turbo codes in the wireless standards. There are no laboratory or design activities involved with this course.",
+            "slot": "E",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -4373,6 +4523,7 @@
                 "practical": 2
             },
             "description": "Introduction to 2-D Signals and Systems. Image Digitization. Image Transforms. Image Enhancement: Image Restoration: Inverse Filtering, Algebraic Approach to Restoration, Wiener (LMS) approach, Constrained Least Squares Restoration, Adaptive methods for restoration. Image Reconstruction: The Filtered Back- Projection Algorithm, Algebraic Reconstruction Method. Image Segmentation: Detection of Discontinuities, Edge Linking and Boundary Detection, Thresholding, Region-oriented Segmentation. object representation and description: Boundary descriptors, region descriptors, HoG and SIFT based features. Colour Image processing: colour models, colour transformations, and processing techniques.",
+            "slot": "J",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -4418,6 +4569,7 @@
                 "practical": 0
             },
             "description": "The wireless channel (physical modeling, linear time-varying system, discrete-time baseband model, time and frequency coherence), point- to-point communication (detection, diversity, spatial multiplexing), cellular systems (multiple access and interference management), capacity of point-to-point wireless channels (single and multi- antenna), capacity of single-antenna multiuser channels, point- to-point multi-antenna (MIMo) channels and spatial multiplexing, point-to-point MIMo capacity and multiplexing architectures.",
+            "slot": "K",
             "prereqs_parsed": [
                 [
                     "ELL712"
@@ -4437,6 +4589,7 @@
                 "practical": 0
             },
             "description": "Course Introduction, Modern Semiconductor IC fabrication Industrial/ Academic Landscape; Overview of modern CMOS process flow \u2013 basic steps; Crystal growth and wafer basics; Cleanroom basics \u2013 environment, infrastructure, advanced MoS cleaning, getering etc. Lithography; oxidation; Diffusion; Ion-Implantation; Thin-Film Deposition; Etching; Backend processes; Process Simulation- tools, techniques and methods; Advanced device fabrication concepts \u2013 I (SoI, FDSoI, etc); Advanced device fabrication concepts \u2013 II (organic, PV, hetero); Advanced device fabrication concepts \u2013 III (CNTs, Self-assembly etc).",
+            "slot": "C",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -4471,6 +4624,7 @@
                 "practical": 0
             },
             "description": "or Physical Electronics or VLSI technology Introduction to AMS enablement and PDK elements, Basics of semiconductor devices, Device modeling tools-TCAD and SPICE, Diode modeling, Resistor modeling, FEoL capacitor modeling, Advanced CMoS Technology, MoS transistor modeling, modeling of process variations, Mismatch and corners.",
+            "slot": "AC",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -4486,6 +4640,7 @@
                 "practical": 0
             },
             "description": "Overview and definition of power quality (PQ), Sources of pollution, International power quality standards, and regulations. Power quality monitoring. Power quality problems. Loads which causes power quality problems. Power factor correction, zero voltage regulation, reactive power compensation, load balancing using load compensation techniques: passive shunt and series compensation, DSTATCoM (Distribution Static Compensators), DVR (Dynamic Voltage Restorers), uPQC (universal Power Quality Conditioners). Harmonic effects- within the power system, interference with communication Harmonic measurements. Harmonic elimination-using active (shunt, series and hybrid) and passive (shunt and series) filters. Improved power quality converters: single ac-dc converters, bridgeless isolated converter, bridgeless non-isolated converters, multi-pulse converters, multilevel converters, line commutated converters, power quality improvement in SMPS, uPS, drives, welding systems, lighting systems, and renewable energy systems.",
+            "slot": "E",
             "prereqs_parsed": [],
             "type": "DE"
         },
@@ -4516,6 +4671,7 @@
                 "practical": 0
             },
             "description": "",
+            "slot": "P",
             "prereqs_parsed": [],
             "type": "DE"
         }
